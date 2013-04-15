@@ -1,3 +1,0 @@
-jobinheritlist.lub
-skillid.lub
-skillinfo_f.lub

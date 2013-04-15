@@ -1,2 +1,0 @@
-premiumcampain_msg.lub
-premiumcampain_msg_f.lub
