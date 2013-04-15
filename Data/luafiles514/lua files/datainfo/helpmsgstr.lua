@@ -66,7 +66,7 @@ HelpMsgStr = {
 	"ALT+Y: Opens a window which allows you to use various commands with ease.",
 	"/tingonly: You can hear only sound like a chat room entry.",
 	"/monsterhp: Toggles monster HP information when attacking. On/Off",
-	"낙원단에 가시면 레벨별 퀘스트를 통하여 빠른 사냥 및 육성이 가능합니다. 각 도시의 미니맵의 + 표시를 찾아주세요." --Halp!
+	"낙원단에 가시면 레벨별 퀘스트를 통하여 빠른 사냥 및 육성이 가능합니다. 각 도시의 미니맵의 + 표시를 찾아주세요.",
  " -------------- Navigation 명령어 -------------- ",
   "/navigation    /navi  :  /navi yuno 100/100           ->> 맵이름, 위치(100/100)",
   "/navigation2  /navi2 :  /navi2 yuno 100/100 1/1/1 ->> 맵이름, 위치(100/100), scrool/zeny/plane (1:사용함 0: 사용안함)",
