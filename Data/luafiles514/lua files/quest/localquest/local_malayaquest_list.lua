@@ -214,7 +214,7 @@ LOCAL_MalayaQuest_List = {
 											}
 									},
 									{
-										name  =	[[Collecting Bones]],
+										name  =	[[Purified Bones]],
 										list = {
 												{
 													name =[[Agree to Collecting Bones!]],
@@ -233,9 +233,9 @@ LOCAL_MalayaQuest_List = {
 												},
 											}
 									},
-									
+
 									{
-										name  =	[[Ghost on the Ship]],
+										name  =	[[Ghost on Perry Ship]],
 										list = {
 												{
 													name =[[Ghost on the Perry Ship]],
@@ -290,7 +290,7 @@ LOCAL_MalayaQuest_List = {
 											}
 									},
 									{
-										name  =	[[Cannot Meet Eyes with Him.]],
+										name  =	[[Can't Look Into His Eyes]],
 										list = {
 												{
 													name =[[Cannot Meet Eyes with Him!]],
