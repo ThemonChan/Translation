@@ -236,7 +236,7 @@ epsoid141Quest_List = {
 				NPCFromSpr = [[4_M_DOGTRAVELER]],
 				NPCFromX = 35,
 				NPCFromY = 119,
-				NPCToName = [[Äí½º¹Ì]],
+				NPCToName = [[Kusumi]],
 				NPCToMap = [[splendide]],
 				NPCToSpr = [[4_F_FAIRYKID5]],
 				NPCToX = 119,
@@ -484,7 +484,7 @@ epsoid141Quest_List = {
 			},
 		[11205] = {
 				NPCFromName = [[Humming]],
-				NPCFromMap = [[mara]],
+				NPCFromMap = [[mora]],
 				NPCFromSpr = [[4_F_DOGTRAVELER]],
 				NPCFromX = 139,
 				NPCFromY = 102,
