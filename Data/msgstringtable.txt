@@ -2320,30 +2320,151 @@ Navigation >: Goal Map: (%s), Please go to Kafra#
 Navigation >: Airship Selected, please go to the Airship Service#
 Navigation >: Use the Warp to Reach the Next Area#
 Item: #
-Remop[odsfgve12#
-Remo458dsfgve12#
-Rem89-odsfgve12#
-Remosdfdsfgve12#
+$$#
+$$lv#
+~#
+$$all#
 Confirm Deal#
 Below is the total cost:#
  Zeny to complete the transaction.#
 Press buy to confirm.#
-Remodwqeqsfgve12#
-Remouioudsfgve12#
-Remodiopsfgve12#
-Remodop[sfgve12#
-Remodsfqwrqgve12#
-Remodsdfsfgve12#
-Remoxvxcvdsfgve12#
-Remohkhjkdsfgve12#
-Remoduiouiosfgve12#
-Remodetwsfgve12#
-Remoduyoysfgve12#
-Remoiopiodsfgve12#
-Remoqwrqwrdsfgve12#
-Remoddgdfgsfgve12#
-Remolkghkdsfgve12#
-Remor124dsfgve12#
-Remo67867dsfgve12#
-Remo868dsfgve12#
-Remod``31fgve12#
+test2#
+Card Book#
+test4#
+test5#
+test6#
+test7#
+test8#
+test9#
+test10#
+Online since %d minutes#
+test12#
+Online since %d hours and %d minutes#
+/monsterhp : Show the hp of attacked monster. On off#
+Skills points : #
+There is no response from the authentification server. Please try again#
+Please change your password#
+http://www.ragnarok.co.kr#
+Guest access is prohibited#
+test20#
+test21#
+test22#
+test23#
+Webbrowser#
+test25#
+UAEURL#
+test27#
+test28#
+test29#
+test30#
+test31#
+test32#
+test33#
+test34#
+test35#
+test36#
+test37#
+test38#
+https://gfb.gameflier.com/Billing/ingame/index_new.asp?#
+Create char#
+test41#
+test42#
+test43#
+test44#
+test45#
+test46#
+test47#
+test48#
+test49#
+test50#
+test51#
+Cart is prohibited in this area#
+test53#
+test54#
+test55#
+test56#
+test57#
+BlackSmith#
+Alchemist#
+Taekwon#
+Killer#
+7 vs 7#
+RuneKnight#
+Warlock#
+Ranger#
+Mechanic#
+GuillotineCross#
+Archbishop#
+RoyalGuard#
+Sorcerer#
+Minstrel#
+Wanderer#
+Genetic#
+ShadowChaser#
+Sura#
+Kagerou#
+Oboro#
+Select Ranking Type#
+Ranking Type#
+test80#
+test81#
+test82#
+------------------- Instruction --------------------#
+1) /Navigation or /navi ex) /navi prontera 100 100 -> /navi "MAPNAME", 100, 100#
+2) /Navigation2 or /navi2 ex) /navi2 prontera 100 111 -> MAPNAME location (100 90), Scroll | Zeny | Plane (1: Enable or 0: Disable)#
+-> /navi2 goes with the case with location coordinates. They must be no less than 3 characters #
+3) /$$ Output all the items (Can take a while...) #
+4) /$$ Lv30 monsters are placed in the output #
+5) /$$ Lv20~30 monsters in that level range are placed in the output #
+1 vs 1#
+Costume#
+test92#
+(%s) %d / %d#
+%s-%s(%d/%d)#
+test95#
+test96#
+test97#
+test98#
+test99#
+test100#
+test101#
+test102#
+test103#
+test104#
+test105#
+test106#
+test107#
+test108#
+test109#
+test110#
+test111#
+Monster(Tab)#
+Map(Alt)#
+test114#
+test115#
+test116#
+Kafra#
+(Arrival)#
+Mob)%s:%s(%s)#
+test120#
+test121#
+test122#
+test123#
+test124#
+test125#
+The bank is not avaible. Please try again in a few minutes.#
+test128#
+test129#
+test130#
+test131#
+test132#
+your account is lock by mobil otp#
+MOTP auth fail#
+test135#
+test136#
+Zeny#
+test138#
+test139#
+test140#
+AuthTicket is Not Valid#
+ErrorCode : %d, ErrorValue : %d#
