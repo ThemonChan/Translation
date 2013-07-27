@@ -66,12 +66,12 @@ HelpMsgStr = {
 	"ALT+Y: Opens a window which allows you to use various commands with ease.",
 	"/tingonly: You can hear only sound like a chat room entry.",
 	"/monsterhp: Toggles monster HP information when attacking. On/Off",
-	"낙원단에 가시면 레벨별 퀘스트를 통하여 빠른 사냥 및 육성이 가능합니다. 각 도시의 미니맵의 + 표시를 찾아주세요.",
- " -------------- Navigation 명령어 -------------- ",
-  "/navigation    /navi  :  /navi yuno 100/100           ->> 맵이름, 위치(100/100)",
-  "/navigation2  /navi2 :  /navi2 yuno 100/100 1/1/1 ->> 맵이름, 위치(100/100), scrool/zeny/plane (1:사용함 0: 사용안함)",
-  " -------------- Navigation 검색창 명령어 ------- ",
-  "$$all         : 모든 항목 출력 (Type 구분자에서 출력 종류를 나눌수 있다.)",
-  "$$lv30       : 해당 레벨의 몬스터 출력 (숫자는 변경 가능)",
-  "$$lv20~30  : 해당 레벨 범위의 몬스터 출력 (숫자는 변경 가능)"
+	"Hunting and Equipment quests are available through the Eden Group. Find them via the '+' mark on the mini-map of each city.",
+	" -------------- Navigation Instructions -------------- ",
+	"/navigation    /navi  :  /navi yuno 100/100           ->> Map, location(100/100)",
+	"/navigation2  /navi2 :  /navi2 yuno 100/100 1/1/1 ->> Map, location(100/100), Scroll/Service/Plane (1:Enable 0: Disable)",
+	" -------------- Navigation Search Commands ------- ",
+	"$$all         : Outputs all the results (Type of navigation can be specified).",
+	"$$lv30       : Monsters of that level are displayed (Amount may vary).",
+	"$$lv20~30  : Monster of that level range are displayed (Amount may vary)."
 }
