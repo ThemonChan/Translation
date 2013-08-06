@@ -10358,6 +10358,34 @@ Hunt 400 Dark Priest monsters.#
 Hunt the Anubis monsters and return to Gramps at the Eden Group to get your reward.#
 Hunt 400 Anubis monsters.#
 
+60843#Yao Jun Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt the Yao Jun monsters and return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Yao Jun monsters.#
+
+60844#Mao Guai Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt the Mao Guai monsters and return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Mao Guai monsters.#
+
+60845#Gajomart Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt the Gajomart monsters and return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Gajomart monsters.#
+
+60846#Cendrawasih Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt the Cendrawasih monsters and return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Cendrawasih monsters.#
+
+60847#Engkanto Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt the Engkanto monsters and return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Engkanto monsters.#
+
+60848#Wraith Dead Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt the Wraith Dead monsters and return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Wraith Dead monsters.#
+
+60849#Centipede Larva Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt the Centipede Larva monsters and return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Centipede Larva monsters.#
+
 60901#Chefs of Iron#SG_FEEL#QUE_NOIMAGE#
 Talk to Lidia when you are ready to embark on the quest.#
 #
@@ -14974,4 +15002,120 @@ Kill the large orc wandering somewhere in the sewers.#
 Please wait three hours before playing again#
 #
 
+// 2013년 북미 10주년 6월 이벤트
 
+14235#Invaded Prontera#SG_FEEL#QUE_NOIMAGE#
+Annie said that she will meet you near the Castle Gates in Prontera She said she will be hiding so you may have to search.#
+Find Annie#
+
+14236#Fruit Gardener#SG_FEEL#QUE_NOIMAGE#
+Find the Fruit Gardener you think you remember her stall being in south west Prontera#
+#
+
+14237#To the Mercenary guild#SG_FEEL#QUE_NOIMAGE#
+In order to enter the castle, you will need to get help. Go to the Mercenary guild to see if anyone is alive.#
+To the Mercenary guild#
+
+14238#Kill the Orc Archers#SG_FEEL#QUE_NOIMAGE#
+You've agreed to do a favor for the Guild leader. Kill 50 Orc Archers and try to keep the Mercenary alive.#
+#
+
+14239#Father Thyme#SG_FEEL#QUE_NOIMAGE#
+Father Thyme has a request for the Mercenary guild. Go to Prontera Church and speak to Father Thyme.#
+Father#
+
+14240#Get the Supplies#SG_FEEL#QUE_NOIMAGE#
+All the soldiers were attacked when they were delivering aid to the Church. Find supplies in the abandoned buildings of Prontera.#
+5 clean bandages, 5 rubbing alcohols, 5 Sour grass, 5 First aid kit, 5 relief food.#
+
+14241#Back to the castle#SG_FEEL#QUE_NOIMAGE#
+Father Thyme sent some of recovered soldiers to kill some of Orcs near castle. Let's go back to the castle entrance.#
+#
+
+14242#Kill the Gatekeeper!#SG_FEEL#QUE_NOIMAGE#
+The Gatekeeper found out that we are trying to get in to the castle. Kill the Gatekeeper!#
+#
+
+14243#Enter the castle!#SG_FEEL#QUE_NOIMAGE#
+The Gatekeeper is gone. Go into the castle and find out the Orc's plans.#
+Enter the castle!#
+
+14244#Beyond the Portal#SG_FEEL#QUE_NOIMAGE#
+A Goblin Shaman is trying to open the portal. Stop their plan by entering the portal.#
+#
+
+14245#To Payon Dungeon#SG_FEEL#QUE_NOIMAGE#
+Annie was told that there is a clue for stopping the Orcs. Let's go to Payon dungeon to find it.#
+#
+
+14246#Find a clue 1#SG_FEEL#QUE_NOIMAGE#
+The owner of the dairy said he hid the note which has a way to stop this threat somewhere. Let's find a clue.#
+#
+
+14247#Find a clue 2#SG_FEEL#QUE_NOIMAGE#
+The owner of the dairy said he hid the note which has a way to stop this threat somewhere. Let's find a clue.#
+FInd a clue 2#
+
+14248#To Glast Heim#SG_FEEL#QUE_NOIMAGE#
+There is a note from the owner of dairy in the Glast Heim. Find the note near the center of the church.#
+To Glast Heim!#
+
+14249#To Lighthalzen#SG_FEEL#QUE_NOIMAGE#
+Somewhere in Lighthalzen Lab, there is an old machine that owner of the dairy mentioned.#
+To Biolab!#
+
+14250#Report to Annie#SG_FEEL#QUE_NOIMAGE#
+You got the Note and the weird machine. Show them to Annie.#
+Report to Annie!#
+
+14251#Final match with Orc leader#SG_FEEL#QUE_NOIMAGE#
+The Orc leader has arrived. Kill him amd save Prontera!#
+Kill the Orc leader#
+
+14252#Repeat time#SG_FEEL#QUE_NOIMAGE#
+Wait for the timer to expire before taking on the Orcs again. Speak to Annie in Prontera if you wish to take the Orcs on again.#
+Repeat the time#
+
+14253#Boss Hat#SG_FEEL#QUE_NOIMAGE#
+GIve the Boss hat#
+GIve the Boss hat#
+
+62460#Clue: Love Letter#SG_FEEL#QUE_NOIMAGE#
+You found this love letter in the inn. It was addressed so some woman.#
+#
+
+62461#Clue: Wedding Dress#SG_FEEL#QUE_NOIMAGE#
+Found at the top of Veins. There are great bloody tears in the back#
+#
+
+62462#Clue: Corpse#SG_FEEL#QUE_NOIMAGE#
+Found in the Southern part of Town. The man was holding a wedding ring.#
+#
+
+62463#Clue: Baby Shoes#SG_FEEL#QUE_NOIMAGE#
+Forgotten by time. They may have belonged to someone with Red Hair#
+#
+
+62464#Clue: Bloody Knife#SG_FEEL#QUE_NOIMAGE#
+Has a bloody blade. On the hilt is the engraving H.H. Holmes#
+#
+
+62465#Clue: Napkin#SG_FEEL#QUE_NOIMAGE#
+Has an imprint of bright red lipstick#
+#
+
+62466#Clue: Party Invitation#SG_FEEL#QUE_NOIMAGE#
+Has a picture of a smiling woman with red hair.#
+Says the party will be to 'Die for'#
+
+62467#Clue: Ribbon#SG_FEEL#QUE_NOIMAGE#
+A woman's Hair ribbon#
+#
+
+62468#Clue: Sword#SG_FEEL#QUE_NOIMAGE#
+A very clean blade. Engraving on it says H. H. Holmes#
+#
+
+62469#Haunting Resur Timer#SG_FEEL#QUE_NOIMAGE#
+Return to the Medium when the timer is done.#
+#
