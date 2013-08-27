@@ -1,3 +1,20 @@
+//-- - Last updated 2013-07-30 14:08 PM
+
+// Rebellion Job Change Map
+job_gun.rsw#Release Shelter#
+
+// ep15.1
+ver_eju.rsw#Ruins of Los yupe#
+ver_tunn.rsw#Behrooz outside the tunnel#
+verus04.rsw#Behrooz excavations#
+verus03.rsw#Behrooz Central Square#
+
+1@mcd.rsw#Charleston factory#
+
+//Operations Team Event
+e_hugel.rsw#Invaded Hugel#
+
+
 c_tower2_.rsw#Clock Tower, 2nd Floor#
 c_tower3_.rsw#Clock Tower, 3nd Floor#
 
@@ -799,90 +816,6 @@ gl_sew02.rsw#Glast Heim Culvert F2#
 gl_sew03.rsw#Glast Heim Culvert F3#
 gl_sew04.rsw#Glast Heim Culvert F4#
 gl_step.rsw#Glast Heim Staircase Dungeon#
-pvp_y_room.rsw#PvP : Waiting Room#
-pvp_n_room.rsw#PvP : Waiting Room#
-pvp_c_room.rsw#PvP : Waiting Room#
-pvp_n_1-1.rsw#PvP : Room Sandwich#
-pvp_n_2-1.rsw#PvP : Room Sandwich#
-pvp_n_3-1.rsw#PvP : Room Sandwich#
-pvp_n_4-1.rsw#PvP : Room Sandwich#
-pvp_n_5-1.rsw#PvP : Room Sandwich#
-pvp_n_6-1.rsw#PvP : Room Sandwich#
-pvp_n_7-1.rsw#PvP : Room Sandwich#
-pvp_n_8-1.rsw#PvP : Room Sandwich#
-pvp_n_1-2.rsw#PvP : Room Rock On#
-pvp_n_2-2.rsw#PvP : Room Rock On#
-pvp_n_3-2.rsw#PvP : Room Rock On#
-pvp_n_4-2.rsw#PvP : Room Rock On#
-pvp_n_5-2.rsw#PvP : Room Rock On#
-pvp_n_6-2.rsw#PvP : Room Rock On#
-pvp_n_7-2.rsw#PvP : Room Rock On#
-pvp_n_8-2.rsw#PvP : Room Rock On#
-pvp_n_1-3.rsw#PvP : Four Room#
-pvp_n_2-3.rsw#PvP : Four Room#
-pvp_n_3-3.rsw#PvP : Four Room#
-pvp_n_4-3.rsw#PvP : Four Room#
-pvp_n_5-3.rsw#PvP : Four Room#
-pvp_n_6-3.rsw#PvP : Four Room#
-pvp_n_7-3.rsw#PvP : Four Room#
-pvp_n_8-3.rsw#PvP : Four Room#
-pvp_n_1-4.rsw#PvP : Room Undercross#
-pvp_n_2-4.rsw#PvP : Room Undercross#
-pvp_n_3-4.rsw#PvP : Room Undercross#
-pvp_n_4-4.rsw#PvP : Room Undercross#
-pvp_n_5-4.rsw#PvP : Room Undercross#
-pvp_n_6-4.rsw#PvP : Room Undercross#
-pvp_n_7-4.rsw#PvP : Room Undercross#
-pvp_n_8-4.rsw#PvP : Room Undercross#
-pvp_n_1-5.rsw#PvP : Room Copass#
-pvp_n_2-5.rsw#PvP : Room Copass#
-pvp_n_3-5.rsw#PvP : Room Copass#
-pvp_n_4-5.rsw#PvP : Room Copass#
-pvp_n_5-5.rsw#PvP : Room Copass#
-pvp_n_6-5.rsw#PvP : Room Copass#
-pvp_n_7-5.rsw#PvP : Room Copass#
-pvp_n_8-5.rsw#PvP : Room Copass#
-pvp_y_1-1.rsw#PvP : Room Prontera#
-pvp_y_2-1.rsw#PvP : Room Prontera#
-pvp_y_3-1.rsw#PvP : Room Prontera#
-pvp_y_4-1.rsw#PvP : Room Prontera#
-pvp_y_5-1.rsw#PvP : Room Prontera#
-pvp_y_6-1.rsw#PvP : Room Prontera#
-pvp_y_7-1.rsw#PvP : Room Prontera#
-pvp_y_8-1.rsw#PvP : Room Prontera#
-pvp_y_1-2.rsw#PvP : Room Izlude#
-pvp_y_2-2.rsw#PvP : Room Izlude#
-pvp_y_3-2.rsw#PvP : Room Izlude#
-pvp_y_4-2.rsw#PvP : Room Izlude#
-pvp_y_5-2.rsw#PvP : Room Izlude#
-pvp_y_6-2.rsw#PvP : Room Izlude#
-pvp_y_7-2.rsw#PvP : Room Izlude#
-pvp_y_8-2.rsw#PvP : Room Izlude#
-pvp_y_1-3.rsw#PvP : Room Payon#
-pvp_y_2-3.rsw#PvP : Room Payon#
-pvp_y_3-3.rsw#PvP : Room Payon#
-pvp_y_4-3.rsw#PvP : Room Payon#
-pvp_y_5-3.rsw#PvP : Room Payon#
-pvp_y_6-3.rsw#PvP : Room Payon#
-pvp_y_7-3.rsw#PvP : Room Payon#
-pvp_y_8-3.rsw#PvP : Room Payon#
-pvp_y_1-4.rsw#PvP : Room Alberta#
-pvp_y_2-4.rsw#PvP : Room Alberta#
-pvp_y_3-4.rsw#PvP : Room Alberta#
-pvp_y_4-4.rsw#PvP : Room Alberta#
-pvp_y_5-4.rsw#PvP : Room Alberta#
-pvp_y_6-4.rsw#PvP : Room Alberta#
-pvp_y_7-4.rsw#PvP : Room Alberta#
-pvp_y_8-4.rsw#PvP : Room Alberta#
-pvp_y_1-5.rsw#PvP : Room Morocc#
-pvp_y_2-5.rsw#PvP : Room Morocc#
-pvp_y_3-5.rsw#PvP : Room Morocc#
-pvp_y_4-5.rsw#PvP : Room Morocc#
-pvp_y_5-5.rsw#PvP : Room Morocc#
-pvp_y_6-5.rsw#PvP : Room Morocc#
-pvp_y_7-5.rsw#PvP : Room Morocc#
-pvp_y_8-5.rsw#PvP : Room Morocc#
-pvp_2vs2.rsw#PvP : Event Coliseum#
 
 // Maps officially not in the name table.
 que_job02.rsw#Job Quest 2#
@@ -1107,3 +1040,88 @@ gl_in01_ev.rsw#Event Crazy Drops#
 evt_zombie.rsw#Run From Zombies#
 
 arcadanias.rsw#Arcadanias, Satellite World#
+
+pvp_y_room.rsw#PvP : Waiting Room#
+pvp_n_room.rsw#PvP : Waiting Room#
+pvp_c_room.rsw#PvP : Waiting Room#
+pvp_n_1-1.rsw#PvP : Room Sandwich#
+pvp_n_2-1.rsw#PvP : Room Sandwich#
+pvp_n_3-1.rsw#PvP : Room Sandwich#
+pvp_n_4-1.rsw#PvP : Room Sandwich#
+pvp_n_5-1.rsw#PvP : Room Sandwich#
+pvp_n_6-1.rsw#PvP : Room Sandwich#
+pvp_n_7-1.rsw#PvP : Room Sandwich#
+pvp_n_8-1.rsw#PvP : Room Sandwich#
+pvp_n_1-2.rsw#PvP : Room Rock On#
+pvp_n_2-2.rsw#PvP : Room Rock On#
+pvp_n_3-2.rsw#PvP : Room Rock On#
+pvp_n_4-2.rsw#PvP : Room Rock On#
+pvp_n_5-2.rsw#PvP : Room Rock On#
+pvp_n_6-2.rsw#PvP : Room Rock On#
+pvp_n_7-2.rsw#PvP : Room Rock On#
+pvp_n_8-2.rsw#PvP : Room Rock On#
+pvp_n_1-3.rsw#PvP : Four Room#
+pvp_n_2-3.rsw#PvP : Four Room#
+pvp_n_3-3.rsw#PvP : Four Room#
+pvp_n_4-3.rsw#PvP : Four Room#
+pvp_n_5-3.rsw#PvP : Four Room#
+pvp_n_6-3.rsw#PvP : Four Room#
+pvp_n_7-3.rsw#PvP : Four Room#
+pvp_n_8-3.rsw#PvP : Four Room#
+pvp_n_1-4.rsw#PvP : Room Undercross#
+pvp_n_2-4.rsw#PvP : Room Undercross#
+pvp_n_3-4.rsw#PvP : Room Undercross#
+pvp_n_4-4.rsw#PvP : Room Undercross#
+pvp_n_5-4.rsw#PvP : Room Undercross#
+pvp_n_6-4.rsw#PvP : Room Undercross#
+pvp_n_7-4.rsw#PvP : Room Undercross#
+pvp_n_8-4.rsw#PvP : Room Undercross#
+pvp_n_1-5.rsw#PvP : Room Copass#
+pvp_n_2-5.rsw#PvP : Room Copass#
+pvp_n_3-5.rsw#PvP : Room Copass#
+pvp_n_4-5.rsw#PvP : Room Copass#
+pvp_n_5-5.rsw#PvP : Room Copass#
+pvp_n_6-5.rsw#PvP : Room Copass#
+pvp_n_7-5.rsw#PvP : Room Copass#
+pvp_n_8-5.rsw#PvP : Room Copass#
+pvp_y_1-1.rsw#PvP : Room Prontera#
+pvp_y_2-1.rsw#PvP : Room Prontera#
+pvp_y_3-1.rsw#PvP : Room Prontera#
+pvp_y_4-1.rsw#PvP : Room Prontera#
+pvp_y_5-1.rsw#PvP : Room Prontera#
+pvp_y_6-1.rsw#PvP : Room Prontera#
+pvp_y_7-1.rsw#PvP : Room Prontera#
+pvp_y_8-1.rsw#PvP : Room Prontera#
+pvp_y_1-2.rsw#PvP : Room Izlude#
+pvp_y_2-2.rsw#PvP : Room Izlude#
+pvp_y_3-2.rsw#PvP : Room Izlude#
+pvp_y_4-2.rsw#PvP : Room Izlude#
+pvp_y_5-2.rsw#PvP : Room Izlude#
+pvp_y_6-2.rsw#PvP : Room Izlude#
+pvp_y_7-2.rsw#PvP : Room Izlude#
+pvp_y_8-2.rsw#PvP : Room Izlude#
+pvp_y_1-3.rsw#PvP : Room Payon#
+pvp_y_2-3.rsw#PvP : Room Payon#
+pvp_y_3-3.rsw#PvP : Room Payon#
+pvp_y_4-3.rsw#PvP : Room Payon#
+pvp_y_5-3.rsw#PvP : Room Payon#
+pvp_y_6-3.rsw#PvP : Room Payon#
+pvp_y_7-3.rsw#PvP : Room Payon#
+pvp_y_8-3.rsw#PvP : Room Payon#
+pvp_y_1-4.rsw#PvP : Room Alberta#
+pvp_y_2-4.rsw#PvP : Room Alberta#
+pvp_y_3-4.rsw#PvP : Room Alberta#
+pvp_y_4-4.rsw#PvP : Room Alberta#
+pvp_y_5-4.rsw#PvP : Room Alberta#
+pvp_y_6-4.rsw#PvP : Room Alberta#
+pvp_y_7-4.rsw#PvP : Room Alberta#
+pvp_y_8-4.rsw#PvP : Room Alberta#
+pvp_y_1-5.rsw#PvP : Room Morocc#
+pvp_y_2-5.rsw#PvP : Room Morocc#
+pvp_y_3-5.rsw#PvP : Room Morocc#
+pvp_y_4-5.rsw#PvP : Room Morocc#
+pvp_y_5-5.rsw#PvP : Room Morocc#
+pvp_y_6-5.rsw#PvP : Room Morocc#
+pvp_y_7-5.rsw#PvP : Room Morocc#
+pvp_y_8-5.rsw#PvP : Room Morocc#
+pvp_2vs2.rsw#PvP : Event Coliseum#
