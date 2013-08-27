@@ -1,10 +1,3 @@
-// 최종 업데이트 13. 7. 31 (오후 2:05 2013-07-30 본
-//-- 1번은 삭제 금지
-1#공갈#SG_FEEL#QUE_NOIMAGE#
-거북이#
-등딱지#
-
-
 // 하치원
 1000#Transcendent#SG_FEEL#QUE_NOIMAGE#
 Find the Hall of Honor in Valkyrie. There, you will become a new hero of Valkyrie.#
@@ -65,10 +58,6 @@ Gather Orange Net Mushroom and Orange Gooey Mushroom#
 1014#Job Change to Swordman#SG_FEEL#QUE_NOIMAGE#
 The purpose of this test is to confirm whether or not you are qualified to be a Swordman. Now, the conditions for completing this test are very simple. You will travel through three courses and must reach the final checkpoint within ^FF000010 minutes^000000.#
 Reach the final checkpoint.#
-
-/ / Write to bakseonghyeok 1100-1999.
-
-/ / Play alone box display
 
 //Novice Grounds Quest List Tutor
 1015#Your first quest#SG_FEEL#QUE_NOIMAGE#
