@@ -1,0 +1,10 @@
+Info = \[\[(.*?)\]\],
+Info = \[\[\1\]\],\r\n\t\t\t\tQuickInfo  = \[\[\]\],
+
+QuickInfo  = \[\[(.*?)\]\],\r\n\t\t\t\tHunt1 = \[\[(.*?)\]\],\r\n\t\t\t\tHunt2 = \[\[(.*?)\]\],\r\n\t\t\t\tHunt3 = \[\[(.*?)\]\],
+Hunt = \[\[\]\],
+
+QuickInfo  = [[]],
+				Hunt1 = [[]],
+				Hunt2 = [[]],
+				Hunt3 = [[]],

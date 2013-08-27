@@ -9,18 +9,18 @@ TYPE_QUEST = 7
 TYPE_BOW = 8
 TYPE_BOTHHAND = 9
 excItemNameTable = {
-	["삼겹살H"] = {
-		name = "1등급 삼겹살",
+  ["삼겹살H"] = {
+    name = "1Star Belly",
     type = TYPE_SPECIAL
-	},
-	["이그드라실열매"] = {
-		name = "이그드라실의 열매",
-		type = TYPE_SPECIAL
-	},
-  ["현자의돌_"] = {name = "현자의 돌", type = TYPE_SPECIAL},
-  ["현자의돌"] = {name = "현자의 돌", type = TYPE_EVENT},
-	["식인수의꽃"] = {
-		name = "식인수의 꽃",
-		type = TYPE_EVENT
-	}
+  },
+  ["이그드라실열매"] = {
+    name = "Fruit of Yggdrasil",
+    type = TYPE_SPECIAL
+  },
+  ["현자의돌_"] = {name = "Philosopher Stone", type = TYPE_SPECIAL},
+  ["현자의돌"] = {name = "Philosopher Stone", type = TYPE_EVENT},
+  ["식인수의꽃"] = {
+    name = "Flower of Argument",
+    type = TYPE_EVENT
+  }
 }

@@ -1,56 +1,56 @@
 KafraMoveMapServiceList = {
   ["prontera.rsw"] = {
-		"izlude.rsw",
-		"geffen.rsw",
-		"payon.rsw",
-		"morocc.rsw",
-		"gef_fild10.rsw",
-		"alberta.rsw"
-	},
+    "izlude.rsw",
+    "geffen.rsw",
+    "payon.rsw",
+    "morocc.rsw",
+    "gef_fild10.rsw",
+    "alberta.rsw"
+  },
   ["izlude.rsw"] = {
-		"geffen.rsw",
-		"payon.rsw",
-		"morocc.rsw",
+    "geffen.rsw",
+    "payon.rsw",
+    "morocc.rsw",
     "aldebaran.rsw"
-	},
+  },
   ["geffen.rsw"] = {
-		"prontera.rsw",
-		"aldebaran.rsw",
-		"gef_fild10.rsw",
+    "prontera.rsw",
+    "aldebaran.rsw",
+    "gef_fild10.rsw",
     "mjolnir_02.rsw"
-	},
+  },
   ["aldebaran.rsw"] = {
-		"geffen.rsw",
-		"yuno.rsw",
-		"izlude.rsw",
+    "geffen.rsw",
+    "yuno.rsw",
+    "izlude.rsw",
     "mjolnir_02.rsw"
-	},
+  },
   ["morocc.rsw"] = {
-		"prontera.rsw",
-		"payon.rsw",
-		"alberta.rsw",
-		"comodo.rsw",
+    "prontera.rsw",
+    "payon.rsw",
+    "alberta.rsw",
+    "comodo.rsw",
     "cmd_fild07.rsw"
-	},
+  },
   ["alberta.rsw"] = {
-		"payon.rsw",
-		"morocc.rsw",
+    "payon.rsw",
+    "morocc.rsw",
     "prontera.rsw"
-	},
+  },
   ["payon.rsw"] = {
-		"prontera.rsw",
-		"alberta.rsw",
+    "prontera.rsw",
+    "alberta.rsw",
     "morocc.rsw"
-	},
+  },
   ["cmd_fild07.rsw"] = {"morocc.rsw", "comodo.rsw"},
   ["comodo.rsw"] = {
-		"morocc.rsw",
-		"cmd_fild07.rsw",
+    "morocc.rsw",
+    "cmd_fild07.rsw",
     "umbala.rsw"
-	},
+  },
   ["yuno.rsw"] = {
     "aldebaran.rsw"
-	},
+  },
   ["umbala.rsw"] = {"comodo.rsw"},
   ["rachel.rsw"] = {"veins.rsw"},
   ["veins.rsw"] = {"rachel.rsw"}

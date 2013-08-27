@@ -1,170 +1,154 @@
 Navi_Npc = {
-
   {
-		"airplane", --Map
+    "airplane", --Map
     11984,
     101,
-		86, --SpriteID
-		"Apple Merchant", --NpcName
+    86, --SpriteID
+    "Apple Merchant", --NpcName
     "airplane",
-		50, --x
-		66 --y
+    50, --x
+    66 --y
   },
-
   {
     "airplane",
     12037,
     101,
     857,
-		"Exit",
+    "Exit",
     "airplane1a",
     240,
     64
   },
-
   {
     "airplane",
     12038,
     101,
     857,
-		"Exit",
+    "Exit",
     "airplane1b",
     247,
     64
   },
-
   {
     "airplane",
     12039,
     101,
     857,
-		"Exit",
+    "Exit",
     "airplane2a",
     240,
     40
   },
-
   {
     "airplane",
     12040,
     101,
     857,
-		"Exit",
+    "Exit",
     "airplane2b",
     247,
     40
   },
-
   {
     "airplane",
     12091,
     101,
     787,
-		"Umbala Kid",
+    "Umbala Kid",
     "ein_p",
     64,
     94
   },
-
   {
     "airplane",
     12092,
     101,
     783,
-		"Umbala Lady",
+    "Umbala Lady",
     "ein_p",
     66,
     93
   },
-
   {
     "airplane",
     12093,
     101,
     789,
-		"Umbala Man",
+    "Umbala Man",
     "ein_p",
     71,
     91
   },
-
   {
     "airplane",
     12145,
     101,
     833,
-		"Crewman",
+    "Crewman",
     "ein",
     47,
     61
   },
-
   {
     "airplane",
     12244,
     101,
     67,
-		"Airship Staff",
+    "Airship Staff",
     "airplane",
     250,
     58
   },
-
   {
     "airplane",
     12245,
     101,
     852,
-		"Pilot",
+    "Pilot",
     "airplane",
     221,
     158
   },
-
   {
     "airplane",
     12246,
     101,
     714,
-		"Maelin",
+    "Maelin",
     "01airplane",
     65,
     63
   },
-
   {
     "airplane",
     12247,
     101,
     834,
-		"Zerta",
+    "Zerta",
     "01airplane",
     80,
     71
   },
-
   {
     "airplane",
     12248,
     101,
     702,
-		"Aanos",
+    "Aanos",
     "01airplane",
     72,
     34
   },
-
   {
     "airplane",
     12693,
     101,
     873,
-		"Airship Captain",
+    "Airship Captain",
     "03",
     236,
     163
   },
-
   {
     "airplane",
     12998,
@@ -175,95 +159,86 @@ Navi_Npc = {
     238,
     54
   },
-
   {
     "airplane",
     13148,
     101,
     724,
-		"Young Dancer",
+    "Young Dancer",
     "sch",
     76,
     56
   },
-
   {
     "airplane",
     13149,
     101,
     724,
-		"Cheerful Dancer",
+    "Cheerful Dancer",
     "sch",
     75,
     53
   },
-
   {
     "airplane",
     13150,
     101,
     724,
-		"Mature Looking Dancer",
+    "Mature Looking Dancer",
     "sch",
     79,
     55
   },
-
   {
     "airplane",
     19515,
     101,
     878,
-		"Eocatt",
+    "Eocatt",
     "decoy01",
     246,
     47
   },
-
   {
     "airplane_01",
     12041,
     101,
     857,
-		"Exit",
+    "Exit",
     "airplane_011a",
     240,
     64
   },
-
   {
     "airplane_01",
     12042,
     101,
     857,
-		"Exit",
+    "Exit",
     "airplane_011b",
     247,
     64
   },
-
   {
     "airplane_01",
     12043,
     101,
     857,
-		"Exit",
+    "Exit",
     "airplane_012a",
     240,
     40
   },
-
   {
     "airplane_01",
     12044,
     101,
     857,
-		"Exit",
+    "Exit",
     "airplane_012b",
     247,
     40
   },
-
   {
     "airplane_01",
     12231,
@@ -274,238 +249,216 @@ Navi_Npc = {
     33,
     69
   },
-
   {
     "airplane_01",
     12232,
     101,
     86,
-		"Apple Merchant",
+    "Apple Merchant",
     "airplane",
     50,
     66
   },
-
   {
     "airplane_01",
     12233,
     101,
     49,
-		"Nils",
+    "Nils",
     "ein",
     32,
     61
   },
-
   {
     "airplane_01",
     12234,
     101,
     873,
-		"Airship Captain",
+    "Airship Captain",
     "02",
     246,
     54
   },
-
   {
     "airplane_01",
     12235,
     101,
     873,
-		"Airship Captain",
+    "Airship Captain",
     "01",
     238,
     154
   },
-
   {
     "airplane_01",
     12236,
     101,
     67,
-		"Airship Staff",
+    "Airship Staff",
     "airplane_01",
     250,
     58
   },
-
   {
     "airplane_01",
     12237,
     101,
     852,
-		"Pilot",
+    "Pilot",
     "airplane_01",
     221,
     158
   },
-
   {
     "airplane_01",
     12241,
     101,
     72,
-		"Dianne",
+    "Dianne",
     "01airplane_01",
     83,
     61
   },
-
   {
     "airplane_01",
     12242,
     101,
     55,
-		"Mendel",
+    "Mendel",
     "01airplane_01",
     69,
     63
   },
-
   {
     "airplane_01",
     12243,
     101,
     106,
-		"Swordsman Shimizu",
+    "Swordsman Shimizu",
     "01airplane_01",
     71,
     31
   },
-
   {
     "airplane_01",
     13362,
     101,
     899,
-		"Agent",
+    "Agent",
     "pc1",
     95,
     61
   },
-
   {
     "airport",
     11985,
     101,
     90,
-		"Airport Staff",
+    "Airport Staff",
     "airport1a",
     143,
     43
   },
-
   {
     "airport",
     11988,
     101,
     90,
-		"Airport Staff",
+    "Airport Staff",
     "airport1b",
     158,
     43
   },
-
   {
     "airport",
     11991,
     101,
     90,
-		"Airport Staff",
+    "Airport Staff",
     "airport1c",
     126,
     43
   },
-
   {
     "airport",
     11994,
     101,
     90,
-		"Arrival Staff",
+    "Arrival Staff",
     "airport2a",
     143,
     49
   },
-
   {
     "airport",
     11996,
     101,
     90,
-		"Arrival Staff",
+    "Arrival Staff",
     "airport2b",
     126,
     51
   },
-
   {
     "airport",
     11998,
     101,
     90,
-		"Arrival Staff",
+    "Arrival Staff",
     "airport2c",
     158,
     50
   },
-
   {
     "airport",
     12080,
     101,
     99,
-		"Young Man",
+    "Young Man",
     "",
     174,
     41
   },
-
   {
     "airport",
     12081,
     101,
     88,
-		"Old Man",
+    "Old Man",
     "",
     176,
     41
   },
-
   {
     "airport",
     15668,
     101,
     852,
-		"Freight Manager",
+    "Freight Manager",
     "토스트",
     148,
     41
   },
-
   {
     "alb2trea",
     11334,
     101,
     100,
-		"Fisk",
+    "Fisk",
     "",
     39,
     50
   },
-
   {
     "alb2trea",
     15398,
     101,
     117,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     59,
     69
   },
-
   {
     "alb2trea",
     15500,
@@ -516,7 +469,6 @@ Navi_Npc = {
     87,
     65
   },
-
   {
     "alb2trea",
     19583,
@@ -527,7 +479,6 @@ Navi_Npc = {
     75,
     101
   },
-
   {
     "alberta",
     10040,
@@ -538,51 +489,16 @@ Navi_Npc = {
     104,
     60
   },
-
-	{
-		"alberta",
-		10077,
-		101,
-		833,
-		"존다기획사 파견사원",
-		"물품지급",
-		148,
-		60
-	},
-
-	{
-		"alberta",
-		10079,
-		101,
-		831,
-		"존다기획사 파견사원",
-		"제니지급",
-		148,
-		53
-	},
-
-	{
-		"alberta",
-		10081,
-		101,
-		833,
-		"존다기획사 신입사원",
-		"모바일 물품지급",
-		148,
-		46
-	},
-
   {
     "alberta",
     10882,
     101,
     89,
-		"Kinsey",
+    "Kinsey",
     "",
     91,
     70
   },
-
   {
     "alberta",
     10884,
@@ -593,7 +509,6 @@ Navi_Npc = {
     244,
     118
   },
-
   {
     "alberta",
     10888,
@@ -604,150 +519,136 @@ Navi_Npc = {
     246,
     114
   },
-
   {
     "alberta",
     11328,
     101,
     84,
-		"Fabian",
+    "Fabian",
     "",
     97,
     51
   },
-
   {
     "alberta",
     11329,
     101,
     100,
-		"Steiner",
+    "Steiner",
     "",
     53,
     39
   },
-
   {
     "alberta",
     11331,
     101,
     100,
-		"Fisk",
+    "Fisk",
     "",
     189,
     151
   },
-
   {
     "alberta",
     11336,
     101,
     54,
-		"Drunken Old Man",
+    "Drunken Old Man",
     "",
     131,
     139
   },
-
   {
     "alberta",
     11337,
     101,
     99,
-		"Shakir",
+    "Shakir",
     "",
     58,
     80
   },
-
   {
     "alberta",
     11338,
     101,
     102,
-		"Sonya",
+    "Sonya",
     "",
     62,
     156
   },
-
   {
     "alberta",
     11339,
     101,
     103,
-		"Grandmother Alma",
+    "Grandmother Alma",
     "",
     93,
     174
   },
-
   {
     "alberta",
     11340,
     101,
     86,
-		"Paul",
+    "Paul",
     "",
     195,
     151
   },
-
   {
     "alberta",
     11342,
     101,
     85,
-		"Phelix",
+    "Phelix",
     "",
     190,
     173
   },
-
   {
     "alberta",
     11345,
     101,
     87,
-		"Roving Hair Dresser",
+    "Roving Hair Dresser",
     "",
     33,
     141
   },
-
   {
     "alberta",
     12489,
     101,
     116,
-		"Kafra Voting Staff",
+    "Kafra Voting Staff",
     "alberta",
     119,
     70
   },
-
   {
     "alberta",
     12531,
     101,
     874,
-		"Cool Event Staff",
+    "Cool Event Staff",
     "alberta",
     114,
     70
   },
-
   {
     "alberta",
     13465,
     101,
     998,
-		"Continental Messenger",
+    "Continental Messenger",
     "alber_edq",
     127,
     64
   },
-
   {
     "alberta",
     13624,
@@ -758,7 +659,6 @@ Navi_Npc = {
     246,
     51
   },
-
   {
     "alberta",
     13701,
@@ -769,7 +669,6 @@ Navi_Npc = {
     246,
     82
   },
-
   {
     "alberta",
     13799,
@@ -780,7 +679,6 @@ Navi_Npc = {
     212,
     202
   },
-
   {
     "alberta",
     13939,
@@ -791,7 +689,6 @@ Navi_Npc = {
     196,
     202
   },
-
   {
     "alberta",
     15061,
@@ -802,40 +699,36 @@ Navi_Npc = {
     200,
     151
   },
-
   {
     "alberta",
     15381,
     101,
     116,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     28,
     229
   },
-
   {
     "alberta",
     15385,
     101,
     112,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     113,
     60
   },
-
   {
     "alberta",
     15428,
     101,
     83,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     26,
     229
   },
-
   {
     "alberta",
     15575,
@@ -846,7 +739,6 @@ Navi_Npc = {
     167,
     135
   },
-
   {
     "alberta",
     15696,
@@ -857,95 +749,86 @@ Navi_Npc = {
     105,
     52
   },
-
   {
     "alberta",
     15763,
     101,
     105,
-		"Guide",
+    "Guide",
     "01alberta",
     23,
     238
   },
-
   {
     "alberta",
     15764,
     101,
     105,
-		"Guide",
+    "Guide",
     "02alberta",
     120,
     60
   },
-
   {
     "alberta",
     15765,
     101,
     105,
-		"Guide",
+    "Guide",
     "03alberta",
     184,
     143
   },
-
   {
     "alberta",
     18108,
     101,
     71,
-		"Hat store girl",
+    "Hat store girl",
     "new30",
     136,
     79
   },
-
   {
     "alberta",
     18109,
     101,
     51,
-		"Stylish Merchant",
+    "Stylish Merchant",
     "new30",
     120,
     53
   },
-
   {
     "alberta",
     18115,
     101,
     92,
-		"Smile Assistance",
+    "Smile Assistance",
     "",
     113,
     53
   },
-
   {
     "alberta",
     18370,
     101,
     98,
-		"Necko",
+    "Necko",
     "",
     83,
     96
   },
-
   {
     "alberta",
     18371,
     101,
     107,
-		"Charlron",
+    "Charlron",
     "",
     119,
     221
   },
-
   {
     "alberta",
     18372,
@@ -956,18 +839,16 @@ Navi_Npc = {
     232,
     103
   },
-
   {
     "alberta",
     18394,
     101,
     99,
-		"Tourist",
+    "Tourist",
     "thai",
     43,
     244
   },
-
   {
     "alberta",
     18406,
@@ -978,7 +859,6 @@ Navi_Npc = {
     246,
     74
   },
-
   {
     "alberta",
     18410,
@@ -989,7 +869,6 @@ Navi_Npc = {
     246,
     62
   },
-
   {
     "alberta",
     18417,
@@ -1000,7 +879,6 @@ Navi_Npc = {
     246,
     40
   },
-
   {
     "alberta",
     18421,
@@ -1011,40 +889,36 @@ Navi_Npc = {
     246,
     29
   },
-
   {
     "alberta",
     18457,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "알베르타",
     111,
     59
   },
-
   {
     "alberta",
     18746,
     101,
     86,
-		"Bullet Dealer Tony",
+    "Bullet Dealer Tony",
     "airplane",
     118,
     160
   },
-
   {
     "alberta",
     18747,
     101,
     83,
-		"Magazine Dealer Tonny",
+    "Magazine Dealer Tonny",
     "airplane",
     118,
     157
   },
-
   {
     "alberta",
     18750,
@@ -1055,106 +929,96 @@ Navi_Npc = {
     168,
     138
   },
-
   {
     "alberta",
     18754,
     101,
     730,
-		"Akagi",
+    "Akagi",
     "",
     30,
     65
   },
-
   {
     "alberta",
     18853,
     101,
     486,
-		"Bard",
+    "Bard",
     "job_min",
     196,
     133
   },
-
   {
     "alberta",
     19325,
     101,
     105,
-		"Guard",
+    "Guard",
     "s10",
     98,
     202
   },
-
   {
     "alberta",
     19326,
     101,
     89,
-		"Poor-looking Merchant",
+    "Poor-looking Merchant",
     "",
     43,
     49
   },
-
   {
     "alberta",
     19538,
     101,
     85,
-		"Belder",
+    "Belder",
     "",
     127,
     143
   },
-
   {
     "alberta",
     19541,
     101,
     86,
-		"Jhonnita",
+    "Jhonnita",
     "",
     102,
     80
   },
-
   {
     "alberta",
     19625,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "4",
     124,
     67
   },
-
   {
     "alberta",
     19743,
     101,
     709,
-		"Captain Janssen",
+    "Captain Janssen",
     "",
     214,
     77
   },
-
   {
     "alberta_in",
     10883,
     101,
     120,
-		"Grandpa Turtle",
+    "Grandpa Turtle",
     "",
     23,
     104
   },
-
   {
     "alberta_in",
     11330,
@@ -1165,73 +1029,66 @@ Navi_Npc = {
     20,
     183
   },
-
   {
     "alberta_in",
     11343,
     101,
     53,
-		"Inn Employee",
+    "Inn Employee",
     "",
     32,
     142
   },
-
   {
     "alberta_in",
     11344,
     101,
     91,
-		"Hair Dresser",
+    "Hair Dresser",
     "",
     55,
     142
   },
-
   {
     "alberta_in",
     14313,
     101,
     706,
-		"Iromo",
+    "Iromo",
     "",
     131,
     95
   },
-
   {
     "alberta_in",
     14314,
     101,
     53,
-		"Iromo's Mother",
+    "Iromo's Mother",
     "",
     120,
     93
   },
-
   {
     "alberta_in",
     15303,
     101,
     84,
-		"Louitz",
+    "Louitz",
     "",
     133,
     55
   },
-
   {
     "alberta_in",
     15311,
     101,
     61,
-		"Pharmacist",
+    "Pharmacist",
     "",
     16,
     28
   },
-
   {
     "alberta_in",
     15490,
@@ -1242,7 +1099,6 @@ Navi_Npc = {
     182,
     97
   },
-
   {
     "alberta_in",
     15491,
@@ -1253,7 +1109,6 @@ Navi_Npc = {
     165,
     96
   },
-
   {
     "alberta_in",
     15492,
@@ -1264,7 +1119,6 @@ Navi_Npc = {
     188,
     21
   },
-
   {
     "alberta_in",
     15493,
@@ -1275,7 +1129,6 @@ Navi_Npc = {
     180,
     15
   },
-
   {
     "alberta_in",
     15568,
@@ -1286,18 +1139,16 @@ Navi_Npc = {
     175,
     97
   },
-
   {
     "alberta_in",
     18094,
     101,
     47,
-		"Cherokee",
+    "Cherokee",
     "",
     122,
     53
   },
-
   {
     "alberta_in",
     18097,
@@ -1308,95 +1159,86 @@ Navi_Npc = {
     29,
     140
   },
-
   {
     "alberta_in",
     18102,
     101,
     125,
-		"Monster Tamer",
+    "Monster Tamer",
     "",
     173,
     76
   },
-
   {
     "alberta_in",
     18194,
     101,
     84,
-		"PVP Narrator",
+    "PVP Narrator",
     "",
     22,
     146
   },
-
   {
     "alberta_in",
     18195,
     101,
     83,
-		"Gate Keeper",
+    "Gate Keeper",
     "",
     26,
     146
   },
-
   {
     "alberta_in",
     18373,
     101,
     84,
-		"Xenophon",
+    "Xenophon",
     "",
     21,
     63
   },
-
   {
     "alberta_in",
     18374,
     101,
     86,
-		"Kahlamanlith",
+    "Kahlamanlith",
     "",
     13,
     71
   },
-
   {
     "alberta_in",
     18375,
     101,
     85,
-		"Fredrik",
+    "Fredrik",
     "",
     28,
     58
   },
-
   {
     "alberta_in",
     18430,
     101,
     86,
-		"Repairman",
+    "Repairman",
     "",
     31,
     65
   },
-
   {
     "alberta_in",
     18486,
     101,
     86,
-		"Merchant",
+    "Merchant",
     "",
     53,
     43
   },
-
   {
     "alberta_in",
     18745,
@@ -1407,7 +1249,6 @@ Navi_Npc = {
     176,
     81
   },
-
   {
     "alberta_in",
     19134,
@@ -1418,7 +1259,6 @@ Navi_Npc = {
     60,
     52
   },
-
   {
     "alberta_in",
     19171,
@@ -1429,7 +1269,6 @@ Navi_Npc = {
     69,
     51
   },
-
   {
     "alberta_in",
     19173,
@@ -1440,73 +1279,66 @@ Navi_Npc = {
     75,
     48
   },
-
   {
     "alberta_in",
     19281,
     101,
     59,
-		"Purchasing Team",
+    "Purchasing Team",
     "qskill_buy01",
     58,
     52
   },
-
   {
     "alberta_in",
     19320,
     101,
     807,
-		"Wealthy-looking Merchant",
+    "Wealthy-looking Merchant",
     "",
     125,
     101
   },
-
   {
     "alberta_in",
     19321,
     101,
     758,
-		"Maid",
+    "Maid",
     "s10",
     154,
     171
   },
-
   {
     "alberta_in",
     19324,
     101,
     109,
-		"Refined Steward",
+    "Refined Steward",
     "",
     114,
     178
   },
-
   {
     "alberta_in",
     19558,
     101,
     788,
-		"Shaman",
+    "Shaman",
     "",
     70,
     109
   },
-
   {
     "alberta_in",
     19635,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "10",
     75,
     39
   },
-
   {
     "alde_alche",
     15444,
@@ -1517,29 +1349,26 @@ Navi_Npc = {
     38,
     184
   },
-
   {
     "alde_alche",
     15624,
     101,
     740,
-		"Guild Dealer",
+    "Guild Dealer",
     "",
     24,
     188
   },
-
   {
     "alde_alche",
     15637,
     101,
     748,
-		"Muscle Man",
+    "Muscle Man",
     "알람가면맨",
     88,
     180
   },
-
   {
     "alde_alche",
     15638,
@@ -1550,7 +1379,6 @@ Navi_Npc = {
     86,
     184
   },
-
   {
     "alde_alche",
     15639,
@@ -1561,7 +1389,6 @@ Navi_Npc = {
     89,
     184
   },
-
   {
     "alde_alche",
     15640,
@@ -1572,7 +1399,6 @@ Navi_Npc = {
     92,
     184
   },
-
   {
     "alde_alche",
     15641,
@@ -1583,73 +1409,66 @@ Navi_Npc = {
     95,
     184
   },
-
   {
     "alde_alche",
     15715,
     101,
     883,
-		"Craft Book Salesman",
+    "Craft Book Salesman",
     "alde",
     31,
     186
   },
-
   {
     "alde_alche",
     19323,
     101,
     749,
-		"Alchemist",
+    "Alchemist",
     "s",
     169,
     162
   },
-
   {
     "alde_dun03",
     18129,
     101,
     101,
-		"Gatekeeper",
+    "Gatekeeper",
     "아이",
     264,
     16
   },
-
   {
     "alde_gld",
     11938,
     101,
     845,
-		"Turbo Track Guide",
+    "Turbo Track Guide",
     "입구",
     186,
     199
   },
-
   {
     "alde_gld",
     11939,
     101,
     845,
-		"Peco Peco Manager",
+    "Peco Peco Manager",
     "",
     181,
     199
   },
-
   {
     "alde_gld",
     11940,
     101,
     837,
-		"Sign",
+    "Sign",
     "터보트랙",
     178,
     180
   },
-
   {
     "alde_gld",
     11941,
@@ -1660,84 +1479,76 @@ Navi_Npc = {
     5,
     5
   },
-
   {
     "alde_gld",
     17836,
     101,
     722,
-		"Neuschwanstein",
+    "Neuschwanstein",
     "",
     61,
     87
   },
-
   {
     "alde_gld",
     17837,
     101,
     722,
-		"Neuschwanstein",
+    "Neuschwanstein",
     "",
     61,
     79
   },
-
   {
     "alde_gld",
     17838,
     101,
     722,
-		"Neuschwanstein",
+    "Neuschwanstein",
     "",
     45,
     87
   },
-
   {
     "alde_gld",
     17839,
     101,
     722,
-		"Neuschwanstein",
+    "Neuschwanstein",
     "",
     51,
     87
   },
-
   {
     "alde_gld",
     17840,
     101,
     722,
-		"Hohenschwangau",
+    "Hohenschwangau",
     "",
     99,
     251
   },
-
   {
     "alde_gld",
     17841,
     101,
     722,
-		"Hohenschwangau",
+    "Hohenschwangau",
     "",
     99,
     244
   },
-
   {
     "alde_gld",
     17842,
     101,
     722,
-		"Nuenberg",
+    "Nuenberg",
     "",
     146,
     82
   },
-
   {
     "alde_gld",
     17843,
@@ -1748,29 +1559,26 @@ Navi_Npc = {
     138,
     83
   },
-
   {
     "alde_gld",
     17844,
     101,
     722,
-		"Rothenburg",
+    "Rothenburg",
     "",
     265,
     93
   },
-
   {
     "alde_gld",
     17845,
     101,
     722,
-		"Rothenburg",
+    "Rothenburg",
     "",
     265,
     87
   },
-
   {
     "alde_gld",
     18024,
@@ -1781,7 +1589,6 @@ Navi_Npc = {
     186,
     157
   },
-
   {
     "alde_gld",
     18025,
@@ -1792,7 +1599,6 @@ Navi_Npc = {
     191,
     164
   },
-
   {
     "alde_gld",
     18027,
@@ -1803,40 +1609,36 @@ Navi_Npc = {
     188,
     158
   },
-
   {
     "aldeba_in",
     12267,
     101,
     859,
-		"Kafra Employee",
+    "Kafra Employee",
     "lt3",
     155,
     240
   },
-
   {
     "aldeba_in",
     15368,
     101,
     113,
-		"Kafra Service",
+    "Kafra Service",
     "",
     96,
     181
   },
-
   {
     "aldeba_in",
     15403,
     101,
     115,
-		"Kafra",
+    "Kafra",
     "",
     79,
     161
   },
-
   {
     "aldeba_in",
     15501,
@@ -1847,7 +1649,6 @@ Navi_Npc = {
     94,
     56
   },
-
   {
     "aldeba_in",
     15502,
@@ -1858,7 +1659,6 @@ Navi_Npc = {
     28,
     54
   },
-
   {
     "aldeba_in",
     15503,
@@ -1869,7 +1669,6 @@ Navi_Npc = {
     20,
     60
   },
-
   {
     "aldeba_in",
     15570,
@@ -1880,205 +1679,186 @@ Navi_Npc = {
     22,
     47
   },
-
   {
     "aldeba_in",
     18074,
     101,
     48,
-		"RS125",
+    "RS125",
     "",
     232,
     241
   },
-
   {
     "aldeba_in",
     18075,
     101,
     63,
-		"Threatening-Looking Man",
+    "Threatening-Looking Man",
     "",
     223,
     121
   },
-
   {
     "aldeba_in",
     18076,
     101,
     109,
-		"Friendly-Looking Man",
+    "Friendly-Looking Man",
     "",
     219,
     61
   },
-
   {
     "aldeba_in",
     18077,
     101,
     97,
-		"Fussy Man",
+    "Fussy Man",
     "",
     152,
     47
   },
-
   {
     "aldeba_in",
     18078,
     101,
     61,
-		"Master",
+    "Master",
     "",
     156,
     179
   },
-
   {
     "aldeba_in",
     18079,
     101,
     117,
-		"Kafra Service",
+    "Kafra Service",
     "",
     84,
     166
   },
-
   {
     "aldeba_in",
     18080,
     101,
     116,
-		"Kafra Service",
+    "Kafra Service",
     "",
     83,
     245
   },
-
   {
     "aldeba_in",
     18081,
     101,
     115,
-		"Kafra Jasmine",
+    "Kafra Jasmine",
     "",
     24,
     245
   },
-
   {
     "aldeba_in",
     18082,
     101,
     114,
-		"Kafra Service",
+    "Kafra Service",
     "",
     142,
     238
   },
-
   {
     "aldeba_in",
     18083,
     101,
     112,
-		"Kafra Service",
+    "Kafra Service",
     "",
     91,
     244
   },
-
   {
     "aldeba_in",
     18090,
     101,
     53,
-		"Inn Maid",
+    "Inn Maid",
     "",
     92,
     58
   },
-
   {
     "aldeba_in",
     18096,
     101,
     86,
-		"Trader",
+    "Trader",
     "",
     152,
     166
   },
-
   {
     "aldeba_in",
     18104,
     101,
     125,
-		"Monster Tamer",
+    "Monster Tamer",
     "",
     168,
     175
   },
-
   {
     "aldeba_in",
     18436,
     101,
     86,
-		"Repairman",
+    "Repairman",
     "",
     38,
     60
   },
-
   {
     "aldeba_in",
     18448,
     101,
     115,
-		"Kafra",
+    "Kafra",
     "",
     88,
     161
   },
-
   {
     "aldeba_in",
     18696,
     101,
     709,
-		"Tzerero",
+    "Tzerero",
     "sp",
     223,
     167
   },
-
   {
     "aldeba_in",
     19302,
     101,
     805,
-		"Sir Jore",
+    "Sir Jore",
     "",
     155,
     101
   },
-
   {
     "aldeba_in",
     19303,
     101,
     102,
-		"Piru Piru",
+    "Piru Piru",
     "",
     156,
     118
   },
-
   {
     "aldebaran",
     10039,
@@ -2089,7 +1869,6 @@ Navi_Npc = {
     146,
     116
   },
-
   {
     "aldebaran",
     10095,
@@ -2100,73 +1879,66 @@ Navi_Npc = {
     133,
     112
   },
-
   {
     "aldebaran",
     12266,
     101,
     116,
-		"Kafra Employee",
+    "Kafra Employee",
     "lt3",
     58,
     225
   },
-
   {
     "aldebaran",
     12496,
     101,
     116,
-		"Kafra Voting Staff",
+    "Kafra Voting Staff",
     "aldebaran",
     145,
     102
   },
-
   {
     "aldebaran",
     12538,
     101,
     874,
-		"Cool Event Staff",
+    "Cool Event Staff",
     "alde",
     138,
     102
   },
-
   {
     "aldebaran",
     13466,
     101,
     998,
-		"Continental Messenger",
+    "Continental Messenger",
     "alde_edq",
     135,
     128
   },
-
   {
     "aldebaran",
     13480,
     101,
     96,
-		"Girl",
+    "Girl",
     "prince",
     132,
     184
   },
-
   {
     "aldebaran",
     14011,
     101,
     100,
-		"Promotional Staff",
+    "Promotional Staff",
     "",
     127,
     138
   },
-
   {
     "aldebaran",
     15044,
@@ -2177,18 +1949,16 @@ Navi_Npc = {
     170,
     104
   },
-
   {
     "aldebaran",
     15363,
     101,
     113,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     143,
     119
   },
-
   {
     "aldebaran",
     15576,
@@ -2199,7 +1969,6 @@ Navi_Npc = {
     165,
     107
   },
-
   {
     "aldebaran",
     15697,
@@ -2210,7 +1979,6 @@ Navi_Npc = {
     133,
     114
   },
-
   {
     "aldebaran",
     15720,
@@ -2221,304 +1989,276 @@ Navi_Npc = {
     133,
     109
   },
-
   {
     "aldebaran",
     15773,
     101,
     105,
-		"Guide",
+    "Guide",
     "01aldebaran",
     139,
     63
   },
-
   {
     "aldebaran",
     15774,
     101,
     105,
-		"Guide",
+    "Guide",
     "02aldebaran",
     243,
     143
   },
-
   {
     "aldebaran",
     15775,
     101,
     105,
-		"Guide",
+    "Guide",
     "03aldebaran",
     135,
     243
   },
-
   {
     "aldebaran",
     15776,
     101,
     105,
-		"Guide",
+    "Guide",
     "04aldebaran",
     36,
     135
   },
-
   {
     "aldebaran",
     17795,
     101,
     728,
-		"Maroll Battle Recruiter",
+    "Maroll Battle Recruiter",
     "",
     146,
     109
   },
-
   {
     "aldebaran",
     17905,
     101,
     722,
-		"Neuschwanstein",
+    "Neuschwanstein",
     "",
     152,
     97
   },
-
   {
     "aldebaran",
     17906,
     101,
     722,
-		"Hohenschwangau",
+    "Hohenschwangau",
     "",
     149,
     97
   },
-
   {
     "aldebaran",
     17907,
     101,
     722,
-		"Nuenberg",
+    "Nuenberg",
     "",
     134,
     97
   },
-
   {
     "aldebaran",
     17908,
     101,
     722,
-		"Rothenburg",
+    "Rothenburg",
     "",
     128,
     97
   },
-
   {
     "aldebaran",
     18063,
     101,
     48,
-		"Forger Munster",
+    "Forger Munster",
     "",
     113,
     70
   },
-
   {
     "aldebaran",
     18064,
     101,
     55,
-		"Smithing Guy",
+    "Smithing Guy",
     "",
     64,
     104
   },
-
   {
     "aldebaran",
     18065,
     101,
     83,
-		"Young Man",
+    "Young Man",
     "",
     49,
     93
   },
-
   {
     "aldebaran",
     18066,
     101,
     101,
-		"Shell Gathering Lady",
+    "Shell Gathering Lady",
     "",
     81,
     61
   },
-
   {
     "aldebaran",
     18067,
     101,
     97,
-		"Canal Guy",
+    "Canal Guy",
     "",
     46,
     129
   },
-
   {
     "aldebaran",
     18068,
     101,
     98,
-		"Forest Guy",
+    "Forest Guy",
     "",
     67,
     154
   },
-
   {
     "aldebaran",
     18069,
     101,
     47,
-		"Slot Guy",
+    "Slot Guy",
     "",
     90,
     170
   },
-
   {
     "aldebaran",
     18070,
     101,
     48,
-		"Phracon Guy",
+    "Phracon Guy",
     "",
     117,
     181
   },
-
   {
     "aldebaran",
     18071,
     101,
     49,
-		"Alchemy Guy",
+    "Alchemy Guy",
     "",
     121,
     231
   },
-
   {
     "aldebaran",
     18072,
     101,
     62,
-		"Little Kid",
+    "Little Kid",
     "",
     86,
     228
   },
-
   {
     "aldebaran",
     18073,
     101,
     119,
-		"Insect Guy",
+    "Insect Guy",
     "",
     159,
     242
   },
-
   {
     "aldebaran",
     18084,
     101,
     69,
-		"Sylvia",
+    "Sylvia",
     "",
     60,
     70
   },
-
   {
     "aldebaran",
     18085,
     101,
     48,
-		"Issei",
+    "Issei",
     "",
     93,
     80
   },
-
   {
     "aldebaran",
     18086,
     101,
     88,
-		"Joo Jahk",
+    "Joo Jahk",
     "",
     180,
     46
   },
-
   {
     "aldebaran",
     18087,
     101,
     97,
-		"Citizen",
+    "Citizen",
     "",
     212,
     122
   },
-
   {
     "aldebaran",
     18088,
     101,
     101,
-		"Town Girl",
+    "Town Girl",
     "",
     146,
     124
   },
-
   {
     "aldebaran",
     18089,
     101,
     89,
-		"Bell Keeper",
+    "Bell Keeper",
     "",
     143,
     136
   },
-
   {
     "aldebaran",
     18113,
     101,
     92,
-		"Smile Assistance",
+    "Smile Assistance",
     "",
     136,
     135
   },
-
   {
     "aldebaran",
     18232,
@@ -2529,18 +2269,16 @@ Navi_Npc = {
     168,
     168
   },
-
   {
     "aldebaran",
     18282,
     101,
     64,
-		"Meteurengut",
+    "Meteurengut",
     "",
     44,
     53
   },
-
   {
     "aldebaran",
     18458,
@@ -2551,73 +2289,66 @@ Navi_Npc = {
     146,
     106
   },
-
   {
     "aldebaran",
     18697,
     101,
     117,
-		"Kafra Employee",
+    "Kafra Employee",
     "sp",
     54,
     238
   },
-
   {
     "aldebaran",
     18888,
     101,
     486,
-		"Karian",
+    "Karian",
     "cmd8",
     142,
     128
   },
-
   {
     "aldebaran",
     19564,
     101,
     828,
-		"Rogue Agent",
+    "Rogue Agent",
     "nd0",
     114,
     56
   },
-
   {
     "aldebaran",
     19578,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "시계탑",
     136,
     133
   },
-
   {
     "aldebaran",
     19627,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "5",
     133,
     119
   },
-
   {
     "ama_dun01",
     11362,
     101,
     767,
-		"Soldier",
+    "Soldier",
     "11",
     229,
     7
   },
-
   {
     "ama_dun01",
     19605,
@@ -2628,51 +2359,46 @@ Navi_Npc = {
     233,
     14
   },
-
   {
     "ama_in01",
     11366,
     101,
     761,
-		"Grandma",
+    "Grandma",
     "1",
     22,
     111
   },
-
   {
     "ama_in01",
     11368,
     101,
     769,
-		"Shaman",
+    "Shaman",
     "",
     169,
     173
   },
-
   {
     "ama_in01",
     11369,
     101,
     762,
-		"Kitsune Mask",
+    "Kitsune Mask",
     "",
     180,
     173
   },
-
   {
     "ama_in01",
     11370,
     101,
     765,
-		"Sushi Master",
+    "Sushi Master",
     "",
     162,
     17
   },
-
   {
     "ama_in01",
     15522,
@@ -2683,7 +2409,6 @@ Navi_Npc = {
     24,
     30
   },
-
   {
     "ama_in01",
     15523,
@@ -2694,7 +2419,6 @@ Navi_Npc = {
     89,
     28
   },
-
   {
     "ama_in01",
     15524,
@@ -2705,194 +2429,176 @@ Navi_Npc = {
     102,
     28
   },
-
   {
     "ama_in02",
     11348,
     101,
     767,
-		"Gate Soldier",
+    "Gate Soldier",
     "3",
     207,
     40
   },
-
   {
     "ama_in02",
     11349,
     101,
     767,
-		"Gate Soldier",
+    "Gate Soldier",
     "4",
     207,
     49
   },
-
   {
     "ama_in02",
     11352,
     101,
     767,
-		"Soldier",
+    "Soldier",
     "1",
     187,
     57
   },
-
   {
     "ama_in02",
     11353,
     101,
     767,
-		"Soldier",
+    "Soldier",
     "2",
     170,
     62
   },
-
   {
     "ama_in02",
     11354,
     101,
     767,
-		"Soldier",
+    "Soldier",
     "3",
     37,
     157
   },
-
   {
     "ama_in02",
     11355,
     101,
     767,
-		"Soldier",
+    "Soldier",
     "4",
     32,
     51
   },
-
   {
     "ama_in02",
     11356,
     101,
     767,
-		"Soldier",
+    "Soldier",
     "5",
     40,
     167
   },
-
   {
     "ama_in02",
     11357,
     101,
     767,
-		"Soldier",
+    "Soldier",
     "6",
     32,
     167
   },
-
   {
     "ama_in02",
     11358,
     101,
     767,
-		"Soldier",
+    "Soldier",
     "7",
     42,
     34
   },
-
   {
     "ama_in02",
     11359,
     101,
     767,
-		"Soldier",
+    "Soldier",
     "8",
     203,
     156
   },
-
   {
     "ama_in02",
     11360,
     101,
     767,
-		"Soldier",
+    "Soldier",
     "9",
     195,
     156
   },
-
   {
     "ama_in02",
     11361,
     101,
     767,
-		"Soldier",
+    "Soldier",
     "10",
     115,
     177
   },
-
   {
     "ama_in02",
     11365,
     101,
     768,
-		"Lord of Palace",
+    "Lord of Palace",
     "",
     200,
     176
   },
-
   {
     "ama_test",
     11373,
     101,
     109,
-		"Assistant",
+    "Assistant",
     "ama",
     52,
     44
   },
-
   {
     "ama_test",
     11378,
     101,
     766,
-		"Grandpa",
+    "Grandpa",
     "ama",
     49,
     93
   },
-
   {
     "ama_test",
     11379,
     101,
     761,
-		"Grandma",
+    "Grandma",
     "ama",
     50,
     93
   },
-
   {
     "ama_test",
     11380,
     101,
     762,
-		"Coach",
+    "Coach",
     "",
     50,
     100
   },
-
   {
     "amatsu",
     10051,
@@ -2903,183 +2609,166 @@ Navi_Npc = {
     102,
     152
   },
-
   {
     "amatsu",
     11346,
     101,
     767,
-		"Gate Soldier",
+    "Gate Soldier",
     "1",
     112,
     164
   },
-
   {
     "amatsu",
     11347,
     101,
     767,
-		"Gate Soldier",
+    "Gate Soldier",
     "2",
     119,
     164
   },
-
   {
     "amatsu",
     11350,
     101,
     767,
-		"Gate Soldier",
+    "Gate Soldier",
     "5",
     164,
     174
   },
-
   {
     "amatsu",
     11351,
     101,
     767,
-		"Gate Soldier",
+    "Gate Soldier",
     "6",
     171,
     174
   },
-
   {
     "amatsu",
     11367,
     101,
     764,
-		"Kouji",
+    "Kouji",
     "",
     189,
     166
   },
-
   {
     "amatsu",
     11371,
     101,
     763,
-		"Publisher",
+    "Publisher",
     "",
     223,
     236
   },
-
   {
     "amatsu",
     11386,
     101,
     757,
-		"Well-side Maiden",
+    "Well-side Maiden",
     "",
     230,
     160
   },
-
   {
     "amatsu",
     11387,
     101,
     86,
-		"John",
+    "John",
     "",
     179,
     107
   },
-
   {
     "amatsu",
     11388,
     101,
     759,
-		"Mimi",
+    "Mimi",
     "",
     205,
     163
   },
-
   {
     "amatsu",
     11389,
     101,
     765,
-		"Drunken Man",
+    "Drunken Man",
     "",
     185,
     115
   },
-
   {
     "amatsu",
     11390,
     101,
     760,
-		"Grandma",
+    "Grandma",
     "",
     217,
     179
   },
-
   {
     "amatsu",
     11391,
     101,
     766,
-		"Jyaburo",
+    "Jyaburo",
     "",
     287,
     266
   },
-
   {
     "amatsu",
     11392,
     101,
     758,
-		"Propose Girl",
+    "Propose Girl",
     "",
     269,
     221
   },
-
   {
     "amatsu",
     11393,
     101,
     760,
-		"Drama Teacher",
+    "Drama Teacher",
     "",
     243,
     202
   },
-
   {
     "amatsu",
     11394,
     101,
     1323,
-		"Bonubonu",
+    "Bonubonu",
     "1",
     283,
     203
   },
-
   {
     "amatsu",
     11395,
     101,
     735,
-		"Veterinarian",
+    "Veterinarian",
     "",
     274,
     178
   },
-
   {
     "amatsu",
     13660,
@@ -3090,18 +2779,16 @@ Navi_Npc = {
     233,
     234
   },
-
   {
     "amatsu",
     15418,
     101,
     116,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     102,
     149
   },
-
   {
     "amatsu",
     15582,
@@ -3112,29 +2799,26 @@ Navi_Npc = {
     206,
     150
   },
-
   {
     "amatsu",
     15799,
     101,
     758,
-		"Amatsu Guide",
+    "Amatsu Guide",
     "amatsu",
     202,
     91
   },
-
   {
     "amatsu",
     18408,
     101,
     709,
-		"Sea Captain",
+    "Sea Captain",
     "1",
     194,
     79
   },
-
   {
     "amatsu",
     19653,
@@ -3145,370 +2829,336 @@ Navi_Npc = {
     100,
     145
   },
-
   {
     "arena_room",
     11743,
     101,
     97,
-		"Vendigos",
+    "Vendigos",
     "",
     94,
     93
   },
-
   {
     "arena_room",
     11744,
     101,
     57,
-		"Arena Record Staff",
+    "Arena Record Staff",
     "",
     105,
     82
   },
-
   {
     "arena_room",
     11745,
     101,
     726,
-		"Helper Pat",
+    "Helper Pat",
     "",
     68,
     135
   },
-
   {
     "arena_room",
     11746,
     101,
     750,
-		"Helper Ben",
+    "Helper Ben",
     "",
     41,
     93
   },
-
   {
     "arena_room",
     11747,
     101,
     730,
-		"Helper Vicious",
+    "Helper Vicious",
     "",
     53,
     49
   },
-
   {
     "arena_room",
     11748,
     101,
     727,
-		"Helper Epin",
+    "Helper Epin",
     "",
     147,
     49
   },
-
   {
     "arena_room",
     11749,
     101,
     828,
-		"Helper Lunic",
+    "Helper Lunic",
     "",
     158,
     93
   },
-
   {
     "arena_room",
     11750,
     101,
     828,
-		"Helper Lonik",
+    "Helper Lonik",
     "",
     158,
     82
   },
-
   {
     "arena_room",
     11751,
     101,
     55,
-		"Teleporter",
+    "Teleporter",
     "arena",
     105,
     93
   },
-
   {
     "arena_room",
     11777,
     101,
     79,
-		"Arena Record Staff",
+    "Arena Record Staff",
     "acolyte",
     94,
     82
   },
-
   {
     "arena_room",
     11778,
     101,
     729,
-		"Guide Alias",
+    "Guide Alias",
     "",
     140,
     136
   },
-
   {
     "aru_gld",
     17929,
     101,
     722,
-		"Mardol",
+    "Mardol",
     "",
     164,
     270
   },
-
   {
     "aru_gld",
     17930,
     101,
     722,
-		"Mardol",
+    "Mardol",
     "",
     142,
     235
   },
-
   {
     "aru_gld",
     17931,
     101,
     722,
-		"Mardol",
+    "Mardol",
     "",
     164,
     245
   },
-
   {
     "aru_gld",
     17932,
     101,
     722,
-		"Mardol",
+    "Mardol",
     "",
     182,
     255
   },
-
   {
     "aru_gld",
     17933,
     101,
     722,
-		"Cyr",
+    "Cyr",
     "",
     80,
     41
   },
-
   {
     "aru_gld",
     17934,
     101,
     722,
-		"Cyr",
+    "Cyr",
     "",
     80,
     52
   },
-
   {
     "aru_gld",
     17935,
     101,
     722,
-		"Cyr",
+    "Cyr",
     "",
     120,
     83
   },
-
   {
     "aru_gld",
     17936,
     101,
     722,
-		"Horn",
+    "Horn",
     "",
     60,
     174
   },
-
   {
     "aru_gld",
     17937,
     101,
     722,
-		"Horn",
+    "Horn",
     "",
     74,
     174
   },
-
   {
     "aru_gld",
     17938,
     101,
     722,
-		"Gefn",
+    "Gefn",
     "",
     306,
     359
   },
-
   {
     "aru_gld",
     17939,
     101,
     722,
-		"Gefn",
+    "Gefn",
     "",
     306,
     348
   },
-
   {
     "aru_gld",
     17940,
     101,
     722,
-		"Gefn",
+    "Gefn",
     "",
     301,
     318
   },
-
   {
     "aru_gld",
     17941,
     101,
     722,
-		"Gefn",
+    "Gefn",
     "",
     313,
     318
   },
-
   {
     "aru_gld",
     17942,
     101,
     722,
-		"Banadis",
+    "Banadis",
     "",
     289,
     103
   },
-
   {
     "aru_gld",
     17943,
     101,
     722,
-		"Banadis",
+    "Banadis",
     "",
     289,
     112
   },
-
   {
     "aru_gld",
     17944,
     101,
     722,
-		"Banadis",
+    "Banadis",
     "",
     350,
     98
   },
-
   {
     "aru_gld",
     17945,
     101,
     722,
-		"Banadis",
+    "Banadis",
     "",
     350,
     88
   },
-
   {
     "arug_dun01",
     14245,
     101,
     826,
-		"Dwarf",
+    "Dwarf",
     "aru_gd",
     199,
     195
   },
-
   {
     "arug_dun01",
     14310,
     101,
     81,
-		"Event controller",
+    "Event controller",
     "aru_gd",
     5,
     5
   },
-
   {
     "arug_que01",
     14251,
     101,
     715,
-		"Pierrot Pier",
+    "Pierrot Pier",
     "aru_gd",
     100,
     81
   },
-
   {
     "arug_que01",
     14252,
     101,
     81,
-		"Controller",
+    "Controller",
     "gdevent_a",
     10,
     10
   },
-
   {
     "arug_que01",
     14253,
     101,
     412,
-		"Gergath",
+    "Gergath",
     "aru_gd",
     100,
     75
   },
-
   {
     "arug_que01",
     14255,
@@ -3519,7 +3169,6 @@ Navi_Npc = {
     98,
     105
   },
-
   {
     "arug_que01",
     14256,
@@ -3530,7 +3179,6 @@ Navi_Npc = {
     94,
     105
   },
-
   {
     "arug_que01",
     14257,
@@ -3541,7 +3189,6 @@ Navi_Npc = {
     90,
     105
   },
-
   {
     "arug_que01",
     14258,
@@ -3552,7 +3199,6 @@ Navi_Npc = {
     86,
     105
   },
-
   {
     "arug_que01",
     14259,
@@ -3563,7 +3209,6 @@ Navi_Npc = {
     82,
     105
   },
-
   {
     "arug_que01",
     14260,
@@ -3574,7 +3219,6 @@ Navi_Npc = {
     79,
     103
   },
-
   {
     "arug_que01",
     14261,
@@ -3585,7 +3229,6 @@ Navi_Npc = {
     79,
     100
   },
-
   {
     "arug_que01",
     14262,
@@ -3596,7 +3239,6 @@ Navi_Npc = {
     79,
     97
   },
-
   {
     "arug_que01",
     14264,
@@ -3607,7 +3249,6 @@ Navi_Npc = {
     79,
     94
   },
-
   {
     "arug_que01",
     14265,
@@ -3618,7 +3259,6 @@ Navi_Npc = {
     79,
     91
   },
-
   {
     "arug_que01",
     14266,
@@ -3629,7 +3269,6 @@ Navi_Npc = {
     79,
     88
   },
-
   {
     "arug_que01",
     14267,
@@ -3640,7 +3279,6 @@ Navi_Npc = {
     79,
     85
   },
-
   {
     "arug_que01",
     14268,
@@ -3651,7 +3289,6 @@ Navi_Npc = {
     79,
     82
   },
-
   {
     "arug_que01",
     14269,
@@ -3662,7 +3299,6 @@ Navi_Npc = {
     79,
     79
   },
-
   {
     "arug_que01",
     14270,
@@ -3673,7 +3309,6 @@ Navi_Npc = {
     79,
     76
   },
-
   {
     "arug_que01",
     14271,
@@ -3684,7 +3319,6 @@ Navi_Npc = {
     79,
     73
   },
-
   {
     "arug_que01",
     14272,
@@ -3695,7 +3329,6 @@ Navi_Npc = {
     79,
     70
   },
-
   {
     "arug_que01",
     14273,
@@ -3706,7 +3339,6 @@ Navi_Npc = {
     79,
     67
   },
-
   {
     "arug_que01",
     14274,
@@ -3717,7 +3349,6 @@ Navi_Npc = {
     79,
     64
   },
-
   {
     "arug_que01",
     14275,
@@ -3728,7 +3359,6 @@ Navi_Npc = {
     79,
     61
   },
-
   {
     "arug_que01",
     14276,
@@ -3739,7 +3369,6 @@ Navi_Npc = {
     79,
     58
   },
-
   {
     "arug_que01",
     14277,
@@ -3750,7 +3379,6 @@ Navi_Npc = {
     84,
     58
   },
-
   {
     "arug_que01",
     14278,
@@ -3761,7 +3389,6 @@ Navi_Npc = {
     89,
     58
   },
-
   {
     "arug_que01",
     14279,
@@ -3772,7 +3399,6 @@ Navi_Npc = {
     94,
     58
   },
-
   {
     "arug_que01",
     14280,
@@ -3783,7 +3409,6 @@ Navi_Npc = {
     99,
     58
   },
-
   {
     "arug_que01",
     14281,
@@ -3794,7 +3419,6 @@ Navi_Npc = {
     104,
     58
   },
-
   {
     "arug_que01",
     14282,
@@ -3805,7 +3429,6 @@ Navi_Npc = {
     109,
     58
   },
-
   {
     "arug_que01",
     14283,
@@ -3816,7 +3439,6 @@ Navi_Npc = {
     114,
     58
   },
-
   {
     "arug_que01",
     14284,
@@ -3827,7 +3449,6 @@ Navi_Npc = {
     119,
     58
   },
-
   {
     "arug_que01",
     14285,
@@ -3838,7 +3459,6 @@ Navi_Npc = {
     124,
     58
   },
-
   {
     "arug_que01",
     14286,
@@ -3849,7 +3469,6 @@ Navi_Npc = {
     129,
     58
   },
-
   {
     "arug_que01",
     14287,
@@ -3860,7 +3479,6 @@ Navi_Npc = {
     129,
     105
   },
-
   {
     "arug_que01",
     14288,
@@ -3871,7 +3489,6 @@ Navi_Npc = {
     129,
     103
   },
-
   {
     "arug_que01",
     14289,
@@ -3882,7 +3499,6 @@ Navi_Npc = {
     129,
     100
   },
-
   {
     "arug_que01",
     14290,
@@ -3893,7 +3509,6 @@ Navi_Npc = {
     129,
     97
   },
-
   {
     "arug_que01",
     14292,
@@ -3904,7 +3519,6 @@ Navi_Npc = {
     129,
     94
   },
-
   {
     "arug_que01",
     14293,
@@ -3915,7 +3529,6 @@ Navi_Npc = {
     129,
     91
   },
-
   {
     "arug_que01",
     14294,
@@ -3926,7 +3539,6 @@ Navi_Npc = {
     129,
     88
   },
-
   {
     "arug_que01",
     14295,
@@ -3937,7 +3549,6 @@ Navi_Npc = {
     129,
     85
   },
-
   {
     "arug_que01",
     14296,
@@ -3948,7 +3559,6 @@ Navi_Npc = {
     129,
     82
   },
-
   {
     "arug_que01",
     14297,
@@ -3959,7 +3569,6 @@ Navi_Npc = {
     129,
     79
   },
-
   {
     "arug_que01",
     14298,
@@ -3970,7 +3579,6 @@ Navi_Npc = {
     129,
     76
   },
-
   {
     "arug_que01",
     14299,
@@ -3981,7 +3589,6 @@ Navi_Npc = {
     129,
     73
   },
-
   {
     "arug_que01",
     14300,
@@ -3992,7 +3599,6 @@ Navi_Npc = {
     129,
     70
   },
-
   {
     "arug_que01",
     14301,
@@ -4003,7 +3609,6 @@ Navi_Npc = {
     129,
     67
   },
-
   {
     "arug_que01",
     14302,
@@ -4014,7 +3619,6 @@ Navi_Npc = {
     129,
     64
   },
-
   {
     "arug_que01",
     14303,
@@ -4025,7 +3629,6 @@ Navi_Npc = {
     129,
     61
   },
-
   {
     "arug_que01",
     14305,
@@ -4036,7 +3639,6 @@ Navi_Npc = {
     124,
     105
   },
-
   {
     "arug_que01",
     14306,
@@ -4047,7 +3649,6 @@ Navi_Npc = {
     119,
     105
   },
-
   {
     "arug_que01",
     14307,
@@ -4058,7 +3659,6 @@ Navi_Npc = {
     114,
     105
   },
-
   {
     "arug_que01",
     14308,
@@ -4069,7 +3669,6 @@ Navi_Npc = {
     109,
     105
   },
-
   {
     "arug_que01",
     14309,
@@ -4080,18 +3679,16 @@ Navi_Npc = {
     104,
     105
   },
-
   {
     "ayo_fild02",
     11875,
     101,
     843,
-		"Aik",
+    "Aik",
     "thai",
     25,
     154
   },
-
   {
     "ayo_fild02",
     19608,
@@ -4102,7 +3699,6 @@ Navi_Npc = {
     279,
     147
   },
-
   {
     "ayo_in01",
     15536,
@@ -4113,7 +3709,6 @@ Navi_Npc = {
     18,
     182
   },
-
   {
     "ayo_in01",
     15537,
@@ -4124,7 +3719,6 @@ Navi_Npc = {
     90,
     160
   },
-
   {
     "ayo_in01",
     15538,
@@ -4135,7 +3729,6 @@ Navi_Npc = {
     90,
     192
   },
-
   {
     "ayothaya",
     10052,
@@ -4146,84 +3739,76 @@ Navi_Npc = {
     212,
     173
   },
-
   {
     "ayothaya",
     11861,
     101,
     843,
-		"Young Man",
+    "Young Man",
     "쌩",
     189,
     120
   },
-
   {
     "ayothaya",
     11862,
     101,
     838,
-		"Girl",
+    "Girl",
     "랄리따",
     171,
     152
   },
-
   {
     "ayothaya",
     11863,
     101,
     842,
-		"Old Man",
+    "Old Man",
     "아요타야",
     143,
     102
   },
-
   {
     "ayothaya",
     11864,
     101,
     841,
-		"Young Man",
+    "Young Man",
     "1아요타야",
     197,
     189
   },
-
   {
     "ayothaya",
     11865,
     101,
     843,
-		"Young Man",
+    "Young Man",
     "5아요타야",
     214,
     142
   },
-
   {
     "ayothaya",
     11866,
     101,
     843,
-		"Young Man",
+    "Young Man",
     "6아요타야",
     241,
     264
   },
-
   {
     "ayothaya",
     15424,
     101,
     116,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     212,
     169
   },
-
   {
     "ayothaya",
     15585,
@@ -4234,29 +3819,26 @@ Navi_Npc = {
     203,
     178
   },
-
   {
     "ayothaya",
     15800,
     101,
     839,
-		"Ayothaya Guide Noi",
+    "Ayothaya Guide Noi",
     "01ayothaya",
     203,
     169
   },
-
   {
     "ayothaya",
     15801,
     101,
     839,
-		"Ayothaya Guide Noa",
+    "Ayothaya Guide Noa",
     "02ayothaya",
     146,
     86
   },
-
   {
     "ayothaya",
     19655,
@@ -4267,293 +3849,266 @@ Navi_Npc = {
     221,
     191
   },
-
   {
     "bat_room",
     15440,
     101,
     861,
-		"Kafra Staff",
+    "Kafra Staff",
     "",
     148,
     147
   },
-
   {
     "bat_room",
     17761,
     101,
     418,
-		"KVM [1-59] Officer",
+    "KVM [1-59] Officer",
     "01a",
     124,
     178
   },
-
   {
     "bat_room",
     17762,
     101,
     414,
-		"Tierra Gorge Officer",
+    "Tierra Gorge Officer",
     "01b",
     125,
     121
   },
-
   {
     "bat_room",
     17763,
     101,
     418,
-		"Flavius Officer",
+    "Flavius Officer",
     "01a",
     133,
     178
   },
-
   {
     "bat_room",
     17764,
     101,
     414,
-		"Flavius Officer",
+    "Flavius Officer",
     "01b",
     133,
     121
   },
-
   {
     "bat_room",
     17769,
     101,
     416,
-		"Prince Croix",
+    "Prince Croix",
     "",
     160,
     141
   },
-
   {
     "bat_room",
     17770,
     101,
     415,
-		"Prince Croix's Aide",
+    "Prince Croix's Aide",
     "01",
     161,
     140
   },
-
   {
     "bat_room",
     17771,
     101,
     415,
-		"Prince Croix's Aide",
+    "Prince Croix's Aide",
     "02",
     161,
     142
   },
-
   {
     "bat_room",
     17772,
     101,
     420,
-		"General Guillaume",
+    "General Guillaume",
     "",
     160,
     159
   },
-
   {
     "bat_room",
     17773,
     101,
     419,
-		"Gen. Guillaume's Aide",
+    "Gen. Guillaume's Aide",
     "01",
     161,
     158
   },
-
   {
     "bat_room",
     17774,
     101,
     419,
-		"Gen. Guillaume's Aide",
+    "Gen. Guillaume's Aide",
     "03",
     161,
     160
   },
-
   {
     "bat_room",
     17775,
     101,
     417,
-		"Guillaume Knight",
+    "Guillaume Knight",
     "",
     127,
     178
   },
-
   {
     "bat_room",
     17776,
     101,
     417,
-		"Guillaume Knight",
+    "Guillaume Knight",
     "",
     135,
     178
   },
-
   {
     "bat_room",
     17777,
     101,
     417,
-		"Guillaume Knight",
+    "Guillaume Knight",
     "",
     143,
     178
   },
-
   {
     "bat_room",
     17778,
     101,
     417,
-		"Guillaume Knight",
+    "Guillaume Knight",
     "",
     151,
     178
   },
-
   {
     "bat_room",
     17779,
     101,
     413,
-		"Croix Knight",
+    "Croix Knight",
     "",
     127,
     121
   },
-
   {
     "bat_room",
     17780,
     101,
     413,
-		"Croix Knight",
+    "Croix Knight",
     "",
     135,
     121
   },
-
   {
     "bat_room",
     17781,
     101,
     413,
-		"Croix Knight",
+    "Croix Knight",
     "",
     143,
     121
   },
-
   {
     "bat_room",
     17782,
     101,
     413,
-		"Croix Knight",
+    "Croix Knight",
     "",
     151,
     121
   },
-
   {
     "bat_room",
     17783,
     101,
     124,
-		"Teleporter",
+    "Teleporter",
     "전장",
     148,
     150
   },
-
   {
     "bat_room",
     17805,
     101,
     109,
-		"Erundek",
+    "Erundek",
     "",
     160,
     150
   },
-
   {
     "bat_room",
     19788,
     101,
     418,
-		"KVM Mercenary Officer",
+    "KVM Mercenary Officer",
     "기욤",
     164,
     178
   },
-
   {
     "bat_room",
     19789,
     101,
     417,
-		"Guillaume Knight",
+    "Guillaume Knight",
     "kvm",
     167,
     178
   },
-
   {
     "bat_room",
     19790,
     101,
     414,
-		"KVM Mercenary Officer",
+    "KVM Mercenary Officer",
     "크루아",
     164,
     121
   },
-
   {
     "bat_room",
     19791,
     101,
     413,
-		"Croix Knight",
+    "Croix Knight",
     "kvm",
     167,
     121
   },
-
   {
     "bat_room",
     19798,
     101,
     734,
-		"KVM Logistic Officer",
+    "KVM Logistic Officer",
     "kvm01",
     151,
     144
   },
-
   {
     "bif_fild02",
     14840,
@@ -4564,7 +4119,6 @@ Navi_Npc = {
     285,
     332
   },
-
   {
     "bif_fild02",
     14842,
@@ -4575,7 +4129,6 @@ Navi_Npc = {
     95,
     310
   },
-
   {
     "bif_fild02",
     14844,
@@ -4586,7 +4139,6 @@ Navi_Npc = {
     173,
     162
   },
-
   {
     "bif_fild02",
     15186,
@@ -4597,7 +4149,6 @@ Navi_Npc = {
     293,
     325
   },
-
   {
     "bra_dun01",
     19610,
@@ -4608,7 +4159,6 @@ Navi_Npc = {
     208,
     109
   },
-
   {
     "bra_fild01",
     13675,
@@ -4619,18 +4169,16 @@ Navi_Npc = {
     245,
     53
   },
-
   {
     "bra_in01",
     13698,
     101,
     478,
-		"Hotel Keeper",
+    "Hotel Keeper",
     "bra1",
     27,
     24
   },
-
   {
     "brasilis",
     10056,
@@ -4641,29 +4189,26 @@ Navi_Npc = {
     200,
     224
   },
-
   {
     "brasilis",
     13692,
     101,
     85,
-		"Ice-Cream Maker",
+    "Ice-Cream Maker",
     "",
     137,
     77
   },
-
   {
     "brasilis",
     13693,
     101,
     858,
-		"Signpost",
+    "Signpost",
     "bra",
     155,
     165
   },
-
   {
     "brasilis",
     13694,
@@ -4674,62 +4219,56 @@ Navi_Npc = {
     191,
     239
   },
-
   {
     "brasilis",
     13695,
     101,
     858,
-		"Signpost",
+    "Signpost",
     "bra",
     240,
     247
   },
-
   {
     "brasilis",
     13696,
     101,
     858,
-		"Signpost",
+    "Signpost",
     "bra",
     303,
     309
   },
-
   {
     "brasilis",
     13697,
     101,
     858,
-		"Signpost",
+    "Signpost",
     "bra",
     278,
     137
   },
-
   {
     "brasilis",
     13699,
     101,
     100,
-		"Crewman",
+    "Crewman",
     "bra1",
     316,
     57
   },
-
   {
     "brasilis",
     15438,
     101,
     117,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     197,
     221
   },
-
   {
     "brasilis",
     15618,
@@ -4740,7 +4279,6 @@ Navi_Npc = {
     221,
     128
   },
-
   {
     "brasilis",
     15619,
@@ -4751,7 +4289,6 @@ Navi_Npc = {
     201,
     309
   },
-
   {
     "brasilis",
     15620,
@@ -4762,7 +4299,6 @@ Navi_Npc = {
     244,
     243
   },
-
   {
     "brasilis",
     15621,
@@ -4773,18 +4309,16 @@ Navi_Npc = {
     252,
     257
   },
-
   {
     "brasilis",
     15806,
     101,
     478,
-		"Brasilis Guide",
+    "Brasilis Guide",
     "",
     219,
     97
   },
-
   {
     "brasilis",
     19663,
@@ -4795,29 +4329,26 @@ Navi_Npc = {
     191,
     224
   },
-
   {
     "c_tower3",
     18127,
     101,
     84,
-		"Gatekeeper",
+    "Gatekeeper",
     "리쿠",
     10,
     249
   },
-
   {
     "cmd_fild07",
     15405,
     101,
     721,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     136,
     134
   },
-
   {
     "cmd_fild07",
     15512,
@@ -4828,7 +4359,6 @@ Navi_Npc = {
     257,
     126
   },
-
   {
     "cmd_fild07",
     15513,
@@ -4839,7 +4369,6 @@ Navi_Npc = {
     250,
     98
   },
-
   {
     "cmd_fild07",
     15514,
@@ -4850,51 +4379,46 @@ Navi_Npc = {
     277,
     85
   },
-
   {
     "cmd_fild07",
     18267,
     101,
     100,
-		"Rahasu",
+    "Rahasu",
     "",
     192,
     58
   },
-
   {
     "cmd_fild07",
     18268,
     101,
     100,
-		"Hallosu",
+    "Hallosu",
     "",
     52,
     280
   },
-
   {
     "cmd_fild07",
     18269,
     101,
     100,
-		"Zain",
+    "Zain",
     "",
     299,
     83
   },
-
   {
     "cmd_fild07",
     18272,
     101,
     100,
-		"Sarumane",
+    "Sarumane",
     "",
     94,
     134
   },
-
   {
     "cmd_fild08",
     19569,
@@ -4905,7 +4429,6 @@ Navi_Npc = {
     326,
     357
   },
-
   {
     "cmd_fild08",
     19570,
@@ -4916,7 +4439,6 @@ Navi_Npc = {
     341,
     84
   },
-
   {
     "cmd_in01",
     15508,
@@ -4927,7 +4449,6 @@ Navi_Npc = {
     79,
     182
   },
-
   {
     "cmd_in01",
     15509,
@@ -4938,7 +4459,6 @@ Navi_Npc = {
     128,
     165
   },
-
   {
     "cmd_in01",
     15510,
@@ -4949,249 +4469,226 @@ Navi_Npc = {
     117,
     165
   },
-
   {
     "cmd_in01",
     19319,
     101,
     724,
-		"Examiner",
+    "Examiner",
     "s",
     33,
     25
   },
-
   {
     "cmd_in02",
     11812,
     101,
     828,
-		"Man",
+    "Man",
     "메긴",
     190,
     94
   },
-
   {
     "cmd_in02",
     13363,
     101,
     97,
-		"Ordinary Man",
+    "Ordinary Man",
     "pc1",
     174,
     89
   },
-
   {
     "cmd_in02",
     13364,
     101,
     97,
-		"Ordinary Man",
+    "Ordinary Man",
     "pc2",
     111,
     52
   },
-
   {
     "cmd_in02",
     15404,
     101,
     721,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     146,
     180
   },
-
   {
     "cmd_in02",
     18252,
     101,
     49,
-		"Chief",
+    "Chief",
     "",
     32,
     140
   },
-
   {
     "cmd_in02",
     18253,
     101,
     48,
-		"Martine",
+    "Martine",
     "",
     73,
     81
   },
-
   {
     "cmd_in02",
     18254,
     101,
     51,
-		"Scoursege",
+    "Scoursege",
     "",
     48,
     55
   },
-
   {
     "cmd_in02",
     18255,
     101,
     709,
-		"Roberto",
+    "Roberto",
     "",
     64,
     43
   },
-
   {
     "cmd_in02",
     18256,
     101,
     89,
-		"Deniroz",
+    "Deniroz",
     "",
     89,
     72
   },
-
   {
     "cmd_in02",
     18257,
     101,
     101,
-		"Shalone",
+    "Shalone",
     "",
     178,
     92
   },
-
   {
     "cmd_in02",
     18258,
     101,
     98,
-		"Stonae",
+    "Stonae",
     "",
     178,
     86
   },
-
   {
     "cmd_in02",
     18259,
     101,
     86,
-		"G . J",
+    "G . J",
     "",
     172,
     105
   },
-
   {
     "cmd_in02",
     18260,
     101,
     83,
-		"Loyar",
+    "Loyar",
     "",
     174,
     126
   },
-
   {
     "cmd_in02",
     18261,
     101,
     109,
-		"Moo",
+    "Moo",
     "",
     57,
     62
   },
-
   {
     "cmd_in02",
     18279,
     101,
     85,
-		"Manzi",
+    "Manzi",
     "",
     189,
     99
   },
-
   {
     "cmd_in02",
     19318,
     101,
     806,
-		"Strange Guy",
+    "Strange Guy",
     "s",
     88,
     51
   },
-
   {
     "cmd_in02",
     19546,
     101,
     828,
-		"Investigator",
+    "Investigator",
     "",
     94,
     208
   },
-
   {
     "comodo",
     10008,
     101,
     109,
-		"Ledrion",
+    "Ledrion",
     "comodo",
     71,
     137
   },
-
   {
     "comodo",
     10009,
     101,
     86,
-		"Gatan",
+    "Gatan",
     "comodo",
     236,
     197
   },
-
   {
     "comodo",
     10010,
     101,
     731,
-		"Bafhail",
+    "Bafhail",
     "comodo",
     152,
     184
   },
-
   {
     "comodo",
     10011,
     101,
     706,
-		"Lospii",
+    "Lospii",
     "comodo",
     64,
     219
   },
-
   {
     "comodo",
     10050,
@@ -5202,7 +4699,6 @@ Navi_Npc = {
     199,
     149
   },
-
   {
     "comodo",
     10108,
@@ -5213,51 +4709,46 @@ Navi_Npc = {
     144,
     298
   },
-
   {
     "comodo",
     11524,
     101,
     84,
-		"La Ed",
+    "La Ed",
     "",
     170,
     137
   },
-
   {
     "comodo",
     11525,
     101,
     92,
-		"Haith",
+    "Haith",
     "",
     171,
     137
   },
-
   {
     "comodo",
     13167,
     101,
     809,
-		"Young Man",
+    "Young Man",
     "sch",
     135,
     299
   },
-
   {
     "comodo",
     15408,
     101,
     721,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     195,
     150
   },
-
   {
     "comodo",
     15511,
@@ -5268,7 +4759,6 @@ Navi_Npc = {
     296,
     125
   },
-
   {
     "comodo",
     15577,
@@ -5279,7 +4769,6 @@ Navi_Npc = {
     225,
     164
   },
-
   {
     "comodo",
     15622,
@@ -5290,7 +4779,6 @@ Navi_Npc = {
     106,
     213
   },
-
   {
     "comodo",
     15623,
@@ -5301,18 +4789,16 @@ Navi_Npc = {
     196,
     162
   },
-
   {
     "comodo",
     15646,
     101,
     732,
-		"Meruntei",
+    "Meruntei",
     "",
     237,
     217
   },
-
   {
     "comodo",
     15698,
@@ -5323,7 +4809,6 @@ Navi_Npc = {
     193,
     159
   },
-
   {
     "comodo",
     15729,
@@ -5334,304 +4819,276 @@ Navi_Npc = {
     236,
     164
   },
-
   {
     "comodo",
     15777,
     101,
     700,
-		"Comodo Guide",
+    "Comodo Guide",
     "",
     322,
     178
   },
-
   {
     "comodo",
     15778,
     101,
     700,
-		"Comodo Guide",
+    "Comodo Guide",
     "02comodo",
     181,
     347
   },
-
   {
     "comodo",
     15779,
     101,
     700,
-		"Comodo Guide",
+    "Comodo Guide",
     "03comodo",
     197,
     149
   },
-
   {
     "comodo",
     15780,
     101,
     700,
-		"Comodo Guide",
+    "Comodo Guide",
     "04comodo",
     37,
     219
   },
-
   {
     "comodo",
     18106,
     101,
     700,
-		"Hair Ornament Girl",
+    "Hair Ornament Girl",
     "",
     228,
     159
   },
-
   {
     "comodo",
     18107,
     101,
     702,
-		"Traveler",
+    "Traveler",
     "",
     273,
     137
   },
-
   {
     "comodo",
     18243,
     101,
     704,
-		"Campground Boy",
+    "Campground Boy",
     "",
     206,
     310
   },
-
   {
     "comodo",
     18244,
     101,
     65,
-		"Camping Youth",
+    "Camping Youth",
     "",
     204,
     310
   },
-
   {
     "comodo",
     18245,
     101,
     71,
-		"Camping Maiden",
+    "Camping Maiden",
     "",
     209,
     305
   },
-
   {
     "comodo",
     18246,
     101,
     706,
-		"Campground Lad",
+    "Campground Lad",
     "",
     209,
     314
   },
-
   {
     "comodo",
     18247,
     101,
     86,
-		"BBQ Boy",
+    "BBQ Boy",
     "",
     221,
     310
   },
-
   {
     "comodo",
     18248,
     101,
     90,
-		"BBQ Visitor",
+    "BBQ Visitor",
     "",
     218,
     309
   },
-
   {
     "comodo",
     18249,
     101,
     50,
-		"BBQ Papa",
+    "BBQ Papa",
     "",
     216,
     310
   },
-
   {
     "comodo",
     18250,
     101,
     74,
-		"BBQ Mama",
+    "BBQ Mama",
     "",
     215,
     307
   },
-
   {
     "comodo",
     18251,
     101,
     706,
-		"BBQ Boy",
+    "BBQ Boy",
     "",
     213,
     310
   },
-
   {
     "comodo",
     18275,
     101,
     109,
-		"Toruna",
+    "Toruna",
     "",
     88,
     97
   },
-
   {
     "comodo",
     18276,
     101,
     73,
-		"Rakusa",
+    "Rakusa",
     "",
     164,
     291
   },
-
   {
     "comodo",
     18277,
     101,
     98,
-		"Kichiri",
+    "Kichiri",
     "",
     169,
     284
   },
-
   {
     "comodo",
     18278,
     101,
     55,
-		"Magatu",
+    "Magatu",
     "",
     163,
     280
   },
-
   {
     "comodo",
     18280,
     101,
     701,
-		"Hullaris",
+    "Hullaris",
     "",
     187,
     153
   },
-
   {
     "comodo",
     18284,
     101,
     106,
-		"Won",
+    "Won",
     "",
     232,
     87
   },
-
   {
     "comodo",
     18396,
     101,
     120,
-		"Old Man",
+    "Old Man",
     "thai",
     68,
     195
   },
-
   {
     "comodo",
     18402,
     101,
     103,
-		"Munak's Grandma",
+    "Munak's Grandma",
     "",
     112,
     182
   },
-
   {
     "comodo",
     18449,
     101,
     91,
-		"Kachua",
+    "Kachua",
     "",
     219,
     158
   },
-
   {
     "comodo",
     18450,
     101,
     90,
-		"Devellin",
+    "Devellin",
     "",
     204,
     148
   },
-
   {
     "comodo",
     18451,
     101,
     118,
-		"Suspicious Guy",
+    "Suspicious Guy",
     "",
     210,
     154
   },
-
   {
     "comodo",
     18460,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "코모도",
     210,
     148
   },
-
   {
     "comodo",
     18591,
@@ -5642,139 +5099,126 @@ Navi_Npc = {
     211,
     155
   },
-
   {
     "comodo",
     18597,
     101,
     90,
-		"Sonotora",
+    "Sonotora",
     "1",
     180,
     153
   },
-
   {
     "comodo",
     18598,
     101,
     86,
-		"Bor Robin",
+    "Bor Robin",
     "1",
     193,
     151
   },
-
   {
     "comodo",
     18705,
     101,
     730,
-		"Wandering Master",
+    "Wandering Master",
     "job_star",
     172,
     230
   },
-
   {
     "comodo",
     18884,
     101,
     486,
-		"Karian",
+    "Karian",
     "cmd6",
     184,
     109
   },
-
   {
     "comodo",
     18885,
     101,
     98,
-		"Kayak Master",
+    "Kayak Master",
     "job_min",
     192,
     119
   },
-
   {
     "comodo",
     18886,
     101,
     701,
-		"Woman Roasting Meat",
+    "Woman Roasting Meat",
     "job_min",
     159,
     316
   },
-
   {
     "comodo",
     18904,
     101,
     479,
-		"Cheerless Minstrel",
+    "Cheerless Minstrel",
     "",
     140,
     86
   },
-
   {
     "comodo",
     19268,
     101,
     724,
-		"Canell",
+    "Canell",
     "qsk_dan01",
     204,
     172
   },
-
   {
     "comodo",
     19537,
     101,
     86,
-		"Muff",
+    "Muff",
     "",
     224,
     187
   },
-
   {
     "comodo",
     19556,
     101,
     881,
-		"Man in Hiding",
+    "Man in Hiding",
     "nd",
     339,
     224
   },
-
   {
     "comodo",
     19557,
     101,
     742,
-		"Scholar",
+    "Scholar",
     "",
     139,
     184
   },
-
   {
     "comodo",
     19567,
     101,
     810,
-		"Rogue Guild Agent",
+    "Rogue Guild Agent",
     "nd3",
     233,
     199
   },
-
   {
     "comodo",
     19584,
@@ -5785,7 +5229,6 @@ Navi_Npc = {
     327,
     177
   },
-
   {
     "comodo",
     19585,
@@ -5796,7 +5239,6 @@ Navi_Npc = {
     31,
     217
   },
-
   {
     "comodo",
     19586,
@@ -5807,7 +5249,6 @@ Navi_Npc = {
     178,
     354
   },
-
   {
     "comodo",
     19643,
@@ -5818,7 +5259,6 @@ Navi_Npc = {
     202,
     151
   },
-
   {
     "comodo",
     19712,
@@ -5829,7 +5269,6 @@ Navi_Npc = {
     173,
     354
   },
-
   {
     "dew_dun01",
     13803,
@@ -5840,7 +5279,6 @@ Navi_Npc = {
     292,
     164
   },
-
   {
     "dew_dun01",
     19611,
@@ -5851,7 +5289,6 @@ Navi_Npc = {
     294,
     158
   },
-
   {
     "dew_fild01",
     13797,
@@ -5862,7 +5299,6 @@ Navi_Npc = {
     101,
     259
   },
-
   {
     "dew_fild01",
     13798,
@@ -5873,7 +5309,6 @@ Navi_Npc = {
     106,
     306
   },
-
   {
     "dew_fild01",
     13805,
@@ -5884,7 +5319,6 @@ Navi_Npc = {
     127,
     240
   },
-
   {
     "dew_fild01",
     13808,
@@ -5895,7 +5329,6 @@ Navi_Npc = {
     78,
     288
   },
-
   {
     "dew_fild01",
     13809,
@@ -5906,7 +5339,6 @@ Navi_Npc = {
     185,
     300
   },
-
   {
     "dew_fild01",
     19612,
@@ -5917,7 +5349,6 @@ Navi_Npc = {
     51,
     61
   },
-
   {
     "dewata",
     10058,
@@ -5928,7 +5359,6 @@ Navi_Npc = {
     202,
     188
   },
-
   {
     "dewata",
     13755,
@@ -5939,7 +5369,6 @@ Navi_Npc = {
     221,
     237
   },
-
   {
     "dewata",
     13756,
@@ -5950,7 +5379,6 @@ Navi_Npc = {
     114,
     243
   },
-
   {
     "dewata",
     13757,
@@ -5961,7 +5389,6 @@ Navi_Npc = {
     159,
     81
   },
-
   {
     "dewata",
     13758,
@@ -5972,7 +5399,6 @@ Navi_Npc = {
     146,
     109
   },
-
   {
     "dewata",
     13759,
@@ -5983,7 +5409,6 @@ Navi_Npc = {
     147,
     107
   },
-
   {
     "dewata",
     13760,
@@ -5994,7 +5419,6 @@ Navi_Npc = {
     154,
     107
   },
-
   {
     "dewata",
     13761,
@@ -6005,7 +5429,6 @@ Navi_Npc = {
     95,
     203
   },
-
   {
     "dewata",
     13762,
@@ -6016,7 +5439,6 @@ Navi_Npc = {
     97,
     207
   },
-
   {
     "dewata",
     13763,
@@ -6027,7 +5449,6 @@ Navi_Npc = {
     100,
     206
   },
-
   {
     "dewata",
     13764,
@@ -6038,7 +5459,6 @@ Navi_Npc = {
     101,
     206
   },
-
   {
     "dewata",
     13765,
@@ -6049,7 +5469,6 @@ Navi_Npc = {
     99,
     203
   },
-
   {
     "dewata",
     13766,
@@ -6060,7 +5479,6 @@ Navi_Npc = {
     67,
     186
   },
-
   {
     "dewata",
     13767,
@@ -6071,7 +5489,6 @@ Navi_Npc = {
     65,
     188
   },
-
   {
     "dewata",
     13768,
@@ -6082,7 +5499,6 @@ Navi_Npc = {
     63,
     190
   },
-
   {
     "dewata",
     13769,
@@ -6093,7 +5509,6 @@ Navi_Npc = {
     62,
     192
   },
-
   {
     "dewata",
     13770,
@@ -6104,7 +5519,6 @@ Navi_Npc = {
     75,
     122
   },
-
   {
     "dewata",
     13771,
@@ -6115,7 +5529,6 @@ Navi_Npc = {
     69,
     101
   },
-
   {
     "dewata",
     13772,
@@ -6126,7 +5539,6 @@ Navi_Npc = {
     71,
     79
   },
-
   {
     "dewata",
     13773,
@@ -6137,7 +5549,6 @@ Navi_Npc = {
     211,
     272
   },
-
   {
     "dewata",
     13774,
@@ -6148,7 +5559,6 @@ Navi_Npc = {
     245,
     244
   },
-
   {
     "dewata",
     13775,
@@ -6159,7 +5569,6 @@ Navi_Npc = {
     233,
     263
   },
-
   {
     "dewata",
     13776,
@@ -6170,7 +5579,6 @@ Navi_Npc = {
     234,
     263
   },
-
   {
     "dewata",
     13777,
@@ -6181,7 +5589,6 @@ Navi_Npc = {
     279,
     213
   },
-
   {
     "dewata",
     13778,
@@ -6192,7 +5599,6 @@ Navi_Npc = {
     269,
     208
   },
-
   {
     "dewata",
     13779,
@@ -6203,7 +5609,6 @@ Navi_Npc = {
     227,
     129
   },
-
   {
     "dewata",
     13780,
@@ -6214,7 +5619,6 @@ Navi_Npc = {
     239,
     140
   },
-
   {
     "dewata",
     13781,
@@ -6225,7 +5629,6 @@ Navi_Npc = {
     193,
     145
   },
-
   {
     "dewata",
     13782,
@@ -6236,7 +5639,6 @@ Navi_Npc = {
     228,
     177
   },
-
   {
     "dewata",
     13783,
@@ -6247,7 +5649,6 @@ Navi_Npc = {
     278,
     100
   },
-
   {
     "dewata",
     13784,
@@ -6258,7 +5659,6 @@ Navi_Npc = {
     249,
     87
   },
-
   {
     "dewata",
     13785,
@@ -6269,7 +5669,6 @@ Navi_Npc = {
     251,
     85
   },
-
   {
     "dewata",
     13786,
@@ -6280,7 +5679,6 @@ Navi_Npc = {
     278,
     281
   },
-
   {
     "dewata",
     13787,
@@ -6291,7 +5689,6 @@ Navi_Npc = {
     165,
     103
   },
-
   {
     "dewata",
     13788,
@@ -6302,7 +5699,6 @@ Navi_Npc = {
     280,
     277
   },
-
   {
     "dewata",
     13789,
@@ -6313,7 +5709,6 @@ Navi_Npc = {
     139,
     114
   },
-
   {
     "dewata",
     13790,
@@ -6324,7 +5719,6 @@ Navi_Npc = {
     181,
     88
   },
-
   {
     "dewata",
     13791,
@@ -6335,7 +5729,6 @@ Navi_Npc = {
     179,
     204
   },
-
   {
     "dewata",
     13792,
@@ -6346,7 +5739,6 @@ Navi_Npc = {
     280,
     236
   },
-
   {
     "dewata",
     13793,
@@ -6357,7 +5749,6 @@ Navi_Npc = {
     204,
     230
   },
-
   {
     "dewata",
     13794,
@@ -6368,7 +5759,6 @@ Navi_Npc = {
     117,
     156
   },
-
   {
     "dewata",
     13795,
@@ -6379,7 +5769,6 @@ Navi_Npc = {
     144,
     216
   },
-
   {
     "dewata",
     13796,
@@ -6390,7 +5779,6 @@ Navi_Npc = {
     127,
     248
   },
-
   {
     "dewata",
     13801,
@@ -6401,7 +5789,6 @@ Navi_Npc = {
     229,
     49
   },
-
   {
     "dewata",
     13810,
@@ -6412,7 +5799,6 @@ Navi_Npc = {
     235,
     56
   },
-
   {
     "dewata",
     13815,
@@ -6423,7 +5809,6 @@ Navi_Npc = {
     78,
     192
   },
-
   {
     "dewata",
     15439,
@@ -6434,7 +5819,6 @@ Navi_Npc = {
     202,
     184
   },
-
   {
     "dewata",
     15628,
@@ -6445,7 +5829,6 @@ Navi_Npc = {
     218,
     164
   },
-
   {
     "dewata",
     15629,
@@ -6456,7 +5839,6 @@ Navi_Npc = {
     182,
     164
   },
-
   {
     "dewata",
     15630,
@@ -6467,7 +5849,6 @@ Navi_Npc = {
     145,
     267
   },
-
   {
     "dewata",
     15631,
@@ -6478,7 +5859,6 @@ Navi_Npc = {
     158,
     182
   },
-
   {
     "dewata",
     15807,
@@ -6489,7 +5869,6 @@ Navi_Npc = {
     202,
     106
   },
-
   {
     "dewata",
     19665,
@@ -6500,7 +5879,6 @@ Navi_Npc = {
     192,
     193
   },
-
   {
     "dic_dun01",
     14715,
@@ -6511,7 +5889,6 @@ Navi_Npc = {
     286,
     104
   },
-
   {
     "dic_dun01",
     14717,
@@ -6522,7 +5899,6 @@ Navi_Npc = {
     294,
     106
   },
-
   {
     "dic_dun01",
     14719,
@@ -6533,7 +5909,6 @@ Navi_Npc = {
     30,
     216
   },
-
   {
     "dic_dun01",
     14775,
@@ -6544,7 +5919,6 @@ Navi_Npc = {
     205,
     43
   },
-
   {
     "dic_dun01",
     14789,
@@ -6555,7 +5929,6 @@ Navi_Npc = {
     284,
     102
   },
-
   {
     "dic_dun01",
     14791,
@@ -6566,7 +5939,6 @@ Navi_Npc = {
     266,
     113
   },
-
   {
     "dic_dun01",
     19613,
@@ -6577,7 +5949,6 @@ Navi_Npc = {
     30,
     208
   },
-
   {
     "dic_dun02",
     14778,
@@ -6588,7 +5959,6 @@ Navi_Npc = {
     111,
     127
   },
-
   {
     "dic_fild01",
     14649,
@@ -6599,7 +5969,6 @@ Navi_Npc = {
     228,
     159
   },
-
   {
     "dic_fild01",
     14650,
@@ -6610,7 +5979,6 @@ Navi_Npc = {
     232,
     189
   },
-
   {
     "dic_fild01",
     14652,
@@ -6621,7 +5989,6 @@ Navi_Npc = {
     240,
     198
   },
-
   {
     "dic_fild01",
     14653,
@@ -6632,7 +5999,6 @@ Navi_Npc = {
     251,
     183
   },
-
   {
     "dic_fild01",
     14654,
@@ -6643,7 +6009,6 @@ Navi_Npc = {
     259,
     172
   },
-
   {
     "dic_fild01",
     14698,
@@ -6654,7 +6019,6 @@ Navi_Npc = {
     146,
     281
   },
-
   {
     "dic_fild01",
     14701,
@@ -6665,7 +6029,6 @@ Navi_Npc = {
     153,
     281
   },
-
   {
     "dic_fild01",
     14714,
@@ -6676,7 +6039,6 @@ Navi_Npc = {
     231,
     174
   },
-
   {
     "dic_fild01",
     15206,
@@ -6687,7 +6049,6 @@ Navi_Npc = {
     161,
     266
   },
-
   {
     "dic_fild01",
     19614,
@@ -6698,7 +6059,6 @@ Navi_Npc = {
     27,
     83
   },
-
   {
     "dic_in01",
     14655,
@@ -6709,7 +6069,6 @@ Navi_Npc = {
     353,
     37
   },
-
   {
     "dic_in01",
     14656,
@@ -6720,7 +6079,6 @@ Navi_Npc = {
     40,
     193
   },
-
   {
     "dic_in01",
     14658,
@@ -6731,7 +6089,6 @@ Navi_Npc = {
     48,
     263
   },
-
   {
     "dic_in01",
     14660,
@@ -6742,7 +6099,6 @@ Navi_Npc = {
     51,
     266
   },
-
   {
     "dic_in01",
     14662,
@@ -6753,7 +6109,6 @@ Navi_Npc = {
     51,
     270
   },
-
   {
     "dic_in01",
     14664,
@@ -6764,7 +6119,6 @@ Navi_Npc = {
     48,
     273
   },
-
   {
     "dic_in01",
     14666,
@@ -6775,7 +6129,6 @@ Navi_Npc = {
     43,
     273
   },
-
   {
     "dic_in01",
     14668,
@@ -6786,7 +6139,6 @@ Navi_Npc = {
     40,
     270
   },
-
   {
     "dic_in01",
     14704,
@@ -6797,7 +6149,6 @@ Navi_Npc = {
     42,
     264
   },
-
   {
     "dic_in01",
     14731,
@@ -6808,7 +6159,6 @@ Navi_Npc = {
     341,
     113
   },
-
   {
     "dic_in01",
     14733,
@@ -6819,7 +6169,6 @@ Navi_Npc = {
     149,
     104
   },
-
   {
     "dic_in01",
     14739,
@@ -6830,7 +6179,6 @@ Navi_Npc = {
     335,
     34
   },
-
   {
     "dic_in01",
     14740,
@@ -6841,7 +6189,6 @@ Navi_Npc = {
     387,
     30
   },
-
   {
     "dic_in01",
     14741,
@@ -6852,7 +6199,6 @@ Navi_Npc = {
     168,
     116
   },
-
   {
     "dic_in01",
     14742,
@@ -6863,7 +6209,6 @@ Navi_Npc = {
     372,
     116
   },
-
   {
     "dic_in01",
     14743,
@@ -6874,7 +6219,6 @@ Navi_Npc = {
     360,
     125
   },
-
   {
     "dic_in01",
     14744,
@@ -6885,7 +6229,6 @@ Navi_Npc = {
     98,
     110
   },
-
   {
     "dic_in01",
     14745,
@@ -6896,7 +6239,6 @@ Navi_Npc = {
     91,
     113
   },
-
   {
     "dic_in01",
     14746,
@@ -6907,7 +6249,6 @@ Navi_Npc = {
     98,
     96
   },
-
   {
     "dic_in01",
     14747,
@@ -6918,7 +6259,6 @@ Navi_Npc = {
     87,
     102
   },
-
   {
     "dic_in01",
     14748,
@@ -6929,7 +6269,6 @@ Navi_Npc = {
     29,
     119
   },
-
   {
     "dic_in01",
     14749,
@@ -6940,7 +6279,6 @@ Navi_Npc = {
     32,
     54
   },
-
   {
     "dic_in01",
     14750,
@@ -6951,7 +6289,6 @@ Navi_Npc = {
     349,
     282
   },
-
   {
     "dic_in01",
     14751,
@@ -6962,7 +6299,6 @@ Navi_Npc = {
     370,
     261
   },
-
   {
     "dic_in01",
     14752,
@@ -6973,7 +6309,6 @@ Navi_Npc = {
     381,
     261
   },
-
   {
     "dic_in01",
     14753,
@@ -6984,7 +6319,6 @@ Navi_Npc = {
     370,
     282
   },
-
   {
     "dic_in01",
     14754,
@@ -6995,7 +6329,6 @@ Navi_Npc = {
     354,
     219
   },
-
   {
     "dic_in01",
     14755,
@@ -7006,7 +6339,6 @@ Navi_Npc = {
     365,
     197
   },
-
   {
     "dic_in01",
     14756,
@@ -7017,7 +6349,6 @@ Navi_Npc = {
     42,
     250
   },
-
   {
     "dic_in01",
     14757,
@@ -7028,7 +6359,6 @@ Navi_Npc = {
     252,
     103
   },
-
   {
     "dic_in01",
     15625,
@@ -7039,7 +6369,6 @@ Navi_Npc = {
     238,
     107
   },
-
   {
     "dicastes01",
     10065,
@@ -7050,7 +6379,6 @@ Navi_Npc = {
     193,
     191
   },
-
   {
     "dicastes01",
     10098,
@@ -7061,7 +6389,6 @@ Navi_Npc = {
     187,
     207
   },
-
   {
     "dicastes01",
     14657,
@@ -7072,7 +6399,6 @@ Navi_Npc = {
     187,
     230
   },
-
   {
     "dicastes01",
     14659,
@@ -7083,7 +6409,6 @@ Navi_Npc = {
     175,
     217
   },
-
   {
     "dicastes01",
     14661,
@@ -7094,7 +6419,6 @@ Navi_Npc = {
     208,
     230
   },
-
   {
     "dicastes01",
     14663,
@@ -7105,7 +6429,6 @@ Navi_Npc = {
     225,
     211
   },
-
   {
     "dicastes01",
     14665,
@@ -7116,7 +6439,6 @@ Navi_Npc = {
     223,
     190
   },
-
   {
     "dicastes01",
     14667,
@@ -7127,7 +6449,6 @@ Navi_Npc = {
     211,
     178
   },
-
   {
     "dicastes01",
     14706,
@@ -7138,7 +6459,6 @@ Navi_Npc = {
     207,
     210
   },
-
   {
     "dicastes01",
     14707,
@@ -7149,7 +6469,6 @@ Navi_Npc = {
     112,
     248
   },
-
   {
     "dicastes01",
     14708,
@@ -7160,7 +6479,6 @@ Navi_Npc = {
     249,
     140
   },
-
   {
     "dicastes01",
     14722,
@@ -7171,7 +6489,6 @@ Navi_Npc = {
     202,
     197
   },
-
   {
     "dicastes01",
     14723,
@@ -7182,7 +6499,6 @@ Navi_Npc = {
     191,
     202
   },
-
   {
     "dicastes01",
     14724,
@@ -7193,7 +6509,6 @@ Navi_Npc = {
     234,
     158
   },
-
   {
     "dicastes01",
     14725,
@@ -7204,7 +6519,6 @@ Navi_Npc = {
     244,
     166
   },
-
   {
     "dicastes01",
     14726,
@@ -7215,7 +6529,6 @@ Navi_Npc = {
     272,
     166
   },
-
   {
     "dicastes01",
     14727,
@@ -7226,7 +6539,6 @@ Navi_Npc = {
     248,
     129
   },
-
   {
     "dicastes01",
     14728,
@@ -7237,7 +6549,6 @@ Navi_Npc = {
     271,
     152
   },
-
   {
     "dicastes01",
     14729,
@@ -7248,7 +6559,6 @@ Navi_Npc = {
     202,
     86
   },
-
   {
     "dicastes01",
     14730,
@@ -7259,7 +6569,6 @@ Navi_Npc = {
     193,
     86
   },
-
   {
     "dicastes01",
     14732,
@@ -7270,7 +6579,6 @@ Navi_Npc = {
     194,
     166
   },
-
   {
     "dicastes01",
     14734,
@@ -7281,7 +6589,6 @@ Navi_Npc = {
     164,
     180
   },
-
   {
     "dicastes01",
     14735,
@@ -7292,7 +6599,6 @@ Navi_Npc = {
     235,
     245
   },
-
   {
     "dicastes01",
     14736,
@@ -7303,7 +6609,6 @@ Navi_Npc = {
     284,
     262
   },
-
   {
     "dicastes01",
     14737,
@@ -7314,7 +6619,6 @@ Navi_Npc = {
     282,
     208
   },
-
   {
     "dicastes01",
     14738,
@@ -7325,7 +6629,6 @@ Navi_Npc = {
     246,
     210
   },
-
   {
     "dicastes01",
     14771,
@@ -7336,7 +6639,6 @@ Navi_Npc = {
     117,
     262
   },
-
   {
     "dicastes01",
     15705,
@@ -7347,7 +6649,6 @@ Navi_Npc = {
     207,
     200
   },
-
   {
     "dicastes01",
     15723,
@@ -7358,7 +6659,6 @@ Navi_Npc = {
     187,
     200
   },
-
   {
     "dicastes01",
     15815,
@@ -7369,29 +6669,26 @@ Navi_Npc = {
     189,
     191
   },
-
   {
     "e_tower",
     19746,
     101,
     406,
-		"Tower Protection Stone",
+    "Tower Protection Stone",
     "",
     81,
     105
   },
-
   {
     "e_tower",
     19749,
     101,
     406,
-		"Purification Stone",
+    "Purification Stone",
     "102tower",
     69,
     117
   },
-
   {
     "ecl_fild01",
     15183,
@@ -7402,7 +6699,6 @@ Navi_Npc = {
     118,
     311
   },
-
   {
     "ecl_in01",
     15291,
@@ -7413,7 +6709,6 @@ Navi_Npc = {
     66,
     95
   },
-
   {
     "ecl_in01",
     15292,
@@ -7424,7 +6719,6 @@ Navi_Npc = {
     64,
     97
   },
-
   {
     "ecl_in01",
     15293,
@@ -7435,7 +6729,6 @@ Navi_Npc = {
     33,
     98
   },
-
   {
     "ecl_in01",
     15294,
@@ -7446,7 +6739,6 @@ Navi_Npc = {
     67,
     39
   },
-
   {
     "ecl_in02",
     15255,
@@ -7457,7 +6749,6 @@ Navi_Npc = {
     96,
     22
   },
-
   {
     "ecl_in02",
     15258,
@@ -7468,7 +6759,6 @@ Navi_Npc = {
     164,
     56
   },
-
   {
     "ecl_in02",
     15259,
@@ -7479,7 +6769,6 @@ Navi_Npc = {
     135,
     45
   },
-
   {
     "ecl_in02",
     15260,
@@ -7490,326 +6779,296 @@ Navi_Npc = {
     137,
     44
   },
-
   {
     "ein_in01",
     12098,
     101,
     851,
-		"Teinz",
+    "Teinz",
     "",
     113,
     211
   },
-
   {
     "ein_in01",
     12099,
     101,
     851,
-		"Lowe",
+    "Lowe",
     "",
     48,
     220
   },
-
   {
     "ein_in01",
     12100,
     101,
     850,
-		"Dinje",
+    "Dinje",
     "",
     87,
     237
   },
-
   {
     "ein_in01",
     12101,
     101,
     851,
-		"Tsuen",
+    "Tsuen",
     "",
     84,
     218
   },
-
   {
     "ein_in01",
     12102,
     101,
     849,
-		"Gesin",
+    "Gesin",
     "",
     103,
     239
   },
-
   {
     "ein_in01",
     12103,
     101,
     848,
-		"Pevtatin",
+    "Pevtatin",
     "",
     33,
     275
   },
-
   {
     "ein_in01",
     12104,
     101,
     851,
-		"Rombell",
+    "Rombell",
     "",
     36,
     204
   },
-
   {
     "ein_in01",
     12105,
     101,
     855,
-		"Vonstein",
+    "Vonstein",
     "",
     64,
     271
   },
-
   {
     "ein_in01",
     12106,
     101,
     851,
-		"Dorf",
+    "Dorf",
     "",
     49,
     202
   },
-
   {
     "ein_in01",
     12107,
     101,
     852,
-		"Khashurantze",
+    "Khashurantze",
     "",
     68,
     209
   },
-
   {
     "ein_in01",
     12108,
     101,
     851,
-		"Zherin",
+    "Zherin",
     "",
     85,
     261
   },
-
   {
     "ein_in01",
     12109,
     101,
     852,
-		"Canphotii",
+    "Canphotii",
     "",
     43,
     252
   },
-
   {
     "ein_in01",
     12110,
     101,
     855,
-		"Hotel Employee",
+    "Hotel Employee",
     "",
     206,
     224
   },
-
   {
     "ein_in01",
     12130,
     101,
     851,
-		"Cendadt",
+    "Cendadt",
     "",
     31,
     217
   },
-
   {
     "ein_in01",
     12131,
     101,
     854,
-		"Tavern Lady",
+    "Tavern Lady",
     "",
     279,
     92
   },
-
   {
     "ein_in01",
     12132,
     101,
     855,
-		"Ryan Danger",
+    "Ryan Danger",
     "einbech_bar",
     277,
     95
   },
-
   {
     "ein_in01",
     12133,
     101,
     849,
-		"Drunken Man",
+    "Drunken Man",
     "einbech_bar",
     281,
     85
   },
-
   {
     "ein_in01",
     12136,
     101,
     853,
-		"Megass",
+    "Megass",
     "",
     21,
     147
   },
-
   {
     "ein_in01",
     12143,
     101,
     855,
-		"Decii",
+    "Decii",
     "",
     208,
     86
   },
-
   {
     "ein_in01",
     12144,
     101,
     849,
-		"Supineque",
+    "Supineque",
     "",
     192,
     90
   },
-
   {
     "ein_in01",
     13152,
     101,
     724,
-		"Young Dancer",
+    "Young Dancer",
     "sch",
     174,
     266
   },
-
   {
     "ein_in01",
     13153,
     101,
     724,
-		"Cheerful Dancer",
+    "Cheerful Dancer",
     "sch",
     172,
     266
   },
-
   {
     "ein_in01",
     13154,
     101,
     724,
-		"Mature Looking Dancer",
+    "Mature Looking Dancer",
     "sch",
     170,
     266
   },
-
   {
     "ein_in01",
     13155,
     101,
     903,
-		"Hotel Manager",
+    "Hotel Manager",
     "sch",
     279,
     221
   },
-
   {
     "ein_in01",
     13156,
     101,
     904,
-		"Employee",
+    "Employee",
     "sch",
     166,
     282
   },
-
   {
     "ein_in01",
     13157,
     101,
     109,
-		"Corporate Figure",
+    "Corporate Figure",
     "",
     181,
     284
   },
-
   {
     "ein_in01",
     13158,
     101,
     920,
-		"Arunafeltz Figure",
+    "Arunafeltz Figure",
     "",
     181,
     285
   },
-
   {
     "ein_in01",
     13159,
     101,
     109,
-		"Corporate Figure",
+    "Corporate Figure",
     "sch",
     168,
     274
   },
-
   {
     "ein_in01",
     13160,
     101,
     920,
-		"Arunafeltz Figure",
+    "Arunafeltz Figure",
     "sch",
     170,
     284
   },
-
   {
     "ein_in01",
     15539,
@@ -7820,7 +7079,6 @@ Navi_Npc = {
     189,
     15
   },
-
   {
     "ein_in01",
     15540,
@@ -7831,7 +7089,6 @@ Navi_Npc = {
     106,
     27
   },
-
   {
     "ein_in01",
     15541,
@@ -7842,7 +7099,6 @@ Navi_Npc = {
     109,
     27
   },
-
   {
     "ein_in01",
     15564,
@@ -7853,436 +7109,396 @@ Navi_Npc = {
     119,
     26
   },
-
   {
     "ein_in01",
     18388,
     101,
     84,
-		"Matestein",
+    "Matestein",
     "",
     18,
     82
   },
-
   {
     "ein_in01",
     18389,
     101,
     86,
-		"Tirehaus",
+    "Tirehaus",
     "",
     15,
     87
   },
-
   {
     "ein_in01",
     18390,
     101,
     826,
-		"Manthasman",
+    "Manthasman",
     "",
     24,
     87
   },
-
   {
     "ein_in01",
     18536,
     101,
     731,
-		"Guildsman",
+    "Guildsman",
     "BLS",
     18,
     28
   },
-
   {
     "ein_in01",
     18537,
     101,
     63,
-		"Guildsman",
+    "Guildsman",
     "alberta",
     201,
     27
   },
-
   {
     "ein_in01",
     18543,
     101,
     726,
-		"Blacksmith Guildsman",
+    "Blacksmith Guildsman",
     "moc",
     24,
     41
   },
-
   {
     "ein_in01",
     18545,
     101,
     63,
-		"Paul Spanner",
+    "Paul Spanner",
     "",
     38,
     29
   },
-
   {
     "ein_in01",
     19513,
     101,
     854,
-		"Ei'felle",
+    "Ei'felle",
     "repay01",
     85,
     208
   },
-
   {
     "einbech",
     11980,
     101,
     847,
-		"Cavitar",
+    "Cavitar",
     "",
     97,
     167
   },
-
   {
     "einbech",
     12054,
     101,
     855,
-		"Young Man",
+    "Young Man",
     "ein_main",
     57,
     210
   },
-
   {
     "einbech",
     12055,
     101,
     846,
-		"Shena",
+    "Shena",
     "",
     46,
     107
   },
-
   {
     "einbech",
     12056,
     101,
     850,
-		"Luda",
+    "Luda",
     "",
     48,
     107
   },
-
   {
     "einbech",
     12057,
     101,
     855,
-		"Jung",
+    "Jung",
     "",
     148,
     242
   },
-
   {
     "einbech",
     12058,
     101,
     851,
-		"Franz",
+    "Franz",
     "",
     148,
     246
   },
-
   {
     "einbech",
     12082,
     101,
     855,
-		"Nemuk",
+    "Nemuk",
     "",
     172,
     113
   },
-
   {
     "einbech",
     12083,
     101,
     855,
-		"Young Man",
+    "Young Man",
     "",
     197,
     139
   },
-
   {
     "einbech",
     12084,
     101,
     848,
-		"Mogan",
+    "Mogan",
     "",
     128,
     238
   },
-
   {
     "einbech",
     12085,
     101,
     848,
-		"Hander",
+    "Hander",
     "",
     129,
     234
   },
-
   {
     "einbech",
     12086,
     101,
     848,
-		"Gushenmu",
+    "Gushenmu",
     "",
     105,
     218
   },
-
   {
     "einbech",
     12087,
     101,
     852,
-		"Train Station Staff",
+    "Train Station Staff",
     "ein-3",
     39,
     215
   },
-
   {
     "einbech",
     12089,
     101,
     852,
-		"Train Station Manager",
+    "Train Station Manager",
     "ein",
     157,
     215
   },
-
   {
     "einbech",
     12094,
     101,
     855,
-		"Tollaf",
+    "Tollaf",
     "",
     151,
     168
   },
-
   {
     "einbech",
     12095,
     101,
     847,
-		"Raust",
+    "Raust",
     "",
     93,
     139
   },
-
   {
     "einbech",
     12096,
     101,
     850,
-		"Mjunia",
+    "Mjunia",
     "",
     149,
     154
   },
-
   {
     "einbech",
     12097,
     101,
     848,
-		"Ekuri",
+    "Ekuri",
     "",
     130,
     253
   },
-
   {
     "einbech",
     12111,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbech11",
     135,
     250
   },
-
   {
     "einbech",
     12112,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbech22",
     90,
     214
   },
-
   {
     "einbech",
     12113,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbech33",
     158,
     189
   },
-
   {
     "einbech",
     12114,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbech44",
     180,
     136
   },
-
   {
     "einbech",
     12115,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbech55",
     133,
     114
   },
-
   {
     "einbech",
     12116,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbech01",
     77,
     105
   },
-
   {
     "einbech",
     12117,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbech03",
     181,
     127
   },
-
   {
     "einbech",
     12140,
     101,
     854,
-		"Catzllanpu",
+    "Catzllanpu",
     "",
     216,
     118
   },
-
   {
     "einbech",
     12142,
     101,
     850,
-		"Ellhenje",
+    "Ellhenje",
     "",
     176,
     125
   },
-
   {
     "einbech",
     12846,
     101,
     851,
-		"Bomb Maker",
+    "Bomb Maker",
     "",
     208,
     124
   },
-
   {
     "einbech",
     15427,
     101,
     860,
-		"Kafra Employee",
+    "Kafra Employee",
     "ein3",
     181,
     132
   },
-
   {
     "einbech",
     15665,
     101,
     91,
-		"Metelle",
+    "Metelle",
     "",
     70,
     222
   },
-
   {
     "einbech",
     15797,
     101,
     852,
-		"Einbech Guide",
+    "Einbech Guide",
     "einbech01",
     67,
     37
   },
-
   {
     "einbech",
     15798,
     101,
     852,
-		"Einbech Guide",
+    "Einbech Guide",
     "einbech02",
     48,
     214
   },
-
   {
     "einbech",
     19590,
@@ -8293,7 +7509,6 @@ Navi_Npc = {
     142,
     250
   },
-
   {
     "einbroch",
     10045,
@@ -8304,348 +7519,316 @@ Navi_Npc = {
     235,
     207
   },
-
   {
     "einbroch",
     11981,
     101,
     85,
-		"Uwe Kleine",
+    "Uwe Kleine",
     "",
     215,
     180
   },
-
   {
     "einbroch",
     12051,
     101,
     852,
-		"Laboratory Soldier",
+    "Laboratory Soldier",
     "ein-1",
     51,
     46
   },
-
   {
     "einbroch",
     12052,
     101,
     852,
-		"Laboratory Soldier",
+    "Laboratory Soldier",
     "ein-2",
     51,
     56
   },
-
   {
     "einbroch",
     12062,
     101,
     854,
-		"Morei",
+    "Morei",
     "",
     175,
     196
   },
-
   {
     "einbroch",
     12066,
     101,
     855,
-		"Oberu",
+    "Oberu",
     "",
     173,
     229
   },
-
   {
     "einbroch",
     12069,
     101,
     855,
-		"Khemko",
+    "Khemko",
     "",
     176,
     172
   },
-
   {
     "einbroch",
     12072,
     101,
     846,
-		"Leslie",
+    "Leslie",
     "ein_1",
     259,
     326
   },
-
   {
     "einbroch",
     12073,
     101,
     855,
-		"Tan",
+    "Tan",
     "ein",
     236,
     191
   },
-
   {
     "einbroch",
     12074,
     101,
     855,
-		"Little Toby",
+    "Little Toby",
     "ein-1",
     228,
     121
   },
-
   {
     "einbroch",
     12075,
     101,
     855,
-		"Airship Engineer",
+    "Airship Engineer",
     "ein-1",
     40,
     116
   },
-
   {
     "einbroch",
     12076,
     101,
     854,
-		"Centzu",
+    "Centzu",
     "",
     294,
     312
   },
-
   {
     "einbroch",
     12077,
     101,
     847,
-		"Khowropher",
+    "Khowropher",
     "",
     232,
     255
   },
-
   {
     "einbroch",
     12078,
     101,
     855,
-		"Khetine",
+    "Khetine",
     "",
     143,
     109
   },
-
   {
     "einbroch",
     12079,
     101,
     854,
-		"Sleik",
+    "Sleik",
     "",
     229,
     149
   },
-
   {
     "einbroch",
     12118,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "",
     244,
     255
   },
-
   {
     "einbroch",
     12119,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "",
     253,
     203
   },
-
   {
     "einbroch",
     12120,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "",
     68,
     206
   },
-
   {
     "einbroch",
     12121,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbroch03",
     90,
     84
   },
-
   {
     "einbroch",
     12122,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbroch04",
     101,
     106
   },
-
   {
     "einbroch",
     12123,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbroch05",
     220,
     208
   },
-
   {
     "einbroch",
     12124,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbroch06",
     132,
     76
   },
-
   {
     "einbroch",
     12125,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbroch11",
     152,
     46
   },
-
   {
     "einbroch",
     12126,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbroch22",
     235,
     141
   },
-
   {
     "einbroch",
     12127,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbroch33",
     162,
     256
   },
-
   {
     "einbroch",
     12128,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbroch44",
     183,
     174
   },
-
   {
     "einbroch",
     12129,
     101,
     858,
-		"Bulletin Board",
+    "Bulletin Board",
     "einbroch55",
     104,
     202
   },
-
   {
     "einbroch",
     12139,
     101,
     855,
-		"Keneshiotz",
+    "Keneshiotz",
     "",
     188,
     72
   },
-
   {
     "einbroch",
     12141,
     101,
     850,
-		"Kesunboss",
+    "Kesunboss",
     "",
     208,
     208
   },
-
   {
     "einbroch",
     12240,
     101,
     91,
-		"Airship Staff",
+    "Airship Staff",
     "ein01",
     94,
     267
   },
-
   {
     "einbroch",
     15425,
     101,
     861,
-		"Kafra Employee",
+    "Kafra Employee",
     "ein1",
     59,
     203
   },
-
   {
     "einbroch",
     15426,
     101,
     860,
-		"Kafra Employee",
+    "Kafra Employee",
     "ein2",
     242,
     205
   },
-
   {
     "einbroch",
     15542,
@@ -8656,7 +7839,6 @@ Navi_Npc = {
     138,
     66
   },
-
   {
     "einbroch",
     15543,
@@ -8667,7 +7849,6 @@ Navi_Npc = {
     82,
     199
   },
-
   {
     "einbroch",
     15580,
@@ -8678,7 +7859,6 @@ Navi_Npc = {
     224,
     207
   },
-
   {
     "einbroch",
     15617,
@@ -8689,51 +7869,46 @@ Navi_Npc = {
     122,
     250
   },
-
   {
     "einbroch",
     15793,
     101,
     852,
-		"Einbroch Guide",
+    "Einbroch Guide",
     "einbroch01",
     72,
     202
   },
-
   {
     "einbroch",
     15794,
     101,
     852,
-		"Einbroch Guide",
+    "Einbroch Guide",
     "einbroch02",
     155,
     43
   },
-
   {
     "einbroch",
     15795,
     101,
     852,
-		"Einbroch Guide",
+    "Einbroch Guide",
     "einbroch03",
     162,
     317
   },
-
   {
     "einbroch",
     15796,
     101,
     852,
-		"Einbroch Guide",
+    "Einbroch Guide",
     "einbroch04",
     252,
     320
   },
-
   {
     "einbroch",
     19649,
@@ -8744,18 +7919,16 @@ Navi_Npc = {
     250,
     211
   },
-
   {
     "gef_fild05",
     15685,
     101,
     877,
-		"Myu",
+    "Myu",
     "08_hat",
     80,
     149
   },
-
   {
     "gef_fild07",
     15731,
@@ -8766,7 +7939,6 @@ Navi_Npc = {
     108,
     161
   },
-
   {
     "gef_fild07",
     19045,
@@ -8777,40 +7949,36 @@ Navi_Npc = {
     89,
     208
   },
-
   {
     "gef_fild08",
     18469,
     101,
     836,
-		"Bulletin Board",
+    "Bulletin Board",
     "코볼트마을2",
     211,
     24
   },
-
   {
     "gef_fild09",
     18466,
     101,
     835,
-		"Bulletin Board",
+    "Bulletin Board",
     "오크마을1",
     227,
     29
   },
-
   {
     "gef_fild10",
     15401,
     101,
     116,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     73,
     340
   },
-
   {
     "gef_fild10",
     18470,
@@ -8821,205 +7989,186 @@ Navi_Npc = {
     109,
     24
   },
-
   {
     "gef_fild10",
     19579,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "오크던전",
     69,
     340
   },
-
   {
     "gef_fild10",
     19750,
     101,
     406,
-		"Dimensional Gorge Piece",
+    "Dimensional Gorge Piece",
     "",
     242,
     202
   },
-
   {
     "gef_fild10",
     19751,
     101,
     865,
-		"Mad Scientist",
+    "Mad Scientist",
     "",
     238,
     202
   },
-
   {
     "gef_fild13",
     17846,
     101,
     722,
-		"Eeyolbriggar",
+    "Eeyolbriggar",
     "",
     303,
     243
   },
-
   {
     "gef_fild13",
     17847,
     101,
     722,
-		"Eeyolbriggar",
+    "Eeyolbriggar",
     "",
     312,
     243
   },
-
   {
     "gef_fild13",
     17848,
     101,
     722,
-		"Eeyolbriggar",
+    "Eeyolbriggar",
     "",
     290,
     243
   },
-
   {
     "gef_fild13",
     17849,
     101,
     722,
-		"Eeyolbriggar",
+    "Eeyolbriggar",
     "",
     324,
     243
   },
-
   {
     "gef_fild13",
     17850,
     101,
     722,
-		"Yesnelph",
+    "Yesnelph",
     "",
     78,
     182
   },
-
   {
     "gef_fild13",
     17851,
     101,
     722,
-		"Yesnelph",
+    "Yesnelph",
     "",
     87,
     182
   },
-
   {
     "gef_fild13",
     17852,
     101,
     722,
-		"Yesnelph",
+    "Yesnelph",
     "",
     73,
     295
   },
-
   {
     "gef_fild13",
     17853,
     101,
     722,
-		"Yesnelph",
+    "Yesnelph",
     "",
     113,
     274
   },
-
   {
     "gef_fild13",
     17854,
     101,
     722,
-		"Yesnelph",
+    "Yesnelph",
     "",
     144,
     235
   },
-
   {
     "gef_fild13",
     17855,
     101,
     722,
-		"Yesnelph",
+    "Yesnelph",
     "",
     144,
     244
   },
-
   {
     "gef_fild13",
     17856,
     101,
     722,
-		"Bergel",
+    "Bergel",
     "",
     190,
     283
   },
-
   {
     "gef_fild13",
     17857,
     101,
     722,
-		"Bergel",
+    "Bergel",
     "",
     199,
     274
   },
-
   {
     "gef_fild13",
     17858,
     101,
     722,
-		"Mersetzdeitz",
+    "Mersetzdeitz",
     "",
     302,
     87
   },
-
   {
     "gef_fild13",
     17859,
     101,
     722,
-		"Mersetzdeitz",
+    "Mersetzdeitz",
     "",
     313,
     83
   },
-
   {
     "gef_fild13",
     17860,
     101,
     722,
-		"Mersetzdeitz",
+    "Mersetzdeitz",
     "",
     252,
     51
   },
-
   {
     "gef_fild13",
     18028,
@@ -9030,7 +8179,6 @@ Navi_Npc = {
     187,
     208
   },
-
   {
     "gef_fild13",
     18029,
@@ -9041,7 +8189,6 @@ Navi_Npc = {
     189,
     206
   },
-
   {
     "gef_fild13",
     18031,
@@ -9052,62 +8199,56 @@ Navi_Npc = {
     190,
     209
   },
-
   {
     "gef_fild13",
     18467,
     101,
     835,
-		"Bulletin Board",
+    "Bulletin Board",
     "오크마을2",
     202,
     31
   },
-
   {
     "gef_fild13",
     18468,
     101,
     836,
-		"Bulletin Board",
+    "Bulletin Board",
     "코볼트마을1",
     29,
     206
   },
-
   {
     "gef_fild13",
     19263,
     101,
     751,
-		"Soldier",
+    "Soldier",
     "277",
     297,
     242
   },
-
   {
     "gef_tower",
     15694,
     101,
     700,
-		"Point Salesman",
+    "Point Salesman",
     "소서러",
     105,
     172
   },
-
   {
     "gef_tower",
     18565,
     101,
     81,
-		"White Dog",
+    "White Dog",
     "",
     107,
     36
   },
-
   {
     "gef_tower",
     18951,
@@ -9118,40 +8259,36 @@ Navi_Npc = {
     107,
     172
   },
-
   {
     "gef_tower",
     19184,
     101,
     876,
-		"Meow",
+    "Meow",
     "",
     115,
     36
   },
-
   {
     "gef_tower",
     19339,
     101,
     64,
-		"Annoyed Man",
+    "Annoyed Man",
     "",
     118,
     36
   },
-
   {
     "gef_tower",
     19571,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "게펜지하던전",
     55,
     142
   },
-
   {
     "gefenia01",
     19595,
@@ -9162,7 +8299,6 @@ Navi_Npc = {
     61,
     173
   },
-
   {
     "gefenia02",
     19596,
@@ -9173,7 +8309,6 @@ Navi_Npc = {
     120,
     108
   },
-
   {
     "gefenia03",
     19597,
@@ -9184,7 +8319,6 @@ Navi_Npc = {
     131,
     201
   },
-
   {
     "gefenia04",
     19598,
@@ -9195,18 +8329,6 @@ Navi_Npc = {
     130,
     95
   },
-
-	{
-		"geffen",
-		10033,
-		101,
-		727,
-		"차원 술사 안내인",
-		"sa",
-		140,
-		196
-	},
-
   {
     "geffen",
     10038,
@@ -9217,18 +8339,6 @@ Navi_Npc = {
     126,
     64
   },
-
-	{
-		"geffen",
-		10071,
-		101,
-		735,
-		"닭 연구가 ",
-		"RODS02",
-		73,
-		91
-	},
-
   {
     "geffen",
     10093,
@@ -9239,29 +8349,26 @@ Navi_Npc = {
     103,
     55
   },
-
   {
     "geffen",
     11110,
     101,
     91,
-		"Meera",
+    "Meera",
     "",
     59,
     143
   },
-
   {
     "geffen",
     11111,
     101,
     82,
-		"Orwalk",
+    "Orwalk",
     "",
     156,
     190
   },
-
   {
     "geffen",
     11113,
@@ -9272,29 +8379,26 @@ Navi_Npc = {
     151,
     44
   },
-
   {
     "geffen",
     11114,
     101,
     101,
-		"Stacey",
+    "Stacey",
     "",
     111,
     48
   },
-
   {
     "geffen",
     11117,
     101,
     99,
-		"Suspicious Guy",
+    "Suspicious Guy",
     "",
     146,
     148
   },
-
   {
     "geffen",
     11125,
@@ -9305,7 +8409,6 @@ Navi_Npc = {
     90,
     130
   },
-
   {
     "geffen",
     11141,
@@ -9316,29 +8419,26 @@ Navi_Npc = {
     122,
     77
   },
-
   {
     "geffen",
     12475,
     101,
     116,
-		"Kafra Voting Staff",
+    "Kafra Voting Staff",
     "geffen",
     122,
     37
   },
-
   {
     "geffen",
     12517,
     101,
     874,
-		"Cool Event Staff",
+    "Cool Event Staff",
     "geffen",
     117,
     37
   },
-
   {
     "geffen",
     15040,
@@ -9349,29 +8449,26 @@ Navi_Npc = {
     109,
     61
   },
-
   {
     "geffen",
     15353,
     101,
     115,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     120,
     62
   },
-
   {
     "geffen",
     15358,
     101,
     114,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     203,
     123
   },
-
   {
     "geffen",
     15489,
@@ -9382,7 +8479,6 @@ Navi_Npc = {
     193,
     152
   },
-
   {
     "geffen",
     15574,
@@ -9393,40 +8489,36 @@ Navi_Npc = {
     196,
     111
   },
-
   {
     "geffen",
     15647,
     101,
     700,
-		"Ipore",
+    "Ipore",
     "",
     67,
     87
   },
-
   {
     "geffen",
     15655,
     101,
     716,
-		"Seth",
+    "Seth",
     "",
     83,
     189
   },
-
   {
     "geffen",
     15656,
     101,
     779,
-		"Argen",
+    "Argen",
     "",
     129,
     148
   },
-
   {
     "geffen",
     15699,
@@ -9437,7 +8529,6 @@ Navi_Npc = {
     129,
     49
   },
-
   {
     "geffen",
     15718,
@@ -9448,73 +8539,56 @@ Navi_Npc = {
     100,
     55
   },
-
-	{
-		"geffen",
-		15740,
-		101,
-		899,
-		"캐시 판매 안내인",
-		"",
-		115,
-		168
-	},
-
   {
     "geffen",
     15759,
     101,
     705,
-		"Guide",
+    "Guide",
     "01geffen",
     203,
     116
   },
-
   {
     "geffen",
     15760,
     101,
     705,
-		"Guide",
+    "Guide",
     "02geffen",
     118,
     62
   },
-
   {
     "geffen",
     15761,
     101,
     705,
-		"Guide",
+    "Guide",
     "03geffen",
     36,
     123
   },
-
   {
     "geffen",
     15762,
     101,
     705,
-		"Guide",
+    "Guide",
     "04geffen",
     123,
     203
   },
-
   {
     "geffen",
     17797,
     101,
     728,
-		"Maroll Battle Recruiter",
+    "Maroll Battle Recruiter",
     "",
     109,
     66
   },
-
   {
     "geffen",
     17909,
@@ -9525,84 +8599,76 @@ Navi_Npc = {
     112,
     129
   },
-
   {
     "geffen",
     17910,
     101,
     722,
-		"Yesnelph",
+    "Yesnelph",
     "",
     120,
     132
   },
-
   {
     "geffen",
     17911,
     101,
     722,
-		"Bergel",
+    "Bergel",
     "",
     127,
     130
   },
-
   {
     "geffen",
     17912,
     101,
     722,
-		"Mersetzdeitz",
+    "Mersetzdeitz",
     "",
     131,
     123
   },
-
   {
     "geffen",
     18114,
     101,
     92,
-		"Smile Assistance",
+    "Smile Assistance",
     "",
     119,
     107
   },
-
   {
     "geffen",
     18442,
     101,
     97,
-		"Citizen",
+    "Citizen",
     "",
     203,
     146
   },
-
   {
     "geffen",
     18454,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "게펜",
     124,
     65
   },
-
   {
     "geffen",
     18471,
     101,
     51,
-		"Bard",
+    "Bard",
     "2",
     132,
     38
   },
-
   {
     "geffen",
     18759,
@@ -9613,7 +8679,6 @@ Navi_Npc = {
     63,
     70
   },
-
   {
     "geffen",
     19046,
@@ -9624,172 +8689,146 @@ Navi_Npc = {
     43,
     123
   },
-
   {
     "geffen",
     19260,
     101,
     726,
-		"Akkie",
+    "Akkie",
     "",
     178,
     72
   },
-
   {
     "geffen",
     19261,
     101,
     826,
-		"Goodman",
+    "Goodman",
     "",
     172,
     52
   },
-
   {
     "geffen",
     19623,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "3",
     132,
     66
   },
-
-	{
-		"geffen_in",
-		10035,
-		101,
-		727,
-		"사크라이 차원술사",
-		"sa",
-		182,
-		194
-	},
-
   {
     "geffen_in",
     11112,
     101,
     64,
-		"Wizard Stanza",
+    "Wizard Stanza",
     "",
     164,
     109
   },
-
   {
     "geffen_in",
     11115,
     101,
     47,
-		"Theodore",
+    "Theodore",
     "",
     34,
     170
   },
-
   {
     "geffen_in",
     11116,
     101,
     63,
-		"Christopher",
+    "Christopher",
     "",
     110,
     172
   },
-
   {
     "geffen_in",
     11118,
     101,
     52,
-		"Crumpler",
+    "Crumpler",
     "",
     22,
     125
   },
-
   {
     "geffen_in",
     11119,
     101,
     61,
-		"Skyler",
+    "Skyler",
     "",
     59,
     61
   },
-
   {
     "geffen_in",
     11120,
     101,
     91,
-		"Waitress",
+    "Waitress",
     "",
     27,
     134
   },
-
   {
     "geffen_in",
     11121,
     101,
     90,
-		"Waitress",
+    "Waitress",
     "",
     70,
     67
   },
-
   {
     "geffen_in",
     11122,
     101,
     120,
-		"Merchant Daven",
+    "Merchant Daven",
     "",
     79,
     76
   },
-
   {
     "geffen_in",
     11123,
     101,
     709,
-		"Hadenheim",
+    "Hadenheim",
     "",
     114,
     73
   },
-
   {
     "geffen_in",
     11124,
     101,
     704,
-		"Psychic Advisor",
+    "Psychic Advisor",
     "",
     39,
     127
   },
-
   {
     "geffen_in",
     11126,
     101,
     53,
-		"Inn Employee",
+    "Inn Employee",
     "",
     70,
     64
   },
-
   {
     "geffen_in",
     11142,
@@ -9800,29 +8839,26 @@ Navi_Npc = {
     99,
     174
   },
-
   {
     "geffen_in",
     11492,
     101,
     731,
-		"Blacksmith",
+    "Blacksmith",
     "사염문",
     71,
     112
   },
-
   {
     "geffen_in",
     11493,
     101,
     716,
-		"Girl",
+    "Girl",
     "",
     106,
     106
   },
-
   {
     "geffen_in",
     15483,
@@ -9833,7 +8869,6 @@ Navi_Npc = {
     77,
     167
   },
-
   {
     "geffen_in",
     15484,
@@ -9844,7 +8879,6 @@ Navi_Npc = {
     77,
     173
   },
-
   {
     "geffen_in",
     15485,
@@ -9855,7 +8889,6 @@ Navi_Npc = {
     26,
     178
   },
-
   {
     "geffen_in",
     15486,
@@ -9866,7 +8899,6 @@ Navi_Npc = {
     30,
     178
   },
-
   {
     "geffen_in",
     15487,
@@ -9877,7 +8909,6 @@ Navi_Npc = {
     74,
     144
   },
-
   {
     "geffen_in",
     15488,
@@ -9888,7 +8919,6 @@ Navi_Npc = {
     171,
     123
   },
-
   {
     "geffen_in",
     15569,
@@ -9899,62 +8929,56 @@ Navi_Npc = {
     22,
     171
   },
-
   {
     "geffen_in",
     18092,
     101,
     63,
-		"Blacksmith",
+    "Blacksmith",
     "",
     144,
     166
   },
-
   {
     "geffen_in",
     18100,
     101,
     83,
-		"Eric",
+    "Eric",
     "",
     30,
     71
   },
-
   {
     "geffen_in",
     18198,
     101,
     84,
-		"PVPNarrator",
+    "PVPNarrator",
     "",
     67,
     63
   },
-
   {
     "geffen_in",
     18199,
     101,
     83,
-		"Gate Keeper",
+    "Gate Keeper",
     "",
     63,
     63
   },
-
   {
     "geffen_in",
     18359,
     101,
     64,
-		"Great Wizard",
+    "Great Wizard",
     "",
     151,
     119
   },
-
   {
     "geffen_in",
     18435,
@@ -9965,18 +8989,16 @@ Navi_Npc = {
     34,
     166
   },
-
   {
     "geffen_in",
     18483,
     101,
     123,
-		"Mage Guildsman",
+    "Mage Guildsman",
     "",
     164,
     124
   },
-
   {
     "geffen_in",
     19136,
@@ -9987,7 +9009,6 @@ Navi_Npc = {
     158,
     107
   },
-
   {
     "geffen_in",
     19146,
@@ -9998,7 +9019,6 @@ Navi_Npc = {
     159,
     124
   },
-
   {
     "geffen_in",
     19147,
@@ -10009,7 +9029,6 @@ Navi_Npc = {
     158,
     113
   },
-
   {
     "geffen_in",
     19148,
@@ -10020,73 +9039,46 @@ Navi_Npc = {
     158,
     110
   },
-
   {
     "geffen_in",
     19632,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "8",
     160,
     104
   },
-
   {
     "gl_prison1",
     15662,
     101,
     1200,
-		"Zealotus",
+    "Zealotus",
     "hat",
     137,
     138
   },
-
   {
     "gl_prison1",
     15663,
     101,
     1202,
-		"Phendark",
+    "Phendark",
     "hat",
     97,
     104
   },
-
   {
     "gl_prison1",
     15664,
     101,
     1201,
-		"Rybio",
+    "Rybio",
     "hat",
     100,
     48
   },
-
-	{
-		"glast_01",
-		10073,
-		101,
-		707,
-		"힘이 세 보이는 남자 ",
-		"RODS03",
-		51,
-		328
-	},
-
-	{
-		"glast_01",
-		10075,
-		101,
-		1905,
-		"",
-		"RODS5_obj",
-		365,
-		309
-	},
-
   {
     "glast_01",
     19572,
@@ -10097,7 +9089,6 @@ Navi_Npc = {
     372,
     298
   },
-
   {
     "glast_01",
     19714,
@@ -10108,95 +9099,86 @@ Navi_Npc = {
     195,
     131
   },
-
   {
     "gon_fild01",
     18412,
     101,
     776,
-		"Kunlun Envoy",
+    "Kunlun Envoy",
     "1",
     255,
     79
   },
-
   {
     "gon_fild01",
     18414,
     101,
     776,
-		"Kunlun Envoy",
+    "Kunlun Envoy",
     "1",
     187,
     239
   },
-
   {
     "gon_in",
     11483,
     101,
     774,
-		"Yu Jiu Xia",
+    "Yu Jiu Xia",
     "",
     173,
     27
   },
-
   {
     "gon_in",
     11487,
     101,
     702,
-		"Hostess",
+    "Hostess",
     "",
     152,
     35
   },
-
   {
     "gon_in",
     11489,
     101,
     771,
-		"Madam",
+    "Madam",
     "",
     18,
     27
   },
-
   {
     "gon_test",
     11500,
     101,
     774,
-		"Summoner",
+    "Summoner",
     "",
     42,
     89
   },
-
   {
     "gon_test",
     11501,
     101,
     770,
-		"Guide of field of fight",
+    "Guide of field of fight",
     "",
     46,
     14
   },
-
   {
     "gon_test",
     11504,
     101,
     773,
-		"ChowAnAn",
+    "ChowAnAn",
     "",
     70,
     103
   },
-
   {
     "gonryun",
     10054,
@@ -10207,150 +9189,136 @@ Navi_Npc = {
     156,
     122
   },
-
   {
     "gonryun",
     11476,
     101,
     776,
-		"Han Ran Jiao",
+    "Han Ran Jiao",
     "",
     237,
     226
   },
-
   {
     "gonryun",
     11477,
     101,
     774,
-		"Jian Chung Xun",
+    "Jian Chung Xun",
     "",
     200,
     82
   },
-
   {
     "gonryun",
     11478,
     101,
     776,
-		"Liang Zhun Bu",
+    "Liang Zhun Bu",
     "",
     268,
     88
   },
-
   {
     "gonryun",
     11479,
     101,
     89,
-		"Qian Yuen Shuang",
+    "Qian Yuen Shuang",
     "",
     118,
     111
   },
-
   {
     "gonryun",
     11480,
     101,
     773,
-		"Jing Wen Zhen",
+    "Jing Wen Zhen",
     "",
     181,
     161
   },
-
   {
     "gonryun",
     11481,
     101,
     780,
-		"Gatekeeper",
+    "Gatekeeper",
     "쿤룬",
     113,
     135
   },
-
   {
     "gonryun",
     11482,
     101,
     780,
-		"Gatekeeper",
+    "Gatekeeper",
     "쿤룬",
     113,
     127
   },
-
   {
     "gonryun",
     11484,
     101,
     780,
-		"Soldier",
+    "Soldier",
     "",
     166,
     196
   },
-
   {
     "gonryun",
     11485,
     101,
     770,
-		"Guidev",
+    "Guidev",
     "",
     169,
     71
   },
-
   {
     "gonryun",
     11490,
     101,
     772,
-		"Girl",
+    "Girl",
     "1",
     139,
     142
   },
-
   {
     "gonryun",
     11491,
     101,
     733,
-		"Stranger",
+    "Stranger",
     "",
     100,
     241
   },
-
   {
     "gonryun",
     11497,
     101,
     85,
-		"Iron man",
+    "Iron man",
     "",
     180,
     118
   },
-
   {
     "gonryun",
     15419,
     101,
     116,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     159,
     122
   },
-
   {
     "gonryun",
     15525,
@@ -10361,7 +9329,6 @@ Navi_Npc = {
     147,
     84
   },
-
   {
     "gonryun",
     15526,
@@ -10372,7 +9339,6 @@ Navi_Npc = {
     173,
     84
   },
-
   {
     "gonryun",
     15527,
@@ -10383,7 +9349,6 @@ Navi_Npc = {
     174,
     101
   },
-
   {
     "gonryun",
     15584,
@@ -10394,7 +9359,6 @@ Navi_Npc = {
     147,
     101
   },
-
   {
     "gonryun",
     15727,
@@ -10405,29 +9369,26 @@ Navi_Npc = {
     149,
     189
   },
-
   {
     "gonryun",
     15802,
     101,
     780,
-		"Kunlun Guide",
+    "Kunlun Guide",
     "01gonryun",
     163,
     60
   },
-
   {
     "gonryun",
     18415,
     101,
     776,
-		"Kunlun Envoy",
+    "Kunlun Envoy",
     "3",
     153,
     64
   },
-
   {
     "gonryun",
     19606,
@@ -10438,7 +9399,6 @@ Navi_Npc = {
     155,
     198
   },
-
   {
     "gonryun",
     19659,
@@ -10449,29 +9409,26 @@ Navi_Npc = {
     162,
     122
   },
-
   {
     "hu_fild01",
     12764,
     101,
     852,
-		"Tower Keeper",
+    "Tower Keeper",
     "",
     140,
     163
   },
-
   {
     "hu_fild05",
     18907,
     101,
     879,
-		"Dancer Kim",
+    "Dancer Kim",
     "fild",
     342,
     130
   },
-
   {
     "hu_fild05",
     19589,
@@ -10482,161 +9439,146 @@ Navi_Npc = {
     188,
     210
   },
-
   {
     "hu_fild06",
     12890,
     101,
     97,
-		"Postell Schuwell",
+    "Postell Schuwell",
     "1",
     34,
     123
   },
-
   {
     "hu_fild06",
     12892,
     101,
     701,
-		"Torpy's Mom",
+    "Torpy's Mom",
     "",
     190,
     367
   },
-
   {
     "hu_fild06",
     12901,
     101,
     896,
-		"Burupu",
+    "Burupu",
     "휘겔",
     217,
     270
   },
-
   {
     "hu_in01",
     12845,
     101,
     891,
-		"Girl",
+    "Girl",
     "윈칠 트로니",
     310,
     380
   },
-
   {
     "hu_in01",
     12851,
     101,
     53,
-		"Inn Maid",
+    "Inn Maid",
     "",
     246,
     107
   },
-
   {
     "hu_in01",
     12852,
     101,
     793,
-		"Girl",
+    "Girl",
     "hgtre",
     365,
     170
   },
-
   {
     "hu_in01",
     12853,
     101,
     892,
-		"Pub Granny",
+    "Pub Granny",
     "hgtre",
     377,
     106
   },
-
   {
     "hu_in01",
     12886,
     101,
     49,
-		"A Part-Timer",
+    "A Part-Timer",
     "1",
     18,
     94
   },
-
   {
     "hu_in01",
     12887,
     101,
     50,
-		"A Part-Timer",
+    "A Part-Timer",
     "2",
     26,
     77
   },
-
   {
     "hu_in01",
     12888,
     101,
     849,
-		"Allen Schuwell",
+    "Allen Schuwell",
     "휘겔",
     387,
     245
   },
-
   {
     "hu_in01",
     12889,
     101,
     97,
-		"Postell Schuwell",
+    "Postell Schuwell",
     "2",
     385,
     247
   },
-
   {
     "hu_in01",
     12909,
     101,
     74,
-		"Cellette Lavit",
+    "Cellette Lavit",
     "hg",
     15,
     372
   },
-
   {
     "hu_in01",
     15314,
     101,
     105,
-		"Falcon Breeder",
+    "Falcon Breeder",
     "",
     381,
     304
   },
-
   {
     "hu_in01",
     15588,
     101,
     898,
-		"Party Supplies Shop",
+    "Party Supplies Shop",
     "hg",
     23,
     311
   },
-
   {
     "hu_in01",
     15589,
@@ -10647,7 +9589,6 @@ Navi_Npc = {
     93,
     390
   },
-
   {
     "hu_in01",
     15590,
@@ -10658,7 +9599,6 @@ Navi_Npc = {
     100,
     390
   },
-
   {
     "hu_in01",
     15591,
@@ -10669,7 +9609,6 @@ Navi_Npc = {
     94,
     313
   },
-
   {
     "hu_in01",
     15592,
@@ -10680,7 +9619,6 @@ Navi_Npc = {
     241,
     368
   },
-
   {
     "hu_in01",
     15593,
@@ -10691,7 +9629,6 @@ Navi_Npc = {
     252,
     368
   },
-
   {
     "hu_in01",
     15737,
@@ -10702,51 +9639,46 @@ Navi_Npc = {
     386,
     306
   },
-
   {
     "hu_in01",
     18786,
     101,
     79,
-		"Praying Nun",
+    "Praying Nun",
     "benew",
     205,
     204
   },
-
   {
     "hu_in01",
     18861,
     101,
     486,
-		"Karian",
+    "Karian",
     "job_min2",
     267,
     5
   },
-
   {
     "hu_in01",
     18862,
     101,
     995,
-		"Tone-deaf person",
+    "Tone-deaf person",
     "job_min",
     361,
     103
   },
-
   {
     "hu_in01",
     18906,
     101,
     879,
-		"Vacant Looking Lady",
+    "Vacant Looking Lady",
     "wander",
     305,
     251
   },
-
   {
     "hugel",
     10046,
@@ -10757,95 +9689,86 @@ Navi_Npc = {
     80,
     152
   },
-
   {
     "hugel",
     12858,
     101,
     90,
-		"Lisa",
+    "Lisa",
     "3459",
     71,
     197
   },
-
   {
     "hugel",
     12859,
     101,
     90,
-		"Emily",
+    "Emily",
     "3459",
     126,
     151
   },
-
   {
     "hugel",
     12860,
     101,
     837,
-		"Sign",
+    "Sign",
     "",
     91,
     152
   },
-
   {
     "hugel",
     12869,
     101,
     709,
-		"Boatman",
+    "Boatman",
     "",
     209,
     109
   },
-
   {
     "hugel",
     12891,
     101,
     706,
-		"Torpy",
+    "Torpy",
     "",
     107,
     67
   },
-
   {
     "hugel",
     12893,
     101,
     898,
-		"Strange Man",
+    "Strange Man",
     "out",
     100,
     174
   },
-
   {
     "hugel",
     12900,
     101,
     709,
-		"Kurupe",
+    "Kurupe",
     "휘겔",
     56,
     104
   },
-
   {
     "hugel",
     12902,
     101,
     889,
-		"Booboo the Cow",
+    "Booboo the Cow",
     "휘겔",
     68,
     99
   },
-
   {
     "hugel",
     12903,
@@ -10856,95 +9779,86 @@ Navi_Npc = {
     85,
     165
   },
-
   {
     "hugel",
     12904,
     101,
     898,
-		"Young Man",
+    "Young Man",
     "hg",
     189,
     143
   },
-
   {
     "hugel",
     12905,
     101,
     897,
-		"Marius",
+    "Marius",
     "hg",
     175,
     115
   },
-
   {
     "hugel",
     12906,
     101,
     892,
-		"Old Nikki",
+    "Old Nikki",
     "hg",
     169,
     112
   },
-
   {
     "hugel",
     12910,
     101,
     101,
-		"Neha",
+    "Neha",
     "hg",
     76,
     134
   },
-
   {
     "hugel",
     12911,
     101,
     86,
-		"Maewan",
+    "Maewan",
     "hg",
     87,
     139
   },
-
   {
     "hugel",
     12912,
     101,
     700,
-		"Layoma",
+    "Layoma",
     "hg",
     84,
     125
   },
-
   {
     "hugel",
     12913,
     101,
     100,
-		"Erjan",
+    "Erjan",
     "hg",
     102,
     161
   },
-
   {
     "hugel",
     15433,
     101,
     874,
-		"Cool Event Corp. Staff",
+    "Cool Event Corp. Staff",
     "",
     88,
     168
   },
-
   {
     "hugel",
     15443,
@@ -10955,7 +9869,6 @@ Navi_Npc = {
     77,
     167
   },
-
   {
     "hugel",
     15594,
@@ -10966,84 +9879,66 @@ Navi_Npc = {
     105,
     169
   },
-
   {
     "hugel",
     15675,
     101,
     897,
-		"Ghenirhemin",
+    "Ghenirhemin",
     "",
     147,
     103
   },
-
   {
     "hugel",
     15786,
     101,
     863,
-		"Hugel Guide Granny",
+    "Hugel Guide Granny",
     "hugel",
     98,
     56
   },
-
   {
     "hugel",
     15787,
     101,
     414,
-		"Guide Rich King",
+    "Guide Rich King",
     "hugel",
     187,
     172
   },
-
-	{
-		"hugel",
-		19495,
-		101,
-		798,
-		"Eckar Ellebird",
-		"single",
-		58,
-		72
-	},
-
   {
     "hugel",
     19502,
     101,
     798,
-		"Eckar Erenes",
+    "Eckar Erenes",
     "double",
     62,
     69
   },
-
   {
     "hugel",
     19514,
     101,
     900,
-		"Wayne",
+    "Wayne",
     "",
     71,
     83
   },
-
   {
     "hugel",
     19516,
     101,
     866,
-		"Mudie",
+    "Mudie",
     "dummy01",
     85,
     93
   },
-
   {
     "hugel",
     19645,
@@ -11054,18 +9949,16 @@ Navi_Npc = {
     93,
     153
   },
-
   {
     "ice_dun01",
     18948,
     101,
     836,
-		"Spirit Detecting Staff",
+    "Spirit Detecting Staff",
     "1",
     274,
     274
   },
-
   {
     "ice_dun01",
     19716,
@@ -11076,18 +9969,16 @@ Navi_Npc = {
     154,
     13
   },
-
   {
     "ice_dun02",
     12933,
     101,
     924,
-		"Man Stuck in Ice",
+    "Man Stuck in Ice",
     "cave",
     120,
     105
   },
-
   {
     "ice_dun02",
     18851,
@@ -11098,29 +9989,26 @@ Navi_Npc = {
     206,
     223
   },
-
   {
     "ice_dun03",
     12936,
     101,
     802,
-		"Blazing Fire",
+    "Blazing Fire",
     "ice1",
     126,
     126
   },
-
   {
     "ice_dun03",
     12937,
     101,
     802,
-		"Blazing Fire",
+    "Blazing Fire",
     "ice2",
     172,
     126
   },
-
   {
     "ice_dun03",
     12938,
@@ -11131,29 +10019,26 @@ Navi_Npc = {
     172,
     173
   },
-
   {
     "ice_dun03",
     12939,
     101,
     802,
-		"Blazing Fire",
+    "Blazing Fire",
     "ice4",
     127,
     172
   },
-
   {
     "ice_dun04",
     12944,
     101,
     925,
-		"Frozen Boy",
+    "Frozen Boy",
     "",
     33,
     166
   },
-
   {
     "in_moc_16",
     15445,
@@ -11164,304 +10049,196 @@ Navi_Npc = {
     22,
     20
   },
-
   {
     "in_moc_16",
     18494,
     101,
     55,
-		"Guildsman",
+    "Guildsman",
     "",
     19,
     33
   },
-
   {
     "in_moc_16",
     18499,
     101,
     730,
-		"Guildsman",
+    "Guildsman",
     "ASN2",
     25,
     90
   },
-
   {
     "in_moc_16",
     18512,
     101,
     725,
-		"Standby Room",
+    "Standby Room",
     "ASN",
     21,
     165
   },
-
   {
     "in_moc_16",
     18518,
     101,
     118,
-		"Thomas",
+    "Thomas",
     "ASNTEST",
     89,
     98
   },
-
   {
     "in_moc_16",
     18521,
     101,
     725,
-		"Barcardi",
+    "Barcardi",
     "ASN",
     87,
     48
   },
-
-	{
-		"in_moc_16",
-		18524,
-		101,
-		106,
-		"Guildmaster",
-		"ASN2",
-		149,
-		80
-	},
-
   {
     "in_moc_16",
     18528,
     101,
     55,
-		"Master Assist",
+    "Master Assist",
     "ASN",
     186,
     81
   },
-
-	{
-		"in_moc_16",
-		18529,
-		101,
-		55,
-		"[Huey]",
-		"",
-		156,
-		87
-	},
-
-	{
-		"in_moc_16",
-		18530,
-		101,
-		730,
-		"[Khai]",
-		"",
-		156,
-		85
-	},
-
-	{
-		"in_moc_16",
-		18531,
-		101,
-		106,
-		"[The Anonymous One]",
-		"",
-		156,
-		83
-	},
-
-	{
-		"in_moc_16",
-		18532,
-		101,
-		725,
-		"[Barcardi]",
-		"",
-		156,
-		81
-	},
-
-	{
-		"in_moc_16",
-		18533,
-		101,
-		118,
-		"[Beholder]",
-		"",
-		156,
-		79
-	},
-
-	{
-		"in_moc_16",
-		18534,
-		101,
-		118,
-		"[Thomas]",
-		"",
-		156,
-		77
-	},
-
-	{
-		"in_moc_16",
-		18535,
-		101,
-		55,
-		"[Gayle Maroubitz]",
-		"",
-		156,
-		75
-	},
-
   {
     "in_moc_16",
     19182,
     101,
     884,
-		"Assassin",
+    "Assassin",
     "남자다",
     14,
     27
   },
-
   {
     "in_moc_16",
     19183,
     101,
     885,
-		"Assassin",
+    "Assassin",
     "여자다",
     23,
     27
   },
-
   {
     "in_orcs01",
     15658,
     101,
     1023,
-		"Orc Warrior",
+    "Orc Warrior",
     "1",
     31,
     93
   },
-
   {
     "in_orcs01",
     15660,
     101,
     1087,
-		"Orc Hero",
+    "Orc Hero",
     "1",
     162,
     33
   },
-
   {
     "in_orcs01",
     15687,
     101,
     1273,
-		"Orc Lady",
+    "Orc Lady",
     "2008hat03",
     119,
     106
   },
-
   {
     "in_orcs01",
     19707,
     101,
     803,
-		"Eden Member Hooksha",
+    "Eden Member Hooksha",
     "para07",
     38,
     175
   },
-
   {
     "in_rogue",
     11809,
     101,
     748,
-		"Suspicious Man",
+    "Suspicious Man",
     "메긴",
     243,
     61
   },
-
   {
     "in_rogue",
     18661,
     101,
     747,
-		"Rogue Guildsman",
+    "Rogue Guildsman",
     "",
     363,
     122
   },
-
   {
     "in_rogue",
     18662,
     101,
     57,
-		"Mr. Smith",
+    "Mr. Smith",
     "",
     376,
     23
   },
-
   {
     "in_rogue",
     18667,
     101,
     85,
-		"Hermanthorn Jr",
+    "Hermanthorn Jr",
     "",
     272,
     135
   },
-
   {
     "in_rogue",
     18671,
     101,
     99,
-		"Aragham Junior",
+    "Aragham Junior",
     "",
     244,
     39
   },
-
   {
     "in_rogue",
     18675,
     101,
     85,
-		"Hollgrehenn junior",
+    "Hollgrehenn junior",
     "",
     160,
     34
   },
-
   {
     "in_rogue",
     18679,
     101,
     88,
-		"Antonio junior",
+    "Antonio junior",
     "",
     177,
     109
   },
-
   {
     "in_rogue",
     18844,
@@ -11472,7 +10249,6 @@ Navi_Npc = {
     376,
     100
   },
-
   {
     "in_rogue",
     18845,
@@ -11483,7 +10259,6 @@ Navi_Npc = {
     379,
     99
   },
-
   {
     "in_rogue",
     18846,
@@ -11494,95 +10269,86 @@ Navi_Npc = {
     379,
     101
   },
-
   {
     "in_rogue",
     19186,
     101,
     705,
-		"Killer",
+    "Killer",
     "로그길드",
     357,
     174
   },
-
   {
     "in_rogue",
     19187,
     101,
     46,
-		"Haijara Greg",
+    "Haijara Greg",
     "로그길드",
     355,
     179
   },
-
   {
     "in_rogue",
     19188,
     101,
     84,
-		"Louis Greg",
+    "Louis Greg",
     "로그길드",
     152,
     29
   },
-
   {
     "in_rogue",
     19189,
     101,
     86,
-		"Thor Greg",
+    "Thor Greg",
     "로그길드",
     268,
     125
   },
-
   {
     "in_rogue",
     19193,
     101,
     85,
-		"Jay Greg",
+    "Jay Greg",
     "로그길드",
     181,
     114
   },
-
   {
     "in_rogue",
     19545,
     101,
     828,
-		"Rogue Investigator",
+    "Rogue Investigator",
     "",
     366,
     46
   },
-
   {
     "in_rogue",
     19549,
     101,
     747,
-		"Marybell",
+    "Marybell",
     "",
     359,
     116
   },
-
   {
     "in_rogue",
     19563,
     101,
     118,
-		"Rogue Agent",
+    "Rogue Agent",
     "",
     355,
     28
   },
-
   {
     "iz_ac01",
     18979,
@@ -11593,7 +10359,6 @@ Navi_Npc = {
     59,
     43
   },
-
   {
     "iz_ac01",
     18994,
@@ -11604,7 +10369,6 @@ Navi_Npc = {
     68,
     49
   },
-
   {
     "iz_ac01",
     18995,
@@ -11615,7 +10379,6 @@ Navi_Npc = {
     59,
     83
   },
-
   {
     "iz_ac01",
     19001,
@@ -11626,7 +10389,6 @@ Navi_Npc = {
     147,
     47
   },
-
   {
     "iz_ac01",
     19002,
@@ -11637,7 +10399,6 @@ Navi_Npc = {
     149,
     46
   },
-
   {
     "iz_ac01",
     19003,
@@ -11648,7 +10409,6 @@ Navi_Npc = {
     150,
     47
   },
-
   {
     "iz_ac01",
     19004,
@@ -11659,7 +10419,6 @@ Navi_Npc = {
     160,
     47
   },
-
   {
     "iz_ac01",
     19005,
@@ -11670,7 +10429,6 @@ Navi_Npc = {
     159,
     32
   },
-
   {
     "iz_ac01",
     19006,
@@ -11681,7 +10439,6 @@ Navi_Npc = {
     164,
     36
   },
-
   {
     "iz_ac01",
     19007,
@@ -11692,7 +10449,6 @@ Navi_Npc = {
     133,
     34
   },
-
   {
     "iz_ac01",
     19033,
@@ -11703,7 +10459,6 @@ Navi_Npc = {
     95,
     46
   },
-
   {
     "iz_ac01",
     19041,
@@ -11714,7 +10469,6 @@ Navi_Npc = {
     89,
     103
   },
-
   {
     "iz_ac01",
     19047,
@@ -11725,7 +10479,6 @@ Navi_Npc = {
     93,
     76
   },
-
   {
     "iz_ac01",
     19048,
@@ -11736,7 +10489,6 @@ Navi_Npc = {
     106,
     76
   },
-
   {
     "iz_ac01",
     19049,
@@ -11747,7 +10499,6 @@ Navi_Npc = {
     106,
     44
   },
-
   {
     "iz_ac01",
     19050,
@@ -11758,7 +10509,6 @@ Navi_Npc = {
     93,
     44
   },
-
   {
     "iz_ac01",
     19051,
@@ -11769,7 +10519,6 @@ Navi_Npc = {
     103,
     89
   },
-
   {
     "iz_ac01",
     19068,
@@ -11780,7 +10529,6 @@ Navi_Npc = {
     100,
     39
   },
-
   {
     "iz_ac01",
     19069,
@@ -11791,7 +10539,6 @@ Navi_Npc = {
     134,
     47
   },
-
   {
     "iz_ac01",
     19077,
@@ -11802,7 +10549,6 @@ Navi_Npc = {
     138,
     69
   },
-
   {
     "iz_ac01",
     19088,
@@ -11813,7 +10559,6 @@ Navi_Npc = {
     36,
     52
   },
-
   {
     "iz_ac01",
     19089,
@@ -11824,7 +10569,6 @@ Navi_Npc = {
     45,
     80
   },
-
   {
     "iz_ac01",
     19091,
@@ -11835,7 +10579,6 @@ Navi_Npc = {
     53,
     74
   },
-
   {
     "iz_ac02",
     18982,
@@ -11846,7 +10589,6 @@ Navi_Npc = {
     52,
     136
   },
-
   {
     "iz_ac02",
     18984,
@@ -11857,7 +10599,6 @@ Navi_Npc = {
     49,
     134
   },
-
   {
     "iz_ac02",
     18985,
@@ -11868,7 +10609,6 @@ Navi_Npc = {
     55,
     134
   },
-
   {
     "iz_ac02",
     18986,
@@ -11879,7 +10619,6 @@ Navi_Npc = {
     62,
     139
   },
-
   {
     "iz_ac02",
     18996,
@@ -11890,7 +10629,6 @@ Navi_Npc = {
     156,
     169
   },
-
   {
     "iz_ac02",
     18998,
@@ -11901,7 +10639,6 @@ Navi_Npc = {
     152,
     165
   },
-
   {
     "iz_ac02",
     18999,
@@ -11912,7 +10649,6 @@ Navi_Npc = {
     65,
     109
   },
-
   {
     "iz_ac02",
     19008,
@@ -11923,7 +10659,6 @@ Navi_Npc = {
     142,
     85
   },
-
   {
     "iz_ac02",
     19009,
@@ -11934,7 +10669,6 @@ Navi_Npc = {
     162,
     86
   },
-
   {
     "iz_ac02",
     19010,
@@ -11945,7 +10679,6 @@ Navi_Npc = {
     152,
     79
   },
-
   {
     "iz_ac02",
     19011,
@@ -11956,7 +10689,6 @@ Navi_Npc = {
     143,
     77
   },
-
   {
     "iz_ac02",
     19012,
@@ -11967,7 +10699,6 @@ Navi_Npc = {
     159,
     79
   },
-
   {
     "iz_ac02",
     19020,
@@ -11978,7 +10709,6 @@ Navi_Npc = {
     143,
     55
   },
-
   {
     "iz_ac02",
     19031,
@@ -11989,7 +10719,6 @@ Navi_Npc = {
     148,
     110
   },
-
   {
     "iz_ac02",
     19037,
@@ -12000,7 +10729,6 @@ Navi_Npc = {
     101,
     176
   },
-
   {
     "iz_ac02",
     19052,
@@ -12011,7 +10739,6 @@ Navi_Npc = {
     98,
     170
   },
-
   {
     "iz_ac02",
     19053,
@@ -12022,7 +10749,6 @@ Navi_Npc = {
     109,
     170
   },
-
   {
     "iz_ac02",
     19054,
@@ -12033,7 +10759,6 @@ Navi_Npc = {
     98,
     140
   },
-
   {
     "iz_ac02",
     19055,
@@ -12044,7 +10769,6 @@ Navi_Npc = {
     109,
     140
   },
-
   {
     "iz_ac02",
     19056,
@@ -12055,7 +10779,6 @@ Navi_Npc = {
     98,
     110
   },
-
   {
     "iz_ac02",
     19057,
@@ -12066,7 +10789,6 @@ Navi_Npc = {
     109,
     110
   },
-
   {
     "iz_ac02",
     19058,
@@ -12077,7 +10799,6 @@ Navi_Npc = {
     98,
     80
   },
-
   {
     "iz_ac02",
     19059,
@@ -12088,7 +10809,6 @@ Navi_Npc = {
     109,
     80
   },
-
   {
     "iz_ac02",
     19060,
@@ -12099,7 +10819,6 @@ Navi_Npc = {
     98,
     50
   },
-
   {
     "iz_ac02",
     19061,
@@ -12110,7 +10829,6 @@ Navi_Npc = {
     109,
     50
   },
-
   {
     "iz_ac02",
     19062,
@@ -12121,7 +10839,6 @@ Navi_Npc = {
     107,
     180
   },
-
   {
     "iz_ac02",
     19063,
@@ -12132,7 +10849,6 @@ Navi_Npc = {
     140,
     139
   },
-
   {
     "iz_ac02",
     19070,
@@ -12143,7 +10859,6 @@ Navi_Npc = {
     62,
     51
   },
-
   {
     "iz_ac02",
     19071,
@@ -12154,7 +10869,6 @@ Navi_Npc = {
     53,
     48
   },
-
   {
     "iz_ac02",
     19073,
@@ -12165,7 +10879,6 @@ Navi_Npc = {
     70,
     85
   },
-
   {
     "iz_ac02",
     19076,
@@ -12176,7 +10889,6 @@ Navi_Npc = {
     149,
     43
   },
-
   {
     "iz_ac02",
     19085,
@@ -12187,7 +10899,6 @@ Navi_Npc = {
     50,
     169
   },
-
   {
     "iz_ac02",
     19087,
@@ -12198,7 +10909,6 @@ Navi_Npc = {
     53,
     171
   },
-
   {
     "iz_ac02",
     19172,
@@ -12209,7 +10919,6 @@ Navi_Npc = {
     44,
     175
   },
-
   {
     "iz_dun04",
     10944,
@@ -12220,18 +10929,16 @@ Navi_Npc = {
     130,
     234
   },
-
   {
     "iz_dun04",
     19708,
     101,
     745,
-		"Eden Member Callandiva",
+    "Eden Member Callandiva",
     "para08",
     43,
     46
   },
-
   {
     "iz_dun05",
     10946,
@@ -12242,7 +10949,6 @@ Navi_Npc = {
     142,
     190
   },
-
   {
     "iz_ng01",
     19153,
@@ -12253,18 +10959,16 @@ Navi_Npc = {
     25,
     67
   },
-
   {
     "izlu2dun",
     10930,
     101,
     100,
-		"Sailor",
+    "Sailor",
     "",
     108,
     27
   },
-
   {
     "izlu2dun",
     15397,
@@ -12275,7 +10979,6 @@ Navi_Npc = {
     106,
     58
   },
-
   {
     "izlu2dun",
     19581,
@@ -12286,7 +10989,6 @@ Navi_Npc = {
     111,
     87
   },
-
   {
     "izlude",
     10049,
@@ -12297,7 +10999,6 @@ Navi_Npc = {
     125,
     148
   },
-
   {
     "izlude",
     10084,
@@ -12308,7 +11009,6 @@ Navi_Npc = {
     127,
     175
   },
-
   {
     "izlude",
     10927,
@@ -12319,7 +11019,6 @@ Navi_Npc = {
     197,
     205
   },
-
   {
     "izlude",
     10932,
@@ -12330,7 +11029,6 @@ Navi_Npc = {
     71,
     92
   },
-
   {
     "izlude",
     10933,
@@ -12341,7 +11039,6 @@ Navi_Npc = {
     172,
     215
   },
-
   {
     "izlude",
     10934,
@@ -12352,7 +11049,6 @@ Navi_Npc = {
     174,
     164
   },
-
   {
     "izlude",
     10935,
@@ -12363,7 +11059,6 @@ Navi_Npc = {
     85,
     103
   },
-
   {
     "izlude",
     10936,
@@ -12374,7 +11069,6 @@ Navi_Npc = {
     140,
     186
   },
-
   {
     "izlude",
     10937,
@@ -12385,7 +11079,6 @@ Navi_Npc = {
     57,
     159
   },
-
   {
     "izlude",
     10938,
@@ -12396,7 +11089,6 @@ Navi_Npc = {
     55,
     159
   },
-
   {
     "izlude",
     10940,
@@ -12407,7 +11099,6 @@ Navi_Npc = {
     166,
     156
   },
-
   {
     "izlude",
     10941,
@@ -12418,7 +11109,6 @@ Navi_Npc = {
     179,
     219
   },
-
   {
     "izlude",
     11714,
@@ -12429,7 +11119,6 @@ Navi_Npc = {
     180,
     224
   },
-
   {
     "izlude",
     11772,
@@ -12440,7 +11129,6 @@ Navi_Npc = {
     250,
     250
   },
-
   {
     "izlude",
     12024,
@@ -12451,7 +11139,6 @@ Navi_Npc = {
     202,
     75
   },
-
   {
     "izlude",
     12698,
@@ -12462,7 +11149,6 @@ Navi_Npc = {
     172,
     73
   },
-
   {
     "izlude",
     14013,
@@ -12473,7 +11159,6 @@ Navi_Npc = {
     102,
     171
   },
-
   {
     "izlude",
     15056,
@@ -12484,7 +11169,6 @@ Navi_Npc = {
     182,
     218
   },
-
   {
     "izlude",
     15348,
@@ -12495,7 +11179,6 @@ Navi_Npc = {
     128,
     148
   },
-
   {
     "izlude",
     15461,
@@ -12506,7 +11189,6 @@ Navi_Npc = {
     124,
     165
   },
-
   {
     "izlude",
     15462,
@@ -12517,7 +11199,6 @@ Navi_Npc = {
     160,
     186
   },
-
   {
     "izlude",
     15463,
@@ -12528,7 +11209,6 @@ Navi_Npc = {
     128,
     158
   },
-
   {
     "izlude",
     15677,
@@ -12539,7 +11219,6 @@ Navi_Npc = {
     47,
     170
   },
-
   {
     "izlude",
     15680,
@@ -12550,7 +11229,6 @@ Navi_Npc = {
     55,
     170
   },
-
   {
     "izlude",
     15700,
@@ -12561,7 +11239,6 @@ Navi_Npc = {
     138,
     163
   },
-
   {
     "izlude",
     15752,
@@ -12572,7 +11249,6 @@ Navi_Npc = {
     129,
     175
   },
-
   {
     "izlude",
     15753,
@@ -12583,7 +11259,6 @@ Navi_Npc = {
     133,
     113
   },
-
   {
     "izlude",
     18117,
@@ -12594,7 +11269,6 @@ Navi_Npc = {
     125,
     175
   },
-
   {
     "izlude",
     18463,
@@ -12605,7 +11279,6 @@ Navi_Npc = {
     25,
     103
   },
-
   {
     "izlude",
     18971,
@@ -12616,7 +11289,6 @@ Navi_Npc = {
     198,
     213
   },
-
   {
     "izlude",
     18974,
@@ -12627,7 +11299,6 @@ Navi_Npc = {
     122,
     207
   },
-
   {
     "izlude",
     18975,
@@ -12638,7 +11309,6 @@ Navi_Npc = {
     120,
     207
   },
-
   {
     "izlude",
     18976,
@@ -12649,7 +11319,6 @@ Navi_Npc = {
     179,
     75
   },
-
   {
     "izlude",
     18977,
@@ -12660,7 +11329,6 @@ Navi_Npc = {
     207,
     167
   },
-
   {
     "izlude",
     18978,
@@ -12671,7 +11339,6 @@ Navi_Npc = {
     45,
     94
   },
-
   {
     "izlude",
     18980,
@@ -12682,7 +11349,6 @@ Navi_Npc = {
     141,
     251
   },
-
   {
     "izlude",
     18981,
@@ -12693,7 +11359,6 @@ Navi_Npc = {
     140,
     249
   },
-
   {
     "izlude",
     19013,
@@ -12704,7 +11369,6 @@ Navi_Npc = {
     153,
     126
   },
-
   {
     "izlude",
     19014,
@@ -12715,7 +11379,6 @@ Navi_Npc = {
     153,
     121
   },
-
   {
     "izlude",
     19015,
@@ -12726,7 +11389,6 @@ Navi_Npc = {
     145,
     122
   },
-
   {
     "izlude",
     19016,
@@ -12737,7 +11399,6 @@ Navi_Npc = {
     155,
     132
   },
-
   {
     "izlude",
     19017,
@@ -12748,7 +11409,6 @@ Navi_Npc = {
     158,
     130
   },
-
   {
     "izlude",
     19018,
@@ -12759,7 +11419,6 @@ Navi_Npc = {
     96,
     125
   },
-
   {
     "izlude",
     19019,
@@ -12770,7 +11429,6 @@ Navi_Npc = {
     108,
     139
   },
-
   {
     "izlude",
     19065,
@@ -12781,7 +11439,6 @@ Navi_Npc = {
     93,
     143
   },
-
   {
     "izlude",
     19066,
@@ -12792,7 +11449,6 @@ Navi_Npc = {
     147,
     131
   },
-
   {
     "izlude",
     19067,
@@ -12803,7 +11459,6 @@ Navi_Npc = {
     148,
     122
   },
-
   {
     "izlude",
     19072,
@@ -12814,7 +11469,6 @@ Navi_Npc = {
     115,
     181
   },
-
   {
     "izlude",
     19079,
@@ -12825,7 +11479,6 @@ Navi_Npc = {
     102,
     150
   },
-
   {
     "izlude",
     19080,
@@ -12836,7 +11489,6 @@ Navi_Npc = {
     95,
     146
   },
-
   {
     "izlude",
     19081,
@@ -12847,7 +11499,6 @@ Navi_Npc = {
     97,
     147
   },
-
   {
     "izlude",
     19083,
@@ -12858,7 +11509,6 @@ Navi_Npc = {
     99,
     138
   },
-
   {
     "izlude",
     19084,
@@ -12869,7 +11519,6 @@ Navi_Npc = {
     97,
     138
   },
-
   {
     "izlude",
     19090,
@@ -12880,7 +11529,6 @@ Navi_Npc = {
     140,
     260
   },
-
   {
     "izlude",
     19669,
@@ -12891,29 +11539,26 @@ Navi_Npc = {
     131,
     148
   },
-
   {
     "izlude_in",
     10554,
     101,
     102,
-		"Nain",
+    "Nain",
     "",
     173,
     88
   },
-
   {
     "izlude_in",
     10939,
     101,
     65,
-		"Aaron",
+    "Aaron",
     "",
     125,
     164
   },
-
   {
     "izlude_in",
     15464,
@@ -12924,7 +11569,6 @@ Navi_Npc = {
     60,
     127
   },
-
   {
     "izlude_in",
     15465,
@@ -12935,7 +11579,6 @@ Navi_Npc = {
     70,
     127
   },
-
   {
     "izlude_in",
     15466,
@@ -12946,7 +11589,6 @@ Navi_Npc = {
     57,
     110
   },
-
   {
     "izlude_in",
     15467,
@@ -12957,40 +11599,16 @@ Navi_Npc = {
     72,
     98
   },
-
-	{
-		"izlude_in",
-		18103,
-		101,
-		125,
-		"Monster Tamer",
-		"",
-		129,
-		64
-	},
-
-	{
-		"izlude_in",
-		18365,
-		101,
-		98,
-		"Knight De Thomas",
-		"",
-		175,
-		130
-	},
-
   {
     "izlude_in",
     18490,
     101,
     119,
-		"Swordman",
+    "Swordman",
     "",
     74,
     172
   },
-
   {
     "izlude_in",
     18744,
@@ -13001,7 +11619,6 @@ Navi_Npc = {
     72,
     110
   },
-
   {
     "izlude_in",
     18748,
@@ -13012,7 +11629,6 @@ Navi_Npc = {
     74,
     106
   },
-
   {
     "izlude_in",
     18749,
@@ -13023,7 +11639,6 @@ Navi_Npc = {
     74,
     104
   },
-
   {
     "izlude_in",
     19133,
@@ -13034,7 +11649,6 @@ Navi_Npc = {
     69,
     177
   },
-
   {
     "izlude_in",
     19161,
@@ -13045,7 +11659,6 @@ Navi_Npc = {
     70,
     168
   },
-
   {
     "izlude_in",
     19162,
@@ -13056,7 +11669,6 @@ Navi_Npc = {
     68,
     170
   },
-
   {
     "izlude_in",
     19539,
@@ -13067,150 +11679,136 @@ Navi_Npc = {
     57,
     92
   },
-
   {
     "izlude_in",
     19629,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "6",
     68,
     162
   },
-
   {
     "jawaii",
     11716,
     101,
     100,
-		"Mariner",
+    "Mariner",
     "이즈행",
     239,
     112
   },
-
   {
     "jawaii",
     11718,
     101,
     100,
-		"Mariner",
+    "Mariner",
     "알베행",
     122,
     263
   },
-
   {
     "jawaii",
     11720,
     101,
     80,
-		"Tavern Lady",
+    "Tavern Lady",
     "",
     188,
     218
   },
-
   {
     "jawaii",
     11721,
     101,
     724,
-		"Jawaii Resident",
+    "Jawaii Resident",
     "하트섬",
     220,
     235
   },
-
   {
     "jawaii",
     11722,
     101,
     724,
-		"Jawaii Resident",
+    "Jawaii Resident",
     "설명1",
     240,
     146
   },
-
   {
     "jawaii",
     11723,
     101,
     724,
-		"Jawaii Resident",
+    "Jawaii Resident",
     "설명2",
     168,
     247
   },
-
   {
     "jawaii",
     11724,
     101,
     724,
-		"Jawaii Resident",
+    "Jawaii Resident",
     "설명3",
     165,
     121
   },
-
   {
     "jawaii",
     11725,
     101,
     798,
-		"Employee",
+    "Employee",
     "스위트룸",
     141,
     200
   },
-
   {
     "jawaii",
     11727,
     101,
     74,
-		"Employee",
+    "Employee",
     "앤티크룸",
     108,
     199
   },
-
   {
     "jawaii",
     11729,
     101,
     93,
-		"Employee",
+    "Employee",
     "허니룸",
     107,
     189
   },
-
   {
     "jawaii",
     11731,
     101,
     93,
-		"Employee",
+    "Employee",
     "빌라룸",
     112,
     173
   },
-
   {
     "jawaii",
     11733,
     101,
     71,
-		"Honeymoon Helper",
+    "Honeymoon Helper",
     "자와이",
     214,
     168
   },
-
   {
     "jawaii",
     11734,
@@ -13221,183 +11819,166 @@ Navi_Npc = {
     186,
     174
   },
-
   {
     "jawaii_in",
     11702,
     101,
     724,
-		"Employee",
+    "Employee",
     "jaw1",
     25,
     94
   },
-
   {
     "jawaii_in",
     11703,
     101,
     724,
-		"Employee",
+    "Employee",
     "jaw2",
     25,
     96
   },
-
   {
     "jawaii_in",
     11704,
     101,
     724,
-		"Employee",
+    "Employee",
     "jaw3",
     25,
     98
   },
-
   {
     "jawaii_in",
     11705,
     101,
     724,
-		"Employee",
+    "Employee",
     "jaw4",
     25,
     100
   },
-
   {
     "jawaii_in",
     11706,
     101,
     724,
-		"Employee",
+    "Employee",
     "jaw5",
     30,
     94
   },
-
   {
     "jawaii_in",
     11707,
     101,
     724,
-		"Employee",
+    "Employee",
     "jaw6",
     30,
     96
   },
-
   {
     "jawaii_in",
     11708,
     101,
     724,
-		"Employee",
+    "Employee",
     "jaw7",
     30,
     98
   },
-
   {
     "jawaii_in",
     11709,
     101,
     724,
-		"Employee",
+    "Employee",
     "jaw8",
     30,
     100
   },
-
   {
     "jawaii_in",
     11710,
     101,
     80,
-		"Waitress",
+    "Waitress",
     "jawaii",
     15,
     104
   },
-
   {
     "jawaii_in",
     11711,
     101,
     46,
-		"Bartender",
+    "Bartender",
     "jaw",
     28,
     124
   },
-
   {
     "jawaii_in",
     11712,
     101,
     97,
-		"Customer",
+    "Customer",
     "jaw_1",
     43,
     115
   },
-
   {
     "jawaii_in",
     11713,
     101,
     98,
-		"Customer",
+    "Customer",
     "카이지",
     41,
     106
   },
-
   {
     "jawaii_in",
     11813,
     101,
     734,
-		"Security Officer",
+    "Security Officer",
     "메긴",
     44,
     110
   },
-
   {
     "job3_gen01",
     18917,
     101,
     865,
-		"Devries",
+    "Devries",
     "gen",
     25,
     58
   },
-
   {
     "job3_gen01",
     18918,
     101,
     982,
-		"Demi Calberine",
+    "Demi Calberine",
     "gen",
     91,
     48
   },
-
   {
     "job3_gen01",
     18921,
     101,
     837,
-		"Warning",
+    "Warning",
     "gen",
     18,
     39
   },
-
   {
     "job3_gen01",
     18953,
@@ -13408,18 +11989,16 @@ Navi_Npc = {
     12,
     44
   },
-
   {
     "job3_guil01",
     15693,
     101,
     49,
-		"Rare Herb Collector",
+    "Rare Herb Collector",
     "",
     91,
     93
   },
-
   {
     "job3_guil01",
     18828,
@@ -13430,7 +12009,6 @@ Navi_Npc = {
     82,
     95
   },
-
   {
     "job3_guil01",
     18829,
@@ -13441,7 +12019,6 @@ Navi_Npc = {
     16,
     20
   },
-
   {
     "job3_guil01",
     18837,
@@ -13452,7 +12029,6 @@ Navi_Npc = {
     79,
     15
   },
-
   {
     "job3_guil01",
     18841,
@@ -13463,183 +12039,166 @@ Navi_Npc = {
     148,
     53
   },
-
   {
     "job3_rune01",
     15691,
     101,
     853,
-		"Rune Salesman",
+    "Rune Salesman",
     "",
     90,
     62
   },
-
   {
     "job3_rune01",
     18795,
     101,
     470,
-		"Rune Knight Captain",
+    "Rune Knight Captain",
     "",
     80,
     60
   },
-
   {
     "job3_rune01",
     18797,
     101,
     469,
-		"Rune Knight Lunarea",
+    "Rune Knight Lunarea",
     "",
     90,
     50
   },
-
   {
     "job3_rune01",
     18798,
     101,
     469,
-		"Rune Knight, Renoa",
+    "Rune Knight, Renoa",
     "",
     55,
     50
   },
-
   {
     "job3_rune01",
     18810,
     101,
     468,
-		"Rune Knight Velpino",
+    "Rune Knight Velpino",
     "",
     114,
     50
   },
-
   {
     "job_duncer",
     13141,
     101,
     892,
-		"Dance Instructor",
+    "Dance Instructor",
     "sch",
     93,
     106
   },
-
   {
     "job_duncer",
     13142,
     101,
     724,
-		"Young Dancer",
+    "Young Dancer",
     "sch",
     85,
     49
   },
-
   {
     "job_duncer",
     13144,
     101,
     724,
-		"Cheerful Dancer",
+    "Cheerful Dancer",
     "sch",
     83,
     52
   },
-
   {
     "job_duncer",
     13146,
     101,
     724,
-		"Mature Looking Dancer",
+    "Mature Looking Dancer",
     "sch",
     87,
     50
   },
-
   {
     "job_duncer",
     18600,
     101,
     724,
-		"Aile",
+    "Aile",
     "",
     43,
     93
   },
-
   {
     "job_duncer",
     18601,
     101,
     101,
-		"Bijou",
+    "Bijou",
     "",
     95,
     93
   },
-
   {
     "job_duncer",
     18604,
     101,
     66,
-		"Waiting Room",
+    "Waiting Room",
     "click",
     32,
     154
   },
-
   {
     "job_duncer",
     18613,
     101,
     724,
-		"Backdancer",
+    "Backdancer",
     "1",
     63,
     110
   },
-
   {
     "job_duncer",
     18614,
     101,
     724,
-		"Backdancer",
+    "Backdancer",
     "2",
     66,
     113
   },
-
   {
     "job_duncer",
     18615,
     101,
     724,
-		"Backdancer",
+    "Backdancer",
     "3",
     72,
     113
   },
-
   {
     "job_duncer",
     18616,
     101,
     724,
-		"Backdancer",
+    "Backdancer",
     "4",
     75,
     110
   },
-
   {
     "job_duncer",
     18618,
@@ -13650,7 +12209,6 @@ Navi_Npc = {
     104,
     116
   },
-
   {
     "job_duncer",
     18619,
@@ -13661,7 +12219,6 @@ Navi_Npc = {
     106,
     155
   },
-
   {
     "job_duncer",
     18620,
@@ -13672,62 +12229,56 @@ Navi_Npc = {
     69,
     153
   },
-
   {
     "job_monk",
     18637,
     101,
     89,
-		"Hyunmoo",
+    "Hyunmoo",
     "1",
     225,
     180
   },
-
   {
     "job_star",
     18714,
     101,
     59,
-		"Daru",
+    "Daru",
     "job_star",
     29,
     33
   },
-
   {
     "job_star",
     18725,
     101,
     106,
-		"Beeryu",
+    "Beeryu",
     "job_star",
     95,
     33
   },
-
   {
     "job_star",
     18735,
     101,
     77,
-		"Cheehee",
+    "Cheehee",
     "job_star",
     161,
     33
   },
-
   {
     "jupe_cave",
     18773,
     101,
     883,
-		"Scholar",
+    "Scholar",
     "",
     37,
     55
   },
-
   {
     "jupe_cave",
     19580,
@@ -13738,117 +12289,106 @@ Navi_Npc = {
     35,
     57
   },
-
   {
     "jupe_core2",
     18775,
     101,
     802,
-		"Ghostfire",
+    "Ghostfire",
     "1",
     149,
     273
   },
-
   {
     "jupe_core2",
     18777,
     101,
     802,
-		"Ghostfire",
+    "Ghostfire",
     "2",
     53,
     75
   },
-
   {
     "jupe_core2",
     18778,
     101,
     802,
-		"Ghostfire",
+    "Ghostfire",
     "3",
     242,
     62
   },
-
   {
     "kh_dun01",
     19489,
     101,
     857,
-		"Signboard",
+    "Signboard",
     "kh",
     163,
     223
   },
-
   {
     "kh_kiehl02",
     19482,
     101,
     902,
-		"Kiehl",
+    "Kiehl",
     "kh",
     50,
     52
   },
-
   {
     "kh_kiehl02",
     19484,
     101,
     727,
-		"Mitchell",
+    "Mitchell",
     "kh",
     49,
     55
   },
-
   {
     "kh_kiehl02",
     19485,
     101,
     880,
-		"Agent",
+    "Agent",
     "kh1",
     46,
     53
   },
-
   {
     "kh_kiehl02",
     19486,
     101,
     880,
-		"Agent",
+    "Agent",
     "kh2",
     47,
     50
   },
-
   {
     "kh_kiehl02",
     19487,
     101,
     880,
-		"Agent",
+    "Agent",
     "kh3",
     51,
     49
   },
-
   {
     "kh_kiehl02",
     19488,
     101,
     880,
-		"Agent",
+    "Agent",
     "kh4",
     53,
     52
   },
-
   {
     "kh_mansion",
     19458,
@@ -13859,84 +12399,76 @@ Navi_Npc = {
     78,
     54
   },
-
   {
     "kh_mansion",
     19466,
     101,
     894,
-		"Allysia",
+    "Allysia",
     "",
     18,
     30
   },
-
   {
     "kh_mansion",
     19467,
     101,
     903,
-		"Kiel Hyre",
+    "Kiel Hyre",
     "kh",
     22,
     28
   },
-
   {
     "kh_mansion",
     19469,
     101,
     727,
-		"Mysterious Woman",
+    "Mysterious Woman",
     "kh",
     25,
     79
   },
-
   {
     "kh_school",
     19429,
     101,
     893,
-		"Student",
+    "Student",
     "kha",
     57,
     142
   },
-
   {
     "kh_school",
     19430,
     101,
     893,
-		"Student",
+    "Student",
     "khb",
     57,
     139
   },
-
   {
     "kh_school",
     19431,
     101,
     101,
-		"Lady",
+    "Lady",
     "kh",
     176,
     60
   },
-
   {
     "kh_school",
     19436,
     101,
     895,
-		"Cute Student",
+    "Cute Student",
     "kh",
     179,
     39
   },
-
   {
     "kh_school",
     19443,
@@ -13947,150 +12479,136 @@ Navi_Npc = {
     177,
     180
   },
-
   {
     "kh_school",
     19445,
     101,
     894,
-		"Beautiful lady",
+    "Beautiful lady",
     "kh1",
     117,
     149
   },
-
   {
     "kh_school",
     19446,
     101,
     894,
-		"Beautiful lady",
+    "Beautiful lady",
     "kh1",
     118,
     149
   },
-
   {
     "kh_school",
     19447,
     101,
     894,
-		"Beautiful lady",
+    "Beautiful lady",
     "kh1",
     120,
     149
   },
-
   {
     "kh_school",
     19448,
     101,
     894,
-		"Beautiful lady",
+    "Beautiful lady",
     "kh1",
     121,
     149
   },
-
   {
     "kh_school",
     19449,
     101,
     894,
-		"Beautiful Lady",
+    "Beautiful Lady",
     "kh1",
     119,
     149
   },
-
   {
     "kh_school",
     19453,
     101,
     894,
-		"Beautiful Lady",
+    "Beautiful Lady",
     "kh2",
     122,
     186
   },
-
   {
     "kh_vila",
     19437,
     101,
     81,
-		"Vicious Dog",
+    "Vicious Dog",
     "khp1",
     181,
     178
   },
-
   {
     "lhz_airport",
     12000,
     101,
     90,
-		"Airport Staff",
+    "Airport Staff",
     "lhz_airport1a",
     143,
     43
   },
-
   {
     "lhz_airport",
     12003,
     101,
     90,
-		"Airship Staff",
+    "Airship Staff",
     "lhz_airport1b",
     158,
     43
   },
-
   {
     "lhz_airport",
     12006,
     101,
     90,
-		"Airship Staff",
+    "Airship Staff",
     "lhz_airport1c",
     126,
     43
   },
-
   {
     "lhz_airport",
     12009,
     101,
     90,
-		"Arrival Staff",
+    "Arrival Staff",
     "lhz_airport2a",
     143,
     49
   },
-
   {
     "lhz_airport",
     12011,
     101,
     90,
-		"Arrival Staff",
+    "Arrival Staff",
     "lhz_airport2b",
     126,
     51
   },
-
   {
     "lhz_airport",
     12013,
     101,
     90,
-		"Arrival Staff",
+    "Arrival Staff",
     "lhz_airport2c",
     158,
     50
   },
-
   {
     "lhz_dun02",
     12610,
@@ -14101,7 +12619,6 @@ Navi_Npc = {
     177,
     150
   },
-
   {
     "lhz_dun02",
     12611,
@@ -14112,7 +12629,6 @@ Navi_Npc = {
     150,
     122
   },
-
   {
     "lhz_dun02",
     12612,
@@ -14123,7 +12639,6 @@ Navi_Npc = {
     122,
     149
   },
-
   {
     "lhz_dun02",
     12613,
@@ -14134,7 +12649,6 @@ Navi_Npc = {
     149,
     178
   },
-
   {
     "lhz_dun04",
     12716,
@@ -14145,458 +12659,416 @@ Navi_Npc = {
     151,
     276
   },
-
   {
     "lhz_fild01",
     12270,
     101,
     859,
-		"Mysterious Woman",
+    "Mysterious Woman",
     "lt7",
     66,
     219
   },
-
   {
     "lhz_fild02",
     12268,
     101,
     849,
-		"Wounded Man",
+    "Wounded Man",
     "lt",
     228,
     214
   },
-
   {
     "lhz_in01",
     12271,
     101,
     865,
-		"Researcher",
+    "Researcher",
     "lt",
     93,
     45
   },
-
   {
     "lhz_in01",
     12272,
     101,
     865,
-		"Researcher",
+    "Researcher",
     "lt1",
     285,
     169
   },
-
   {
     "lhz_in01",
     12273,
     101,
     868,
-		"Guard",
+    "Guard",
     "lt5",
     180,
     28
   },
-
   {
     "lhz_in01",
     12274,
     101,
     868,
-		"Guard",
+    "Guard",
     "lt5",
     173,
     28
   },
-
   {
     "lhz_in01",
     12279,
     101,
     862,
-		"Guide",
+    "Guide",
     "lt2",
     73,
     188
   },
-
   {
     "lhz_in01",
     12280,
     101,
     90,
-		"Guide",
+    "Guide",
     "lt1",
     72,
     195
   },
-
   {
     "lhz_in01",
     12281,
     101,
     862,
-		"Guide",
+    "Guide",
     "lt1",
     72,
     209
   },
-
   {
     "lhz_in01",
     12384,
     101,
     71,
-		"Representative",
+    "Representative",
     "li_01",
     114,
     181
   },
-
   {
     "lhz_in01",
     12385,
     101,
     71,
-		"Representative",
+    "Representative",
     "li_02",
     27,
     247
   },
-
   {
     "lhz_in01",
     12386,
     101,
     865,
-		"Mad Scientist",
+    "Mad Scientist",
     "li",
     273,
     121
   },
-
   {
     "lhz_in01",
     12387,
     101,
     831,
-		"Secretary Slierre",
+    "Secretary Slierre",
     "li",
     286,
     226
   },
-
   {
     "lhz_in01",
     12391,
     101,
     867,
-		"Rekenber Guard",
+    "Rekenber Guard",
     "li01",
     35,
     226
   },
-
   {
     "lhz_in01",
     12392,
     101,
     867,
-		"Rekenber Guard",
+    "Rekenber Guard",
     "li02",
     23,
     132
   },
-
   {
     "lhz_in01",
     12393,
     101,
     867,
-		"Rekenber Guard",
+    "Rekenber Guard",
     "li03",
     46,
     125
   },
-
   {
     "lhz_in01",
     12394,
     101,
     98,
-		"Jorje",
+    "Jorje",
     "zero",
     144,
     53
   },
-
   {
     "lhz_in01",
     12395,
     101,
     869,
-		"Mereth",
+    "Mereth",
     "erem",
     129,
     54
   },
-
   {
     "lhz_in01",
     12396,
     101,
     89,
-		"Jorjerro",
+    "Jorjerro",
     "fhero",
     110,
     40
   },
-
   {
     "lhz_in01",
     12397,
     101,
     841,
-		"Ninjose",
+    "Ninjose",
     "nina",
     116,
     53
   },
-
   {
     "lhz_in01",
     12398,
     101,
     704,
-		"Joshua",
+    "Joshua",
     "aya",
     116,
     45
   },
-
   {
     "lhz_in01",
     12399,
     101,
     822,
-		"Kejulle Rekenber",
+    "Kejulle Rekenber",
     "reken",
     116,
     39
   },
-
   {
     "lhz_in01",
     12401,
     101,
     91,
-		"Eiya",
+    "Eiya",
     "iaiai",
     164,
     45
   },
-
   {
     "lhz_in01",
     12402,
     101,
     797,
-		"Mareth",
+    "Mareth",
     "seram",
     157,
     47
   },
-
   {
     "lhz_in01",
     12403,
     101,
     828,
-		"Mazwon",
+    "Mazwon",
     "minus1",
     147,
     40
   },
-
   {
     "lhz_in01",
     12404,
     101,
     97,
-		"Noama",
+    "Noama",
     "amano",
     148,
     45
   },
-
   {
     "lhz_in01",
     12405,
     101,
     53,
-		"Enoz",
+    "Enoz",
     "oz",
     139,
     40
   },
-
   {
     "lhz_in01",
     12406,
     101,
     73,
-		"Leimi",
+    "Leimi",
     "mimir",
     139,
     48
   },
-
   {
     "lhz_in01",
     12407,
     101,
     869,
-		"Cenku Dekdam",
+    "Cenku Dekdam",
     "delic",
     134,
     45
   },
-
   {
     "lhz_in01",
     12408,
     101,
     798,
-		"Bankri Kun",
+    "Bankri Kun",
     "kagun",
     134,
     38
   },
-
   {
     "lhz_in01",
     12409,
     101,
     849,
-		"Leekal",
+    "Leekal",
     "lackee",
     125,
     46
   },
-
   {
     "lhz_in01",
     12410,
     101,
     843,
-		"Dowbow Ryuei",
+    "Dowbow Ryuei",
     "ryusei",
     125,
     40
   },
-
   {
     "lhz_in01",
     12411,
     101,
     66,
-		"Ellette",
+    "Ellette",
     "tre",
     124,
     28
   },
-
   {
     "lhz_in01",
     12413,
     101,
     865,
-		"Scientist",
+    "Scientist",
     "li_01",
     221,
     131
   },
-
   {
     "lhz_in01",
     12414,
     101,
     851,
-		"Repairman",
+    "Repairman",
     "li_01",
     217,
     121
   },
-
   {
     "lhz_in01",
     12415,
     101,
     750,
-		"Scientist",
+    "Scientist",
     "li_02",
     203,
     123
   },
-
   {
     "lhz_in01",
     12416,
     101,
     865,
-		"Scientist",
+    "Scientist",
     "li_03",
     199,
     137
   },
-
   {
     "lhz_in01",
     12428,
     101,
     109,
-		"Banquet Staff",
+    "Banquet Staff",
     "",
     14,
     28
   },
-
   {
     "lhz_in01",
     12429,
     101,
     703,
-		"Luccet",
+    "Luccet",
     "li_party",
     43,
     52
   },
-
   {
     "lhz_in01",
     12430,
     101,
     706,
-		"Hanccet",
+    "Hanccet",
     "li_party",
     28,
     33
   },
-
   {
     "lhz_in01",
     12431,
     101,
     91,
-		"Annette",
+    "Annette",
     "li_party",
     21,
     50
   },
-
   {
     "lhz_in01",
     12674,
@@ -14607,469 +13079,426 @@ Navi_Npc = {
     24,
     140
   },
-
   {
     "lhz_in01",
     12695,
     101,
     868,
-		"Young Man",
+    "Young Man",
     "",
     174,
     258
   },
-
   {
     "lhz_in01",
     14014,
     101,
     868,
-		"Sikaiz",
+    "Sikaiz",
     "",
     132,
     259
   },
-
   {
     "lhz_in01",
     14015,
     101,
     967,
-		"Munkenro",
+    "Munkenro",
     "",
     136,
     260
   },
-
   {
     "lhz_in01",
     14019,
     101,
     109,
-		"Officer A",
+    "Officer A",
     "",
     32,
     22
   },
-
   {
     "lhz_in01",
     14020,
     101,
     109,
-		"Officer B",
+    "Officer B",
     "",
     30,
     24
   },
-
   {
     "lhz_in01",
     14022,
     101,
     899,
-		"Guard",
+    "Guard",
     "",
     115,
     250
   },
-
   {
     "lhz_in01",
     14023,
     101,
     899,
-		"Guard",
+    "Guard",
     "",
     115,
     252
   },
-
   {
     "lhz_in01",
     14024,
     101,
     899,
-		"Guard",
+    "Guard",
     "",
     147,
     252
   },
-
   {
     "lhz_in01",
     14025,
     101,
     899,
-		"Guard",
+    "Guard",
     "",
     147,
     250
   },
-
   {
     "lhz_in01",
     14026,
     101,
     899,
-		"Guard",
+    "Guard",
     "",
     124,
     234
   },
-
   {
     "lhz_in01",
     14027,
     101,
     899,
-		"Guard",
+    "Guard",
     "",
     121,
     234
   },
-
   {
     "lhz_in01",
     14028,
     101,
     899,
-		"Guard",
+    "Guard",
     "",
     137,
     234
   },
-
   {
     "lhz_in01",
     14029,
     101,
     899,
-		"Guard",
+    "Guard",
     "",
     140,
     234
   },
-
   {
     "lhz_in01",
     14030,
     101,
     899,
-		"Guard",
+    "Guard",
     "",
     130,
     232
   },
-
   {
     "lhz_in01",
     14031,
     101,
     904,
-		"Member of Alliance",
+    "Member of Alliance",
     "",
     128,
     249
   },
-
   {
     "lhz_in01",
     14032,
     101,
     869,
-		"Member of Alliance",
+    "Member of Alliance",
     "",
     136,
     245
   },
-
   {
     "lhz_in01",
     14033,
     101,
     85,
-		"Member of Alliance",
+    "Member of Alliance",
     "",
     140,
     245
   },
-
   {
     "lhz_in01",
     14034,
     101,
     865,
-		"Member of Alliance",
+    "Member of Alliance",
     "",
     136,
     249
   },
-
   {
     "lhz_in01",
     14035,
     101,
     932,
-		"Member of Alliance",
+    "Member of Alliance",
     "",
     124,
     245
   },
-
   {
     "lhz_in01",
     14036,
     101,
     849,
-		"Member of Alliance",
+    "Member of Alliance",
     "",
     136,
     241
   },
-
   {
     "lhz_in01",
     14037,
     101,
     930,
-		"Member of Alliance",
+    "Member of Alliance",
     "",
     126,
     249
   },
-
   {
     "lhz_in01",
     14038,
     101,
     882,
-		"Member of Alliance",
+    "Member of Alliance",
     "",
     122,
     245
   },
-
   {
     "lhz_in01",
     14071,
     101,
     903,
-		"Gerhart",
+    "Gerhart",
     "",
     110,
     174
   },
-
   {
     "lhz_in01",
     19174,
     101,
     57,
-		"Kellasus",
+    "Kellasus",
     "",
     224,
     140
   },
-
   {
     "lhz_in01",
     19175,
     101,
     754,
-		"Skrajjad",
+    "Skrajjad",
     "",
     225,
     122
   },
-
   {
     "lhz_in01",
     19176,
     101,
     750,
-		"Keshibien",
+    "Keshibien",
     "",
     204,
     138
   },
-
   {
     "lhz_in01",
     19181,
     101,
     98,
-		"Alchemist",
+    "Alchemist",
     "",
     218,
     141
   },
-
   {
     "lhz_in02",
     12282,
     101,
     831,
-		"Cool Event Staff",
+    "Cool Event Staff",
     "",
     36,
     274
   },
-
   {
     "lhz_in02",
     12283,
     101,
     833,
-		"Event Planner",
+    "Event Planner",
     "",
     40,
     280
   },
-
   {
     "lhz_in02",
     12284,
     101,
     853,
-		"Cool Event Manager",
+    "Cool Event Manager",
     "",
     110,
     286
   },
-
   {
     "lhz_in02",
     12285,
     101,
     874,
-		"Cool Event Staff",
+    "Cool Event Staff",
     "",
     36,
     284
   },
-
   {
     "lhz_in02",
     12286,
     101,
     851,
-		"Maintenance Guy",
+    "Maintenance Guy",
     "",
     19,
     274
   },
-
   {
     "lhz_in02",
     12288,
     101,
     869,
-		"Digotz",
+    "Digotz",
     "",
     201,
     210
   },
-
   {
     "lhz_in02",
     12300,
     101,
     753,
-		"Martial Artist",
+    "Martial Artist",
     "",
     289,
     277
   },
-
   {
     "lhz_in02",
     12314,
     101,
     869,
-		"Harp",
+    "Harp",
     "",
     221,
     276
   },
-
   {
     "lhz_in02",
     12328,
     101,
     747,
-		"Diana",
+    "Diana",
     "",
     267,
     25
   },
-
   {
     "lhz_in02",
     12329,
     101,
     91,
-		"Shop Assistant",
+    "Shop Assistant",
     "",
     267,
     22
   },
-
   {
     "lhz_in02",
     12331,
     101,
     91,
-		"Maggie",
+    "Maggie",
     "05",
     34,
     212
   },
-
   {
     "lhz_in02",
     12332,
     101,
     853,
-		"Millette",
+    "Millette",
     "05",
     153,
     206
   },
-
   {
     "lhz_in02",
     12333,
     101,
     870,
-		"Hinkley",
+    "Hinkley",
     "06",
     157,
     201
   },
-
   {
     "lhz_in02",
     12334,
     101,
     849,
-		"Togii",
+    "Togii",
     "07",
     145,
     177
   },
-
   {
     "lhz_in02",
     12335,
     101,
     863,
-		"Tanoue",
+    "Tanoue",
     "06",
     229,
     217
   },
-
   {
     "lhz_in02",
     12336,
@@ -15080,315 +13509,286 @@ Navi_Npc = {
     147,
     221
   },
-
   {
     "lhz_in02",
     12337,
     101,
     870,
-		"Suspect",
+    "Suspect",
     "06",
     142,
     222
   },
-
   {
     "lhz_in02",
     12345,
     101,
     86,
-		"Hotel Employee",
+    "Hotel Employee",
     "",
     230,
     284
   },
-
   {
     "lhz_in02",
     12346,
     101,
     869,
-		"Hotel Employee",
+    "Hotel Employee",
     "",
     238,
     275
   },
-
   {
     "lhz_in02",
     12347,
     101,
     84,
-		"Ben Allen",
+    "Ben Allen",
     "",
     209,
     277
   },
-
   {
     "lhz_in02",
     12348,
     101,
     868,
-		"Hotel Employee",
+    "Hotel Employee",
     "",
     251,
     212
   },
-
   {
     "lhz_in02",
     12349,
     101,
     849,
-		"Christopher Michael",
+    "Christopher Michael",
     "",
     210,
     189
   },
-
   {
     "lhz_in02",
     12350,
     101,
     853,
-		"Safwat Fahmy",
+    "Safwat Fahmy",
     "",
     201,
     181
   },
-
   {
     "lhz_in02",
     12351,
     101,
     868,
-		"Hotel Employee",
+    "Hotel Employee",
     "",
     242,
     172
   },
-
   {
     "lhz_in02",
     12352,
     101,
     868,
-		"Hotel Employee",
+    "Hotel Employee",
     "",
     247,
     275
   },
-
   {
     "lhz_in02",
     12359,
     101,
     849,
-		"Arthur",
+    "Arthur",
     "",
     34,
     41
   },
-
   {
     "lhz_in02",
     12360,
     101,
     703,
-		"Helen",
+    "Helen",
     "",
     28,
     39
   },
-
   {
     "lhz_in02",
     12361,
     101,
     847,
-		"Tadem",
+    "Tadem",
     "",
     31,
     34
   },
-
   {
     "lhz_in02",
     12362,
     101,
     863,
-		"Gracie",
+    "Gracie",
     "",
     31,
     33
   },
-
   {
     "lhz_in02",
     12363,
     101,
     86,
-		"Bank Clerk",
+    "Bank Clerk",
     "",
     21,
     38
   },
-
   {
     "lhz_in02",
     12364,
     101,
     86,
-		"Bank Clerk",
+    "Bank Clerk",
     "",
     21,
     25
   },
-
   {
     "lhz_in02",
     12365,
     101,
     755,
-		"Bank Clerk",
+    "Bank Clerk",
     "",
     34,
     22
   },
-
   {
     "lhz_in02",
     12424,
     101,
     85,
-		"Healthy Looking Guy",
+    "Healthy Looking Guy",
     "hol",
     159,
     198
   },
-
   {
     "lhz_in02",
     12425,
     101,
     122,
-		"Hair Dresser",
+    "Hair Dresser",
     "li",
     100,
     143
   },
-
   {
     "lhz_in02",
     12426,
     101,
     850,
-		"Hair Dyer",
+    "Hair Dyer",
     "lich",
     100,
     134
   },
-
   {
     "lhz_in02",
     12427,
     101,
     862,
-		"Assistant Beautician",
+    "Assistant Beautician",
     "lich",
     91,
     155
   },
-
   {
     "lhz_in02",
     12683,
     101,
     61,
-		"Bartender",
+    "Bartender",
     "amano07",
     277,
     285
   },
-
   {
     "lhz_in02",
     12684,
     101,
     865,
-		"Lab Staff",
+    "Lab Staff",
     "amano08",
     265,
     273
   },
-
   {
     "lhz_in02",
     12685,
     101,
     47,
-		"Citizen",
+    "Citizen",
     "amano09",
     271,
     281
   },
-
   {
     "lhz_in02",
     12686,
     101,
     853,
-		"Customer",
+    "Customer",
     "amano10",
     287,
     282
   },
-
   {
     "lhz_in02",
     12687,
     101,
     50,
-		"Customer",
+    "Customer",
     "amano11",
     287,
     273
   },
-
   {
     "lhz_in02",
     12688,
     101,
     815,
-		"Customer",
+    "Customer",
     "amano12",
     283,
     276
   },
-
   {
     "lhz_in02",
     12689,
     101,
     816,
-		"Customer",
+    "Customer",
     "amano13",
     281,
     280
   },
-
   {
     "lhz_in02",
     15431,
     101,
     861,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     237,
     284
   },
-
   {
     "lhz_in02",
     15549,
@@ -15399,7 +13799,6 @@ Navi_Npc = {
     276,
     99
   },
-
   {
     "lhz_in02",
     15550,
@@ -15410,7 +13809,6 @@ Navi_Npc = {
     273,
     35
   },
-
   {
     "lhz_in02",
     15551,
@@ -15421,7 +13819,6 @@ Navi_Npc = {
     271,
     99
   },
-
   {
     "lhz_in02",
     15552,
@@ -15432,7 +13829,6 @@ Navi_Npc = {
     286,
     95
   },
-
   {
     "lhz_in02",
     15553,
@@ -15443,7 +13839,6 @@ Navi_Npc = {
     105,
     21
   },
-
   {
     "lhz_in02",
     15554,
@@ -15454,7 +13849,6 @@ Navi_Npc = {
     21,
     220
   },
-
   {
     "lhz_in02",
     15555,
@@ -15465,7 +13859,6 @@ Navi_Npc = {
     17,
     220
   },
-
   {
     "lhz_in02",
     15556,
@@ -15476,7 +13869,6 @@ Navi_Npc = {
     32,
     219
   },
-
   {
     "lhz_in02",
     15557,
@@ -15487,7 +13879,6 @@ Navi_Npc = {
     38,
     145
   },
-
   {
     "lhz_in02",
     15558,
@@ -15498,7 +13889,6 @@ Navi_Npc = {
     85,
     216
   },
-
   {
     "lhz_in02",
     15559,
@@ -15509,7 +13899,6 @@ Navi_Npc = {
     87,
     208
   },
-
   {
     "lhz_in02",
     15560,
@@ -15520,7 +13909,6 @@ Navi_Npc = {
     31,
     145
   },
-
   {
     "lhz_in02",
     15607,
@@ -15531,29 +13919,26 @@ Navi_Npc = {
     47,
     148
   },
-
   {
     "lhz_in02",
     15661,
     101,
     90,
-		"Margaret Mary",
+    "Margaret Mary",
     "hat",
     91,
     38
   },
-
   {
     "lhz_in02",
     15690,
     101,
     877,
-		"Poison Herb Salesman",
+    "Poison Herb Salesman",
     "",
     16,
     205
   },
-
   {
     "lhz_in02",
     15728,
@@ -15564,315 +13949,286 @@ Navi_Npc = {
     276,
     281
   },
-
   {
     "lhz_in02",
     18391,
     101,
     84,
-		"Fruel",
+    "Fruel",
     "",
     281,
     24
   },
-
   {
     "lhz_in02",
     18392,
     101,
     86,
-		"Krugg",
+    "Krugg",
     "",
     278,
     24
   },
-
   {
     "lhz_in02",
     18393,
     101,
     869,
-		"Fulerr",
+    "Fulerr",
     "",
     282,
     20
   },
-
   {
     "lhz_in02",
     18437,
     101,
     86,
-		"Repairman",
+    "Repairman",
     "",
     284,
     14
   },
-
   {
     "lhz_in02",
     19177,
     101,
     709,
-		"Broncher",
+    "Broncher",
     "",
     278,
     273
   },
-
   {
     "lhz_in02",
     19530,
     101,
     84,
-		"Seiyablem",
+    "Seiyablem",
     "",
     281,
     35
   },
-
   {
     "lhz_in02",
     19536,
     101,
     97,
-		"Young Man",
+    "Young Man",
     "",
     269,
     33
   },
-
   {
     "lhz_in03",
     12306,
     101,
     863,
-		"Sopheap",
+    "Sopheap",
     "",
     32,
     99
   },
-
   {
     "lhz_in03",
     12307,
     101,
     869,
-		"Gopal",
+    "Gopal",
     "",
     25,
     105
   },
-
   {
     "lhz_in03",
     12318,
     101,
     849,
-		"Avetis",
+    "Avetis",
     "",
     239,
     38
   },
-
   {
     "lhz_in03",
     12325,
     101,
     55,
-		"Loudmouth",
+    "Loudmouth",
     "",
     184,
     38
   },
-
   {
     "lhz_in03",
     12326,
     101,
     855,
-		"Haggar",
+    "Haggar",
     "",
     192,
     19
   },
-
   {
     "lhz_in03",
     12380,
     101,
     53,
-		"Crippled Girl",
+    "Crippled Girl",
     "li_tre",
     32,
     162
   },
-
   {
     "lhz_in03",
     12383,
     101,
     850,
-		"Shayna",
+    "Shayna",
     "li",
     26,
     167
   },
-
   {
     "lhz_in03",
     12436,
     101,
     81,
-		"Rocky",
+    "Rocky",
     "li_house",
     100,
     18
   },
-
   {
     "lhz_in03",
     12437,
     101,
     850,
-		"Housemaid Jane",
+    "Housemaid Jane",
     "li_house",
     129,
     22
   },
-
   {
     "lhz_in03",
     12438,
     101,
     706,
-		"Jay",
+    "Jay",
     "li_house",
     130,
     41
   },
-
   {
     "lhz_in03",
     12439,
     101,
     74,
-		"Housemaid Brenda",
+    "Housemaid Brenda",
     "li_house",
     124,
     117
   },
-
   {
     "lhz_in03",
     12675,
     101,
     61,
-		"Bartender",
+    "Bartender",
     "12",
     193,
     25
   },
-
   {
     "lhz_in03",
     12676,
     101,
     869,
-		"Bad Drunk",
+    "Bad Drunk",
     "12",
     186,
     29
   },
-
   {
     "lhz_in03",
     12677,
     101,
     869,
-		"Drunken Man",
+    "Drunken Man",
     "amano01",
     189,
     87
   },
-
   {
     "lhz_in03",
     12678,
     101,
     870,
-		"Drunken Man",
+    "Drunken Man",
     "amano02",
     183,
     82
   },
-
   {
     "lhz_in03",
     12679,
     101,
     86,
-		"Citizen",
+    "Citizen",
     "amano03",
     180,
     83
   },
-
   {
     "lhz_in03",
     12680,
     101,
     869,
-		"Citizen",
+    "Citizen",
     "amano04",
     176,
     85
   },
-
   {
     "lhz_in03",
     12681,
     101,
     862,
-		"City Girl",
+    "City Girl",
     "amano05",
     192,
     93
   },
-
   {
     "lhz_in03",
     12682,
     101,
     869,
-		"Bad Drunk",
+    "Bad Drunk",
     "amano06",
     185,
     20
   },
-
   {
     "lhz_in03",
     12844,
     101,
     97,
-		"Enquro Carson",
+    "Enquro Carson",
     "",
     39,
     44
   },
-
   {
     "lhz_in03",
     12857,
     101,
     83,
-		"Makkie",
+    "Makkie",
     "1234",
     193,
     28
   },
-
   {
     "lhz_in03",
     15561,
@@ -15883,7 +14239,6 @@ Navi_Npc = {
     239,
     106
   },
-
   {
     "lhz_in03",
     15562,
@@ -15894,7 +14249,6 @@ Navi_Npc = {
     258,
     101
   },
-
   {
     "lhz_in03",
     15563,
@@ -15905,7 +14259,6 @@ Navi_Npc = {
     249,
     24
   },
-
   {
     "lhz_in03",
     15616,
@@ -15916,29 +14269,26 @@ Navi_Npc = {
     181,
     17
   },
-
   {
     "lhz_in03",
     19178,
     101,
     706,
-		"Koring",
+    "Koring",
     "",
     106,
     34
   },
-
   {
     "lhz_in03",
     19179,
     101,
     90,
-		"Beninne",
+    "Beninne",
     "",
     109,
     31
   },
-
   {
     "lhz_que01",
     12366,
@@ -15949,7 +14299,6 @@ Navi_Npc = {
     21,
     31
   },
-
   {
     "lhz_que01",
     12370,
@@ -15960,7 +14309,6 @@ Navi_Npc = {
     29,
     24
   },
-
   {
     "lhz_que01",
     12375,
@@ -15971,7 +14319,6 @@ Navi_Npc = {
     99,
     74
   },
-
   {
     "lhz_que01",
     12378,
@@ -15982,7 +14329,6 @@ Navi_Npc = {
     90,
     71
   },
-
   {
     "lighthalzen",
     10043,
@@ -15993,634 +14339,576 @@ Navi_Npc = {
     167,
     97
   },
-
   {
     "lighthalzen",
     12249,
     101,
     98,
-		"Ordinary Man",
+    "Ordinary Man",
     "lt1",
     179,
     170
   },
-
   {
     "lighthalzen",
     12287,
     101,
     870,
-		"Maku",
+    "Maku",
     "",
     337,
     232
   },
-
   {
     "lighthalzen",
     12291,
     101,
     868,
-		"Guard",
+    "Guard",
     "",
     267,
     200
   },
-
   {
     "lighthalzen",
     12295,
     101,
     868,
-		"Guard",
+    "Guard",
     "",
     294,
     223
   },
-
   {
     "lighthalzen",
     12299,
     101,
     869,
-		"Kosit",
+    "Kosit",
     "",
     107,
     107
   },
-
   {
     "lighthalzen",
     12301,
     101,
     862,
-		"Joyce",
+    "Joyce",
     "",
     190,
     134
   },
-
   {
     "lighthalzen",
     12302,
     101,
     869,
-		"Dan Song",
+    "Dan Song",
     "",
     191,
     134
   },
-
   {
     "lighthalzen",
     12303,
     101,
     862,
-		"Maivi",
+    "Maivi",
     "",
     78,
     120
   },
-
   {
     "lighthalzen",
     12304,
     101,
     869,
-		"Sigmund",
+    "Sigmund",
     "",
     232,
     156
   },
-
   {
     "lighthalzen",
     12305,
     101,
     862,
-		"Jade",
+    "Jade",
     "",
     239,
     64
   },
-
   {
     "lighthalzen",
     12308,
     101,
     866,
-		"Collins",
+    "Collins",
     "",
     115,
     159
   },
-
   {
     "lighthalzen",
     12309,
     101,
     862,
-		"Kimmy",
+    "Kimmy",
     "",
     176,
     65
   },
-
   {
     "lighthalzen",
     12310,
     101,
     863,
-		"Samnang",
+    "Samnang",
     "",
     220,
     244
   },
-
   {
     "lighthalzen",
     12311,
     101,
     870,
-		"Bodger",
+    "Bodger",
     "",
     364,
     282
   },
-
   {
     "lighthalzen",
     12312,
     101,
     870,
-		"Grinnel",
+    "Grinnel",
     "",
     326,
     249
   },
-
   {
     "lighthalzen",
     12313,
     101,
     870,
-		"Shengwen",
+    "Shengwen",
     "",
     306,
     324
   },
-
   {
     "lighthalzen",
     12315,
     101,
     847,
-		"Wallace",
+    "Wallace",
     "",
     202,
     94
   },
-
   {
     "lighthalzen",
     12316,
     101,
     847,
-		"Mauro",
+    "Mauro",
     "",
     138,
     50
   },
-
   {
     "lighthalzen",
     12317,
     101,
     869,
-		"Victor Perfecto",
+    "Victor Perfecto",
     "",
     77,
     203
   },
-
   {
     "lighthalzen",
     12319,
     101,
     866,
-		"Srinivas",
+    "Srinivas",
     "",
     258,
     223
   },
-
   {
     "lighthalzen",
     12320,
     101,
     92,
-		"Sergei",
+    "Sergei",
     "",
     192,
     63
   },
-
   {
     "lighthalzen",
     12321,
     101,
     700,
-		"Merpi",
+    "Merpi",
     "",
     123,
     212
   },
-
   {
     "lighthalzen",
     12322,
     101,
     866,
-		"Klaubis",
+    "Klaubis",
     "",
     230,
     182
   },
-
   {
     "lighthalzen",
     12323,
     101,
     869,
-		"Vergil",
+    "Vergil",
     "",
     40,
     107
   },
-
   {
     "lighthalzen",
     12324,
     101,
     866,
-		"Lucius",
+    "Lucius",
     "",
     182,
     102
   },
-
   {
     "lighthalzen",
     12327,
     101,
     79,
-		"Nun",
+    "Nun",
     "",
     330,
     276
   },
-
   {
     "lighthalzen",
     12330,
     101,
     863,
-		"Janice",
+    "Janice",
     "05",
     45,
     59
   },
-
   {
     "lighthalzen",
     12338,
     101,
     706,
-		"Berru",
+    "Berru",
     "lhz_01",
     296,
     239
   },
-
   {
     "lighthalzen",
     12339,
     101,
     818,
-		"Pilia",
+    "Pilia",
     "lhz_01",
     297,
     239
   },
-
   {
     "lighthalzen",
     12340,
     101,
     870,
-		"Reuben",
+    "Reuben",
     "lhz_02",
     311,
     194
   },
-
   {
     "lighthalzen",
     12341,
     101,
     777,
-		"Beggar",
+    "Beggar",
     "lhz_02",
     312,
     233
   },
-
   {
     "lighthalzen",
     12342,
     101,
     870,
-		"Suspicious Guy",
+    "Suspicious Guy",
     "lhz_01",
     240,
     216
   },
-
   {
     "lighthalzen",
     12343,
     101,
     870,
-		"Suspicious Guy",
+    "Suspicious Guy",
     "lhz_02",
     220,
     169
   },
-
   {
     "lighthalzen",
     12344,
     101,
     870,
-		"Suspicious Guy",
+    "Suspicious Guy",
     "lhz_03",
     164,
     127
   },
-
   {
     "lighthalzen",
     12353,
     101,
     716,
-		"Sung",
+    "Sung",
     "",
     233,
     82
   },
-
   {
     "lighthalzen",
     12354,
     101,
     97,
-		"Kemp",
+    "Kemp",
     "",
     125,
     68
   },
-
   {
     "lighthalzen",
     12355,
     101,
     862,
-		"Ruth",
+    "Ruth",
     "",
     261,
     112
   },
-
   {
     "lighthalzen",
     12356,
     101,
     869,
-		"Oyoung",
+    "Oyoung",
     "",
     259,
     108
   },
-
   {
     "lighthalzen",
     12357,
     101,
     862,
-		"Jiwon",
+    "Jiwon",
     "",
     198,
     285
   },
-
   {
     "lighthalzen",
     12358,
     101,
     854,
-		"Sameer",
+    "Sameer",
     "",
     89,
     73
   },
-
   {
     "lighthalzen",
     12379,
     101,
     846,
-		"Elder",
+    "Elder",
     "li_tre",
     346,
     263
   },
-
   {
     "lighthalzen",
     12412,
     101,
     868,
-		"Rekenber Employee",
+    "Rekenber Employee",
     "li",
     337,
     296
   },
-
   {
     "lighthalzen",
     12417,
     101,
     866,
-		"Villagomez",
+    "Villagomez",
     "li_01",
     77,
     157
   },
-
   {
     "lighthalzen",
     12418,
     101,
     734,
-		"Sefith",
+    "Sefith",
     "li_01",
     132,
     103
   },
-
   {
     "lighthalzen",
     12419,
     101,
     869,
-		"Laqumet",
+    "Laqumet",
     "li_02",
     147,
     105
   },
-
   {
     "lighthalzen",
     12420,
     101,
     863,
-		"Margie Keays",
+    "Margie Keays",
     "li_02",
     65,
     94
   },
-
   {
     "lighthalzen",
     12421,
     101,
     866,
-		"Elmer Keays",
+    "Elmer Keays",
     "li_03",
     66,
     94
   },
-
   {
     "lighthalzen",
     12422,
     101,
     72,
-		"Kariya",
+    "Kariya",
     "li_01",
     233,
     121
   },
-
   {
     "lighthalzen",
     12423,
     101,
     853,
-		"Greedy Looking Man",
+    "Greedy Looking Man",
     "li_01",
     205,
     208
   },
-
   {
     "lighthalzen",
     12432,
     101,
     109,
-		"Rekenber Employee",
+    "Rekenber Employee",
     "li",
     159,
     222
   },
-
   {
     "lighthalzen",
     12433,
     101,
     868,
-		"Rekenber Guard Drew",
+    "Rekenber Guard Drew",
     "li_kafra",
     162,
     304
   },
-
   {
     "lighthalzen",
     12434,
     101,
     867,
-		"Rekenber Guard Tan",
+    "Rekenber Guard Tan",
     "li_kafra_1",
     163,
     306
   },
-
   {
     "lighthalzen",
     12435,
     101,
     102,
-		"Delna",
+    "Delna",
     "li_reken",
     70,
     227
   },
-
   {
     "lighthalzen",
     12503,
     101,
     861,
-		"Kafra Voting Staff",
+    "Kafra Voting Staff",
     "lght",
     163,
     60
   },
-
   {
     "lighthalzen",
     12545,
     101,
     874,
-		"Cool Event Staff",
+    "Cool Event Staff",
     "lght",
     154,
     60
   },
-
   {
     "lighthalzen",
     12673,
     101,
     868,
-		"Fishbone",
+    "Fishbone",
     "",
     341,
     224
   },
-
   {
     "lighthalzen",
     12694,
     101,
     85,
-		"Old Man",
+    "Old Man",
     "",
     141,
     162
   },
-
   {
     "lighthalzen",
     12699,
@@ -16631,7 +14919,6 @@ Navi_Npc = {
     303,
     303
   },
-
   {
     "lighthalzen",
     12717,
@@ -16642,29 +14929,26 @@ Navi_Npc = {
     342,
     291
   },
-
   {
     "lighthalzen",
     12856,
     101,
     85,
-		"Dono",
+    "Dono",
     "",
     88,
     79
   },
-
   {
     "lighthalzen",
     14021,
     101,
     899,
-		"Guide",
+    "Guide",
     "",
     220,
     292
   },
-
   {
     "lighthalzen",
     15052,
@@ -16675,29 +14959,26 @@ Navi_Npc = {
     254,
     83
   },
-
   {
     "lighthalzen",
     15429,
     101,
     860,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     164,
     100
   },
-
   {
     "lighthalzen",
     15430,
     101,
     861,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     191,
     320
   },
-
   {
     "lighthalzen",
     15432,
@@ -16708,7 +14989,6 @@ Navi_Npc = {
     94,
     248
   },
-
   {
     "lighthalzen",
     15544,
@@ -16719,7 +14999,6 @@ Navi_Npc = {
     112,
     44
   },
-
   {
     "lighthalzen",
     15545,
@@ -16730,7 +15009,6 @@ Navi_Npc = {
     220,
     122
   },
-
   {
     "lighthalzen",
     15546,
@@ -16741,7 +15019,6 @@ Navi_Npc = {
     69,
     75
   },
-
   {
     "lighthalzen",
     15547,
@@ -16752,7 +15029,6 @@ Navi_Npc = {
     124,
     129
   },
-
   {
     "lighthalzen",
     15548,
@@ -16763,7 +15039,6 @@ Navi_Npc = {
     222,
     191
   },
-
   {
     "lighthalzen",
     15581,
@@ -16774,7 +15049,6 @@ Navi_Npc = {
     126,
     126
   },
-
   {
     "lighthalzen",
     15611,
@@ -16785,95 +15059,76 @@ Navi_Npc = {
     337,
     240
   },
-
   {
     "lighthalzen",
     15666,
     101,
     706,
-		"Kid",
+    "Kid",
     "꼭지",
     360,
     313
   },
-
   {
     "lighthalzen",
     15669,
     101,
     47,
-		"Strange Guy",
+    "Strange Guy",
     "",
     143,
     68
   },
-
   {
     "lighthalzen",
     15670,
     101,
     91,
-		"Relaxed-Looking Lady",
+    "Relaxed-Looking Lady",
     "",
     182,
     89
   },
-
-	{
-		"lighthalzen",
-		15743,
-		101,
-		899,
-		"캐시 판매 안내인",
-		"",
-		206,
-		144
-	},
-
   {
     "lighthalzen",
     15781,
     101,
     852,
-		"Lighthalzen Guide",
+    "Lighthalzen Guide",
     "lighthalzen01",
     207,
     310
   },
-
   {
     "lighthalzen",
     15782,
     101,
     852,
-		"Lighthalzen Guide",
+    "Lighthalzen Guide",
     "lighthalzen02",
     220,
     310
   },
-
   {
     "lighthalzen",
     15783,
     101,
     852,
-		"Lighthalzen Guide",
+    "Lighthalzen Guide",
     "lighthalzen03",
     154,
     100
   },
-
   {
     "lighthalzen",
     15784,
     101,
     852,
-		"Lighthalzen Guide",
+    "Lighthalzen Guide",
     "lighthalzen04",
     307,
     224
   },
-
   {
     "lighthalzen",
     15785,
@@ -16884,29 +15139,26 @@ Navi_Npc = {
     247,
     82
   },
-
   {
     "lighthalzen",
     17801,
     101,
     728,
-		"Maroll Battle Recruiter",
+    "Maroll Battle Recruiter",
     "",
     153,
     86
   },
-
   {
     "lighthalzen",
     18540,
     101,
     734,
-		"Krongast",
+    "Krongast",
     "BLS",
     209,
     80
   },
-
   {
     "lighthalzen",
     18742,
@@ -16917,18 +15169,16 @@ Navi_Npc = {
     322,
     247
   },
-
   {
     "lighthalzen",
     18743,
     101,
     85,
-		"F. Harrison",
+    "F. Harrison",
     "gun",
     205,
     284
   },
-
   {
     "lighthalzen",
     18865,
@@ -16939,62 +15189,56 @@ Navi_Npc = {
     162,
     126
   },
-
   {
     "lighthalzen",
     18866,
     101,
     486,
-		"Karian",
+    "Karian",
     "cmd3",
     160,
     124
   },
-
   {
     "lighthalzen",
     19180,
     101,
     86,
-		"Nannan",
+    "Nannan",
     "",
     226,
     210
   },
-
   {
     "lighthalzen",
     19286,
     101,
     86,
-		"Leablem",
+    "Leablem",
     "",
     96,
     137
   },
-
   {
     "lighthalzen",
     19433,
     101,
     46,
-		"Windmill Owner",
+    "Windmill Owner",
     "kh",
     366,
     299
   },
-
   {
     "lighthalzen",
     19434,
     101,
     97,
-		"Windmill Owner's Helper",
+    "Windmill Owner's Helper",
     "kh",
     366,
     289
   },
-
   {
     "lighthalzen",
     19651,
@@ -17005,337 +15249,306 @@ Navi_Npc = {
     164,
     86
   },
-
   {
     "lou_fild01",
     11659,
     101,
     819,
-		"Jiu Lian Bu",
+    "Jiu Lian Bu",
     "1-1",
     195,
     177
   },
-
   {
     "lou_fild01",
     11662,
     101,
     819,
-		"Jiu Lian Bu",
+    "Jiu Lian Bu",
     "1-2",
     175,
     173
   },
-
   {
     "lou_fild01",
     11687,
     101,
     817,
-		"Lady",
+    "Lady",
     "만독문배달원",
     224,
     348
   },
-
   {
     "lou_fild01",
     18419,
     101,
     815,
-		"Girl",
+    "Girl",
     "1",
     190,
     100
   },
-
   {
     "lou_in01",
     11672,
     101,
     750,
-		"Gunpowder Expert",
+    "Gunpowder Expert",
     "",
     43,
     147
   },
-
   {
     "lou_in01",
     11673,
     101,
     825,
-		"Soldier",
+    "Soldier",
     "화약검사",
     45,
     138
   },
-
   {
     "lou_in01",
     11674,
     101,
     825,
-		"Soldier",
+    "Soldier",
     "재료검사",
     82,
     139
   },
-
   {
     "lou_in01",
     11693,
     101,
     821,
-		"Lord",
+    "Lord",
     "바이롱",
     99,
     158
   },
-
   {
     "lou_in01",
     11694,
     101,
     825,
-		"Soldier",
+    "Soldier",
     "바이롱1",
     111,
     151
   },
-
   {
     "lou_in01",
     11695,
     101,
     825,
-		"Soldier",
+    "Soldier",
     "바이롱2",
     91,
     151
   },
-
   {
     "lou_in01",
     11696,
     101,
     825,
-		"Soldier",
+    "Soldier",
     "바이롱3",
     102,
     144
   },
-
   {
     "lou_in01",
     11697,
     101,
     825,
-		"Soldier",
+    "Soldier",
     "바이롱4",
     99,
     144
   },
-
   {
     "lou_in01",
     11698,
     101,
     817,
-		"Friendly Looking Lady",
+    "Friendly Looking Lady",
     "",
     25,
     23
   },
-
   {
     "lou_in02",
     11655,
     101,
     822,
-		"Employee",
+    "Employee",
     "1",
     53,
     174
   },
-
   {
     "lou_in02",
     11656,
     101,
     822,
-		"Employee",
+    "Employee",
     "2",
     76,
     181
   },
-
   {
     "lou_in02",
     11657,
     101,
     818,
-		"Employee",
+    "Employee",
     "3",
     61,
     175
   },
-
   {
     "lou_in02",
     11658,
     101,
     820,
-		"Chef",
+    "Chef",
     "1-2",
     62,
     183
   },
-
   {
     "lou_in02",
     11665,
     101,
     823,
-		"Chef Assistant",
+    "Chef Assistant",
     "",
     58,
     183
   },
-
   {
     "lou_in02",
     11666,
     101,
     746,
-		"Li Min",
+    "Li Min",
     "",
     80,
     173
   },
-
   {
     "lou_in02",
     11667,
     101,
     816,
-		"Liu Jia Lim",
+    "Liu Jia Lim",
     "",
     42,
     186
   },
-
   {
     "lou_in02",
     11668,
     101,
     827,
-		"Jiang Rong",
+    "Jiang Rong",
     "",
     43,
     169
   },
-
   {
     "lou_in02",
     11671,
     101,
     824,
-		"Hermit",
+    "Hermit",
     "",
     77,
     37
   },
-
   {
     "lou_in02",
     11675,
     101,
     814,
-		"Doctor",
+    "Doctor",
     "",
     265,
     69
   },
-
   {
     "lou_in02",
     11676,
     101,
     798,
-		"Familiar-Looking Patient",
+    "Familiar-Looking Patient",
     "",
     272,
     55
   },
-
   {
     "lou_in02",
     11677,
     101,
     824,
-		"Tool Shop Master",
+    "Tool Shop Master",
     "",
     248,
     166
   },
-
   {
     "lou_in02",
     11678,
     101,
     819,
-		"Storage Keeper",
+    "Storage Keeper",
     "",
     201,
     166
   },
-
   {
     "lou_in02",
     11679,
     101,
     825,
-		"City Hall Officer",
+    "City Hall Officer",
     "",
     210,
     47
   },
-
   {
     "lou_in02",
     11680,
     101,
     822,
-		"Studying Officer",
+    "Studying Officer",
     "",
     156,
     38
   },
-
   {
     "lou_in02",
     11685,
     101,
     824,
-		"Poison King",
+    "Poison King",
     "",
     123,
     39
   },
-
   {
     "lou_in02",
     11686,
     101,
     822,
-		"Employee",
+    "Employee",
     "만독문",
     253,
     45
   },
-
   {
     "lou_in02",
     15533,
@@ -17346,7 +15559,6 @@ Navi_Npc = {
     239,
     176
   },
-
   {
     "lou_in02",
     15534,
@@ -17357,7 +15569,6 @@ Navi_Npc = {
     121,
     182
   },
-
   {
     "lou_in02",
     15535,
@@ -17368,7 +15579,6 @@ Navi_Npc = {
     130,
     182
   },
-
   {
     "louyang",
     10053,
@@ -17379,194 +15589,176 @@ Navi_Npc = {
     210,
     107
   },
-
   {
     "louyang",
     11640,
     101,
     815,
-		"Muscular Woman",
+    "Muscular Woman",
     "",
     297,
     167
   },
-
   {
     "louyang",
     11641,
     101,
     819,
-		"Powerful-looking guy",
+    "Powerful-looking guy",
     "",
     274,
     136
   },
-
   {
     "louyang",
     11642,
     101,
     819,
-		"Fist master",
+    "Fist master",
     "",
     276,
     136
   },
-
   {
     "louyang",
     11643,
     101,
     819,
-		"Trainee",
+    "Trainee",
     "1",
     276,
     133
   },
-
   {
     "louyang",
     11644,
     101,
     819,
-		"Trainee",
+    "Trainee",
     "2",
     276,
     131
   },
-
   {
     "louyang",
     11645,
     101,
     819,
-		"Trainee",
+    "Trainee",
     "3",
     276,
     129
   },
-
   {
     "louyang",
     11646,
     101,
     819,
-		"Trainee",
+    "Trainee",
     "4",
     274,
     133
   },
-
   {
     "louyang",
     11647,
     101,
     819,
-		"Trainee",
+    "Trainee",
     "5",
     274,
     131
   },
-
   {
     "louyang",
     11648,
     101,
     819,
-		"Trainee",
+    "Trainee",
     "6",
     274,
     129
   },
-
   {
     "louyang",
     11649,
     101,
     819,
-		"Trainee",
+    "Trainee",
     "7",
     278,
     133
   },
-
   {
     "louyang",
     11650,
     101,
     819,
-		"Trainee",
+    "Trainee",
     "8",
     278,
     131
   },
-
   {
     "louyang",
     11651,
     101,
     819,
-		"Trainee",
+    "Trainee",
     "9",
     278,
     129
   },
-
   {
     "louyang",
     11652,
     101,
     819,
-		"Trainee",
+    "Trainee",
     "10",
     272,
     133
   },
-
   {
     "louyang",
     11653,
     101,
     819,
-		"Trainee",
+    "Trainee",
     "11",
     272,
     131
   },
-
   {
     "louyang",
     11654,
     101,
     819,
-		"Trainee",
+    "Trainee",
     "12",
     272,
     129
   },
-
   {
     "louyang",
     11669,
     101,
     824,
-		"Chi Wu Ping",
+    "Chi Wu Ping",
     "",
     261,
     123
   },
-
   {
     "louyang",
     11670,
     101,
     815,
-		"Jiu Chi Ling",
+    "Jiu Chi Ling",
     "",
     174,
     150
   },
-
   {
     "louyang",
     15423,
@@ -17577,7 +15769,6 @@ Navi_Npc = {
     210,
     104
   },
-
   {
     "louyang",
     15583,
@@ -17588,18 +15779,16 @@ Navi_Npc = {
     256,
     123
   },
-
   {
     "louyang",
     15803,
     101,
     818,
-		"Louyang Guide",
+    "Louyang Guide",
     "01louyang",
     224,
     104
   },
-
   {
     "louyang",
     19607,
@@ -17610,7 +15799,6 @@ Navi_Npc = {
     37,
     276
   },
-
   {
     "louyang",
     19657,
@@ -17621,7 +15809,6 @@ Navi_Npc = {
     224,
     107
   },
-
   {
     "ma_dun01",
     13848,
@@ -17632,7 +15819,6 @@ Navi_Npc = {
     35,
     108
   },
-
   {
     "ma_dun01",
     13862,
@@ -17643,7 +15829,6 @@ Navi_Npc = {
     152,
     23
   },
-
   {
     "ma_dun01",
     14008,
@@ -17654,7 +15839,6 @@ Navi_Npc = {
     147,
     10
   },
-
   {
     "ma_fild01",
     13824,
@@ -17665,7 +15849,6 @@ Navi_Npc = {
     165,
     237
   },
-
   {
     "ma_fild01",
     13835,
@@ -17676,7 +15859,6 @@ Navi_Npc = {
     54,
     253
   },
-
   {
     "ma_fild01",
     13836,
@@ -17687,7 +15869,6 @@ Navi_Npc = {
     236,
     119
   },
-
   {
     "ma_fild01",
     13897,
@@ -17698,7 +15879,6 @@ Navi_Npc = {
     179,
     260
   },
-
   {
     "ma_fild01",
     13898,
@@ -17709,7 +15889,6 @@ Navi_Npc = {
     172,
     223
   },
-
   {
     "ma_fild01",
     13899,
@@ -17720,7 +15899,6 @@ Navi_Npc = {
     192,
     200
   },
-
   {
     "ma_fild01",
     13900,
@@ -17731,7 +15909,6 @@ Navi_Npc = {
     211,
     200
   },
-
   {
     "ma_fild01",
     13901,
@@ -17742,7 +15919,6 @@ Navi_Npc = {
     251,
     205
   },
-
   {
     "ma_fild01",
     13902,
@@ -17753,7 +15929,6 @@ Navi_Npc = {
     249,
     206
   },
-
   {
     "ma_fild01",
     13903,
@@ -17764,7 +15939,6 @@ Navi_Npc = {
     162,
     235
   },
-
   {
     "ma_fild01",
     13904,
@@ -17775,7 +15949,6 @@ Navi_Npc = {
     164,
     234
   },
-
   {
     "ma_fild01",
     13905,
@@ -17786,7 +15959,6 @@ Navi_Npc = {
     170,
     231
   },
-
   {
     "ma_fild01",
     13906,
@@ -17797,7 +15969,6 @@ Navi_Npc = {
     164,
     228
   },
-
   {
     "ma_fild01",
     13907,
@@ -17808,7 +15979,6 @@ Navi_Npc = {
     170,
     234
   },
-
   {
     "ma_fild01",
     13908,
@@ -17819,7 +15989,6 @@ Navi_Npc = {
     164,
     231
   },
-
   {
     "ma_fild01",
     13909,
@@ -17830,7 +15999,6 @@ Navi_Npc = {
     170,
     228
   },
-
   {
     "ma_fild01",
     13942,
@@ -17841,7 +16009,6 @@ Navi_Npc = {
     166,
     214
   },
-
   {
     "ma_fild01",
     13943,
@@ -17852,7 +16019,6 @@ Navi_Npc = {
     238,
     198
   },
-
   {
     "ma_fild01",
     13944,
@@ -17863,7 +16029,6 @@ Navi_Npc = {
     74,
     367
   },
-
   {
     "ma_fild01",
     13945,
@@ -17874,7 +16039,6 @@ Navi_Npc = {
     109,
     116
   },
-
   {
     "ma_fild01",
     13946,
@@ -17885,7 +16049,6 @@ Navi_Npc = {
     280,
     150
   },
-
   {
     "ma_fild01",
     13947,
@@ -17896,7 +16059,6 @@ Navi_Npc = {
     309,
     221
   },
-
   {
     "ma_fild01",
     13997,
@@ -17907,7 +16069,6 @@ Navi_Npc = {
     261,
     208
   },
-
   {
     "ma_fild01",
     13998,
@@ -17918,7 +16079,6 @@ Navi_Npc = {
     239,
     253
   },
-
   {
     "ma_fild01",
     13999,
@@ -17929,7 +16089,6 @@ Navi_Npc = {
     238,
     257
   },
-
   {
     "ma_fild01",
     14000,
@@ -17940,7 +16099,6 @@ Navi_Npc = {
     200,
     190
   },
-
   {
     "ma_fild01",
     14001,
@@ -17951,7 +16109,6 @@ Navi_Npc = {
     203,
     189
   },
-
   {
     "ma_fild01",
     14002,
@@ -17962,7 +16119,6 @@ Navi_Npc = {
     251,
     93
   },
-
   {
     "ma_fild01",
     14003,
@@ -17973,7 +16129,6 @@ Navi_Npc = {
     114,
     141
   },
-
   {
     "ma_fild01",
     14004,
@@ -17984,7 +16139,6 @@ Navi_Npc = {
     130,
     314
   },
-
   {
     "ma_fild01",
     14006,
@@ -17995,7 +16149,6 @@ Navi_Npc = {
     158,
     243
   },
-
   {
     "ma_fild02",
     13816,
@@ -18006,7 +16159,6 @@ Navi_Npc = {
     312,
     317
   },
-
   {
     "ma_fild02",
     13823,
@@ -18017,7 +16169,6 @@ Navi_Npc = {
     40,
     240
   },
-
   {
     "ma_fild02",
     13887,
@@ -18028,7 +16179,6 @@ Navi_Npc = {
     155,
     235
   },
-
   {
     "ma_fild02",
     13888,
@@ -18039,7 +16189,6 @@ Navi_Npc = {
     143,
     142
   },
-
   {
     "ma_fild02",
     13889,
@@ -18050,7 +16199,6 @@ Navi_Npc = {
     266,
     155
   },
-
   {
     "ma_fild02",
     13890,
@@ -18061,7 +16209,6 @@ Navi_Npc = {
     221,
     91
   },
-
   {
     "ma_fild02",
     13891,
@@ -18072,7 +16219,6 @@ Navi_Npc = {
     205,
     85
   },
-
   {
     "ma_fild02",
     13892,
@@ -18083,7 +16229,6 @@ Navi_Npc = {
     300,
     98
   },
-
   {
     "ma_fild02",
     13893,
@@ -18094,7 +16239,6 @@ Navi_Npc = {
     100,
     275
   },
-
   {
     "ma_fild02",
     13895,
@@ -18105,7 +16249,6 @@ Navi_Npc = {
     312,
     259
   },
-
   {
     "ma_fild02",
     13896,
@@ -18116,7 +16259,6 @@ Navi_Npc = {
     308,
     262
   },
-
   {
     "ma_fild02",
     13948,
@@ -18127,7 +16269,6 @@ Navi_Npc = {
     282,
     41
   },
-
   {
     "ma_fild02",
     13949,
@@ -18138,7 +16279,6 @@ Navi_Npc = {
     246,
     324
   },
-
   {
     "ma_fild02",
     13950,
@@ -18149,7 +16289,6 @@ Navi_Npc = {
     71,
     296
   },
-
   {
     "ma_fild02",
     13951,
@@ -18160,7 +16299,6 @@ Navi_Npc = {
     32,
     263
   },
-
   {
     "ma_fild02",
     14005,
@@ -18171,7 +16309,6 @@ Navi_Npc = {
     241,
     39
   },
-
   {
     "ma_in01",
     13883,
@@ -18182,7 +16319,6 @@ Navi_Npc = {
     47,
     101
   },
-
   {
     "ma_in01",
     13884,
@@ -18193,7 +16329,6 @@ Navi_Npc = {
     43,
     101
   },
-
   {
     "ma_in01",
     13941,
@@ -18204,7 +16339,6 @@ Navi_Npc = {
     30,
     94
   },
-
   {
     "ma_in01",
     13996,
@@ -18215,7 +16349,6 @@ Navi_Npc = {
     125,
     107
   },
-
   {
     "ma_in01",
     15633,
@@ -18226,7 +16359,6 @@ Navi_Npc = {
     73,
     22
   },
-
   {
     "ma_in01",
     15634,
@@ -18237,7 +16369,6 @@ Navi_Npc = {
     22,
     23
   },
-
   {
     "ma_in01",
     15636,
@@ -18248,7 +16379,6 @@ Navi_Npc = {
     67,
     13
   },
-
   {
     "ma_scene01",
     13837,
@@ -18259,7 +16389,6 @@ Navi_Npc = {
     177,
     89
   },
-
   {
     "ma_scene01",
     13838,
@@ -18270,7 +16399,6 @@ Navi_Npc = {
     141,
     118
   },
-
   {
     "ma_scene01",
     13839,
@@ -18281,7 +16409,6 @@ Navi_Npc = {
     175,
     170
   },
-
   {
     "ma_scene01",
     13952,
@@ -18292,7 +16419,6 @@ Navi_Npc = {
     195,
     92
   },
-
   {
     "ma_scene01",
     13953,
@@ -18303,7 +16429,6 @@ Navi_Npc = {
     158,
     139
   },
-
   {
     "ma_scene01",
     13954,
@@ -18314,7 +16439,6 @@ Navi_Npc = {
     167,
     112
   },
-
   {
     "ma_scene01",
     14007,
@@ -18325,7 +16449,6 @@ Navi_Npc = {
     174,
     179
   },
-
   {
     "mal_dun01",
     14959,
@@ -18336,7 +16459,6 @@ Navi_Npc = {
     136,
     120
   },
-
   {
     "mal_dun01",
     14960,
@@ -18347,7 +16469,6 @@ Navi_Npc = {
     136,
     122
   },
-
   {
     "mal_dun01",
     14962,
@@ -18358,7 +16479,6 @@ Navi_Npc = {
     133,
     125
   },
-
   {
     "mal_dun01",
     15123,
@@ -18369,7 +16489,6 @@ Navi_Npc = {
     151,
     235
   },
-
   {
     "mal_in01",
     14947,
@@ -18380,7 +16499,6 @@ Navi_Npc = {
     114,
     169
   },
-
   {
     "mal_in01",
     14948,
@@ -18391,7 +16509,6 @@ Navi_Npc = {
     116,
     168
   },
-
   {
     "mal_in01",
     14990,
@@ -18402,7 +16519,6 @@ Navi_Npc = {
     31,
     210
   },
-
   {
     "mal_in01",
     14996,
@@ -18413,7 +16529,6 @@ Navi_Npc = {
     91,
     216
   },
-
   {
     "mal_in01",
     14997,
@@ -18424,7 +16539,6 @@ Navi_Npc = {
     86,
     222
   },
-
   {
     "mal_in01",
     14998,
@@ -18435,7 +16549,6 @@ Navi_Npc = {
     91,
     222
   },
-
   {
     "mal_in01",
     14999,
@@ -18446,7 +16559,6 @@ Navi_Npc = {
     134,
     221
   },
-
   {
     "mal_in01",
     15000,
@@ -18457,7 +16569,6 @@ Navi_Npc = {
     133,
     214
   },
-
   {
     "mal_in01",
     15001,
@@ -18468,7 +16579,6 @@ Navi_Npc = {
     136,
     216
   },
-
   {
     "mal_in01",
     15002,
@@ -18479,7 +16589,6 @@ Navi_Npc = {
     136,
     215
   },
-
   {
     "mal_in01",
     15003,
@@ -18490,7 +16599,6 @@ Navi_Npc = {
     136,
     214
   },
-
   {
     "mal_in01",
     15004,
@@ -18501,7 +16609,6 @@ Navi_Npc = {
     136,
     213
   },
-
   {
     "mal_in01",
     15005,
@@ -18512,7 +16619,6 @@ Navi_Npc = {
     136,
     212
   },
-
   {
     "mal_in01",
     15007,
@@ -18523,7 +16629,6 @@ Navi_Npc = {
     15,
     221
   },
-
   {
     "mal_in01",
     15008,
@@ -18534,7 +16639,6 @@ Navi_Npc = {
     77,
     214
   },
-
   {
     "mal_in01",
     15009,
@@ -18545,7 +16649,6 @@ Navi_Npc = {
     142,
     220
   },
-
   {
     "mal_in01",
     15010,
@@ -18556,7 +16659,6 @@ Navi_Npc = {
     155,
     222
   },
-
   {
     "mal_in01",
     15011,
@@ -18567,7 +16669,6 @@ Navi_Npc = {
     30,
     222
   },
-
   {
     "mal_in01",
     15012,
@@ -18578,7 +16679,6 @@ Navi_Npc = {
     19,
     213
   },
-
   {
     "mal_in01",
     15027,
@@ -18589,7 +16689,6 @@ Navi_Npc = {
     172,
     28
   },
-
   {
     "mal_in01",
     15028,
@@ -18600,7 +16699,6 @@ Navi_Npc = {
     172,
     26
   },
-
   {
     "mal_in01",
     15124,
@@ -18611,18 +16709,6 @@ Navi_Npc = {
     160,
     34
   },
-
-	{
-		"mal_in01",
-		15746,
-		101,
-		403,
-		"타락천사의 장인",
-		"new10",
-		15,
-		16
-	},
-
   {
     "mal_in02",
     14916,
@@ -18633,7 +16719,6 @@ Navi_Npc = {
     134,
     31
   },
-
   {
     "mal_in02",
     14918,
@@ -18644,7 +16729,6 @@ Navi_Npc = {
     28,
     56
   },
-
   {
     "mal_in02",
     14919,
@@ -18655,7 +16739,6 @@ Navi_Npc = {
     22,
     62
   },
-
   {
     "mal_in02",
     14920,
@@ -18666,7 +16749,6 @@ Navi_Npc = {
     182,
     61
   },
-
   {
     "mal_in02",
     14921,
@@ -18677,7 +16759,6 @@ Navi_Npc = {
     178,
     66
   },
-
   {
     "mal_in02",
     14922,
@@ -18688,7 +16769,6 @@ Navi_Npc = {
     177,
     58
   },
-
   {
     "mal_in02",
     14923,
@@ -18699,7 +16779,6 @@ Navi_Npc = {
     174,
     64
   },
-
   {
     "mal_in02",
     14924,
@@ -18710,7 +16789,6 @@ Navi_Npc = {
     179,
     57
   },
-
   {
     "mal_in02",
     14925,
@@ -18721,7 +16799,6 @@ Navi_Npc = {
     140,
     94
   },
-
   {
     "mal_in02",
     14946,
@@ -18732,7 +16809,6 @@ Navi_Npc = {
     181,
     55
   },
-
   {
     "mal_in02",
     14961,
@@ -18743,7 +16819,6 @@ Navi_Npc = {
     102,
     94
   },
-
   {
     "mal_in02",
     14976,
@@ -18754,7 +16829,6 @@ Navi_Npc = {
     1,
     1
   },
-
   {
     "mal_in02",
     14987,
@@ -18765,7 +16839,6 @@ Navi_Npc = {
     184,
     72
   },
-
   {
     "mal_in02",
     15020,
@@ -18776,7 +16849,6 @@ Navi_Npc = {
     166,
     74
   },
-
   {
     "mal_in02",
     15021,
@@ -18787,7 +16859,6 @@ Navi_Npc = {
     132,
     95
   },
-
   {
     "mal_in02",
     15022,
@@ -18798,7 +16869,6 @@ Navi_Npc = {
     109,
     62
   },
-
   {
     "mal_in02",
     15119,
@@ -18809,7 +16879,6 @@ Navi_Npc = {
     187,
     58
   },
-
   {
     "mal_in02",
     15120,
@@ -18820,7 +16889,6 @@ Navi_Npc = {
     76,
     63
   },
-
   {
     "malangdo",
     10057,
@@ -18831,18 +16899,6 @@ Navi_Npc = {
     178,
     139
   },
-
-	{
-		"malangdo",
-		10083,
-		101,
-		553,
-		"복제전문가 미로",
-		"ch",
-		127,
-		196
-	},
-
   {
     "malangdo",
     10085,
@@ -18853,7 +16909,6 @@ Navi_Npc = {
     156,
     210
   },
-
   {
     "malangdo",
     10086,
@@ -18864,7 +16919,6 @@ Navi_Npc = {
     234,
     187
   },
-
   {
     "malangdo",
     10087,
@@ -18875,7 +16929,6 @@ Navi_Npc = {
     235,
     186
   },
-
   {
     "malangdo",
     14917,
@@ -18886,7 +16939,6 @@ Navi_Npc = {
     184,
     139
   },
-
   {
     "malangdo",
     14926,
@@ -18897,7 +16949,6 @@ Navi_Npc = {
     114,
     157
   },
-
   {
     "malangdo",
     14928,
@@ -18908,7 +16959,6 @@ Navi_Npc = {
     284,
     237
   },
-
   {
     "malangdo",
     14930,
@@ -18919,7 +16969,6 @@ Navi_Npc = {
     134,
     150
   },
-
   {
     "malangdo",
     14932,
@@ -18930,7 +16979,6 @@ Navi_Npc = {
     173,
     199
   },
-
   {
     "malangdo",
     14934,
@@ -18941,7 +16989,6 @@ Navi_Npc = {
     233,
     197
   },
-
   {
     "malangdo",
     14936,
@@ -18952,7 +16999,6 @@ Navi_Npc = {
     137,
     239
   },
-
   {
     "malangdo",
     14938,
@@ -18963,7 +17009,6 @@ Navi_Npc = {
     239,
     157
   },
-
   {
     "malangdo",
     14940,
@@ -18974,7 +17019,6 @@ Navi_Npc = {
     221,
     155
   },
-
   {
     "malangdo",
     14942,
@@ -18985,7 +17029,6 @@ Navi_Npc = {
     217,
     109
   },
-
   {
     "malangdo",
     14944,
@@ -18996,7 +17039,6 @@ Navi_Npc = {
     162,
     183
   },
-
   {
     "malangdo",
     14949,
@@ -19007,7 +17049,6 @@ Navi_Npc = {
     221,
     139
   },
-
   {
     "malangdo",
     14950,
@@ -19018,7 +17059,6 @@ Navi_Npc = {
     208,
     174
   },
-
   {
     "malangdo",
     14951,
@@ -19029,7 +17069,6 @@ Navi_Npc = {
     191,
     223
   },
-
   {
     "malangdo",
     14952,
@@ -19040,7 +17079,6 @@ Navi_Npc = {
     150,
     195
   },
-
   {
     "malangdo",
     14953,
@@ -19051,7 +17089,6 @@ Navi_Npc = {
     116,
     196
   },
-
   {
     "malangdo",
     14954,
@@ -19062,7 +17099,6 @@ Navi_Npc = {
     178,
     145
   },
-
   {
     "malangdo",
     14955,
@@ -19073,7 +17109,6 @@ Navi_Npc = {
     142,
     120
   },
-
   {
     "malangdo",
     14956,
@@ -19084,7 +17119,6 @@ Navi_Npc = {
     136,
     122
   },
-
   {
     "malangdo",
     14957,
@@ -19095,7 +17129,6 @@ Navi_Npc = {
     152,
     143
   },
-
   {
     "malangdo",
     14958,
@@ -19106,7 +17139,6 @@ Navi_Npc = {
     242,
     175
   },
-
   {
     "malangdo",
     14963,
@@ -19117,7 +17149,6 @@ Navi_Npc = {
     190,
     167
   },
-
   {
     "malangdo",
     14977,
@@ -19128,7 +17159,6 @@ Navi_Npc = {
     175,
     206
   },
-
   {
     "malangdo",
     14978,
@@ -19139,7 +17169,6 @@ Navi_Npc = {
     181,
     205
   },
-
   {
     "malangdo",
     14979,
@@ -19150,7 +17179,6 @@ Navi_Npc = {
     180,
     202
   },
-
   {
     "malangdo",
     14980,
@@ -19161,7 +17189,6 @@ Navi_Npc = {
     186,
     201
   },
-
   {
     "malangdo",
     14981,
@@ -19172,7 +17199,6 @@ Navi_Npc = {
     177,
     202
   },
-
   {
     "malangdo",
     14982,
@@ -19183,7 +17209,6 @@ Navi_Npc = {
     183,
     202
   },
-
   {
     "malangdo",
     14983,
@@ -19194,7 +17219,6 @@ Navi_Npc = {
     203,
     116
   },
-
   {
     "malangdo",
     14984,
@@ -19205,7 +17229,6 @@ Navi_Npc = {
     205,
     116
   },
-
   {
     "malangdo",
     14985,
@@ -19216,7 +17239,6 @@ Navi_Npc = {
     197,
     120
   },
-
   {
     "malangdo",
     14986,
@@ -19227,7 +17249,6 @@ Navi_Npc = {
     171,
     163
   },
-
   {
     "malangdo",
     14988,
@@ -19238,7 +17259,6 @@ Navi_Npc = {
     125,
     147
   },
-
   {
     "malangdo",
     14989,
@@ -19249,7 +17269,6 @@ Navi_Npc = {
     129,
     146
   },
-
   {
     "malangdo",
     14991,
@@ -19260,7 +17279,6 @@ Navi_Npc = {
     127,
     111
   },
-
   {
     "malangdo",
     14992,
@@ -19271,7 +17289,6 @@ Navi_Npc = {
     161,
     197
   },
-
   {
     "malangdo",
     14993,
@@ -19282,7 +17299,6 @@ Navi_Npc = {
     230,
     197
   },
-
   {
     "malangdo",
     14994,
@@ -19293,7 +17309,6 @@ Navi_Npc = {
     244,
     144
   },
-
   {
     "malangdo",
     14995,
@@ -19304,7 +17319,6 @@ Navi_Npc = {
     181,
     119
   },
-
   {
     "malangdo",
     15006,
@@ -19315,7 +17329,6 @@ Navi_Npc = {
     120,
     140
   },
-
   {
     "malangdo",
     15013,
@@ -19326,7 +17339,6 @@ Navi_Npc = {
     165,
     223
   },
-
   {
     "malangdo",
     15014,
@@ -19337,7 +17349,6 @@ Navi_Npc = {
     211,
     203
   },
-
   {
     "malangdo",
     15015,
@@ -19348,7 +17359,6 @@ Navi_Npc = {
     214,
     204
   },
-
   {
     "malangdo",
     15016,
@@ -19359,7 +17369,6 @@ Navi_Npc = {
     215,
     201
   },
-
   {
     "malangdo",
     15017,
@@ -19370,7 +17379,6 @@ Navi_Npc = {
     176,
     165
   },
-
   {
     "malangdo",
     15018,
@@ -19381,7 +17389,6 @@ Navi_Npc = {
     172,
     178
   },
-
   {
     "malangdo",
     15019,
@@ -19392,7 +17399,6 @@ Navi_Npc = {
     173,
     177
   },
-
   {
     "malangdo",
     15023,
@@ -19403,7 +17409,6 @@ Navi_Npc = {
     213,
     167
   },
-
   {
     "malangdo",
     15024,
@@ -19414,7 +17419,6 @@ Navi_Npc = {
     215,
     166
   },
-
   {
     "malangdo",
     15025,
@@ -19425,7 +17429,6 @@ Navi_Npc = {
     220,
     167
   },
-
   {
     "malangdo",
     15026,
@@ -19436,7 +17439,6 @@ Navi_Npc = {
     218,
     165
   },
-
   {
     "malangdo",
     15029,
@@ -19447,7 +17449,6 @@ Navi_Npc = {
     162,
     146
   },
-
   {
     "malangdo",
     15030,
@@ -19458,7 +17459,6 @@ Navi_Npc = {
     173,
     145
   },
-
   {
     "malangdo",
     15031,
@@ -19469,7 +17469,6 @@ Navi_Npc = {
     150,
     135
   },
-
   {
     "malangdo",
     15032,
@@ -19480,7 +17479,6 @@ Navi_Npc = {
     147,
     117
   },
-
   {
     "malangdo",
     15034,
@@ -19491,7 +17489,6 @@ Navi_Npc = {
     151,
     120
   },
-
   {
     "malangdo",
     15035,
@@ -19502,7 +17499,6 @@ Navi_Npc = {
     149,
     120
   },
-
   {
     "malangdo",
     15036,
@@ -19513,7 +17509,6 @@ Navi_Npc = {
     216,
     168
   },
-
   {
     "malangdo",
     15037,
@@ -19524,7 +17519,6 @@ Navi_Npc = {
     164,
     203
   },
-
   {
     "malangdo",
     15066,
@@ -19535,7 +17529,6 @@ Navi_Npc = {
     219,
     86
   },
-
   {
     "malangdo",
     15117,
@@ -19546,7 +17539,6 @@ Navi_Npc = {
     224,
     172
   },
-
   {
     "malangdo",
     15118,
@@ -19557,7 +17549,6 @@ Navi_Npc = {
     221,
     174
   },
-
   {
     "malangdo",
     15121,
@@ -19568,7 +17559,6 @@ Navi_Npc = {
     133,
     134
   },
-
   {
     "malangdo",
     15122,
@@ -19579,7 +17569,6 @@ Navi_Npc = {
     197,
     237
   },
-
   {
     "malangdo",
     15125,
@@ -19590,7 +17579,6 @@ Navi_Npc = {
     175,
     145
   },
-
   {
     "malangdo",
     15126,
@@ -19601,7 +17589,6 @@ Navi_Npc = {
     236,
     179
   },
-
   {
     "malangdo",
     15127,
@@ -19612,7 +17599,6 @@ Navi_Npc = {
     233,
     180
   },
-
   {
     "malangdo",
     15128,
@@ -19623,7 +17609,6 @@ Navi_Npc = {
     208,
     166
   },
-
   {
     "malangdo",
     15632,
@@ -19634,7 +17619,6 @@ Navi_Npc = {
     232,
     163
   },
-
   {
     "malangdo",
     15701,
@@ -19645,18 +17629,6 @@ Navi_Npc = {
     214,
     163
   },
-
-	{
-		"malangdo",
-		15745,
-		101,
-		837,
-		"강화능력자 협회",
-		"new10",
-		234,
-		153
-	},
-
   {
     "malangdo",
     15814,
@@ -19667,7 +17639,6 @@ Navi_Npc = {
     218,
     101
   },
-
   {
     "malangdo",
     18060,
@@ -19678,7 +17649,6 @@ Navi_Npc = {
     215,
     119
   },
-
   {
     "malangdo",
     18061,
@@ -19689,7 +17659,6 @@ Navi_Npc = {
     218,
     126
   },
-
   {
     "malangdo",
     18062,
@@ -19700,7 +17669,6 @@ Navi_Npc = {
     218,
     123
   },
-
   {
     "malangdo",
     19594,
@@ -19711,7 +17679,6 @@ Navi_Npc = {
     77,
     238
   },
-
   {
     "malaya",
     10066,
@@ -19722,7 +17689,6 @@ Navi_Npc = {
     234,
     218
   },
-
   {
     "malaya",
     13817,
@@ -19733,7 +17699,6 @@ Navi_Npc = {
     280,
     331
   },
-
   {
     "malaya",
     13818,
@@ -19744,7 +17709,6 @@ Navi_Npc = {
     275,
     333
   },
-
   {
     "malaya",
     13819,
@@ -19755,7 +17719,6 @@ Navi_Npc = {
     290,
     329
   },
-
   {
     "malaya",
     13820,
@@ -19766,7 +17729,6 @@ Navi_Npc = {
     264,
     338
   },
-
   {
     "malaya",
     13821,
@@ -19777,7 +17739,6 @@ Navi_Npc = {
     272,
     339
   },
-
   {
     "malaya",
     13826,
@@ -19788,7 +17749,6 @@ Navi_Npc = {
     286,
     269
   },
-
   {
     "malaya",
     13827,
@@ -19799,7 +17759,6 @@ Navi_Npc = {
     276,
     269
   },
-
   {
     "malaya",
     13828,
@@ -19810,7 +17769,6 @@ Navi_Npc = {
     276,
     262
   },
-
   {
     "malaya",
     13910,
@@ -19821,7 +17779,6 @@ Navi_Npc = {
     237,
     240
   },
-
   {
     "malaya",
     13913,
@@ -19832,7 +17789,6 @@ Navi_Npc = {
     67,
     44
   },
-
   {
     "malaya",
     13916,
@@ -19843,7 +17799,6 @@ Navi_Npc = {
     282,
     129
   },
-
   {
     "malaya",
     13919,
@@ -19854,7 +17809,6 @@ Navi_Npc = {
     134,
     250
   },
-
   {
     "malaya",
     13922,
@@ -19865,7 +17819,6 @@ Navi_Npc = {
     341,
     153
   },
-
   {
     "malaya",
     13925,
@@ -19876,7 +17829,6 @@ Navi_Npc = {
     293,
     290
   },
-
   {
     "malaya",
     13928,
@@ -19887,7 +17839,6 @@ Navi_Npc = {
     242,
     221
   },
-
   {
     "malaya",
     13931,
@@ -19898,7 +17849,6 @@ Navi_Npc = {
     62,
     245
   },
-
   {
     "malaya",
     13934,
@@ -19909,7 +17859,6 @@ Navi_Npc = {
     257,
     58
   },
-
   {
     "malaya",
     13955,
@@ -19920,7 +17869,6 @@ Navi_Npc = {
     227,
     311
   },
-
   {
     "malaya",
     13956,
@@ -19931,7 +17879,6 @@ Navi_Npc = {
     189,
     263
   },
-
   {
     "malaya",
     13957,
@@ -19942,7 +17889,6 @@ Navi_Npc = {
     270,
     59
   },
-
   {
     "malaya",
     13958,
@@ -19953,7 +17899,6 @@ Navi_Npc = {
     88,
     252
   },
-
   {
     "malaya",
     13959,
@@ -19964,7 +17909,6 @@ Navi_Npc = {
     219,
     92
   },
-
   {
     "malaya",
     13960,
@@ -19975,7 +17919,6 @@ Navi_Npc = {
     363,
     283
   },
-
   {
     "malaya",
     13961,
@@ -19986,7 +17929,6 @@ Navi_Npc = {
     41,
     127
   },
-
   {
     "malaya",
     13962,
@@ -19997,7 +17939,6 @@ Navi_Npc = {
     63,
     185
   },
-
   {
     "malaya",
     13985,
@@ -20008,7 +17949,6 @@ Navi_Npc = {
     169,
     350
   },
-
   {
     "malaya",
     15441,
@@ -20019,7 +17959,6 @@ Navi_Npc = {
     71,
     79
   },
-
   {
     "malaya",
     15442,
@@ -20030,7 +17969,6 @@ Navi_Npc = {
     234,
     204
   },
-
   {
     "malaya",
     15635,
@@ -20041,7 +17979,6 @@ Navi_Npc = {
     150,
     261
   },
-
   {
     "malaya",
     15808,
@@ -20052,7 +17989,6 @@ Navi_Npc = {
     71,
     72
   },
-
   {
     "malaya",
     15809,
@@ -20063,7 +17999,6 @@ Navi_Npc = {
     250,
     83
   },
-
   {
     "malaya",
     15810,
@@ -20074,7 +18009,6 @@ Navi_Npc = {
     224,
     204
   },
-
   {
     "malaya",
     19673,
@@ -20085,18 +18019,16 @@ Navi_Npc = {
     225,
     218
   },
-
   {
     "man_fild02",
     14453,
     101,
     421,
-		"Cat Hand Agent",
+    "Cat Hand Agent",
     "03pa0829",
     132,
     47
   },
-
   {
     "man_fild02",
     15201,
@@ -20107,51 +18039,46 @@ Navi_Npc = {
     135,
     49
   },
-
   {
     "man_in01",
     14360,
     101,
     454,
-		"Merchant of Manuk",
+    "Merchant of Manuk",
     "",
     286,
     16
   },
-
   {
     "man_in01",
     14549,
     101,
     450,
-		"Manuk Guard",
+    "Manuk Guard",
     "1_edq",
     286,
     61
   },
-
   {
     "man_in01",
     14550,
     101,
     450,
-		"Manuk Guard",
+    "Manuk Guard",
     "2_edq",
     295,
     61
   },
-
   {
     "man_in01",
     14551,
     101,
     437,
-		"Laphine Prisoner",
+    "Laphine Prisoner",
     "edq",
     291,
     62
   },
-
   {
     "manuk",
     10063,
@@ -20162,7 +18089,6 @@ Navi_Npc = {
     296,
     147
   },
-
   {
     "manuk",
     10099,
@@ -20173,194 +18099,176 @@ Navi_Npc = {
     273,
     212
   },
-
   {
     "manuk",
     14316,
     101,
     454,
-		"Piom",
+    "Piom",
     "",
     100,
     100
   },
-
   {
     "manuk",
     14317,
     101,
     449,
-		"Benknee",
+    "Benknee",
     "",
     188,
     216
   },
-
   {
     "manuk",
     14318,
     101,
     455,
-		"Piom",
+    "Piom",
     "",
     169,
     260
   },
-
   {
     "manuk",
     14319,
     101,
     450,
-		"Galtun",
+    "Galtun",
     "",
     218,
     163
   },
-
   {
     "manuk",
     14320,
     101,
     450,
-		"Galtun",
+    "Galtun",
     "",
     266,
     199
   },
-
   {
     "manuk",
     14321,
     101,
     449,
-		"Benknee",
+    "Benknee",
     "",
     225,
     129
   },
-
   {
     "manuk",
     14322,
     101,
     454,
-		"Piom",
+    "Piom",
     "",
     286,
     147
   },
-
   {
     "manuk",
     14323,
     101,
     454,
-		"Piom",
+    "Piom",
     "",
     183,
     185
   },
-
   {
     "manuk",
     14324,
     101,
     450,
-		"Galtun",
+    "Galtun",
     "",
     256,
     143
   },
-
   {
     "manuk",
     14325,
     101,
     455,
-		"Piom",
+    "Piom",
     "",
     245,
     124
   },
-
   {
     "manuk",
     14363,
     101,
     460,
-		"Manuk Piom",
+    "Manuk Piom",
     "tre1",
     99,
     334
   },
-
   {
     "manuk",
     14364,
     101,
     455,
-		"Manuk Piom",
+    "Manuk Piom",
     "tre2",
     103,
     311
   },
-
   {
     "manuk",
     14365,
     101,
     454,
-		"Manuk Piom",
+    "Manuk Piom",
     "tre4",
     293,
     203
   },
-
   {
     "manuk",
     14366,
     101,
     449,
-		"Manuk Benknee",
+    "Manuk Benknee",
     "tre5",
     253,
     173
   },
-
   {
     "manuk",
     14375,
     101,
     454,
-		"Villager",
+    "Villager",
     "ep13_11",
     278,
     177
   },
-
   {
     "manuk",
     14376,
     101,
     449,
-		"Villager",
+    "Villager",
     "ep13_12",
     281,
     177
   },
-
   {
     "manuk",
     14521,
     101,
     450,
-		"Manuk Galtun",
+    "Manuk Galtun",
     "ep13_2dayq01",
     252,
     116
   },
-
   {
     "manuk",
     14696,
@@ -20371,7 +18279,6 @@ Navi_Npc = {
     321,
     182
   },
-
   {
     "manuk",
     15706,
@@ -20382,7 +18289,6 @@ Navi_Npc = {
     261,
     206
   },
-
   {
     "manuk",
     15724,
@@ -20393,7 +18299,6 @@ Navi_Npc = {
     273,
     206
   },
-
   {
     "mid_camp",
     10061,
@@ -20404,7 +18309,6 @@ Navi_Npc = {
     201,
     237
   },
-
   {
     "mid_camp",
     10101,
@@ -20415,117 +18319,106 @@ Navi_Npc = {
     242,
     243
   },
-
   {
     "mid_camp",
     14046,
     101,
     707,
-		"Rift Guard",
+    "Rift Guard",
     "",
     213,
     286
   },
-
   {
     "mid_camp",
     14076,
     101,
     852,
-		"Camp Guard",
+    "Camp Guard",
     "man2",
     13,
     143
   },
-
   {
     "mid_camp",
     14078,
     101,
     852,
-		"Camp Guard",
+    "Camp Guard",
     "man3",
     9,
     215
   },
-
   {
     "mid_camp",
     14095,
     101,
     886,
-		"Cooking Soldier",
+    "Cooking Soldier",
     "ep13bs",
     159,
     282
   },
-
   {
     "mid_camp",
     14096,
     101,
     937,
-		"Sorcerer",
+    "Sorcerer",
     "ep13bs",
     166,
     248
   },
-
   {
     "mid_camp",
     14237,
     101,
     712,
-		"Henry Clifford",
+    "Henry Clifford",
     "",
     66,
     122
   },
-
   {
     "mid_camp",
     14238,
     101,
     876,
-		"Cat Hand Mining Agent",
+    "Cat Hand Mining Agent",
     "",
     88,
     100
   },
-
   {
     "mid_camp",
     14240,
     101,
     1989,
-		"Hillsrion",
+    "Hillsrion",
     "alba01",
     152,
     316
   },
-
   {
     "mid_camp",
     14241,
     101,
     1986,
-		"Tatacho",
+    "Tatacho",
     "alba02",
     145,
     313
   },
-
   {
     "mid_camp",
     14242,
     101,
     1992,
-		"Cornus",
+    "Cornus",
     "alba03",
     162,
     306
   },
-
   {
     "mid_camp",
     14685,
@@ -20536,7 +18429,6 @@ Navi_Npc = {
     220,
     246
   },
-
   {
     "mid_camp",
     14686,
@@ -20547,7 +18439,6 @@ Navi_Npc = {
     223,
     246
   },
-
   {
     "mid_camp",
     15196,
@@ -20558,7 +18449,6 @@ Navi_Npc = {
     207,
     234
   },
-
   {
     "mid_camp",
     15608,
@@ -20569,7 +18459,6 @@ Navi_Npc = {
     129,
     284
   },
-
   {
     "mid_camp",
     15613,
@@ -20580,7 +18469,6 @@ Navi_Npc = {
     184,
     263
   },
-
   {
     "mid_camp",
     15708,
@@ -20591,7 +18479,6 @@ Navi_Npc = {
     224,
     237
   },
-
   {
     "mid_camp",
     15726,
@@ -20602,62 +18489,56 @@ Navi_Npc = {
     242,
     238
   },
-
   {
     "mid_camp",
     18800,
     101,
     468,
-		"Rune Knight Sage Guard",
+    "Rune Knight Sage Guard",
     "",
     238,
     250
   },
-
   {
     "mid_camp",
     18801,
     101,
     83,
-		"Dispatched Rune Knight",
+    "Dispatched Rune Knight",
     "",
     13,
     138
   },
-
   {
     "mid_campin",
     14061,
     101,
     751,
-		"Instructor Igrid",
+    "Instructor Igrid",
     "",
     85,
     118
   },
-
   {
     "mid_campin",
     14087,
     101,
     89,
-		"Receptionist Brink",
+    "Receptionist Brink",
     "ep13bs",
     106,
     122
   },
-
   {
     "mid_campin",
     14091,
     101,
     849,
-		"Davi",
+    "Davi",
     "ep13bs",
     292,
     120
   },
-
   {
     "mid_campin",
     14688,
@@ -20668,7 +18549,6 @@ Navi_Npc = {
     111,
     120
   },
-
   {
     "mid_campin",
     14692,
@@ -20679,18 +18559,16 @@ Navi_Npc = {
     168,
     125
   },
-
   {
     "mjolnir_01",
     10688,
     101,
     81,
-		"Dog",
+    "Dog",
     "prt",
     312,
     269
   },
-
   {
     "mjolnir_02",
     15402,
@@ -20701,18 +18579,16 @@ Navi_Npc = {
     82,
     362
   },
-
   {
     "mjolnir_02",
     19574,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "묘르닐폐광",
     76,
     362
   },
-
   {
     "mjolnir_09",
     19150,
@@ -20723,7 +18599,6 @@ Navi_Npc = {
     48,
     246
   },
-
   {
     "mjolnir_12",
     19576,
@@ -20734,62 +18609,56 @@ Navi_Npc = {
     40,
     18
   },
-
   {
     "moc_fild12",
     18265,
     101,
     59,
-		"Serutero",
+    "Serutero",
     "",
     35,
     303
   },
-
   {
     "moc_fild16",
     11050,
     101,
     55,
-		" Uncle Assassin",
+    " Uncle Assassin",
     "07rhea_29",
     199,
     212
   },
-
   {
     "moc_fild16",
     11051,
     101,
     118,
-		"Assassin",
+    "Assassin",
     "07rhea_30",
     211,
     254
   },
-
   {
     "moc_fild16",
     18887,
     101,
     486,
-		"Karian",
+    "Karian",
     "cmd7",
     204,
     231
   },
-
   {
     "moc_fild19",
     19577,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "스핑크스",
     107,
     101
   },
-
   {
     "moc_fild20",
     14785,
@@ -20800,7 +18669,6 @@ Navi_Npc = {
     368,
     197
   },
-
   {
     "moc_fild22b",
     14787,
@@ -20811,7 +18679,6 @@ Navi_Npc = {
     182,
     179
   },
-
   {
     "moc_para01",
     10107,
@@ -20822,7 +18689,6 @@ Navi_Npc = {
     34,
     38
   },
-
   {
     "moc_para01",
     14782,
@@ -20833,7 +18699,6 @@ Navi_Npc = {
     44,
     19
   },
-
   {
     "moc_para01",
     15733,
@@ -20844,7 +18709,6 @@ Navi_Npc = {
     22,
     16
   },
-
   {
     "moc_para01",
     19139,
@@ -20855,7 +18719,6 @@ Navi_Npc = {
     17,
     37
   },
-
   {
     "moc_para01",
     19283,
@@ -20866,150 +18729,136 @@ Navi_Npc = {
     165,
     51
   },
-
   {
     "moc_para01",
     19615,
     101,
     857,
-		"Mission [11 - 25]",
+    "Mission [11 - 25]",
     "튜토",
     36,
     38
   },
-
   {
     "moc_para01",
     19617,
     101,
     857,
-		"Mission [41 - 55]",
+    "Mission [41 - 55]",
     "",
     40,
     38
   },
-
   {
     "moc_para01",
     19618,
     101,
     952,
-		"Secretary Lime Evenor",
+    "Secretary Lime Evenor",
     "eden",
     27,
     35
   },
-
   {
     "moc_para01",
     19689,
     101,
     900,
-		"Old Adventurer",
+    "Old Adventurer",
     "eden",
     16,
     22
   },
-
   {
     "moc_para01",
     19690,
     101,
     886,
-		"Eden's chief",
+    "Eden's chief",
     "eden",
     182,
     48
   },
-
   {
     "moc_para01",
     19691,
     101,
     883,
-		"Eden's Intern",
+    "Eden's Intern",
     "eden",
     172,
     28
   },
-
   {
     "moc_para01",
     19692,
     101,
     814,
-		"Office Assistant Neede",
+    "Office Assistant Neede",
     "eden",
     20,
     35
   },
-
   {
     "moc_para01",
     19693,
     101,
     857,
-		"Mission [26 - 40]",
+    "Mission [26 - 40]",
     "09tuto_rhea01",
     38,
     38
   },
-
   {
     "moc_para01",
     19700,
     101,
     857,
-		"Request [71 - 85]",
+    "Request [71 - 85]",
     "",
     44,
     38
   },
-
   {
     "moc_para01",
     19701,
     101,
     857,
-		"Mission [56 - 70]",
+    "Mission [56 - 70]",
     "",
     42,
     38
   },
-
   {
     "moc_para01",
     19702,
     101,
     469,
-		"Instructor Boya",
+    "Instructor Boya",
     "para01",
     25,
     35
   },
-
   {
     "moc_para01",
     19709,
     101,
     967,
-		"Administrator Michael",
+    "Administrator Michael",
     "para09",
     112,
     96
   },
-
   {
     "moc_para01",
     19710,
     101,
     820,
-		"Chef",
+    "Chef",
     "",
     179,
     44
   },
-
   {
     "moc_para01",
     19711,
@@ -21020,7 +18869,6 @@ Navi_Npc = {
     23,
     35
   },
-
   {
     "moc_para01",
     19720,
@@ -21031,7 +18879,6 @@ Navi_Npc = {
     111,
     83
   },
-
   {
     "moc_para01",
     19721,
@@ -21042,7 +18889,6 @@ Navi_Npc = {
     112,
     79
   },
-
   {
     "moc_para01",
     19722,
@@ -21053,7 +18899,6 @@ Navi_Npc = {
     48,
     175
   },
-
   {
     "moc_para01",
     19723,
@@ -21064,7 +18909,6 @@ Navi_Npc = {
     48,
     177
   },
-
   {
     "moc_para01",
     19724,
@@ -21075,7 +18919,6 @@ Navi_Npc = {
     37,
     95
   },
-
   {
     "moc_para01",
     19725,
@@ -21086,7 +18929,6 @@ Navi_Npc = {
     41,
     95
   },
-
   {
     "moc_para01",
     19726,
@@ -21097,18 +18939,16 @@ Navi_Npc = {
     17,
     95
   },
-
   {
     "moc_pryd04",
     13652,
     101,
     967,
-		"Soldier",
+    "Soldier",
     "07russia_26",
     126,
     120
   },
-
   {
     "moc_prydb1",
     13133,
@@ -21119,7 +18959,6 @@ Navi_Npc = {
     162,
     119
   },
-
   {
     "moc_prydb1",
     15296,
@@ -21130,40 +18969,36 @@ Navi_Npc = {
     103,
     54
   },
-
   {
     "moc_prydb1",
     18363,
     101,
     118,
-		"Alcouskou",
+    "Alcouskou",
     "",
     154,
     128
   },
-
   {
     "moc_prydb1",
     18491,
     101,
     69,
-		"Thief Guide",
+    "Thief Guide",
     "",
     39,
     129
   },
-
   {
     "moc_prydb1",
     18492,
     101,
     118,
-		"Thief Guildsman",
+    "Thief Guildsman",
     "",
     42,
     133
   },
-
   {
     "moc_prydb1",
     19135,
@@ -21174,7 +19009,6 @@ Navi_Npc = {
     38,
     124
   },
-
   {
     "moc_prydb1",
     19163,
@@ -21185,7 +19019,6 @@ Navi_Npc = {
     50,
     130
   },
-
   {
     "moc_prydb1",
     19164,
@@ -21196,7 +19029,6 @@ Navi_Npc = {
     42,
     120
   },
-
   {
     "moc_prydb1",
     19165,
@@ -21207,18 +19039,16 @@ Navi_Npc = {
     46,
     132
   },
-
   {
     "moc_prydb1",
     19633,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "9",
     53,
     126
   },
-
   {
     "moc_prydn1",
     15298,
@@ -21229,161 +19059,146 @@ Navi_Npc = {
     94,
     98
   },
-
   {
     "moc_ruins",
     11035,
     101,
     99,
-		"Young Man",
+    "Young Man",
     "07rhea_14",
     123,
     154
   },
-
   {
     "moc_ruins",
     11036,
     101,
     61,
-		"Grampa",
+    "Grampa",
     "07rhea_15",
     128,
     153
   },
-
   {
     "moc_ruins",
     11037,
     101,
     85,
-		"Wolf Young Man",
+    "Wolf Young Man",
     "07rhea_16",
     132,
     144
   },
-
   {
     "moc_ruins",
     11038,
     101,
     83,
-		"Muka Young Man",
+    "Muka Young Man",
     "07rhea_17",
     115,
     144
   },
-
   {
     "moc_ruins",
     11039,
     101,
     99,
-		"Diamond Young Man",
+    "Diamond Young Man",
     "07rhea_18",
     109,
     138
   },
-
   {
     "moc_ruins",
     11041,
     101,
     48,
-		"Pale Looking Young Man",
+    "Pale Looking Young Man",
     "07rhea_22",
     94,
     117
   },
-
   {
     "moc_ruins",
     11042,
     101,
     703,
-		"Little Girl",
+    "Little Girl",
     "07rhea_31",
     115,
     82
   },
-
   {
     "moc_ruins",
     11043,
     101,
     706,
-		"Little Boy",
+    "Little Boy",
     "07rhea_32",
     118,
     82
   },
-
   {
     "moc_ruins",
     11044,
     101,
     66,
-		"Picky Lady",
+    "Picky Lady",
     "07rhea_23",
     121,
     116
   },
-
   {
     "moc_ruins",
     11045,
     101,
     47,
-		"Ant Man",
+    "Ant Man",
     "07rhea_24",
     155,
     107
   },
-
   {
     "moc_ruins",
     11046,
     101,
     118,
-		"Assassin Boy",
+    "Assassin Boy",
     "07rhea_25",
     143,
     43
   },
-
   {
     "moc_ruins",
     11047,
     101,
     49,
-		"Dimitri",
+    "Dimitri",
     "07rhea_26",
     173,
     141
   },
-
   {
     "moc_ruins",
     11048,
     101,
     54,
-		"Fly Man",
+    "Fly Man",
     "07rhea_27",
     174,
     120
   },
-
   {
     "moc_ruins",
     11049,
     101,
     48,
-		"Uncle Morroc",
+    "Uncle Morroc",
     "07rhea_28",
     173,
     70
   },
-
   {
     "moc_ruins",
     12468,
@@ -21394,7 +19209,6 @@ Navi_Npc = {
     104,
     133
   },
-
   {
     "moc_ruins",
     12510,
@@ -21405,62 +19219,56 @@ Navi_Npc = {
     97,
     133
   },
-
   {
     "moc_ruins",
     13338,
     101,
     880,
-		"Foreign Merchant",
+    "Foreign Merchant",
     "aru1",
     77,
     167
   },
-
   {
     "moc_ruins",
     13339,
     101,
     929,
-		"Foreign Merchant",
+    "Foreign Merchant",
     "aru2",
     101,
     133
   },
-
   {
     "moc_ruins",
     13388,
     101,
     48,
-		"Book-Touching Man",
+    "Book-Touching Man",
     "garas",
     137,
     70
   },
-
   {
     "moc_ruins",
     14048,
     101,
     707,
-		"Time-Space Gap Guard",
+    "Time-Space Gap Guard",
     "",
     137,
     89
   },
-
   {
     "moc_ruins",
     15400,
     101,
     114,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     59,
     157
   },
-
   {
     "moc_ruins",
     15468,
@@ -21471,7 +19279,6 @@ Navi_Npc = {
     91,
     128
   },
-
   {
     "moc_ruins",
     15469,
@@ -21482,7 +19289,6 @@ Navi_Npc = {
     114,
     63
   },
-
   {
     "moc_ruins",
     15470,
@@ -21493,7 +19299,6 @@ Navi_Npc = {
     93,
     53
   },
-
   {
     "moc_ruins",
     15471,
@@ -21504,7 +19309,6 @@ Navi_Npc = {
     81,
     113
   },
-
   {
     "moc_ruins",
     15472,
@@ -21515,7 +19319,6 @@ Navi_Npc = {
     110,
     105
   },
-
   {
     "moc_ruins",
     15473,
@@ -21526,7 +19329,6 @@ Navi_Npc = {
     52,
     85
   },
-
   {
     "moc_ruins",
     15474,
@@ -21537,7 +19339,6 @@ Navi_Npc = {
     113,
     126
   },
-
   {
     "moc_ruins",
     15475,
@@ -21548,7 +19349,6 @@ Navi_Npc = {
     131,
     138
   },
-
   {
     "moc_ruins",
     15476,
@@ -21559,7 +19359,6 @@ Navi_Npc = {
     71,
     139
   },
-
   {
     "moc_ruins",
     15477,
@@ -21570,7 +19369,6 @@ Navi_Npc = {
     125,
     135
   },
-
   {
     "moc_ruins",
     15478,
@@ -21581,7 +19379,6 @@ Navi_Npc = {
     87,
     109
   },
-
   {
     "moc_ruins",
     15479,
@@ -21592,7 +19389,6 @@ Navi_Npc = {
     90,
     149
   },
-
   {
     "moc_ruins",
     15480,
@@ -21603,7 +19399,6 @@ Navi_Npc = {
     118,
     170
   },
-
   {
     "moc_ruins",
     15573,
@@ -21614,139 +19409,116 @@ Navi_Npc = {
     115,
     123
   },
-
-	{
-		"moc_ruins",
-		15742,
-		101,
-		899,
-		"캐시 판매 안내인",
-		"",
-		115,
-		143
-	},
-
   {
     "moc_ruins",
     15770,
     101,
     707,
-		"Guide",
+    "Guide",
     "01ruins",
     159,
     53
   },
-
   {
     "moc_ruins",
     15771,
     101,
     707,
-		"Guide",
+    "Guide",
     "02ruins",
     70,
     164
   },
-
   {
     "moc_ruins",
     15772,
     101,
     707,
-		"Guide",
+    "Guide",
     "03ruins",
     65,
     44
   },
-
   {
     "moc_ruins",
     17793,
     101,
     728,
-		"Maroll Battle Recruiter",
+    "Maroll Battle Recruiter",
     "",
     75,
     162
   },
-
   {
     "moc_ruins",
     18095,
     101,
     89,
-		"William",
+    "William",
     "",
     113,
     181
   },
-
   {
     "moc_ruins",
     18101,
     101,
     64,
-		"Alchemist",
+    "Alchemist",
     "",
     118,
     176
   },
-
   {
     "moc_ruins",
     18112,
     101,
     92,
-		"Smile Assistance",
+    "Smile Assistance",
     "",
     59,
     154
   },
-
   {
     "moc_ruins",
     18368,
     101,
     88,
-		"Roberto",
+    "Roberto",
     "",
     118,
     99
   },
-
   {
     "moc_ruins",
     18395,
     101,
     50,
-		"Jacob",
+    "Jacob",
     "thai",
     105,
     62
   },
-
   {
     "moc_ruins",
     18399,
     101,
     716,
-		"Tommy",
+    "Tommy",
     "thai",
     107,
     62
   },
-
   {
     "moc_ruins",
     18431,
     101,
     99,
-		"Repairman",
+    "Repairman",
     "",
     107,
     94
   },
-
   {
     "moc_ruins",
     18485,
@@ -21757,7 +19529,6 @@ Navi_Npc = {
     91,
     150
   },
-
   {
     "moc_ruins",
     18493,
@@ -21768,7 +19539,6 @@ Navi_Npc = {
     141,
     125
   },
-
   {
     "moc_ruins",
     18660,
@@ -21779,7 +19549,6 @@ Navi_Npc = {
     87,
     103
   },
-
   {
     "moc_ruins",
     19166,
@@ -21790,40 +19559,36 @@ Navi_Npc = {
     85,
     142
   },
-
   {
     "moc_ruins",
     19288,
     101,
     86,
-		"Leablem",
+    "Leablem",
     "",
     154,
     86
   },
-
   {
     "moc_ruins",
     19540,
     101,
     732,
-		"Ibrahim",
+    "Ibrahim",
     "",
     152,
     147
   },
-
   {
     "moc_ruins",
     19552,
     101,
     99,
-		"Suspicious Man",
+    "Suspicious Man",
     "1",
     90,
     67
   },
-
   {
     "moc_ruins",
     19553,
@@ -21834,139 +19599,126 @@ Navi_Npc = {
     75,
     171
   },
-
   {
     "moc_ruins",
     19588,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "피라미드",
     61,
     164
   },
-
   {
     "moc_ruins",
     19621,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "2",
     68,
     164
   },
-
   {
     "moc_ruins",
     19695,
     101,
     89,
-		"Dieshin Man",
+    "Dieshin Man",
     "09tuto_rhea03",
     173,
     55
   },
-
   {
     "monk_in",
     18624,
     101,
     60,
-		"Sensei Moohae",
+    "Sensei Moohae",
     "1",
     99,
     58
   },
-
   {
     "monk_test",
     18629,
     101,
     753,
-		"Bashu",
+    "Bashu",
     "1",
     329,
     61
   },
-
   {
     "monk_test",
     18632,
     101,
     110,
-		"Apprentice Monk",
+    "Apprentice Monk",
     "2",
     386,
     388
   },
-
   {
     "monk_test",
     18642,
     101,
     52,
-		"Tomoon",
+    "Tomoon",
     "",
     319,
     139
   },
-
   {
     "monk_test",
     18645,
     101,
     95,
-		"Proctor",
+    "Proctor",
     "btl",
     82,
     85
   },
-
   {
     "monk_test",
     18648,
     101,
     52,
-		"Proctor",
+    "Proctor",
     "btl#2",
     88,
     91
   },
-
   {
     "monk_test",
     18651,
     101,
     79,
-		"Proctor",
+    "Proctor",
     "btl#3",
     95,
     85
   },
-
   {
     "monk_test",
     19277,
     101,
     823,
-		"Monk",
+    "Monk",
     "",
     316,
     69
   },
-
   {
     "monk_test",
     19741,
     101,
     412,
-		"Friar Patrick",
+    "Friar Patrick",
     "edq",
     309,
     146
   },
-
   {
     "mora",
     10064,
@@ -21977,7 +19729,6 @@ Navi_Npc = {
     113,
     112
   },
-
   {
     "mora",
     14817,
@@ -21988,7 +19739,6 @@ Navi_Npc = {
     185,
     163
   },
-
   {
     "mora",
     14818,
@@ -21999,7 +19749,6 @@ Navi_Npc = {
     35,
     119
   },
-
   {
     "mora",
     14819,
@@ -22010,7 +19759,6 @@ Navi_Npc = {
     98,
     66
   },
-
   {
     "mora",
     14820,
@@ -22021,7 +19769,6 @@ Navi_Npc = {
     139,
     102
   },
-
   {
     "mora",
     14821,
@@ -22032,7 +19779,6 @@ Navi_Npc = {
     55,
     124
   },
-
   {
     "mora",
     14826,
@@ -22043,7 +19789,6 @@ Navi_Npc = {
     133,
     80
   },
-
   {
     "mora",
     14827,
@@ -22054,7 +19799,6 @@ Navi_Npc = {
     115,
     98
   },
-
   {
     "mora",
     14828,
@@ -22065,7 +19809,6 @@ Navi_Npc = {
     119,
     103
   },
-
   {
     "mora",
     14829,
@@ -22076,7 +19819,6 @@ Navi_Npc = {
     119,
     118
   },
-
   {
     "mora",
     14830,
@@ -22087,7 +19829,6 @@ Navi_Npc = {
     124,
     108
   },
-
   {
     "mora",
     14831,
@@ -22098,7 +19839,6 @@ Navi_Npc = {
     127,
     112
   },
-
   {
     "mora",
     14832,
@@ -22109,7 +19849,6 @@ Navi_Npc = {
     170,
     101
   },
-
   {
     "mora",
     14833,
@@ -22120,7 +19859,6 @@ Navi_Npc = {
     131,
     165
   },
-
   {
     "mora",
     14834,
@@ -22131,7 +19869,6 @@ Navi_Npc = {
     125,
     174
   },
-
   {
     "mora",
     14835,
@@ -22142,7 +19879,6 @@ Navi_Npc = {
     104,
     172
   },
-
   {
     "mora",
     14836,
@@ -22153,7 +19889,6 @@ Navi_Npc = {
     118,
     166
   },
-
   {
     "mora",
     14837,
@@ -22164,7 +19899,6 @@ Navi_Npc = {
     116,
     165
   },
-
   {
     "mora",
     14838,
@@ -22175,7 +19909,6 @@ Navi_Npc = {
     114,
     163
   },
-
   {
     "mora",
     14839,
@@ -22186,7 +19919,6 @@ Navi_Npc = {
     112,
     161
   },
-
   {
     "mora",
     14851,
@@ -22197,7 +19929,6 @@ Navi_Npc = {
     52,
     138
   },
-
   {
     "mora",
     14852,
@@ -22208,7 +19939,6 @@ Navi_Npc = {
     160,
     123
   },
-
   {
     "mora",
     14853,
@@ -22219,18 +19949,6 @@ Navi_Npc = {
     105,
     104
   },
-
-	{
-		"mora",
-		14854,
-		101,
-		518,
-		"랑랑",
-		"p",
-		105,
-		100
-	},
-
   {
     "mora",
     14856,
@@ -22241,7 +19959,6 @@ Navi_Npc = {
     99,
     100
   },
-
   {
     "mora",
     14857,
@@ -22252,7 +19969,6 @@ Navi_Npc = {
     98,
     104
   },
-
   {
     "mora",
     14858,
@@ -22263,7 +19979,6 @@ Navi_Npc = {
     102,
     107
   },
-
   {
     "mora",
     14859,
@@ -22274,7 +19989,6 @@ Navi_Npc = {
     101,
     107
   },
-
   {
     "mora",
     14860,
@@ -22285,7 +19999,6 @@ Navi_Npc = {
     103,
     100
   },
-
   {
     "mora",
     14861,
@@ -22296,7 +20009,6 @@ Navi_Npc = {
     123,
     94
   },
-
   {
     "mora",
     14862,
@@ -22307,7 +20019,6 @@ Navi_Npc = {
     155,
     72
   },
-
   {
     "mora",
     14863,
@@ -22318,7 +20029,6 @@ Navi_Npc = {
     184,
     169
   },
-
   {
     "mora",
     14864,
@@ -22329,7 +20039,6 @@ Navi_Npc = {
     179,
     155
   },
-
   {
     "mora",
     14865,
@@ -22340,7 +20049,6 @@ Navi_Npc = {
     177,
     157
   },
-
   {
     "mora",
     14866,
@@ -22351,7 +20059,6 @@ Navi_Npc = {
     108,
     182
   },
-
   {
     "mora",
     14867,
@@ -22362,7 +20069,6 @@ Navi_Npc = {
     31,
     138
   },
-
   {
     "mora",
     14868,
@@ -22373,7 +20079,6 @@ Navi_Npc = {
     122,
     97
   },
-
   {
     "mora",
     14869,
@@ -22384,7 +20089,6 @@ Navi_Npc = {
     174,
     171
   },
-
   {
     "mora",
     14870,
@@ -22395,7 +20099,6 @@ Navi_Npc = {
     113,
     185
   },
-
   {
     "mora",
     14871,
@@ -22406,7 +20109,6 @@ Navi_Npc = {
     99,
     65
   },
-
   {
     "mora",
     14872,
@@ -22417,7 +20119,6 @@ Navi_Npc = {
     30,
     128
   },
-
   {
     "mora",
     14873,
@@ -22428,7 +20129,6 @@ Navi_Npc = {
     130,
     96
   },
-
   {
     "mora",
     14874,
@@ -22439,7 +20139,6 @@ Navi_Npc = {
     43,
     113
   },
-
   {
     "mora",
     14875,
@@ -22450,7 +20149,6 @@ Navi_Npc = {
     168,
     161
   },
-
   {
     "mora",
     14876,
@@ -22461,7 +20159,6 @@ Navi_Npc = {
     175,
     161
   },
-
   {
     "mora",
     14877,
@@ -22472,7 +20169,6 @@ Navi_Npc = {
     140,
     186
   },
-
   {
     "mora",
     14878,
@@ -22483,7 +20179,6 @@ Navi_Npc = {
     140,
     72
   },
-
   {
     "mora",
     14882,
@@ -22494,7 +20189,6 @@ Navi_Npc = {
     138,
     72
   },
-
   {
     "mora",
     14886,
@@ -22505,7 +20199,6 @@ Navi_Npc = {
     139,
     73
   },
-
   {
     "mora",
     14890,
@@ -22516,7 +20209,6 @@ Navi_Npc = {
     117,
     66
   },
-
   {
     "mora",
     14891,
@@ -22527,7 +20219,6 @@ Navi_Npc = {
     115,
     68
   },
-
   {
     "mora",
     14892,
@@ -22538,7 +20229,6 @@ Navi_Npc = {
     65,
     145
   },
-
   {
     "mora",
     14894,
@@ -22549,7 +20239,6 @@ Navi_Npc = {
     105,
     176
   },
-
   {
     "mora",
     14895,
@@ -22560,7 +20249,6 @@ Navi_Npc = {
     123,
     177
   },
-
   {
     "mora",
     14896,
@@ -22571,7 +20259,6 @@ Navi_Npc = {
     134,
     166
   },
-
   {
     "mora",
     14897,
@@ -22582,7 +20269,6 @@ Navi_Npc = {
     132,
     185
   },
-
   {
     "mora",
     14898,
@@ -22593,7 +20279,6 @@ Navi_Npc = {
     133,
     185
   },
-
   {
     "mora",
     14899,
@@ -22604,7 +20289,6 @@ Navi_Npc = {
     134,
     185
   },
-
   {
     "mora",
     14900,
@@ -22615,7 +20299,6 @@ Navi_Npc = {
     132,
     184
   },
-
   {
     "mora",
     14901,
@@ -22626,7 +20309,6 @@ Navi_Npc = {
     133,
     184
   },
-
   {
     "mora",
     14902,
@@ -22637,7 +20319,6 @@ Navi_Npc = {
     134,
     184
   },
-
   {
     "mora",
     14903,
@@ -22648,7 +20329,6 @@ Navi_Npc = {
     132,
     183
   },
-
   {
     "mora",
     14904,
@@ -22659,7 +20339,6 @@ Navi_Npc = {
     133,
     183
   },
-
   {
     "mora",
     14905,
@@ -22670,7 +20349,6 @@ Navi_Npc = {
     134,
     183
   },
-
   {
     "mora",
     14906,
@@ -22681,7 +20359,6 @@ Navi_Npc = {
     43,
     127
   },
-
   {
     "mora",
     14908,
@@ -22692,7 +20369,6 @@ Navi_Npc = {
     106,
     117
   },
-
   {
     "mora",
     14910,
@@ -22703,7 +20379,6 @@ Navi_Npc = {
     46,
     152
   },
-
   {
     "mora",
     14911,
@@ -22714,51 +20389,6 @@ Navi_Npc = {
     48,
     152
   },
-
-	{
-		"mora",
-		14912,
-		101,
-		495,
-		"유물의수호자",
-		"pa0829",
-		104,
-		76
-	},
-
-	{
-		"mora",
-		14913,
-		101,
-		495,
-		"유물의장인",
-		"pa0829-war",
-		99,
-		93
-	},
-
-	{
-		"mora",
-		14914,
-		101,
-		495,
-		"빛의수호자",
-		"pa0829",
-		88,
-		89
-	},
-
-	{
-		"mora",
-		14915,
-		101,
-		495,
-		"빛의장인",
-		"pa0829-war",
-		96,
-		74
-	},
-
   {
     "mora",
     15054,
@@ -22769,7 +20399,6 @@ Navi_Npc = {
     57,
     150
   },
-
   {
     "mora",
     15626,
@@ -22780,7 +20409,6 @@ Navi_Npc = {
     138,
     110
   },
-
   {
     "mora",
     15627,
@@ -22791,7 +20419,6 @@ Navi_Npc = {
     100,
     118
   },
-
   {
     "mora",
     15702,
@@ -22802,7 +20429,6 @@ Navi_Npc = {
     115,
     118
   },
-
   {
     "mora",
     15734,
@@ -22813,7 +20439,6 @@ Navi_Npc = {
     152,
     97
   },
-
   {
     "mora",
     15735,
@@ -22824,18 +20449,6 @@ Navi_Npc = {
     148,
     98
   },
-
-	{
-		"mora",
-		15736,
-		101,
-		522,
-		"유물수집가",
-		"비워",
-		124,
-		82
-	},
-
   {
     "mora",
     15816,
@@ -22846,7 +20459,6 @@ Navi_Npc = {
     115,
     138
   },
-
   {
     "mora",
     15817,
@@ -22857,7 +20469,6 @@ Navi_Npc = {
     72,
     51
   },
-
   {
     "mora",
     15818,
@@ -22868,7 +20479,6 @@ Navi_Npc = {
     25,
     158
   },
-
   {
     "mora",
     15819,
@@ -22879,7 +20489,6 @@ Navi_Npc = {
     167,
     76
   },
-
   {
     "morocc",
     10041,
@@ -22890,29 +20499,26 @@ Navi_Npc = {
     164,
     255
   },
-
   {
     "morocc",
     10553,
     101,
     97,
-		"Cetsu",
+    "Cetsu",
     "",
     281,
     178
   },
-
   {
     "morocc",
     11020,
     101,
     707,
-		"Soldier - Morroc",
+    "Soldier - Morroc",
     "07rhea_01",
     150,
     120
   },
-
   {
     "morocc",
     11021,
@@ -22923,7 +20529,6 @@ Navi_Npc = {
     178,
     122
   },
-
   {
     "morocc",
     11022,
@@ -22934,7 +20539,6 @@ Navi_Npc = {
     92,
     177
   },
-
   {
     "morocc",
     11023,
@@ -22945,7 +20549,6 @@ Navi_Npc = {
     92,
     168
   },
-
   {
     "morocc",
     11024,
@@ -22956,7 +20559,6 @@ Navi_Npc = {
     155,
     233
   },
-
   {
     "morocc",
     11025,
@@ -22967,7 +20569,6 @@ Navi_Npc = {
     165,
     233
   },
-
   {
     "morocc",
     11026,
@@ -22978,7 +20579,6 @@ Navi_Npc = {
     222,
     191
   },
-
   {
     "morocc",
     11027,
@@ -22989,106 +20589,96 @@ Navi_Npc = {
     222,
     180
   },
-
   {
     "morocc",
     11028,
     101,
     745,
-		"Volunteer - Morroc",
+    "Volunteer - Morroc",
     "07rhea_09",
     202,
     244
   },
-
   {
     "morocc",
     11029,
     101,
     748,
-		"Volunteer - Morroc",
+    "Volunteer - Morroc",
     "07rhea_10",
     88,
     133
   },
-
   {
     "morocc",
     11030,
     101,
     730,
-		"Volunteer - Morroc",
+    "Volunteer - Morroc",
     "07rhea_11",
     202,
     110
   },
-
   {
     "morocc",
     11031,
     101,
     727,
-		"Volunteer - Morroc",
+    "Volunteer - Morroc",
     "07rhea_12",
     268,
     287
   },
-
   {
     "morocc",
     11032,
     101,
     79,
-		"Volunteer - Morroc",
+    "Volunteer - Morroc",
     "07rhea_15",
     37,
     287
   },
-
   {
     "morocc",
     11033,
     101,
     741,
-		"Volunteer - Morroc",
+    "Volunteer - Morroc",
     "07rhea_20",
     223,
     102
   },
-
   {
     "morocc",
     11034,
     101,
     726,
-		"Volunteer - Morroc",
+    "Volunteer - Morroc",
     "07rhea_21",
     226,
     102
   },
-
   {
     "morocc",
     11040,
     101,
     89,
-		"Young Man",
+    "Young Man",
     "07rhea_19",
     54,
     251
   },
-
   {
     "morocc",
     13161,
     101,
     51,
-		"Thin-Faced Bard",
+    "Thin-Faced Bard",
     "sch",
     297,
     154
   },
-
   {
     "morocc",
     13162,
@@ -23099,7 +20689,6 @@ Navi_Npc = {
     294,
     152
   },
-
   {
     "morocc",
     13163,
@@ -23110,7 +20699,6 @@ Navi_Npc = {
     293,
     155
   },
-
   {
     "morocc",
     13164,
@@ -23121,51 +20709,46 @@ Navi_Npc = {
     298,
     150
   },
-
   {
     "morocc",
     13467,
     101,
     754,
-		"Continental Official",
+    "Continental Official",
     "",
     176,
     103
   },
-
   {
     "morocc",
     13468,
     101,
     752,
-		"Chief Balrog",
+    "Chief Balrog",
     "",
     159,
     113
   },
-
   {
     "morocc",
     13651,
     101,
     48,
-		"Morroc Villager",
+    "Morroc Villager",
     "07russia_25",
     165,
     82
   },
-
   {
     "morocc",
     14101,
     101,
     82,
-		"Sharp-Looking Boy",
+    "Sharp-Looking Boy",
     "dan_07",
     43,
     108
   },
-
   {
     "morocc",
     15046,
@@ -23176,172 +20759,156 @@ Navi_Npc = {
     168,
     275
   },
-
   {
     "morocc",
     15369,
     101,
     114,
-		"Kafra",
+    "Kafra",
     "",
     160,
     258
   },
-
   {
     "morocc",
     15375,
     101,
     113,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     156,
     97
   },
-
   {
     "morocc",
     15650,
     101,
     99,
-		"Educated Traveller",
+    "Educated Traveller",
     "",
     273,
     79
   },
-
   {
     "morocc",
     15689,
     101,
     877,
-		"Poison Herb Salesman",
+    "Poison Herb Salesman",
     "",
     190,
     96
   },
-
   {
     "morocc",
     15766,
     101,
     707,
-		"Guide",
+    "Guide",
     "01morocc",
     153,
     286
   },
-
   {
     "morocc",
     15767,
     101,
     707,
-		"Guide",
+    "Guide",
     "02morocc",
     154,
     38
   },
-
   {
     "morocc",
     15768,
     101,
     707,
-		"Guide",
+    "Guide",
     "03morocc",
     296,
     213
   },
-
   {
     "morocc",
     15769,
     101,
     707,
-		"Guide",
+    "Guide",
     "04morocc",
     28,
     170
   },
-
   {
     "morocc",
     18283,
     101,
     99,
-		"Zaka",
+    "Zaka",
     "",
     201,
     30
   },
-
   {
     "morocc",
     18401,
     101,
     86,
-		"Young Man",
+    "Young Man",
     "magum1",
     248,
     159
   },
-
   {
     "morocc",
     18443,
     101,
     92,
-		"Citizen",
+    "Citizen",
     "",
     289,
     230
   },
-
   {
     "morocc",
     18462,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "모로크",
     152,
     110
   },
-
   {
     "morocc",
     18472,
     101,
     741,
-		"Bard",
+    "Bard",
     "3",
     134,
     111
   },
-
   {
     "morocc",
     18473,
     101,
     703,
-		"Little Girl",
+    "Little Girl",
     "요르티",
     132,
     111
   },
-
   {
     "morocc",
     18539,
     101,
     725,
-		"Wickebine",
+    "Wickebine",
     "BLS",
     27,
     112
   },
-
   {
     "morocc",
     18843,
@@ -23352,7 +20919,6 @@ Navi_Npc = {
     156,
     70
   },
-
   {
     "morocc",
     19167,
@@ -23363,62 +20929,56 @@ Navi_Npc = {
     32,
     296
   },
-
   {
     "morocc",
     19532,
     101,
     84,
-		"Seiyablem",
+    "Seiyablem",
     "",
     51,
     41
   },
-
   {
     "morocc",
     19535,
     101,
     97,
-		"Young Man",
+    "Young Man",
     "",
     60,
     42
   },
-
   {
     "morocc",
     19554,
     101,
     929,
-		"Ragged Man",
+    "Ragged Man",
     "nd",
     143,
     63
   },
-
   {
     "morocc",
     19555,
     101,
     98,
-		"Man",
+    "Man",
     "",
     102,
     298
   },
-
   {
     "morocc",
     19568,
     101,
     779,
-		"Rogue Guild Agent",
+    "Rogue Guild Agent",
     "nd4",
     116,
     39
   },
-
   {
     "morocc",
     19667,
@@ -23429,29 +20989,26 @@ Navi_Npc = {
     161,
     97
   },
-
   {
     "morocc_in",
     10686,
     101,
     702,
-		"Historian",
+    "Historian",
     "prt02",
     45,
     126
   },
-
   {
     "morocc_in",
     11808,
     101,
     66,
-		"Employee",
+    "Employee",
     "메긴1",
     146,
     179
   },
-
   {
     "morocc_in",
     13136,
@@ -23462,18 +21019,16 @@ Navi_Npc = {
     114,
     130
   },
-
   {
     "morocc_in",
     15310,
     101,
     58,
-		"Java Dullihan",
+    "Java Dullihan",
     "",
     146,
     99
   },
-
   {
     "morocc_in",
     15481,
@@ -23484,7 +21039,6 @@ Navi_Npc = {
     141,
     67
   },
-
   {
     "morocc_in",
     15482,
@@ -23495,7 +21049,6 @@ Navi_Npc = {
     141,
     60
   },
-
   {
     "morocc_in",
     15566,
@@ -23506,18 +21059,16 @@ Navi_Npc = {
     132,
     57
   },
-
   {
     "morocc_in",
     15686,
     101,
     82,
-		"Trainee",
+    "Trainee",
     "2008hat01",
     137,
     102
   },
-
   {
     "morocc_in",
     15711,
@@ -23528,7 +21079,6 @@ Navi_Npc = {
     64,
     41
   },
-
   {
     "morocc_in",
     15712,
@@ -23539,40 +21089,36 @@ Navi_Npc = {
     60,
     38
   },
-
   {
     "morocc_in",
     18379,
     101,
     99,
-		"Abdula",
+    "Abdula",
     "",
     72,
     32
   },
-
   {
     "morocc_in",
     18380,
     101,
     99,
-		"Sade",
+    "Sade",
     "",
     63,
     32
   },
-
   {
     "morocc_in",
     18381,
     101,
     99,
-		"Aragham",
+    "Aragham",
     "",
     73,
     38
   },
-
   {
     "morocc_in",
     18488,
@@ -23583,95 +21129,86 @@ Navi_Npc = {
     140,
     102
   },
-
   {
     "morocc_in",
     18703,
     101,
     716,
-		"Kid",
+    "Kid",
     "link1",
     174,
     30
   },
-
   {
     "morocc_in",
     19251,
     101,
     741,
-		"Spiteful-Looking Bard",
+    "Spiteful-Looking Bard",
     "skill_bard02",
     169,
     72
   },
-
   {
     "morocc_in",
     19257,
     101,
     54,
-		"Customer",
+    "Customer",
     "bard_skill01",
     178,
     73
   },
-
   {
     "morocc_in",
     19258,
     101,
     50,
-		"Customer",
+    "Customer",
     "bard_skill02",
     175,
     70
   },
-
   {
     "morocc_in",
     19259,
     101,
     46,
-		"Bartender",
+    "Bartender",
     "bard_qskill",
     166,
     76
   },
-
   {
     "morocc_in",
     19292,
     101,
     810,
-		"Rogue",
+    "Rogue",
     "s",
     115,
     154
   },
-
   {
     "morocc_in",
     19293,
     101,
     118,
-		"Young Man",
+    "Young Man",
     "s",
     114,
     162
   },
-
   {
     "morocc_in",
     19523,
     101,
     735,
-		"Old Scholar Tyus",
+    "Old Scholar Tyus",
     "헬리온",
     116,
     101
   },
-
   {
     "moscovia",
     10055,
@@ -23682,315 +21219,286 @@ Navi_Npc = {
     220,
     191
   },
-
   {
     "moscovia",
     13539,
     101,
     967,
-		"Acorn Dealer",
+    "Acorn Dealer",
     "mos",
     208,
     182
   },
-
   {
     "moscovia",
     13547,
     101,
     966,
-		"Soldier",
+    "Soldier",
     "mos_so1",
     253,
     166
   },
-
   {
     "moscovia",
     13554,
     101,
     968,
-		"Berbayeff",
+    "Berbayeff",
     "npc",
     171,
     71
   },
-
   {
     "moscovia",
     13555,
     101,
     964,
-		"Mr. Ibanoff",
+    "Mr. Ibanoff",
     "npc",
     135,
     49
   },
-
   {
     "moscovia",
     13576,
     101,
     958,
-		"Irina",
+    "Irina",
     "edq",
     211,
     93
   },
-
   {
     "moscovia",
     13578,
     101,
     958,
-		"A Little Girl",
+    "A Little Girl",
     "mos1",
     252,
     203
   },
-
   {
     "moscovia",
     13579,
     101,
     968,
-		"A Young Man",
+    "A Young Man",
     "mos2",
     233,
     204
   },
-
   {
     "moscovia",
     13580,
     101,
     964,
-		"A Middle-Aged Man",
+    "A Middle-Aged Man",
     "mos3",
     219,
     229
   },
-
   {
     "moscovia",
     13581,
     101,
     962,
-		"A Little Boy",
+    "A Little Boy",
     "mos4",
     255,
     203
   },
-
   {
     "moscovia",
     13582,
     101,
     959,
-		"A Lady",
+    "A Lady",
     "mos5",
     204,
     188
   },
-
   {
     "moscovia",
     13583,
     101,
     961,
-		"A Lady",
+    "A Lady",
     "mos6",
     167,
     97
   },
-
   {
     "moscovia",
     13584,
     101,
     962,
-		"A Little Boy",
+    "A Little Boy",
     "mos7",
     202,
     102
   },
-
   {
     "moscovia",
     13585,
     101,
     968,
-		"A Young Man",
+    "A Young Man",
     "mos8",
     220,
     172
   },
-
   {
     "moscovia",
     13586,
     101,
     964,
-		"A Man",
+    "A Man",
     "mos9",
     253,
     175
   },
-
   {
     "moscovia",
     13587,
     101,
     961,
-		"A Lady",
+    "A Lady",
     "mos10",
     168,
     135
   },
-
   {
     "moscovia",
     13588,
     101,
     959,
-		"A Lady",
+    "A Lady",
     "mos11",
     192,
     80
   },
-
   {
     "moscovia",
     13589,
     101,
     967,
-		"A Young Man",
+    "A Young Man",
     "mos12",
     211,
     215
   },
-
   {
     "moscovia",
     13590,
     101,
     964,
-		"A Man",
+    "A Man",
     "mos13",
     149,
     112
   },
-
   {
     "moscovia",
     13591,
     101,
     968,
-		"A Young Man",
+    "A Young Man",
     "mos14",
     196,
     71
   },
-
   {
     "moscovia",
     13592,
     101,
     964,
-		"A Man",
+    "A Man",
     "mos15",
     234,
     168
   },
-
   {
     "moscovia",
     13593,
     101,
     962,
-		"A Little Boy",
+    "A Little Boy",
     "mos16",
     228,
     80
   },
-
   {
     "moscovia",
     13623,
     101,
     114,
-		"Kafra Staff",
+    "Kafra Staff",
     "",
     223,
     191
   },
-
   {
     "moscovia",
     13626,
     101,
     960,
-		"Moscovia P.R. Officer",
+    "Moscovia P.R. Officer",
     "1",
     166,
     53
   },
-
   {
     "moscovia",
     13635,
     101,
     63,
-		"The Blacksmith",
+    "The Blacksmith",
     "07russia_06",
     178,
     127
   },
-
   {
     "moscovia",
     13636,
     101,
     712,
-		"Vassili Grandpapa",
+    "Vassili Grandpapa",
     "07russia_07",
     206,
     81
   },
-
   {
     "moscovia",
     13637,
     101,
     960,
-		"Ryubaba",
+    "Ryubaba",
     "07russia_08",
     213,
     216
   },
-
   {
     "moscovia",
     13644,
     101,
     962,
-		"Little Boy",
+    "Little Boy",
     "07russia_09",
     223,
     210
   },
-
   {
     "moscovia",
     13646,
     101,
     961,
-		"Worried Mother",
+    "Worried Mother",
     "07russia_19",
     166,
     145
   },
-
   {
     "moscovia",
     13665,
@@ -24001,7 +21509,6 @@ Navi_Npc = {
     152,
     71
   },
-
   {
     "moscovia",
     13666,
@@ -24012,7 +21519,6 @@ Navi_Npc = {
     199,
     110
   },
-
   {
     "moscovia",
     15804,
@@ -24023,18 +21529,16 @@ Navi_Npc = {
     161,
     76
   },
-
   {
     "moscovia",
     15805,
     101,
     959,
-		"Moscovia Guide",
+    "Moscovia Guide",
     "02moscovia",
     226,
     191
   },
-
   {
     "moscovia",
     19661,
@@ -24045,7 +21549,6 @@ Navi_Npc = {
     209,
     197
   },
-
   {
     "mosk_fild02",
     19609,
@@ -24056,51 +21559,46 @@ Navi_Npc = {
     187,
     251
   },
-
   {
     "mosk_in",
     13548,
     101,
     966,
-		"Soldier",
+    "Soldier",
     "mos_so2",
     113,
     124
   },
-
   {
     "mosk_in",
     13549,
     101,
     966,
-		"Soldier",
+    "Soldier",
     "mos_so3",
     118,
     66
   },
-
   {
     "mosk_in",
     13550,
     101,
     966,
-		"Soldier",
+    "Soldier",
     "mos_so4",
     133,
     110
   },
-
   {
     "mosk_in",
     13551,
     101,
     966,
-		"Soldier",
+    "Soldier",
     "mos_so5",
     133,
     73
   },
-
   {
     "mosk_in",
     13662,
@@ -24111,7 +21609,6 @@ Navi_Npc = {
     21,
     254
   },
-
   {
     "mosk_in",
     13663,
@@ -24122,7 +21619,6 @@ Navi_Npc = {
     79,
     178
   },
-
   {
     "mosk_in",
     13664,
@@ -24133,18 +21629,16 @@ Navi_Npc = {
     31,
     180
   },
-
   {
     "nameless_n",
     13383,
     101,
     97,
-		"Larjes",
+    "Larjes",
     "배1",
     259,
     218
   },
-
   {
     "nameless_n",
     19599,
@@ -24155,18 +21649,16 @@ Navi_Npc = {
     259,
     213
   },
-
   {
     "nif_in",
     11603,
     101,
     738,
-		"Deviruchi",
+    "Deviruchi",
     "파혼",
     190,
     112
   },
-
   {
     "nif_in",
     15530,
@@ -24177,7 +21669,6 @@ Navi_Npc = {
     145,
     23
   },
-
   {
     "nif_in",
     15531,
@@ -24188,7 +21679,6 @@ Navi_Npc = {
     37,
     93
   },
-
   {
     "nif_in",
     15532,
@@ -24199,7 +21689,6 @@ Navi_Npc = {
     37,
     84
   },
-
   {
     "niflheim",
     10059,
@@ -24210,29 +21699,26 @@ Navi_Npc = {
     206,
     179
   },
-
   {
     "niflheim",
     11814,
     101,
     796,
-		"Egnigem",
+    "Egnigem",
     "",
     109,
     254
   },
-
   {
     "niflheim",
     15422,
     101,
     791,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     202,
     180
   },
-
   {
     "niflheim",
     15587,
@@ -24243,18 +21729,16 @@ Navi_Npc = {
     209,
     180
   },
-
   {
     "odin_tem01",
     12871,
     101,
     709,
-		"Boatman",
+    "Boatman",
     "",
     93,
     146
   },
-
   {
     "odin_tem01",
     19593,
@@ -24265,172 +21749,146 @@ Navi_Npc = {
     111,
     141
   },
-
   {
     "p_track01",
     19490,
     101,
     899,
-		"Ticket Helper",
+    "Ticket Helper",
     "single",
     73,
     22
   },
-
   {
     "p_track01",
     19491,
     101,
     845,
-		"Medal Distributor",
+    "Medal Distributor",
     "single",
     67,
     45
   },
-
-	{
-		"p_track01",
-		19492,
-		101,
-		798,
-		"Exit Guide",
-		"single",
-		76,
-		36
-	},
-
   {
     "p_track01",
     19500,
     101,
     845,
-		"Game Guide",
+    "Game Guide",
     "single",
     39,
     49
   },
-
   {
     "p_track01",
     19520,
     101,
     853,
-		"Drunkard",
+    "Drunkard",
     "single",
     27,
     47
   },
-
   {
     "p_track01",
     19521,
     101,
     107,
-		"Blacksmith Guildsman",
+    "Blacksmith Guildsman",
     "single",
     69,
     31
   },
-
   {
     "p_track01",
     19522,
     101,
     881,
-		"Absent Minded Man",
+    "Absent Minded Man",
     "single",
     45,
     42
   },
-
   {
     "p_track02",
     19507,
     101,
     899,
-		"Ticket Helper",
+    "Ticket Helper",
     "double",
     73,
     22
   },
-
   {
     "p_track02",
     19508,
     101,
     845,
-		"Game Guide",
+    "Game Guide",
     "double",
     39,
     49
   },
-
   {
     "p_track02",
     19509,
     101,
     845,
-		"Medal Distributor",
+    "Medal Distributor",
     "medal",
     67,
     45
   },
-
   {
     "p_track02",
     19510,
     101,
     798,
-		"Exit Guide",
+    "Exit Guide",
     "double",
     76,
     38
   },
-
   {
     "p_track02",
     19517,
     101,
     755,
-		"Eccentric Scholar",
+    "Eccentric Scholar",
     "double",
     32,
     45
   },
-
   {
     "p_track02",
     19518,
     101,
     726,
-		"Blacksmith Guildsman",
+    "Blacksmith Guildsman",
     "double1",
     69,
     31
   },
-
   {
     "p_track02",
     19519,
     101,
     733,
-		"Valiant Knight",
+    "Valiant Knight",
     "double",
     53,
     45
   },
-
   {
     "pay_arche",
     11176,
     101,
     88,
-		"Archer Joe",
+    "Archer Joe",
     "",
     77,
     131
   },
-
   {
     "pay_arche",
     15399,
@@ -24441,51 +21899,36 @@ Navi_Npc = {
     55,
     123
   },
-
   {
     "pay_arche",
     15678,
     101,
     732,
-		"Mercenary Manager",
+    "Mercenary Manager",
     "활",
     99,
     167
   },
-
   {
     "pay_arche",
     15681,
     101,
     879,
-		"Mercenary Merchant",
+    "Mercenary Merchant",
     "활",
     102,
     167
   },
-
-	{
-		"pay_arche",
-		15738,
-		101,
-		51,
-		"팔콘 피리 상인",
-		"payon",
-		91,
-		134
-	},
-
   {
     "pay_arche",
     15758,
     101,
     708,
-		"Guide",
+    "Guide",
     "05payon",
     86,
     33
   },
-
   {
     "pay_arche",
     18456,
@@ -24496,7 +21939,6 @@ Navi_Npc = {
     79,
     31
   },
-
   {
     "pay_arche",
     19145,
@@ -24507,7 +21949,6 @@ Navi_Npc = {
     80,
     89
   },
-
   {
     "pay_arche",
     19587,
@@ -24518,18 +21959,16 @@ Navi_Npc = {
     39,
     134
   },
-
   {
     "pay_dun03",
     15642,
     101,
     1180,
-		"Nine Tails",
+    "Nine Tails",
     "여우가면여우버젼",
     48,
     84
   },
-
   {
     "pay_fild01",
     19144,
@@ -24540,7 +21979,6 @@ Navi_Npc = {
     339,
     349
   },
-
   {
     "pay_fild08",
     19078,
@@ -24551,183 +21989,166 @@ Navi_Npc = {
     153,
     83
   },
-
   {
     "pay_gld",
     17861,
     101,
     722,
-		"Bright Arbor",
+    "Bright Arbor",
     "",
     125,
     236
   },
-
   {
     "pay_gld",
     17862,
     101,
     722,
-		"Bright Arbor",
+    "Bright Arbor",
     "",
     110,
     233
   },
-
   {
     "pay_gld",
     17863,
     101,
     722,
-		"Bright Arbor",
+    "Bright Arbor",
     "",
     116,
     233
   },
-
   {
     "pay_gld",
     17864,
     101,
     722,
-		"Bright Arbor",
+    "Bright Arbor",
     "",
     91,
     239
   },
-
   {
     "pay_gld",
     17865,
     101,
     722,
-		"Holy Shadow",
+    "Holy Shadow",
     "",
     321,
     298
   },
-
   {
     "pay_gld",
     17866,
     101,
     722,
-		"Holy Shadow",
+    "Holy Shadow",
     "",
     321,
     289
   },
-
   {
     "pay_gld",
     17867,
     101,
     722,
-		"Holy Shadow",
+    "Holy Shadow",
     "",
     327,
     304
   },
-
   {
     "pay_gld",
     17868,
     101,
     722,
-		"Holy Shadow",
+    "Holy Shadow",
     "",
     333,
     254
   },
-
   {
     "pay_gld",
     17869,
     101,
     722,
-		"Sacred Altar",
+    "Sacred Altar",
     "",
     137,
     160
   },
-
   {
     "pay_gld",
     17870,
     101,
     722,
-		"Sacred Altar",
+    "Sacred Altar",
     "",
     143,
     160
   },
-
   {
     "pay_gld",
     17871,
     101,
     722,
-		"Sacred Altar",
+    "Sacred Altar",
     "",
     133,
     151
   },
-
   {
     "pay_gld",
     17872,
     101,
     722,
-		"Sacred Altar",
+    "Sacred Altar",
     "",
     153,
     166
   },
-
   {
     "pay_gld",
     17873,
     101,
     722,
-		"Bamboo Grove Hill",
+    "Bamboo Grove Hill",
     "",
     208,
     268
   },
-
   {
     "pay_gld",
     17874,
     101,
     722,
-		"Bamboo Grove Hill",
+    "Bamboo Grove Hill",
     "",
     199,
     268
   },
-
   {
     "pay_gld",
     17875,
     101,
     722,
-		"Bamboo Grove Hill",
+    "Bamboo Grove Hill",
     "",
     190,
     277
   },
-
   {
     "pay_gld",
     17876,
     101,
     722,
-		"Bamboo Grove Hill",
+    "Bamboo Grove Hill",
     "",
     187,
     294
   },
-
   {
     "pay_gld",
     18032,
@@ -24738,7 +22159,6 @@ Navi_Npc = {
     203,
     189
   },
-
   {
     "pay_gld",
     18033,
@@ -24749,7 +22169,6 @@ Navi_Npc = {
     206,
     189
   },
-
   {
     "pay_gld",
     18035,
@@ -24760,7 +22179,6 @@ Navi_Npc = {
     200,
     189
   },
-
   {
     "payon",
     10042,
@@ -24771,7 +22189,6 @@ Navi_Npc = {
     184,
     102
   },
-
   {
     "payon",
     10094,
@@ -24782,29 +22199,26 @@ Navi_Npc = {
     166,
     106
   },
-
   {
     "payon",
     11165,
     101,
     90,
-		"Lady",
+    "Lady",
     "",
     246,
     154
   },
-
   {
     "payon",
     11166,
     101,
     59,
-		"Young Man",
+    "Young Man",
     "",
     134,
     211
   },
-
   {
     "payon",
     11167,
@@ -24815,128 +22229,116 @@ Navi_Npc = {
     176,
     85
   },
-
   {
     "payon",
     11169,
     101,
     708,
-		"Guardsman",
+    "Guardsman",
     "",
     158,
     246
   },
-
   {
     "payon",
     11171,
     101,
     66,
-		"Woman",
+    "Woman",
     "",
     249,
     156
   },
-
   {
     "payon",
     11172,
     101,
     66,
-		"Woman",
+    "Woman",
     "",
     246,
     158
   },
-
   {
     "payon",
     11173,
     101,
     120,
-		"Drunkard",
+    "Drunkard",
     "",
     210,
     110
   },
-
   {
     "payon",
     11177,
     101,
     98,
-		"Monster Scholar",
+    "Monster Scholar",
     "02",
     132,
     235
   },
-
   {
     "payon",
     11249,
     101,
     754,
-		"Jade",
+    "Jade",
     "",
     173,
     238
   },
-
   {
     "payon",
     11820,
     101,
     95,
-		"Friar",
+    "Friar",
     "G5",
     79,
     171
   },
-
   {
     "payon",
     12482,
     101,
     116,
-		"Kafra Voting Staff",
+    "Kafra Voting Staff",
     "payon",
     158,
     182
   },
-
   {
     "payon",
     12524,
     101,
     874,
-		"Cool Event Staff",
+    "Cool Event Staff",
     "payon",
     153,
     182
   },
-
   {
     "payon",
     13464,
     101,
     997,
-		"Continental Messenger",
+    "Continental Messenger",
     "payon_edq",
     200,
     113
   },
-
   {
     "payon",
     13661,
     101,
     78,
-		"Broom Grandma",
+    "Broom Grandma",
     "07russia_44",
     65,
     119
   },
-
   {
     "payon",
     15042,
@@ -24947,29 +22349,26 @@ Navi_Npc = {
     200,
     106
   },
-
   {
     "payon",
     15389,
     101,
     113,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     181,
     104
   },
-
   {
     "payon",
     15393,
     101,
     116,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     175,
     226
   },
-
   {
     "payon",
     15494,
@@ -24980,7 +22379,6 @@ Navi_Npc = {
     159,
     96
   },
-
   {
     "payon",
     15495,
@@ -24991,7 +22389,6 @@ Navi_Npc = {
     177,
     131
   },
-
   {
     "payon",
     15572,
@@ -25002,7 +22399,6 @@ Navi_Npc = {
     206,
     119
   },
-
   {
     "payon",
     15612,
@@ -25013,29 +22409,26 @@ Navi_Npc = {
     123,
     109
   },
-
   {
     "payon",
     15648,
     101,
     725,
-		"Neko Neko",
+    "Neko Neko",
     "",
     115,
     131
   },
-
   {
     "payon",
     15673,
     101,
     97,
-		"Chungwolmang",
+    "Chungwolmang",
     "",
     135,
     320
   },
-
   {
     "payon",
     15719,
@@ -25046,18 +22439,6 @@ Navi_Npc = {
     166,
     102
   },
-
-	{
-		"payon",
-		15741,
-		101,
-		899,
-		"캐시 판매 안내인",
-		"",
-		164,
-		157
-	},
-
   {
     "payon",
     15754,
@@ -25068,205 +22449,186 @@ Navi_Npc = {
     160,
     67
   },
-
   {
     "payon",
     15755,
     101,
     708,
-		"Guide",
+    "Guide",
     "02payon",
     151,
     182
   },
-
   {
     "payon",
     15756,
     101,
     708,
-		"Guide",
+    "Guide",
     "03payon",
     221,
     85
   },
-
   {
     "payon",
     15757,
     101,
     708,
-		"Guide",
+    "Guide",
     "04payon",
     233,
     324
   },
-
   {
     "payon",
     17799,
     101,
     728,
-		"Maroll Battle Recruiter",
+    "Maroll Battle Recruiter",
     "",
     189,
     105
   },
-
   {
     "payon",
     17897,
     101,
     722,
-		"Bright Arbor",
+    "Bright Arbor",
     "",
     90,
     322
   },
-
   {
     "payon",
     17898,
     101,
     722,
-		"Holy Shadow",
+    "Holy Shadow",
     "",
     113,
     322
   },
-
   {
     "payon",
     17899,
     101,
     722,
-		"Sacred Altar",
+    "Sacred Altar",
     "",
     118,
     322
   },
-
   {
     "payon",
     17900,
     101,
     722,
-		"Bamboo Grove Hill",
+    "Bamboo Grove Hill",
     "",
     123,
     322
   },
-
   {
     "payon",
     17901,
     101,
     722,
-		"Holy Shadow",
+    "Holy Shadow",
     "",
     166,
     177
   },
-
   {
     "payon",
     17902,
     101,
     722,
-		"Sacred Altar",
+    "Sacred Altar",
     "",
     166,
     169
   },
-
   {
     "payon",
     17903,
     101,
     722,
-		"Bamboo Grove Hill",
+    "Bamboo Grove Hill",
     "",
     166,
     165
   },
-
   {
     "payon",
     17904,
     101,
     722,
-		"Bright Arbor",
+    "Bright Arbor",
     "",
     166,
     161
   },
-
   {
     "payon",
     18116,
     101,
     92,
-		"Smile Assistance",
+    "Smile Assistance",
     "",
     186,
     104
   },
-
   {
     "payon",
     18382,
     101,
     88,
-		"Hakhim",
+    "Hakhim",
     "",
     137,
     178
   },
-
   {
     "payon",
     18383,
     101,
     88,
-		"Begnahd",
+    "Begnahd",
     "",
     145,
     178
   },
-
   {
     "payon",
     18384,
     101,
     88,
-		"Antonio",
+    "Antonio",
     "",
     144,
     173
   },
-
   {
     "payon",
     18429,
     101,
     88,
-		"Servant",
+    "Servant",
     "",
     209,
     127
   },
-
   {
     "payon",
     18432,
     101,
     88,
-		"Repairman",
+    "Repairman",
     "",
     143,
     165
   },
-
   {
     "payon",
     19170,
@@ -25277,106 +22639,96 @@ Navi_Npc = {
     245,
     295
   },
-
   {
     "payon",
     19285,
     101,
     86,
-		"Leablem",
+    "Leablem",
     "",
     236,
     199
   },
-
   {
     "payon",
     19529,
     101,
     84,
-		"Seiyablem",
+    "Seiyablem",
     "",
     140,
     151
   },
-
   {
     "payon",
     19534,
     101,
     97,
-		"Young Man",
+    "Young Man",
     "",
     143,
     143
   },
-
   {
     "payon",
     19637,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "12",
     177,
     111
   },
-
   {
     "payon_in01",
     11168,
     101,
     90,
-		"Waitress",
+    "Waitress",
     "",
     180,
     7
   },
-
   {
     "payon_in01",
     11174,
     101,
     88,
-		"Archer Zakk",
+    "Archer Zakk",
     "",
     66,
     64
   },
-
   {
     "payon_in01",
     11175,
     101,
     88,
-		"Archer Wolt",
+    "Archer Wolt",
     "",
     47,
     59
   },
-
   {
     "payon_in01",
     11180,
     101,
     53,
-		"Inn Employee",
+    "Inn Employee",
     "",
     132,
     62
   },
-
   {
     "payon_in01",
     11250,
     101,
     89,
-		"Inventor Jaax",
+    "Inventor Jaax",
     "",
     5,
     134
   },
-
   {
     "payon_in01",
     15496,
@@ -25387,7 +22739,6 @@ Navi_Npc = {
     5,
     49
   },
-
   {
     "payon_in01",
     15497,
@@ -25398,7 +22749,6 @@ Navi_Npc = {
     15,
     119
   },
-
   {
     "payon_in01",
     15498,
@@ -25409,7 +22759,6 @@ Navi_Npc = {
     7,
     119
   },
-
   {
     "payon_in01",
     15567,
@@ -25420,7 +22769,6 @@ Navi_Npc = {
     5,
     129
   },
-
   {
     "payon_in01",
     15713,
@@ -25431,7 +22779,6 @@ Navi_Npc = {
     18,
     132
   },
-
   {
     "payon_in01",
     15714,
@@ -25442,29 +22789,26 @@ Navi_Npc = {
     14,
     125
   },
-
   {
     "payon_in01",
     18091,
     101,
     103,
-		"Granny",
+    "Granny",
     "",
     99,
     72
   },
-
   {
     "payon_in01",
     18093,
     101,
     76,
-		"Mystic Lady",
+    "Mystic Lady",
     "",
     18,
     10
   },
-
   {
     "payon_in01",
     18110,
@@ -25475,29 +22819,26 @@ Navi_Npc = {
     46,
     21
   },
-
   {
     "payon_in01",
     18200,
     101,
     84,
-		"PVPNarrator",
+    "PVPNarrator",
     "",
     142,
     50
   },
-
   {
     "payon_in01",
     18201,
     101,
     83,
-		"Gate Keeper",
+    "Gate Keeper",
     "",
     140,
     53
   },
-
   {
     "payon_in01",
     18740,
@@ -25508,7 +22849,6 @@ Navi_Npc = {
     62,
     10
   },
-
   {
     "payon_in01",
     19138,
@@ -25519,7 +22859,6 @@ Navi_Npc = {
     59,
     20
   },
-
   {
     "payon_in02",
     15499,
@@ -25530,18 +22869,16 @@ Navi_Npc = {
     87,
     34
   },
-
   {
     "payon_in02",
     18099,
     101,
     86,
-		"Boy",
+    "Boy",
     "",
     25,
     71
   },
-
   {
     "payon_in02",
     19137,
@@ -25552,7 +22889,6 @@ Navi_Npc = {
     71,
     75
   },
-
   {
     "payon_in02",
     19140,
@@ -25563,7 +22899,6 @@ Navi_Npc = {
     62,
     67
   },
-
   {
     "payon_in02",
     19141,
@@ -25574,7 +22909,6 @@ Navi_Npc = {
     58,
     73
   },
-
   {
     "payon_in02",
     19142,
@@ -25585,7 +22919,6 @@ Navi_Npc = {
     58,
     71
   },
-
   {
     "payon_in02",
     19143,
@@ -25596,216 +22929,196 @@ Navi_Npc = {
     71,
     73
   },
-
   {
     "payon_in02",
     19636,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "11",
     58,
     58
   },
-
   {
     "payon_in03",
     11170,
     101,
     708,
-		"Chief Guardsman",
+    "Chief Guardsman",
     "",
     96,
     116
   },
-
   {
     "payon_in03",
     11178,
     101,
     107,
-		"Chief",
+    "Chief",
     "",
     99,
     190
   },
-
   {
     "payon_in03",
     11179,
     101,
     708,
-		"Guard",
+    "Guard",
     "",
     102,
     185
   },
-
   {
     "payon_in03",
     15308,
     101,
     86,
-		"Marx Hansen",
+    "Marx Hansen",
     "",
     188,
     146
   },
-
   {
     "payon_in03",
     15653,
     101,
     77,
-		"Nanhyang",
+    "Nanhyang",
     "",
     8,
     193
   },
-
   {
     "payon_in03",
     15674,
     101,
     88,
-		"Han Garam",
+    "Han Garam",
     "",
     139,
     124
   },
-
   {
     "payon_in03",
     18403,
     101,
     704,
-		"Fortune Teller",
+    "Fortune Teller",
     "",
     117,
     128
   },
-
   {
     "payon_in03",
     18404,
     101,
     704,
-		"Poring Fortune Teller",
+    "Poring Fortune Teller",
     "",
     75,
     129
   },
-
   {
     "payon_in03",
     18405,
     101,
     101,
-		"Ascetic",
+    "Ascetic",
     "",
     118,
     119
   },
-
   {
     "payon_in03",
     18549,
     101,
     59,
-		"Hunter",
+    "Hunter",
     "htnGM",
     131,
     7
   },
-
   {
     "payon_in03",
     19295,
     101,
     1170,
-		"Maid",
+    "Maid",
     "1",
     81,
     22
   },
-
   {
     "payon_in03",
     19296,
     101,
     1404,
-		"Maid",
+    "Maid",
     "2",
     79,
     22
   },
-
   {
     "payon_in03",
     19297,
     101,
     1170,
-		"Maid",
+    "Maid",
     "3",
     81,
     15
   },
-
   {
     "payon_in03",
     19298,
     101,
     1404,
-		"Maid",
+    "Maid",
     "4",
     79,
     15
   },
-
   {
     "payon_in03",
     19299,
     101,
     1416,
-		"Maid",
+    "Maid",
     "5",
     8,
     31
   },
-
   {
     "payon_in03",
     19300,
     101,
     1416,
-		"Maid",
+    "Maid",
     "6",
     13,
     31
   },
-
   {
     "payon_in03",
     19544,
     101,
     75,
-		"Wola",
+    "Wola",
     "",
     167,
     149
   },
-
   {
     "prontera",
     10002,
     101,
     124,
-		"Hypnotist",
+    "Hypnotist",
     "2",
     146,
     232
   },
-
   {
     "prontera",
     10037,
@@ -25816,7 +23129,6 @@ Navi_Npc = {
     146,
     93
   },
-
   {
     "prontera",
     10067,
@@ -25827,40 +23139,6 @@ Navi_Npc = {
     204,
     53
   },
-
-	{
-		"prontera",
-		10068,
-		101,
-		46,
-		"테이밍기술자",
-		"magic",
-		164,
-		111
-	},
-
-	{
-		"prontera",
-		10069,
-		101,
-		749,
-		"큐펫연구자",
-		"ryu",
-		147,
-		107
-	},
-
-	{
-		"prontera",
-		10076,
-		101,
-		851,
-		"제련 연구가",
-		"순위달성",
-		184,
-		177
-	},
-
   {
     "prontera",
     10092,
@@ -25871,7 +23149,6 @@ Navi_Npc = {
     163,
     178
   },
-
   {
     "prontera",
     10106,
@@ -25882,51 +23159,46 @@ Navi_Npc = {
     143,
     125
   },
-
   {
     "prontera",
     10530,
     101,
     105,
-		"Guard",
+    "Guard",
     "",
     160,
     330
   },
-
   {
     "prontera",
     10531,
     101,
     105,
-		"Guard",
+    "Guard",
     "",
     223,
     99
   },
-
   {
     "prontera",
     10532,
     101,
     105,
-		"Guard",
+    "Guard",
     "",
     229,
     104
   },
-
   {
     "prontera",
     10533,
     101,
     105,
-		"Guard",
+    "Guard",
     "",
     47,
     339
   },
-
   {
     "prontera",
     10534,
@@ -25937,106 +23209,96 @@ Navi_Npc = {
     52,
     344
   },
-
   {
     "prontera",
     10535,
     101,
     98,
-		"Shuger",
+    "Shuger",
     "",
     101,
     288
   },
-
   {
     "prontera",
     10536,
     101,
     97,
-		"Tono",
+    "Tono",
     "",
     54,
     240
   },
-
   {
     "prontera",
     10537,
     101,
     91,
-		"Merideth",
+    "Merideth",
     "",
     106,
     116
   },
-
   {
     "prontera",
     10538,
     101,
     102,
-		"YuPi",
+    "YuPi",
     "",
     160,
     133
   },
-
   {
     "prontera",
     10539,
     101,
     700,
-		"YuNa",
+    "YuNa",
     "",
     149,
     202
   },
-
   {
     "prontera",
     10540,
     101,
     48,
-		"Strife",
+    "Strife",
     "",
     216,
     70
   },
-
   {
     "prontera",
     12447,
     101,
     116,
-		"Kafra Voting Staff",
+    "Kafra Voting Staff",
     "pron",
     164,
     125
   },
-
   {
     "prontera",
     12461,
     101,
     874,
-		"Cool Event Staff",
+    "Cool Event Staff",
     "pron",
     147,
     125
   },
-
   {
     "prontera",
     13462,
     101,
     997,
-		"Continental Messenger",
+    "Continental Messenger",
     "pron_edq",
     164,
     304
   },
-
   {
     "prontera",
     15038,
@@ -26047,40 +23309,36 @@ Navi_Npc = {
     114,
     77
   },
-
   {
     "prontera",
     15302,
     101,
     86,
-		"Milk Vendor",
+    "Milk Vendor",
     "",
     73,
     140
   },
-
   {
     "prontera",
     15309,
     101,
     90,
-		"Dairenne",
+    "Dairenne",
     "",
     78,
     150
   },
-
   {
     "prontera",
     15313,
     101,
     105,
-		"Peco Peco Breeder",
+    "Peco Peco Breeder",
     "",
     55,
     350
   },
-
   {
     "prontera",
     15316,
@@ -26091,62 +23349,56 @@ Navi_Npc = {
     248,
     42
   },
-
   {
     "prontera",
     15318,
     101,
     117,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     146,
     89
   },
-
   {
     "prontera",
     15325,
     101,
     115,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     151,
     29
   },
-
   {
     "prontera",
     15332,
     101,
     114,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     282,
     200
   },
-
   {
     "prontera",
     15339,
     101,
     113,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     29,
     207
   },
-
   {
     "prontera",
     15346,
     101,
     112,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     152,
     326
   },
-
   {
     "prontera",
     15446,
@@ -26157,7 +23409,6 @@ Navi_Npc = {
     73,
     134
   },
-
   {
     "prontera",
     15447,
@@ -26168,7 +23419,6 @@ Navi_Npc = {
     104,
     49
   },
-
   {
     "prontera",
     15448,
@@ -26179,7 +23429,6 @@ Navi_Npc = {
     48,
     58
   },
-
   {
     "prontera",
     15449,
@@ -26190,7 +23439,6 @@ Navi_Npc = {
     64,
     125
   },
-
   {
     "prontera",
     15450,
@@ -26201,7 +23449,6 @@ Navi_Npc = {
     58,
     182
   },
-
   {
     "prontera",
     15451,
@@ -26212,7 +23459,6 @@ Navi_Npc = {
     113,
     42
   },
-
   {
     "prontera",
     15452,
@@ -26223,7 +23469,6 @@ Navi_Npc = {
     105,
     87
   },
-
   {
     "prontera",
     15453,
@@ -26234,7 +23479,6 @@ Navi_Npc = {
     248,
     153
   },
-
   {
     "prontera",
     15454,
@@ -26245,7 +23489,6 @@ Navi_Npc = {
     218,
     211
   },
-
   {
     "prontera",
     15571,
@@ -26256,227 +23499,196 @@ Navi_Npc = {
     156,
     212
   },
-
   {
     "prontera",
     15645,
     101,
     744,
-		"Nephia",
+    "Nephia",
     "",
     165,
     232
   },
-
   {
     "prontera",
     15676,
     101,
     105,
-		"Mercenary Manager",
+    "Mercenary Manager",
     "창",
     41,
     337
   },
-
   {
     "prontera",
     15679,
     101,
     700,
-		"Mercenary Merchant",
+    "Mercenary Merchant",
     "창",
     30,
     337
   },
-
   {
     "prontera",
     15692,
     101,
     853,
-		"Rune Salesman",
+    "Rune Salesman",
     "",
     168,
     228
   },
-
   {
     "prontera",
     15716,
     101,
     105,
-		"Riding Creature Master",
+    "Riding Creature Master",
     "",
     130,
     213
   },
-
   {
     "prontera",
     15717,
     101,
     105,
-		"Peco Peco Remover",
+    "Peco Peco Remover",
     "",
     125,
     208
   },
-
-	{
-		"prontera",
-		15739,
-		101,
-		899,
-		"캐시 판매 안내인",
-		"",
-		137,
-		125
-	},
-
   {
     "prontera",
     15747,
     101,
     105,
-		"Guide",
+    "Guide",
     "01prontera",
     154,
     187
   },
-
   {
     "prontera",
     15748,
     101,
     105,
-		"Guide",
+    "Guide",
     "02prontera",
     282,
     208
   },
-
   {
     "prontera",
     15749,
     101,
     105,
-		"Guide",
+    "Guide",
     "03prontera",
     29,
     200
   },
-
   {
     "prontera",
     15750,
     101,
     105,
-		"Guide",
+    "Guide",
     "04prontera",
     160,
     29
   },
-
   {
     "prontera",
     15751,
     101,
     105,
-		"Guide",
+    "Guide",
     "05prontera",
     151,
     330
   },
-
   {
     "prontera",
     17791,
     101,
     728,
-		"Maroll Battle Recruiter",
+    "Maroll Battle Recruiter",
     "",
     123,
     83
   },
-
   {
     "prontera",
     17893,
     101,
     722,
-		"Swanhild",
+    "Swanhild",
     "",
     146,
     194
   },
-
   {
     "prontera",
     17894,
     101,
     722,
-		"Fadhgridh",
+    "Fadhgridh",
     "",
     143,
     203
   },
-
   {
     "prontera",
     17895,
     101,
     722,
-		"Skoegul",
+    "Skoegul",
     "",
     167,
     203
   },
-
   {
     "prontera",
     17896,
     101,
     722,
-		"Gondul",
+    "Gondul",
     "",
     165,
     194
   },
-
   {
     "prontera",
     18111,
     101,
     92,
-		"Smile Assistance",
+    "Smile Assistance",
     "",
     157,
     187
   },
-
   {
     "prontera",
     18453,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "프론",
     148,
     49
   },
-
   {
     "prontera",
     18596,
     101,
     105,
-		"Peco Peco Breeder",
+    "Peco Peco Breeder",
     "",
     232,
     318
   },
-
   {
     "prontera",
     18760,
@@ -26487,7 +23699,6 @@ Navi_Npc = {
     178,
     240
   },
-
   {
     "prontera",
     18761,
@@ -26498,205 +23709,186 @@ Navi_Npc = {
     178,
     244
   },
-
   {
     "prontera",
     19271,
     101,
     733,
-		"Grand Master",
+    "Grand Master",
     "",
     72,
     352
   },
-
   {
     "prontera",
     19272,
     101,
     734,
-		"Knight",
+    "Knight",
     "",
     78,
     354
   },
-
   {
     "prontera",
     19273,
     101,
     734,
-		"Knight",
+    "Knight",
     "",
     73,
     357
   },
-
   {
     "prontera",
     19274,
     101,
     734,
-		"Knight",
+    "Knight",
     "",
     78,
     357
   },
-
   {
     "prontera",
     19275,
     101,
     733,
-		"Knight",
+    "Knight",
     "",
     66,
     358
   },
-
   {
     "prontera",
     19284,
     101,
     73,
-		"Apprentice Craftsman",
+    "Apprentice Craftsman",
     "",
     165,
     60
   },
-
   {
     "prontera",
     19287,
     101,
     86,
-		"Leablem",
+    "Leablem",
     "",
     244,
     169
   },
-
   {
     "prontera",
     19619,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "1",
     124,
     76
   },
-
   {
     "prt_are_in",
     11943,
     101,
     732,
-		"Arena Point Manager",
+    "Arena Point Manager",
     "",
     103,
     11
   },
-
   {
     "prt_castle",
     18425,
     101,
     878,
-		"Charles Orleans",
+    "Charles Orleans",
     "요리",
     43,
     30
   },
-
   {
     "prt_castle",
     18426,
     101,
     886,
-		"Madeleine Chu",
+    "Madeleine Chu",
     "요리",
     45,
     35
   },
-
   {
     "prt_castle",
     18427,
     101,
     877,
-		"Child with Cat",
+    "Child with Cat",
     "요리",
     45,
     28
   },
-
   {
     "prt_castle",
     18428,
     101,
     725,
-		"Wickebine",
+    "Wickebine",
     "요리",
     44,
     30
   },
-
   {
     "prt_church",
     10547,
     101,
     67,
-		"Garnet",
+    "Garnet",
     "",
     103,
     76
   },
-
   {
     "prt_church",
     10548,
     101,
     120,
-		"Henson",
+    "Henson",
     "",
     103,
     71
   },
-
   {
     "prt_church",
     10693,
     101,
     60,
-		"Father Bamph",
+    "Father Bamph",
     "",
     185,
     106
   },
-
   {
     "prt_church",
     10694,
     101,
     60,
-		"Father Biscuss",
+    "Father Biscuss",
     "",
     184,
     110
   },
-
   {
     "prt_church",
     10704,
     101,
     71,
-		"Wedding Staff",
+    "Wedding Staff",
     "",
     97,
     100
   },
-
   {
     "prt_church",
     10716,
@@ -26707,7 +23899,6 @@ Navi_Npc = {
     20,
     179
   },
-
   {
     "prt_church",
     10717,
@@ -26718,7 +23909,6 @@ Navi_Npc = {
     22,
     179
   },
-
   {
     "prt_church",
     15456,
@@ -26729,51 +23919,46 @@ Navi_Npc = {
     108,
     124
   },
-
   {
     "prt_church",
     18558,
     101,
     60,
-		"High Bishop",
+    "High Bishop",
     "",
     16,
     41
   },
-
   {
     "prt_church",
     18559,
     101,
     79,
-		"Sister Cecilia",
+    "Sister Cecilia",
     "",
     27,
     24
   },
-
   {
     "prt_church",
     18594,
     101,
     745,
-		"Crusader",
+    "Crusader",
     "",
     95,
     127
   },
-
   {
     "prt_church",
     18781,
     101,
     60,
-		"Praying Minister",
+    "Praying Minister",
     "arch",
     103,
     88
   },
-
   {
     "prt_church",
     19092,
@@ -26784,7 +23969,6 @@ Navi_Npc = {
     186,
     36
   },
-
   {
     "prt_church",
     19132,
@@ -26795,18 +23979,16 @@ Navi_Npc = {
     187,
     27
   },
-
   {
     "prt_church",
     19630,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "7",
     103,
     78
   },
-
   {
     "prt_fild00",
     19149,
@@ -26817,7 +23999,6 @@ Navi_Npc = {
     36,
     123
   },
-
   {
     "prt_fild01",
     19575,
@@ -26828,7 +24009,6 @@ Navi_Npc = {
     139,
     369
   },
-
   {
     "prt_fild04",
     19168,
@@ -26839,7 +24019,6 @@ Navi_Npc = {
     368,
     162
   },
-
   {
     "prt_fild04",
     19169,
@@ -26850,29 +24029,26 @@ Navi_Npc = {
     366,
     162
   },
-
   {
     "prt_fild05",
     10528,
     101,
     105,
-		"Culvert Guardian",
+    "Culvert Guardian",
     "",
     270,
     212
   },
-
   {
     "prt_fild05",
     15347,
     101,
     114,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     290,
     224
   },
-
   {
     "prt_fild05",
     15455,
@@ -26883,7 +24059,6 @@ Navi_Npc = {
     290,
     221
   },
-
   {
     "prt_fild05",
     19151,
@@ -26894,7 +24069,6 @@ Navi_Npc = {
     285,
     378
   },
-
   {
     "prt_fild05",
     19152,
@@ -26905,205 +24079,186 @@ Navi_Npc = {
     359,
     213
   },
-
   {
     "prt_fild05",
     19602,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "지하수로",
     278,
     220
   },
-
   {
     "prt_fild08",
     19752,
     101,
     909,
-		"Poring War Recruiter",
+    "Poring War Recruiter",
     "wop",
     159,
     371
   },
-
   {
     "prt_gld",
     17877,
     101,
     722,
-		"Swanhild",
+    "Swanhild",
     "",
     244,
     126
   },
-
   {
     "prt_gld",
     17878,
     101,
     722,
-		"Swanhild",
+    "Swanhild",
     "",
     244,
     128
   },
-
   {
     "prt_gld",
     17879,
     101,
     722,
-		"Swanhild",
+    "Swanhild",
     "",
     236,
     126
   },
-
   {
     "prt_gld",
     17880,
     101,
     722,
-		"Swanhild",
+    "Swanhild",
     "",
     236,
     128
   },
-
   {
     "prt_gld",
     17881,
     101,
     722,
-		"Fadhgridh",
+    "Fadhgridh",
     "",
     147,
     140
   },
-
   {
     "prt_gld",
     17882,
     101,
     722,
-		"Fadhgridh",
+    "Fadhgridh",
     "",
     147,
     136
   },
-
   {
     "prt_gld",
     17883,
     101,
     722,
-		"Fadhgridh",
+    "Fadhgridh",
     "",
     158,
     140
   },
-
   {
     "prt_gld",
     17884,
     101,
     722,
-		"Fadhgridh",
+    "Fadhgridh",
     "",
     158,
     136
   },
-
   {
     "prt_gld",
     17885,
     101,
     722,
-		"Skoegul",
+    "Skoegul",
     "",
     120,
     243
   },
-
   {
     "prt_gld",
     17886,
     101,
     722,
-		"Skoegul",
+    "Skoegul",
     "",
     120,
     236
   },
-
   {
     "prt_gld",
     17887,
     101,
     722,
-		"Skoegul",
+    "Skoegul",
     "",
     122,
     243
   },
-
   {
     "prt_gld",
     17888,
     101,
     722,
-		"Skoegul",
+    "Skoegul",
     "",
     122,
     236
   },
-
   {
     "prt_gld",
     17889,
     101,
     722,
-		"Gondul",
+    "Gondul",
     "",
     199,
     243
   },
-
   {
     "prt_gld",
     17890,
     101,
     722,
-		"Gondul",
+    "Gondul",
     "",
     199,
     236
   },
-
   {
     "prt_gld",
     17891,
     101,
     722,
-		"Gondul",
+    "Gondul",
     "",
     197,
     243
   },
-
   {
     "prt_gld",
     17892,
     101,
     722,
-		"Gondul",
+    "Gondul",
     "",
     197,
     236
   },
-
   {
     "prt_gld",
     18022,
@@ -27114,7 +24269,6 @@ Navi_Npc = {
     164,
     98
   },
-
   {
     "prt_gld",
     18036,
@@ -27125,7 +24279,6 @@ Navi_Npc = {
     158,
     96
   },
-
   {
     "prt_gld",
     18037,
@@ -27136,7 +24289,6 @@ Navi_Npc = {
     161,
     96
   },
-
   {
     "prt_gld",
     18039,
@@ -27147,62 +24299,56 @@ Navi_Npc = {
     163,
     99
   },
-
   {
     "prt_in",
     10523,
     101,
     57,
-		"Curator of Library",
+    "Curator of Library",
     "",
     178,
     92
   },
-
   {
     "prt_in",
     10524,
     101,
     71,
-		"Library Girl",
+    "Library Girl",
     "",
     175,
     50
   },
-
   {
     "prt_in",
     10525,
     101,
     53,
-		"Inn Employee",
+    "Inn Employee",
     "",
     244,
     135
   },
-
   {
     "prt_in",
     10526,
     101,
     53,
-		"Inn Employee",
+    "Inn Employee",
     "",
     61,
     141
   },
-
   {
     "prt_in",
     10543,
     101,
     61,
-		"Bartender",
+    "Bartender",
     "",
     180,
     20
   },
-
   {
     "prt_in",
     15457,
@@ -27213,7 +24359,6 @@ Navi_Npc = {
     126,
     76
   },
-
   {
     "prt_in",
     15458,
@@ -27224,7 +24369,6 @@ Navi_Npc = {
     172,
     130
   },
-
   {
     "prt_in",
     15459,
@@ -27235,7 +24379,6 @@ Navi_Npc = {
     171,
     140
   },
-
   {
     "prt_in",
     15460,
@@ -27246,7 +24389,6 @@ Navi_Npc = {
     172,
     132
   },
-
   {
     "prt_in",
     15565,
@@ -27257,7 +24399,6 @@ Navi_Npc = {
     165,
     140
   },
-
   {
     "prt_in",
     15606,
@@ -27268,7 +24409,6 @@ Navi_Npc = {
     211,
     169
   },
-
   {
     "prt_in",
     15609,
@@ -27279,7 +24419,6 @@ Navi_Npc = {
     109,
     68
   },
-
   {
     "prt_in",
     15614,
@@ -27290,7 +24429,6 @@ Navi_Npc = {
     175,
     137
   },
-
   {
     "prt_in",
     15695,
@@ -27301,128 +24439,116 @@ Navi_Npc = {
     131,
     66
   },
-
   {
     "prt_in",
     18098,
     101,
     53,
-		"Teacher",
+    "Teacher",
     "",
     38,
     108
   },
-
   {
     "prt_in",
     18196,
     101,
     84,
-		"PVPNarrator",
+    "PVPNarrator",
     "",
     56,
     140
   },
-
   {
     "prt_in",
     18197,
     101,
     83,
-		"Gate Keeper",
+    "Gate Keeper",
     "",
     52,
     140
   },
-
   {
     "prt_in",
     18376,
     101,
     84,
-		"Dietrich",
+    "Dietrich",
     "",
     63,
     69
   },
-
   {
     "prt_in",
     18377,
     101,
     86,
-		"Vurewell",
+    "Vurewell",
     "",
     56,
     68
   },
-
   {
     "prt_in",
     18378,
     101,
     85,
-		"Hollgrehenn",
+    "Hollgrehenn",
     "",
     63,
     60
   },
-
   {
     "prt_in",
     18433,
     101,
     86,
-		"Repairman",
+    "Repairman",
     "",
     63,
     54
   },
-
   {
     "prt_in",
     19531,
     101,
     84,
-		"Seiyablem",
+    "Seiyablem",
     "",
     33,
     70
   },
-
   {
     "prt_in",
     19533,
     101,
     97,
-		"Young Man",
+    "Young Man",
     "",
     31,
     57
   },
-
   {
     "prt_maze02",
     10549,
     101,
     105,
-		"Soldier",
+    "Soldier",
     "",
     100,
     69
   },
-
   {
     "prt_maze02",
     10550,
     101,
     105,
-		"Soldier",
+    "Soldier",
     "",
     110,
     69
   },
-
   {
     "prt_monk",
     15521,
@@ -27433,51 +24559,46 @@ Navi_Npc = {
     135,
     263
   },
-
   {
     "que_bingo",
     12923,
     101,
     47,
-		"Arcade Helper",
+    "Arcade Helper",
     "bingo1",
     49,
     31
   },
-
   {
     "que_bingo",
     12924,
     101,
     66,
-		"Arcade Helper",
+    "Arcade Helper",
     "bingo2",
     42,
     31
   },
-
   {
     "que_bingo",
     12925,
     101,
     712,
-		"Arcade Owner",
+    "Arcade Owner",
     "bingo",
     54,
     17
   },
-
   {
     "que_bingo",
     12927,
     101,
     778,
-		"Eukran",
+    "Eukran",
     "bingo",
     53,
     190
   },
-
   {
     "ra_fild01",
     19591,
@@ -27488,18 +24609,16 @@ Navi_Npc = {
     228,
     330
   },
-
   {
     "ra_fild12",
     12958,
     101,
     934,
-		"Airship Guide",
+    "Airship Guide",
     "fild",
     45,
     230
   },
-
   {
     "ra_in01",
     15595,
@@ -27510,7 +24629,6 @@ Navi_Npc = {
     257,
     269
   },
-
   {
     "ra_in01",
     15596,
@@ -27521,7 +24639,6 @@ Navi_Npc = {
     254,
     300
   },
-
   {
     "ra_in01",
     15597,
@@ -27532,7 +24649,6 @@ Navi_Npc = {
     176,
     389
   },
-
   {
     "ra_in01",
     15598,
@@ -27543,7 +24659,6 @@ Navi_Npc = {
     175,
     364
   },
-
   {
     "ra_in01",
     15610,
@@ -27554,7 +24669,6 @@ Navi_Npc = {
     263,
     281
   },
-
   {
     "ra_in01",
     15615,
@@ -27565,7 +24679,6 @@ Navi_Npc = {
     257,
     266
   },
-
   {
     "rachel",
     10044,
@@ -27576,7 +24689,6 @@ Navi_Npc = {
     111,
     143
   },
-
   {
     "rachel",
     10097,
@@ -27587,84 +24699,76 @@ Navi_Npc = {
     106,
     134
   },
-
   {
     "rachel",
     12946,
     101,
     921,
-		"Citizen",
+    "Citizen",
     "1",
     124,
     132
   },
-
   {
     "rachel",
     12948,
     101,
     914,
-		"Girl",
+    "Girl",
     "1",
     74,
     150
   },
-
   {
     "rachel",
     12961,
     101,
     51,
-		"Bard",
+    "Bard",
     "aru",
     197,
     137
   },
-
   {
     "rachel",
     13001,
     101,
     919,
-		"Lachellen",
+    "Lachellen",
     "",
     73,
     244
   },
-
   {
     "rachel",
     13002,
     101,
     921,
-		"Kid",
+    "Kid",
     "",
     196,
     77
   },
-
   {
     "rachel",
     13003,
     101,
     921,
-		"Kid",
+    "Kid",
     "",
     151,
     155
   },
-
   {
     "rachel",
     13004,
     101,
     918,
-		"Grandma",
+    "Grandma",
     "",
     266,
     35
   },
-
   {
     "rachel",
     15050,
@@ -27675,18 +24779,16 @@ Navi_Npc = {
     121,
     126
   },
-
   {
     "rachel",
     15434,
     101,
     874,
-		"Cool Event Corp. Staff",
+    "Cool Event Corp. Staff",
     "",
     109,
     138
   },
-
   {
     "rachel",
     15599,
@@ -27697,7 +24799,6 @@ Navi_Npc = {
     65,
     80
   },
-
   {
     "rachel",
     15722,
@@ -27708,51 +24809,36 @@ Navi_Npc = {
     106,
     130
   },
-
-	{
-		"rachel",
-		15744,
-		101,
-		899,
-		"캐시 판매 안내인",
-		"",
-		128,
-		144
-	},
-
   {
     "rachel",
     15788,
     101,
     934,
-		"Rachel Guide",
+    "Rachel Guide",
     "rachel",
     138,
     146
   },
-
   {
     "rachel",
     17803,
     101,
     728,
-		"Maroll Battle Recruiter",
+    "Maroll Battle Recruiter",
     "",
     149,
     138
   },
-
   {
     "rachel",
     19641,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "16",
     125,
     144
   },
-
   {
     "spl_fild02",
     15191,
@@ -27763,7 +24849,6 @@ Navi_Npc = {
     53,
     242
   },
-
   {
     "splendide",
     10062,
@@ -27774,7 +24859,6 @@ Navi_Npc = {
     201,
     153
   },
-
   {
     "splendide",
     10100,
@@ -27785,139 +24869,126 @@ Navi_Npc = {
     180,
     174
   },
-
   {
     "splendide",
     14326,
     101,
     461,
-		"Fairy",
+    "Fairy",
     "",
     159,
     164
   },
-
   {
     "splendide",
     14327,
     101,
     439,
-		"Fairy",
+    "Fairy",
     "",
     229,
     54
   },
-
   {
     "splendide",
     14328,
     101,
     446,
-		"Fairy",
+    "Fairy",
     "",
     89,
     235
   },
-
   {
     "splendide",
     14329,
     101,
     462,
-		"Fairy",
+    "Fairy",
     "",
     245,
     243
   },
-
   {
     "splendide",
     14330,
     101,
     439,
-		"Fairy",
+    "Fairy",
     "",
     230,
     142
   },
-
   {
     "splendide",
     14331,
     101,
     444,
-		"Fairy",
+    "Fairy",
     "",
     274,
     203
   },
-
   {
     "splendide",
     14332,
     101,
     447,
-		"Fairy",
+    "Fairy",
     "",
     275,
     141
   },
-
   {
     "splendide",
     14333,
     101,
     440,
-		"Fairy",
+    "Fairy",
     "",
     224,
     230
   },
-
   {
     "splendide",
     14334,
     101,
     462,
-		"Fairy",
+    "Fairy",
     "",
     223,
     36
   },
-
   {
     "splendide",
     14335,
     101,
     436,
-		"Fairy",
+    "Fairy",
     "",
     305,
     129
   },
-
   {
     "splendide",
     14336,
     101,
     462,
-		"Fairy",
+    "Fairy",
     "",
     142,
     315
   },
-
   {
     "splendide",
     14337,
     101,
     462,
-		"Fairy",
+    "Fairy",
     "",
     181,
     107
   },
-
   {
     "splendide",
     15707,
@@ -27928,7 +24999,6 @@ Navi_Npc = {
     207,
     160
   },
-
   {
     "splendide",
     15725,
@@ -27939,7 +25009,6 @@ Navi_Npc = {
     180,
     169
   },
-
   {
     "treasure_n1",
     19098,
@@ -27950,29 +25019,26 @@ Navi_Npc = {
     167,
     44
   },
-
   {
     "tur_dun01",
     10886,
     101,
     709,
-		"Sailor",
+    "Sailor",
     "",
     165,
     29
   },
-
   {
     "turbo_room",
     11924,
     101,
     115,
-		"Kafra Staff",
+    "Kafra Staff",
     "",
     130,
     92
   },
-
   {
     "turbo_room",
     11925,
@@ -27983,139 +25049,126 @@ Navi_Npc = {
     124,
     86
   },
-
   {
     "turbo_room",
     11926,
     101,
     124,
-		"TBT_Guide",
+    "TBT_Guide",
     "방송겸용",
     99,
     120
   },
-
   {
     "turbo_room",
     11927,
     101,
     857,
-		"Hall of Honor",
+    "Hall of Honor",
     "",
     102,
     117
   },
-
   {
     "turbo_room",
     11928,
     101,
     857,
-		"Solo Mode",
+    "Solo Mode",
     "",
     77,
     115
   },
-
   {
     "turbo_room",
     11929,
     101,
     857,
-		"Normal Mode Record",
+    "Normal Mode Record",
     "",
     87,
     114
   },
-
   {
     "turbo_room",
     11930,
     101,
     857,
-		"Expert Mode Record",
+    "Expert Mode Record",
     "",
     112,
     114
   },
-
   {
     "turbo_room",
     11931,
     101,
     857,
-		"Hall of Honor",
+    "Hall of Honor",
     "",
     97,
     117
   },
-
   {
     "turbo_room",
     11932,
     101,
     857,
-		"Solo Mode",
+    "Solo Mode",
     "1",
     75,
     95
   },
-
   {
     "turbo_room",
     11933,
     101,
     857,
-		"Normal Mode Records",
+    "Normal Mode Records",
     "1",
     67,
     95
   },
-
   {
     "turbo_room",
     11934,
     101,
     857,
-		"Expert Mode Records",
+    "Expert Mode Records",
     "1",
     71,
     95
   },
-
   {
     "turbo_room",
     11935,
     101,
     125,
-		"Point Exchange Helper",
+    "Point Exchange Helper",
     "",
     93,
     117
   },
-
   {
     "turbo_room",
     11936,
     101,
     833,
-		"Point Manager",
+    "Point Manager",
     "",
     106,
     117
   },
-
   {
     "um_in",
     11528,
     101,
     787,
-		"Utan villager",
+    "Utan villager",
     "",
     158,
     71
   },
-
   {
     "um_in",
     15528,
@@ -28126,7 +25179,6 @@ Navi_Npc = {
     104,
     124
   },
-
   {
     "um_in",
     15529,
@@ -28137,7 +25189,6 @@ Navi_Npc = {
     160,
     125
   },
-
   {
     "umbala",
     10060,
@@ -28148,128 +25199,116 @@ Navi_Npc = {
     93,
     160
   },
-
   {
     "umbala",
     11508,
     101,
     785,
-		"Utan Man",
+    "Utan Man",
     "1",
     140,
     157
   },
-
   {
     "umbala",
     11509,
     101,
     786,
-		"Utan Man",
+    "Utan Man",
     "2",
     146,
     157
   },
-
   {
     "umbala",
     11510,
     101,
     787,
-		"Utan Kid",
+    "Utan Kid",
     "2",
     194,
     104
   },
-
   {
     "umbala",
     11511,
     101,
     781,
-		"Utan Kid",
+    "Utan Kid",
     "3",
     149,
     165
   },
-
   {
     "umbala",
     11512,
     101,
     789,
-		"Utan Man",
+    "Utan Man",
     "3",
     193,
     208
   },
-
   {
     "umbala",
     11513,
     101,
     787,
-		"Utan Kid",
+    "Utan Kid",
     "1",
     59,
     243
   },
-
   {
     "umbala",
     11514,
     101,
     785,
-		"Utan Man",
+    "Utan Man",
     "5",
     139,
     205
   },
-
   {
     "umbala",
     11523,
     101,
     753,
-		"Yuwooki",
+    "Yuwooki",
     "",
     80,
     146
   },
-
   {
     "umbala",
     11529,
     101,
     781,
-		"Utan Kid",
+    "Utan Kid",
     "",
     70,
     106
   },
-
   {
     "umbala",
     11530,
     101,
     97,
-		"Pasto",
+    "Pasto",
     "",
     177,
     153
   },
-
   {
     "umbala",
     11531,
     101,
     785,
-		"Bertan",
+    "Bertan",
     "",
     92,
     159
   },
-
   {
     "umbala",
     15420,
@@ -28280,7 +25319,6 @@ Navi_Npc = {
     87,
     160
   },
-
   {
     "umbala",
     15578,
@@ -28291,40 +25329,36 @@ Navi_Npc = {
     102,
     154
   },
-
   {
     "umbala",
     15811,
     101,
     702,
-		"Umbala Guide",
+    "Umbala Guide",
     "01umbala",
     128,
     94
   },
-
   {
     "umbala",
     15812,
     101,
     702,
-		"Umbala Guide",
+    "Umbala Guide",
     "02umbala",
     99,
     158
   },
-
   {
     "umbala",
     18464,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "움발라",
     137,
     94
   },
-
   {
     "umbala",
     19671,
@@ -28335,7 +25369,6 @@ Navi_Npc = {
     105,
     158
   },
-
   {
     "ve_fild03",
     19592,
@@ -28346,238 +25379,216 @@ Navi_Npc = {
     172,
     239
   },
-
   {
     "ve_in",
     13251,
     101,
     946,
-		"Prisoner",
+    "Prisoner",
     "",
     119,
     386
   },
-
   {
     "ve_in",
     13252,
     101,
     946,
-		"Ward",
+    "Ward",
     "",
     111,
     379
   },
-
   {
     "ve_in",
     13253,
     101,
     946,
-		"Ward",
+    "Ward",
     "",
     126,
     378
   },
-
   {
     "ve_in",
     13254,
     101,
     943,
-		"Towner",
+    "Towner",
     "",
     101,
     314
   },
-
   {
     "ve_in",
     13255,
     101,
     849,
-		"Towner",
+    "Towner",
     "",
     90,
     298
   },
-
   {
     "ve_in",
     13256,
     101,
     849,
-		"Towner",
+    "Towner",
     "",
     361,
     243
   },
-
   {
     "ve_in",
     13257,
     101,
     849,
-		"Towner",
+    "Towner",
     "",
     242,
     124
   },
-
   {
     "ve_in",
     13258,
     101,
     946,
-		"Towner",
+    "Towner",
     "",
     180,
     232
   },
-
   {
     "ve_in",
     13259,
     101,
     940,
-		"Towner",
+    "Towner",
     "",
     163,
     212
   },
-
   {
     "ve_in",
     13260,
     101,
     946,
-		"Towner",
+    "Towner",
     "",
     190,
     215
   },
-
   {
     "ve_in",
     13261,
     101,
     943,
-		"Towner",
+    "Towner",
     "",
     318,
     121
   },
-
   {
     "ve_in",
     13262,
     101,
     943,
-		"Towner",
+    "Towner",
     "",
     222,
     125
   },
-
   {
     "ve_in",
     13263,
     101,
     940,
-		"Towner",
+    "Towner",
     "",
     222,
     122
   },
-
   {
     "ve_in",
     13264,
     101,
     946,
-		"Towner",
+    "Towner",
     "",
     232,
     135
   },
-
   {
     "ve_in",
     13265,
     101,
     946,
-		"Towner",
+    "Towner",
     "",
     239,
     135
   },
-
   {
     "ve_in",
     13266,
     101,
     943,
-		"Towner",
+    "Towner",
     "",
     232,
     124
   },
-
   {
     "ve_in",
     13267,
     101,
     946,
-		"Towner",
+    "Towner",
     "",
     234,
     105
   },
-
   {
     "ve_in",
     13317,
     101,
     947,
-		"Bartender",
+    "Bartender",
     "ve",
     235,
     135
   },
-
   {
     "ve_in",
     13318,
     101,
     940,
-		"Female Customer",
+    "Female Customer",
     "ve1",
     237,
     131
   },
-
   {
     "ve_in",
     13319,
     101,
     943,
-		"Male Customer",
+    "Male Customer",
     "ve2",
     239,
     107
   },
-
   {
     "ve_in",
     13337,
     101,
     709,
-		"Inn Master",
+    "Inn Master",
     "veinsin",
     157,
     219
   },
-
   {
     "ve_in",
     15600,
@@ -28588,7 +25599,6 @@ Navi_Npc = {
     386,
     245
   },
-
   {
     "ve_in",
     15601,
@@ -28599,7 +25609,6 @@ Navi_Npc = {
     336,
     243
   },
-
   {
     "ve_in",
     15602,
@@ -28610,7 +25619,6 @@ Navi_Npc = {
     374,
     230
   },
-
   {
     "ve_in",
     15603,
@@ -28621,7 +25629,6 @@ Navi_Npc = {
     243,
     303
   },
-
   {
     "ve_in",
     15604,
@@ -28632,7 +25639,6 @@ Navi_Npc = {
     253,
     304
   },
-
   {
     "ve_in",
     15605,
@@ -28643,7 +25649,6 @@ Navi_Npc = {
     252,
     313
   },
-
   {
     "veins",
     10047,
@@ -28654,337 +25659,306 @@ Navi_Npc = {
     210,
     109
   },
-
   {
     "veins",
     13222,
     101,
     943,
-		"Towner",
+    "Towner",
     "",
     162,
     34
   },
-
   {
     "veins",
     13223,
     101,
     940,
-		"Towner",
+    "Towner",
     "",
     148,
     41
   },
-
   {
     "veins",
     13224,
     101,
     943,
-		"Towner",
+    "Towner",
     "",
     137,
     179
   },
-
   {
     "veins",
     13225,
     101,
     946,
-		"Towner",
+    "Towner",
     "",
     166,
     91
   },
-
   {
     "veins",
     13226,
     101,
     941,
-		"Kid",
+    "Kid",
     "",
     138,
     71
   },
-
   {
     "veins",
     13227,
     101,
     944,
-		"Kid",
+    "Kid",
     "",
     253,
     133
   },
-
   {
     "veins",
     13228,
     101,
     945,
-		"Old Man",
+    "Old Man",
     "",
     270,
     164
   },
-
   {
     "veins",
     13229,
     101,
     946,
-		"Towner",
+    "Towner",
     "",
     310,
     195
   },
-
   {
     "veins",
     13230,
     101,
     943,
-		"Towner",
+    "Towner",
     "",
     320,
     254
   },
-
   {
     "veins",
     13231,
     101,
     940,
-		"Towner",
+    "Towner",
     "",
     333,
     318
   },
-
   {
     "veins",
     13232,
     101,
     945,
-		"Towner",
+    "Towner",
     "",
     218,
     323
   },
-
   {
     "veins",
     13233,
     101,
     941,
-		"Kid",
+    "Kid",
     "",
     206,
     275
   },
-
   {
     "veins",
     13234,
     101,
     943,
-		"Towner",
+    "Towner",
     "",
     171,
     256
   },
-
   {
     "veins",
     13235,
     101,
     943,
-		"Towner",
+    "Towner",
     "",
     197,
     219
   },
-
   {
     "veins",
     13236,
     101,
     942,
-		"Old lady",
+    "Old lady",
     "",
     232,
     169
   },
-
   {
     "veins",
     13237,
     101,
     945,
-		"Old Man",
+    "Old Man",
     "",
     121,
     199
   },
-
   {
     "veins",
     13238,
     101,
     943,
-		"Towner",
+    "Towner",
     "",
     111,
     50
   },
-
   {
     "veins",
     13239,
     101,
     940,
-		"Towner",
+    "Towner",
     "",
     112,
     51
   },
-
   {
     "veins",
     13240,
     101,
     945,
-		"Old Man",
+    "Old Man",
     "",
     191,
     134
   },
-
   {
     "veins",
     13241,
     101,
     942,
-		"Old Lady",
+    "Old Lady",
     "",
     177,
     147
   },
-
   {
     "veins",
     13242,
     101,
     944,
-		"Kid",
+    "Kid",
     "",
     223,
     165
   },
-
   {
     "veins",
     13243,
     101,
     943,
-		"Towner",
+    "Towner",
     "",
     263,
     153
   },
-
   {
     "veins",
     13244,
     101,
     940,
-		"Towner",
+    "Towner",
     "",
     296,
     184
   },
-
   {
     "veins",
     13245,
     101,
     944,
-		"Kid",
+    "Kid",
     "",
     291,
     205
   },
-
   {
     "veins",
     13246,
     101,
     945,
-		"Old Man",
+    "Old Man",
     "",
     291,
     259
   },
-
   {
     "veins",
     13247,
     101,
     942,
-		"Old Lady",
+    "Old Lady",
     "",
     291,
     284
   },
-
   {
     "veins",
     13248,
     101,
     944,
-		"Kid",
+    "Kid",
     "",
     248,
     301
   },
-
   {
     "veins",
     13249,
     101,
     945,
-		"Old Man",
+    "Old Man",
     "",
     161,
     63
   },
-
   {
     "veins",
     13250,
     101,
     946,
-		"Towner",
+    "Towner",
     "",
     157,
     123
   },
-
   {
     "veins",
     15436,
     101,
     874,
-		"Cool Event Corp. Staff",
+    "Cool Event Corp. Staff",
     "",
     208,
     128
   },
-
   {
     "veins",
     15704,
@@ -28995,29 +25969,26 @@ Navi_Npc = {
     202,
     128
   },
-
   {
     "veins",
     15789,
     101,
     934,
-		"Veins Guide",
+    "Veins Guide",
     "veins01",
     210,
     345
   },
-
   {
     "veins",
     15790,
     101,
     934,
-		"Veins Guide",
+    "Veins Guide",
     "veins02",
     189,
     101
   },
-
   {
     "veins",
     19647,
@@ -29028,7 +25999,6 @@ Navi_Npc = {
     220,
     109
   },
-
   {
     "xmas",
     15586,
@@ -29039,73 +26009,66 @@ Navi_Npc = {
     152,
     137
   },
-
   {
     "xmas",
     15651,
     101,
     793,
-		"Pretty Lindsay",
+    "Pretty Lindsay",
     "",
     183,
     267
   },
-
   {
     "xmas",
     15652,
     101,
     712,
-		"Fuzzy Fuzz",
+    "Fuzzy Fuzz",
     "",
     175,
     156
   },
-
   {
     "xmas",
     15813,
     101,
     717,
-		"Lutie Guide",
+    "Lutie Guide",
     "xmas",
     140,
     137
   },
-
   {
     "xmas",
     18105,
     101,
     704,
-		"Vending Machine Man",
+    "Vending Machine Man",
     "",
     117,
     295
   },
-
   {
     "xmas",
     19582,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "장난감공장",
     147,
     311
   },
-
   {
     "xmas_fild01",
     18459,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "루티에",
     75,
     80
   },
-
   {
     "xmas_in",
     15504,
@@ -29116,7 +26079,6 @@ Navi_Npc = {
     40,
     38
   },
-
   {
     "xmas_in",
     15505,
@@ -29127,7 +26089,6 @@ Navi_Npc = {
     174,
     98
   },
-
   {
     "xmas_in",
     15506,
@@ -29138,7 +26099,6 @@ Navi_Npc = {
     168,
     104
   },
-
   {
     "xmas_in",
     15507,
@@ -29149,117 +26109,106 @@ Navi_Npc = {
     169,
     34
   },
-
   {
     "xmas_in",
     15657,
     101,
     797,
-		"Hat Merchant",
+    "Hat Merchant",
     "",
     35,
     30
   },
-
   {
     "xmas_in",
     18234,
     101,
     718,
-		"Father Christmas",
+    "Father Christmas",
     "",
     100,
     96
   },
-
   {
     "y_airport",
     12015,
     101,
     90,
-		"Airport Staff",
+    "Airport Staff",
     "y_airport1a",
     143,
     43
   },
-
   {
     "y_airport",
     12018,
     101,
     90,
-		"Airport Staff",
+    "Airport Staff",
     "y_airport1b",
     158,
     43
   },
-
   {
     "y_airport",
     12021,
     101,
     90,
-		"Airport Staff",
+    "Airport Staff",
     "y_airport1c",
     126,
     43
   },
-
   {
     "y_airport",
     12027,
     101,
     90,
-		"Arrival Staff",
+    "Arrival Staff",
     "y_airport2a",
     143,
     49
   },
-
   {
     "y_airport",
     12029,
     101,
     90,
-		"Arrival Staff",
+    "Arrival Staff",
     "y_airport2b",
     126,
     51
   },
-
   {
     "y_airport",
     12031,
     101,
     90,
-		"Arrival Staff",
+    "Arrival Staff",
     "y_airport2c",
     158,
     50
   },
-
   {
     "y_airport",
     12033,
     101,
     91,
-		"Domestic Boarding",
+    "Domestic Boarding",
     "y_airport2d",
     145,
     63
   },
-
   {
     "y_airport",
     12035,
     101,
     91,
-		"International Boarding",
+    "International Boarding",
     "y_airport2d",
     140,
     63
   },
-
   {
     "yuno",
     10048,
@@ -29270,7 +26219,6 @@ Navi_Npc = {
     149,
     187
   },
-
   {
     "yuno",
     10096,
@@ -29281,73 +26229,66 @@ Navi_Npc = {
     167,
     187
   },
-
   {
     "yuno",
     10719,
     101,
     729,
-		"Freidrich",
+    "Freidrich",
     "",
     184,
     173
   },
-
   {
     "yuno",
     10723,
     101,
     103,
-		"Juno Granny",
+    "Juno Granny",
     "",
     337,
     227
   },
-
   {
     "yuno",
     10724,
     101,
     732,
-		"Juno Fighter",
+    "Juno Fighter",
     "",
     328,
     239
   },
-
   {
     "yuno",
     10725,
     101,
     730,
-		"Juno Despot",
+    "Juno Despot",
     "",
     343,
     68
   },
-
   {
     "yuno",
     10727,
     101,
     123,
-		"Juno Sage",
+    "Juno Sage",
     "",
     165,
     111
   },
-
   {
     "yuno",
     10730,
     101,
     54,
-		"Juno Artisan",
+    "Juno Artisan",
     "",
     157,
     205
   },
-
   {
     "yuno",
     10731,
@@ -29358,7 +26299,6 @@ Navi_Npc = {
     150,
     283
   },
-
   {
     "yuno",
     10732,
@@ -29369,7 +26309,6 @@ Navi_Npc = {
     165,
     283
   },
-
   {
     "yuno",
     10733,
@@ -29380,7 +26319,6 @@ Navi_Npc = {
     227,
     292
   },
-
   {
     "yuno",
     10734,
@@ -29391,7 +26329,6 @@ Navi_Npc = {
     165,
     228
   },
-
   {
     "yuno",
     10735,
@@ -29402,7 +26339,6 @@ Navi_Npc = {
     150,
     228
   },
-
   {
     "yuno",
     10736,
@@ -29413,7 +26349,6 @@ Navi_Npc = {
     334,
     182
   },
-
   {
     "yuno",
     10737,
@@ -29424,51 +26359,46 @@ Navi_Npc = {
     263,
     320
   },
-
   {
     "yuno",
     12238,
     101,
     91,
-		"Airship Staff",
+    "Airship Staff",
     "yuno01",
     14,
     262
   },
-
   {
     "yuno",
     12239,
     101,
     91,
-		"Airship Staff",
+    "Airship Staff",
     "yuno02",
     88,
     263
   },
-
   {
     "yuno",
     12440,
     101,
     861,
-		"Kafra Voting Staff",
+    "Kafra Voting Staff",
     "yuno",
     162,
     191
   },
-
   {
     "yuno",
     12454,
     101,
     874,
-		"Cool Event Staff",
+    "Cool Event Staff",
     "yuno",
     153,
     191
   },
-
   {
     "yuno",
     15048,
@@ -29479,40 +26409,36 @@ Navi_Npc = {
     165,
     122
   },
-
   {
     "yuno",
     15412,
     101,
     860,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     327,
     108
   },
-
   {
     "yuno",
     15414,
     101,
     861,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     277,
     221
   },
-
   {
     "yuno",
     15416,
     101,
     860,
-		"Kafra Employee",
+    "Kafra Employee",
     "",
     152,
     187
   },
-
   {
     "yuno",
     15518,
@@ -29523,7 +26449,6 @@ Navi_Npc = {
     218,
     97
   },
-
   {
     "yuno",
     15519,
@@ -29534,7 +26459,6 @@ Navi_Npc = {
     226,
     107
   },
-
   {
     "yuno",
     15520,
@@ -29545,7 +26469,6 @@ Navi_Npc = {
     163,
     187
   },
-
   {
     "yuno",
     15579,
@@ -29556,29 +26479,26 @@ Navi_Npc = {
     130,
     173
   },
-
   {
     "yuno",
     15649,
     101,
     813,
-		"Old Blacksmith",
+    "Old Blacksmith",
     "",
     241,
     52
   },
-
   {
     "yuno",
     15667,
     101,
     851,
-		"Kasis",
+    "Kasis",
     "잘구운토스트",
     222,
     116
   },
-
   {
     "yuno",
     15721,
@@ -29589,84 +26509,76 @@ Navi_Npc = {
     171,
     187
   },
-
   {
     "yuno",
     15791,
     101,
     700,
-		"Juno Guide",
+    "Juno Guide",
     "yuno01",
     59,
     212
   },
-
   {
     "yuno",
     15792,
     101,
     700,
-		"Juno Guide",
+    "Juno Guide",
     "yuno02",
     153,
     47
   },
-
   {
     "yuno",
     17946,
     101,
     722,
-		"Himinn",
+    "Himinn",
     "",
     109,
     167
   },
-
   {
     "yuno",
     17947,
     101,
     722,
-		"Andlangr",
+    "Andlangr",
     "",
     110,
     171
   },
-
   {
     "yuno",
     17948,
     101,
     722,
-		"Viblainn",
+    "Viblainn",
     "",
     111,
     175
   },
-
   {
     "yuno",
     17949,
     101,
     722,
-		"Hljod",
+    "Hljod",
     "",
     112,
     179
   },
-
   {
     "yuno",
     17950,
     101,
     722,
-		"Skidbladnir",
+    "Skidbladnir",
     "",
     114,
     183
   },
-
   {
     "yuno",
     18461,
@@ -29677,29 +26589,26 @@ Navi_Npc = {
     153,
     113
   },
-
   {
     "yuno",
     19639,
     101,
     729,
-		"Eden Teleport Officer",
+    "Eden Teleport Officer",
     "15",
     144,
     189
   },
-
   {
     "yuno_fild03",
     19573,
     101,
     837,
-		"Bulletin Board",
+    "Bulletin Board",
     "노그로드",
     37,
     143
   },
-
   {
     "yuno_in01",
     15515,
@@ -29710,7 +26619,6 @@ Navi_Npc = {
     103,
     35
   },
-
   {
     "yuno_in01",
     15516,
@@ -29721,7 +26629,6 @@ Navi_Npc = {
     112,
     26
   },
-
   {
     "yuno_in01",
     15517,
@@ -29732,73 +26639,66 @@ Navi_Npc = {
     25,
     34
   },
-
   {
     "yuno_in01",
     18385,
     101,
     88,
-		"Delight",
+    "Delight",
     "",
     164,
     27
   },
-
   {
     "yuno_in01",
     18386,
     101,
     88,
-		"Dilemma",
+    "Dilemma",
     "",
     171,
     27
   },
-
   {
     "yuno_in01",
     18387,
     101,
     88,
-		"Lambert",
+    "Lambert",
     "",
     171,
     21
   },
-
   {
     "yuno_in01",
     18434,
     101,
     86,
-		"Repairman",
+    "Repairman",
     "",
     175,
     28
   },
-
   {
     "yuno_in03",
     10849,
     101,
     67,
-		"Museum Guide",
+    "Museum Guide",
     "",
     32,
     15
   },
-
   {
     "yuno_in03",
     15654,
     101,
     726,
-		"Nehris",
+    "Nehris",
     "",
     20,
     18
   },
-
   {
     "yuno_in03",
     19280,
@@ -29809,7 +26709,6 @@ Navi_Npc = {
     176,
     22
   },
-
   {
     "yuno_in04",
     12727,

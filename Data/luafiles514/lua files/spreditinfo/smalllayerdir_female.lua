@@ -1,5 +1,5 @@
 SmallLayerDir_F = {
-	[JOBID.JT_SUMMER] = {
+  [JOBID.JT_SUMMER] = {
     [2] = {
       0,
       1,
@@ -34,8 +34,8 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
-	[JOBID.JT_ALCHEMIST] = {
+  },
+  [JOBID.JT_ALCHEMIST] = {
     [10] = {
       5,
       6,
@@ -50,8 +50,8 @@ SmallLayerDir_F = {
     [81] = {7, 8},
     [86] = {7, 8},
     [87] = {7, 8}
-	},
-	[JOBID.JT_SAGE] = {
+  },
+  [JOBID.JT_SAGE] = {
     [2] = {
       0,
       1,
@@ -112,8 +112,8 @@ SmallLayerDir_F = {
       4,
       5
     }
-	},
-	[JOBID.JT_ARCHER] = {
+  },
+  [JOBID.JT_ARCHER] = {
     [2] = {
       0,
       1,
@@ -138,8 +138,8 @@ SmallLayerDir_F = {
       6,
       7
     }
-	},
-	[JOBID.JT_HUNTER] = {
+  },
+  [JOBID.JT_HUNTER] = {
     [82] = {
       4,
       5,
@@ -196,8 +196,8 @@ SmallLayerDir_F = {
       6,
       7
     }
-	},
-	[JOBID.JT_MERCHANT] = {
+  },
+  [JOBID.JT_MERCHANT] = {
     [10] = {
       2,
       3,
@@ -304,8 +304,8 @@ SmallLayerDir_F = {
       2,
       3
     }
-	},
-	[JOBID.JT_LINKER] = {
+  },
+  [JOBID.JT_LINKER] = {
     [10] = {
       0,
       4,
@@ -350,8 +350,8 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
-	[JOBID.JT_THIEF] = {
+  },
+  [JOBID.JT_THIEF] = {
     [2] = {
       0,
       1,
@@ -520,8 +520,8 @@ SmallLayerDir_F = {
       4,
       5
     }
-	},
-	[JOBID.JT_ROGUE] = {
+  },
+  [JOBID.JT_ROGUE] = {
     [2] = {
       0,
       1,
@@ -694,8 +694,8 @@ SmallLayerDir_F = {
       6,
       7
     }
-	},
-	[JOBID.JT_SWORDMAN] = {
+  },
+  [JOBID.JT_SWORDMAN] = {
     [2] = {
       0,
       1,
@@ -726,8 +726,8 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
-	[JOBID.JT_KNIGHT] = {
+  },
+  [JOBID.JT_KNIGHT] = {
     [2] = {
       0,
       1,
@@ -792,8 +792,8 @@ SmallLayerDir_F = {
       6,
       7
     }
-	},
-	[JOBID.JT_MAGICIAN] = {
+  },
+  [JOBID.JT_MAGICIAN] = {
     [10] = {
       5,
       6,
@@ -804,8 +804,8 @@ SmallLayerDir_F = {
       6,
       7
     }
-	},
-	[JOBID.JT_MONK] = {
+  },
+  [JOBID.JT_MONK] = {
     [10] = {
       5,
       6,
@@ -824,8 +824,8 @@ SmallLayerDir_F = {
     [45] = {2},
     [46] = {3, 4},
     [47] = {3, 4}
-	},
-	[JOBID.JT_GUNSLINGER] = {
+  },
+  [JOBID.JT_GUNSLINGER] = {
     [10] = {
       1,
       2,
@@ -836,8 +836,20 @@ SmallLayerDir_F = {
       2,
       3
     }
-	},
-	[JOBID.JT_STAR] = {
+  },
+  [JOBID.JT_REBELLION] = {
+    [10] = {
+      1,
+      2,
+      3
+    },
+    [14] = {
+      1,
+      2,
+      3
+    }
+  },
+  [JOBID.JT_STAR] = {
     [2] = {
       0,
       1,
@@ -886,8 +898,8 @@ SmallLayerDir_F = {
     [93] = {4},
     [94] = {4, 6},
     [95] = {4, 6}
-	},
-	[JOBID.JT_ROYAL_GUARD] = {
+  },
+  [JOBID.JT_ROYAL_GUARD] = {
     [10] = {
       5,
       6,
@@ -912,8 +924,8 @@ SmallLayerDir_F = {
     [83] = {5},
     [84] = {5},
     [85] = {5}
-	},
-	[JOBID.JT_STAR2] = {
+  },
+  [JOBID.JT_STAR2] = {
     [2] = {
       0,
       1,
@@ -962,8 +974,8 @@ SmallLayerDir_F = {
     [93] = {4},
     [94] = {4, 6},
     [95] = {4, 6}
-	},
-	[JOBID.JT_ROYAL_CHICKEN] = {
+  },
+  [JOBID.JT_ROYAL_CHICKEN] = {
     [2] = {
       0,
       1,
@@ -996,8 +1008,8 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
-	[JOBID.JT_GUILLOTINE_CROSS] = {
+  },
+  [JOBID.JT_GUILLOTINE_CROSS] = {
     [2] = {
       0,
       1,
@@ -1034,8 +1046,8 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
-	[JOBID.JT_NINJA] = {
+  },
+  [JOBID.JT_NINJA] = {
     [10] = {
       5,
       6,
@@ -1046,8 +1058,8 @@ SmallLayerDir_F = {
       6,
       7
     }
-	},
-	[JOBID.JT_DANCER] = {
+  },
+  [JOBID.JT_DANCER] = {
     [10] = {4},
     [14] = {4},
     [40] = {3, 4},
@@ -1102,8 +1114,8 @@ SmallLayerDir_F = {
       6,
       7
     }
-	},
-	[JOBID.JT_RANGER] = {
+  },
+  [JOBID.JT_RANGER] = {
     [2] = {
       0,
       1,
@@ -1138,8 +1150,8 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
-	[JOBID.JT_KNIGHT_H] = {
+  },
+  [JOBID.JT_KNIGHT_H] = {
     [10] = {
       0,
       4,
@@ -1186,8 +1198,8 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
-	[JOBID.JT_RUNE_KNIGHT] = {
+  },
+  [JOBID.JT_RUNE_KNIGHT] = {
     [2] = {
       0,
       1,
@@ -1212,8 +1224,8 @@ SmallLayerDir_F = {
       3,
       4
     }
-	},
-	[JOBID.JT_MECHANIC] = {
+  },
+  [JOBID.JT_MECHANIC] = {
     [2] = {
       0,
       1,
@@ -1242,8 +1254,8 @@ SmallLayerDir_F = {
       6,
       7
     }
-	},
-	[JOBID.JT_ACOLYTE] = {
+  },
+  [JOBID.JT_ACOLYTE] = {
     [10] = {
       5,
       6,
@@ -1306,8 +1318,8 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
-	[JOBID.JT_SORCERER] = {
+  },
+  [JOBID.JT_SORCERER] = {
     [2] = {
       0,
       1,
@@ -1356,8 +1368,8 @@ SmallLayerDir_F = {
     [83] = {2, 3},
     [84] = {2, 3},
     [85] = {2, 3}
-	},
-	[JOBID.JT_SHADOW_CHASER] = {
+  },
+  [JOBID.JT_SHADOW_CHASER] = {
     [2] = {
       0,
       1,
@@ -1398,8 +1410,8 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
-	[JOBID.JT_SURA] = {
+  },
+  [JOBID.JT_SURA] = {
     [2] = {
       0,
       1,
@@ -1444,8 +1456,8 @@ SmallLayerDir_F = {
     [43] = {1},
     [44] = {1},
     [45] = {1}
-	},
-	[JOBID.JT_HUNTER_H] = {
+  },
+  [JOBID.JT_HUNTER_H] = {
     [10] = {
       5,
       6,
@@ -1526,8 +1538,8 @@ SmallLayerDir_F = {
     [91] = {4},
     [92] = {4},
     [93] = {4}
-	},
-	[JOBID.JT_ROGUE_H] = {
+  },
+  [JOBID.JT_ROGUE_H] = {
     [10] = {
       4,
       5,
@@ -1698,8 +1710,8 @@ SmallLayerDir_F = {
     [97] = {3, 4},
     [102] = {3, 4},
     [103] = {3, 4}
-	},
-	[JOBID.JT_ARCHBISHOP] = {
+  },
+  [JOBID.JT_ARCHBISHOP] = {
     [10] = {
       1,
       4,
@@ -1724,8 +1736,8 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
-	[JOBID.JT_ASSASSIN] = {
+  },
+  [JOBID.JT_ASSASSIN] = {
     [2] = {
       0,
       1,
@@ -1794,8 +1806,8 @@ SmallLayerDir_F = {
     [89] = {3, 4},
     [94] = {3, 4},
     [95] = {3, 4}
-	},
-	[JOBID.JT_ASSASSIN_H] = {
+  },
+  [JOBID.JT_ASSASSIN_H] = {
     [18] = {
       0,
       1,
@@ -1833,8 +1845,8 @@ SmallLayerDir_F = {
       2,
       3
     }
-	},
-	[JOBID.JT_WARLOCK] = {
+  },
+  [JOBID.JT_WARLOCK] = {
     [2] = {
       0,
       1,
@@ -1897,8 +1909,8 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
-	[JOBID.JT_WANDERER] = {
+  },
+  [JOBID.JT_WANDERER] = {
     [2] = {
       0,
       1,
@@ -2039,8 +2051,8 @@ SmallLayerDir_F = {
       2,
       3
     }
-	},
-	[JOBID.JT_WIZARD] = {
+  },
+  [JOBID.JT_WIZARD] = {
     [2] = {
       0,
       1,
@@ -2089,8 +2101,8 @@ SmallLayerDir_F = {
     [81] = {3},
     [86] = {3},
     [87] = {3}
-	},
-	[JOBID.JT_GENETIC] = {
+  },
+  [JOBID.JT_GENETIC] = {
     [2] = {
       0,
       1,
@@ -2131,9 +2143,9 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
+  },
   [JOBID.JT_BLACKSMITH] = {},
-	[JOBID.JT_DANCER_H] = {
+  [JOBID.JT_DANCER_H] = {
     [10] = {
       1,
       2,
@@ -2212,8 +2224,8 @@ SmallLayerDir_F = {
       7,
       8
     }
-	},
-	[JOBID.JT_MONK_H] = {
+  },
+  [JOBID.JT_MONK_H] = {
     [10] = {
       4,
       5,
@@ -2230,8 +2242,8 @@ SmallLayerDir_F = {
     [43] = {2},
     [44] = {2},
     [45] = {2}
-	},
-	[JOBID.JT_CRUSADER] = {
+  },
+  [JOBID.JT_CRUSADER] = {
     [90] = {
       0,
       1,
@@ -2264,8 +2276,8 @@ SmallLayerDir_F = {
       4,
       5
     }
-	},
-	[JOBID.JT_ALCHEMIST_H] = {
+  },
+  [JOBID.JT_ALCHEMIST_H] = {
     [10] = {
       5,
       6,
@@ -2380,8 +2392,8 @@ SmallLayerDir_F = {
     },
     [86] = {7, 8},
     [87] = {7, 8}
-	},
-	[JOBID.JT_TAEKWON] = {
+  },
+  [JOBID.JT_TAEKWON] = {
     [2] = {
       0,
       1,
@@ -2430,9 +2442,9 @@ SmallLayerDir_F = {
     [93] = {4},
     [94] = {4, 6},
     [95] = {4, 6}
-	},
+  },
   [JOBID.JT_CHICKEN] = {},
-	[JOBID.JT_SAGE_H] = {
+  [JOBID.JT_SAGE_H] = {
     [2] = {
       0,
       1,
@@ -2693,8 +2705,8 @@ SmallLayerDir_F = {
       1,
       2
     }
-	},
-	[JOBID.JT_PRIEST] = {
+  },
+  [JOBID.JT_PRIEST] = {
     [2] = {
       0,
       1,
@@ -2821,9 +2833,9 @@ SmallLayerDir_F = {
       6,
       7
     }
-	},
+  },
   [JOBID.JT_WIZARD_H] = {},
-	[JOBID.JT_PRIEST_H] = {
+  [JOBID.JT_PRIEST_H] = {
     [10] = {
       0,
       4,
@@ -2902,8 +2914,8 @@ SmallLayerDir_F = {
       6,
       7
     }
-	},
-	[JOBID.JT_BLACKSMITH_H] = {
+  },
+  [JOBID.JT_BLACKSMITH_H] = {
     [10] = {
       0,
       1,
@@ -2936,8 +2948,8 @@ SmallLayerDir_F = {
       7,
       8
     }
-	},
-	[JOBID.JT_OBORO] = {
+  },
+  [JOBID.JT_OBORO] = {
     [10] = {
       4,
       5,

@@ -6,8 +6,8 @@ map_list = {
         name = MsgStrID.MSI_MAP_LIST_ALLSELECT
       }
     },
-		ignore_recruit_window = true
-	},
+    ignore_recruit_window = true
+  },
   {
     name = MsgStrID.MSI_MAP_LIST_NAME_PRONTERA,
     list = {
@@ -582,7 +582,7 @@ map_list = {
         name = MsgStrID.MSI_MAP_LIST_NAME_HU_FILD01
       }
     }
-	},
+  },
   {
     name = MsgStrID.MSI_MAP_LIST_NAME_RAHEL,
     list = {

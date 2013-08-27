@@ -41,14 +41,14 @@ end
 
 
 function queryEpisode(tabid,episodeId)
-        if( tabid == 4 ) then
+        if( tabid == 3 ) then
 		if(__LOCAL_QuestList[episodeId] == nil) then return nil,nil,nil,nil end
 
 		return __LOCAL_QuestList[episodeId].id,
 				__LOCAL_QuestList[episodeId].name,
 				__LOCAL_QuestList[episodeId].imagefile,
 				getChapterIterator(episodeId,__LOCAL_QuestList)
-        elseif( tabid == 3 ) then
+        elseif( tabid == 2 ) then
 		if(__EP_QuestList[episodeId] == nil) then return nil,nil,nil,nil end
 
 		return __EP_QuestList[episodeId].id,
@@ -60,7 +60,7 @@ function queryEpisode(tabid,episodeId)
 end
 
 function queryChapter(tabid,episodeId,chapterId)
-	if( tabid == 4 ) then
+	if( tabid == 3 ) then
 		if(__LOCAL_QuestList[episodeId] == nil) then return nil,nil,nil,nil end
 		if(__LOCAL_QuestList[episodeId][chapterId] == nil) then return nil,nil,nil,nil end
 
@@ -68,7 +68,7 @@ function queryChapter(tabid,episodeId,chapterId)
 				__LOCAL_QuestList[episodeId][chapterId].id,
 				__LOCAL_QuestList[episodeId][chapterId].name,
 				getQuestIterator(episodeId,chapterId,__LOCAL_QuestList)
-	elseif( tabid == 3 ) then
+	elseif( tabid == 2 ) then
 		if(__EP_QuestList[episodeId] == nil) then return nil,nil,nil,nil end
 		if(__EP_QuestList[episodeId][chapterId] == nil) then return nil,nil,nil,nil end
 
@@ -80,7 +80,7 @@ function queryChapter(tabid,episodeId,chapterId)
 end
 
 function queryQuest(tabid,episodeId,chapterId,questId)
-	if( tabid == 4 ) then
+	if( tabid == 3 ) then
 		if(__LOCAL_QuestList[episodeId] == nil) then return nil,nil,nil,nil,nil,nil end
 		if(__LOCAL_QuestList[episodeId][chapterId] == nil) then return nil,nil,nil,nil,nil,nil end
 		if(__LOCAL_QuestList[episodeId][chapterId][questId] == nil) then return nil,nil,nil,nil,nil,nil end
@@ -91,7 +91,7 @@ function queryQuest(tabid,episodeId,chapterId,questId)
 				__LOCAL_QuestList[episodeId][chapterId][questId].name,
 				__LOCAL_QuestList[episodeId][chapterId][questId].scrfilename,
 				__LOCAL_QuestList[episodeId][chapterId][questId].questID 
-	elseif( tabid == 3 ) then
+	elseif( tabid == 2 ) then
 		if(__EP_QuestList[episodeId] == nil) then return nil,nil,nil,nil,nil,nil end
 		if(__EP_QuestList[episodeId][chapterId] == nil) then return nil,nil,nil,nil,nil,nil end
 		if(__EP_QuestList[episodeId][chapterId][questId] == nil) then return nil,nil,nil,nil,nil,nil end
@@ -156,7 +156,7 @@ function queryQuestID(tableName , questID)
 	
 	returnTable = QuestTable[tableName]
 
-	if(returnTable[questID] == nil) then return nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil end
+	if(returnTable[questID] == nil) then return nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil end
 
 	return  returnTable[questID].NPCFromName,
 		returnTable[questID].NPCFromMap,
@@ -172,9 +172,7 @@ function queryQuestID(tableName , questID)
 		returnTable[questID].PrizeItem,
 		returnTable[questID].Title,
 		returnTable[questID].Info,
-		returnTable[questID].Hunt1,
-		returnTable[questID].Hunt2,
-		returnTable[questID].Hunt3,
+		returnTable[questID].Hunt,
 		returnTable[questID].Time,
 		returnTable[questID].Lv
 end

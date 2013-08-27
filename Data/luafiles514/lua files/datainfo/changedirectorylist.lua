@@ -86,14 +86,14 @@ ChangeDirectoryList = {
   }
 }
 function ChangeDirectoryOfFiles()
-	if ChangeDirectoryList ~= nil then
-		local idx = 1
-		fileInfo = ChangeDirectoryList[idx]
-		while fileInfo do
-			c_ChangeDirectoryOfDatas(fileInfo[1], fileInfo[2], fileInfo[3])
-			idx = idx + 1
-			fileInfo = ChangeDirectoryList[idx]
-		end
-	end
+  if ChangeDirectoryList ~= nil then
+    local idx = 1
+    fileInfo = ChangeDirectoryList[idx]
+    while fileInfo do
+      c_ChangeDirectoryOfDatas(fileInfo[1], fileInfo[2], fileInfo[3])
+      idx = idx + 1
+      fileInfo = ChangeDirectoryList[idx]
+    end
+  end
 end
 ChangeDirectoryOfFiles()

@@ -11,12 +11,6 @@ LOCAL_BeginTuTorialQuest_list = {
 													scrfilename = [[BeginTutorialQuest]],
 													questID = 7472,
 												},
-												{
-													name =[[The most delicious in the world..]],
-													scrfilename = [[BeginTutorialQuest]],
-													questID = 11339,
-												},
-
 											}
 									},
 

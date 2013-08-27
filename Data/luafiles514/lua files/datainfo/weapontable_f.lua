@@ -1,13 +1,13 @@
 function ReqWeaponName(index)
-	if WeaponNameTable == nil then
-		return ""
-	end
-	local NameMsg = WeaponNameTable[index]
-	if NameMsg ~= nil then
-		return NameMsg
-	else
-		return ""
-	end
+  if WeaponNameTable == nil then
+    return ""
+  end
+  local NameMsg = WeaponNameTable[index]
+  if NameMsg ~= nil then
+    return NameMsg
+  else
+    return ""
+  end
 end
 function ReqWeaponNameByClassNum(classNum)
   if classNum == nil then
@@ -32,13 +32,13 @@ function GetRealWeaponId(weaponId)
   end
 end
 function ReqWeaponHitWaveName(index)
-	if WeaponHitWaveNameTable == nil then
-		return ""
-	end
-	local NameMsg = WeaponHitWaveNameTable[index]
-	if NameMsg ~= nil then
-		return NameMsg
-	else
-		return ""
-	end
+  if WeaponHitWaveNameTable == nil then
+    return ""
+  end
+  local NameMsg = WeaponHitWaveNameTable[index]
+  if NameMsg ~= nil then
+    return NameMsg
+  else
+    return ""
+  end
 end
