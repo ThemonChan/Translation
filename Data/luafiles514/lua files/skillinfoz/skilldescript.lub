@@ -365,7 +365,7 @@ SKILL_DESCRIPT = {
     "[Lv 7]:^77777724sp, 4.9sec cast, 7 Bolts^000000",
     "[Lv 8]:^77777726sp, 5.6sec cast, 8 Bolts^000000",
     "[Lv 9]:^77777728sp, 6.3sec cast, 9 Bolts^000000",
-    "[Lv 10}:^77777730sp, 7 sec cast, 10 Bolts^000000"
+    "[Lv 10]:^77777730sp, 7 sec cast, 10 Bolts^000000"
   },
   [SKID.MG_LIGHTNINGBOLT] = {
     "Lightning Bolt",
@@ -386,7 +386,7 @@ SKILL_DESCRIPT = {
     "[Lv 7]:^77777724sp, 4.9sec cast, 7 Bolts^000000",
     "[Lv 8]:^77777726sp, 5.6sec cast, 8 Bolts^000000",
     "[Lv 9]:^77777728sp, 6.3sec cast, 9 Bolts^000000",
-    "[Lv 10}:^77777730sp, 7 sec cast, 10 Bolts^000000"
+    "[Lv 10]:^77777730sp, 7 sec cast, 10 Bolts^000000"
   },
   [SKID.MG_THUNDERSTORM] = {
     "Thunder Storm",
@@ -12819,6 +12819,7 @@ SKILL_DESCRIPT = {
     "[Level 3] : ^777777 100% damage / 13x13 splash ^000000",
     "[Level 4] : ^777777 100% damage / 15x15 splash ^000000",
     "[Level 5] : ^777777 100% damage / Full screen splash ^000000",
+  },
   [SKID.GM_ITEM_ATKMAX] = {
     "물리 아이템 공격력 최대",
     "MAX LV : 1",
