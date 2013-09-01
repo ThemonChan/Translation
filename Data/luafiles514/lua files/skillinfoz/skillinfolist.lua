@@ -11944,5 +11944,222 @@ SKILL_INFO_LIST = {
 		_NeedSkillList = {
 			{ SKID.GN_S_PHARMACY,1 }
 		}
+	},
+	[SKID.RL_D_TAIL] = {
+		"RL_D_TAIL";
+		SkillName = "Dragon Tail",
+		MaxLv = 5, 
+		SpAmount = {60, 70, 80, 90, 100},
+		bSeperateLv = true, 
+		AttackRange = {0, 0, 0, 0, 0}, 
+		_NeedSkillList = {
+			{SKID.RL_H_MINE, 3}, 
+			{SKID.RL_C_MARKER, 1}
+		}
+	},
+
+	[SKID.RL_R_TRIP] = {
+		"RL_R_TRIP";
+		SkillName = "Round Trip",
+		MaxLv = 5, 
+		SpAmount = {40, 45, 50, 55, 60},
+		bSeperateLv = true, 
+		AttackRange = {0, 0, 0, 0, 0}, 
+		_NeedSkillList = {
+			{SKID.RL_FIRE_RAIN, 1}
+		}
+	},
+
+	[SKID.RL_RICHS_COIN] = {
+		"RL_RICHS_COIN",
+		SkillName = "Rich's Coin",
+		MaxLv = 1, 
+		SpAmount = {10}, bSeperateLv = false, 
+		AttackRange = {0}, 
+		_NeedSkillList = {
+			{SKID.GS_GLITTERING, 5}
+		}
+	}, 
+	[SKID.RL_MASS_SPIRAL] = {
+		"RL_MASS_SPIRAL";
+		SkillName = "Mass Spiral",
+		MaxLv = 5,
+		SpAmount = { 80, 84, 88, 92, 96 },
+		bSeperateLv = true,
+		AttackRange = { 15, 15, 15, 15, 15 },
+		_NeedSkillList = {
+			{ SKID.GS_PIERCINGSHOT, 1 }
+		}
+	},
+	[SKID.RL_B_TRAP] = {
+		"RL_B_TRAP";
+		SkillName = "Bind Trap",
+		MaxLv = 5,
+		SpAmount = { 30, 32, 34, 36, 38 },
+		bSeperateLv = true,
+		AttackRange = { 0, 0, 0, 0, 0 }
+	},
+	[SKID.RL_BANISHING_BUSTER] = {
+		"RL_BANISHING_BUSTER";
+		SkillName = "Banishing Buster",
+		MaxLv = 5,
+		SpAmount = { 55, 60, 65, 70, 75 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.RL_S_STORM, 1 } 
+		}
+	},
+	[SKID.RL_S_STORM] = {
+		"RL_S_STORM";
+		SkillName = "Shatter Storm",
+		MaxLv = 5,
+		SpAmount = { 55, 60, 65, 70, 75 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.GS_DISARM, 1 },
+			{ SKID.GS_DUST, 1 } 
+		}
+	},
+	[SKID.RL_SLUGSHOT] = {
+		"RL_SLUGSHOT";
+		SkillName = "Slug Shot",
+		MaxLv = 5,
+		SpAmount = { 55, 60, 65, 70, 75 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.RL_BANISHING_BUSTER, 3 } 
+		}
+	},
+	[SKID.RL_AM_BLAST] = {
+		"RL_AM_BLAST";
+		SkillName = "Anti-Material Blast",
+		MaxLv = 5,
+		SpAmount = { 80, 84, 88, 92, 96 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.RL_MASS_SPIRAL, 1 } 
+		}
+	},
+	[SKID.RL_E_CHAIN] = {
+		"RL_E_CHAIN";
+		SkillName = "Eternal Chain",
+		MaxLv = 10,
+		SpAmount = { 45, 45, 45, 45, 45, 45, 45, 45, 45, 45 },
+		bSeperateLv = true,
+		AttackRange = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+		_NeedSkillList = {
+			{ SKID.GS_CHAINACTION, 10 } 
+		}
+	},
+	[SKID.RL_QD_SHOT] = {
+		"RL_QD_SHOT";
+		SkillName = "Quick Draw Shot",
+		MaxLv = 1,
+		SpAmount = { 5 },
+		bSeperateLv = false,
+		AttackRange = { 0 },
+		_NeedSkillList = {
+			{ SKID.RL_E_CHAIN, 1 } 
+		}
+	},
+	[SKID.RL_C_MARKER] = {
+		"RL_C_MARKER";
+		SkillName = "Crimson Marker",
+		MaxLv = 1,
+		SpAmount = { 10 },
+		bSeperateLv = false,
+		AttackRange = { 11 },
+		_NeedSkillList = {
+			{ SKID.GS_INCREASING, 1 } 
+		}
+	},
+	[SKID.RL_FIREDANCE] = {
+		"RL_FIREDANCE";
+		SkillName = "Fire Dance",
+		MaxLv = 5,
+		SpAmount = { 10, 15, 20, 25, 30 },
+		bSeperateLv = true,
+		AttackRange = { 0, 0, 0, 0, 0 },
+		_NeedSkillList = {
+			{ SKID.RL_FALLEN_ANGEL, 1 } 
+		}
+	},
+	[SKID.RL_FIRE_RAIN] = {
+		"RL_FIRE_RAIN";
+		SkillName = "Fire Rain",
+		MaxLv = 5,
+		SpAmount = { 70, 70, 70, 70, 70 },
+		bSeperateLv = true,
+		AttackRange = { 3, 3, 3, 3, 3 },
+		_NeedSkillList = {
+			{ SKID.GS_GATLINGFEVER, 1 } 
+		}
+	},
+	[SKID.RL_FALLEN_ANGEL] = {
+		"RL_FALLEN_ANGEL";
+		SkillName = "Fallen Angel",
+		MaxLv = 5,
+		SpAmount = { 90, 90, 90, 90, 90 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.GS_DESPERADO, 10 } 
+		}
+	},
+	[SKID.RL_P_ALTER] = {
+		"RL_P_ALTER";
+		SkillName = "Platinum Alter",
+		MaxLv = 5,
+		SpAmount = { 20, 24, 28, 32, 36 },
+		bSeperateLv = true,
+		AttackRange = { 0, 0, 0, 0, 0 }
+	},
+	[SKID.RL_FLICKER] = {
+		"RL_FLICKER";
+		SkillName = "Flicker",
+		MaxLv = 1,
+		SpAmount = { 2 },
+		bSeperateLv = false,
+		AttackRange = { 0 },
+		_NeedSkillList = {
+			{ SKID.GS_FLING, 1 } 
+		}
+	},
+	[SKID.RL_H_MINE] = {
+		"RL_H_MINE";
+		SkillName = "Howling Mine",
+		MaxLv = 5,
+		SpAmount = { 45, 50, 55, 60, 65 },
+		bSeperateLv = true,
+		AttackRange = { 7, 8, 9, 10, 11 },
+		_NeedSkillList = {
+			{ SKID.GS_SPREADATTACK, 1 } 
+		}
+	},
+	[SKID.RL_HAMMER_OF_GOD] = {
+		"RL_HAMMER_OF_GOD";
+		SkillName = "Hammer of God",
+		MaxLv = 5,
+		SpAmount = { 70, 80, 90, 100, 110 },
+		 bSeperateLv = true,
+		AttackRange = { 7, 8, 9, 10, 11 },
+		_NeedSkillList = { 
+			{ SKID.RL_AM_BLAST, 3 }
+		}
+	},
+	[SKID.RL_HEAT_BARREL] = {
+		"RL_HEAT_BARREL";
+		SkillName = "Heat Barrel",
+		MaxLv = 5,
+		SpAmount = { 30, 40, 50, 60, 70 },
+		bSeperateLv = true,
+		AttackRange = { 0, 0, 0, 0, 0 },
+		_NeedSkillList = {
+			{ SKID.RL_FIREDANCE, 2 } 
+		}
 	}
 }
