@@ -1465,8 +1465,8 @@ Dismount Dragon#
 Dismount Magic Gear#
 I#
 Cash#
-Weapons#
 Armors#
+Weapons#
 Ammo#
 Card#
 M#
@@ -2165,7 +2165,7 @@ Moving Book#
 Move#
 Rename#
 Make Character#
-http://supportmii.com/board#
+http://ro.game.gnjoy.com/#
 (%s) Server#
 Item Merge#
 Two or more of the same type Please select an item.#
