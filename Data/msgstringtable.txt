@@ -1973,8 +1973,8 @@ Replay Option Setting#
 Enter File Name#
 Set Replay Save Data#
 Set Rec Option#
-%.1f %%Pos?:%d:%d:%d#
-%.1f %%Pos?:????#
+%.1f %%Pos¢Ñ:%d:%d:%d#
+%.1f %%Pos¢Ñ:Does not Move#
 Start#
 Stop#
 Input FileName -> Start#
@@ -2328,17 +2328,17 @@ Confirm Deal#
 Below is the total cost:#
  Zeny to complete the transaction.#
 Press buy to confirm.#
-test2#
+%.1f%% (PCRoom %.1f%% + TPLUS %.1f%% + Premium %.1f%% + %Server %.1f%%)#
 Card Book#
-test4#
-test5#
-test6#
-test7#
-test8#
-test9#
-test10#
+%d%% [ ( Basic 100%% + %sServer %d%% ) * Active %.1f ]#
+%d%% [ Basic 100%% + %sServer %d%% ]#
+This is PK region. Minors,Please leave immediately.#
+Fatigue#
+Health and gaming revenue is 100%.#
+Fatigue because it is now a guest of the gaming revenue is down 50 percent.Hope for the proper health#
+Now because it is a non-health to the health of the guests want to offline games.  If you still are online gaming revenue because the damage to the health of the game falls to 0% again after 5 hours will be restored offline.#
 Online since %d minutes#
-test12#
+Online Time: %d#
 Online since %d hours and %d minutes#
 /monsterhp : Show the hp of attacked monster. On off#
 Skills points : #
@@ -2346,44 +2346,44 @@ There is no response from the authentification server. Please try again#
 Please change your password#
 http://www.ragnarok.co.kr#
 Guest access is prohibited#
-test20#
-test21#
-test22#
-test23#
+Your System is been Shutdown, %1.2d-%1.2d-%1.2d %1.2d:%1.2d:%1.2d is the end time.#
+Selected System Shutdown is activated in your account,Time Left: %1.2d hours %1.2d minutes.#
+Replay#
+Macro#
 Webbrowser#
-test25#
+Navigation#
 UAEURL#
-test27#
-test28#
-test29#
-test30#
-test31#
-test32#
-test33#
-test34#
-test35#
-test36#
-test37#
-test38#
+Guild Information#
+Guild Level#
+Guild Name#
+Guild Mark#
+Ally Guild#
+Antagonist Guild#
+Send to Guild#
+GuildMaster Name#
+Number of Members#
+Castles Owned#
+Guild Chat Messages#
+Go to Page Charged.#
 https://gfb.gameflier.com/Billing/ingame/index_new.asp?#
 Create char#
-test41#
-test42#
-test43#
-test44#
-test45#
-test46#
-test47#
-test48#
-test49#
-test50#
-test51#
-Cart is prohibited in this area#
-test53#
-test54#
-test55#
-test56#
-test57#
+Name does not match#
+Enter the name of character#
+Sex Selection Window#
+Editing of the File Detected#
+Items obtained by opening the item is character bounded (can not move to storage). Do you want to open the box?#
+Game Settings#
+Game System#
+Game Commands#
+Game Command ON/OFF#
+Macro#
+Trading is prohibited in this Map#
+Vending is prohibited in this Map#
+In this Map,Effect of Mirace of Sun and Moon is nullified.#
+Ranking Board#
+Rank#
+Name#
+Points#
 BlackSmith#
 Alchemist#
 Taekwon#
@@ -2406,9 +2406,9 @@ Kagerou#
 Oboro#
 Select Ranking Type#
 Ranking Type#
-test80#
-test81#
-test82#
+Currently,Server is full.           ^0000ffPeople Currently Waiting : %d                    Expected Waiting Time : %dSeconds#
+Currently,Server is full.           ^0000ffPeople Currently Waiting : %d                    Expected Waiting Time : %dMinutes %d Seconds#
+CBT is not an invited user#
 ------------------- Instruction --------------------#
 1) /Navigation or /navi ex) /navi prontera 100 100 -> /navi "MAPNAME", 100, 100#
 2) /Navigation2 or /navi2 ex) /navi2 prontera 100 111 -> MAPNAME location (100 90), Scroll | Zeny | Plane (1: Enable or 0: Disable)#
@@ -2418,53 +2418,53 @@ test82#
 5) /$$ Lv20~30 monsters in that level range are placed in the output #
 1 vs 1#
 Costume#
-test92#
+%d ¹øÂ° Ä³¸¯ÅÍÀÇ Á÷¾÷ Á¤º¸°¡ ÀÌ»óÇÕ´Ï´Ù. Please contact Customer Care Center. ErrorCode(%d)#
 (%s) %d / %d#
 %s-%s(%d/%d)#
-test95#
-test96#
-test97#
-test98#
-test99#
-test100#
-test101#
-test102#
-test103#
-test104#
-test105#
-test106#
-test107#
-test108#
-test109#
-test110#
-test111#
+Server Exceeded the maximum number of users,Cannot Connect anymore users.#
+Server Connection Failed (%d)#
+Login Timeout Permitted#
+Login Authentication Failed from Authentication Server.#
+Guild Cannot use Space in the name.#
+Hey,Hello There#
+Available Time will End on %d month %d hour %d:%d#
+You've lot of time,Play in Peace.#
+Your hours will be terminated within this week. Please Charge before termination.#
+Your hours will be terminated within 24 hours.Please Charge Quickly.#
+Current Time Left:%d hours.Charge the game for uninterrupted play.#
+Current Time Left:%d minutes.Charge the game for uninterrupted play.#
+Time Left: %d hours %d minutes#
+%d%% ( Basic 100%% + PCRoom %d%% + Premium %d%% + %sServer %d%% )#
+After %d hours %d minutes, your game will be terminated.#
+This Account is permanently Banned.#
+This Account is banned.\nTermination Time:%04d-%02d-%02d %02d:%02d #
 Monster(Tab)#
 Map(Alt)#
-test114#
-test115#
-test116#
+Product Information#
+Find Information#
+Non-Process#
 Kafra#
 (Arrival)#
 Mob)%s:%s(%s)#
-test120#
-test121#
-test122#
-test123#
-test124#
-test125#
+Distribution:%s#
+Very Plenty#
+Plenty#
+Normal#
+Low#
+Very Low#
 The bank is not avaible. Please try again in a few minutes.#
-test128#
-test129#
-test130#
-test131#
-test132#
+Bank balance is low.#
+You don't have enough zeny#
+Minimum Deposit Amount: 1 zeny#
+Minimum Withdrawal Amount: 1 zeny#
+You cannot hold more than 2.1 billion#
 your account is lock by mobil otp#
 MOTP auth fail#
-test135#
-test136#
+For %d minutes,Job Experience obtained from monster is increased by %d%%#
+Current Zeny: %s Zeny#
 Zeny#
-test138#
-test139#
-test140#
+The Maximum amount is 2.1Billion zeny#
+Your bullet is not enough#
+10¾ïÁ¦´Ï ÀÌ»ó ÀÔ·ÂÇÏ¼Åµµ °¡°ÝÀº 1Billion Á¦´Ï·Î ÆÇ¸ÅµË´Ï´Ù.#
 AuthTicket is Not Valid#
 ErrorCode : %d, ErrorValue : %d#
