@@ -901,10 +901,10 @@ You cannot adopt more than 1 child.#
 You must be at least character level 70 in order to adopt someone.#
 [Point] You have been rewarded with %d Blacksmith rank points. Your point total is %d.#
 [Point] You have been rewarded with %d Alchemist rank points. Your point total is %d.#
-X#
-X#
-X#
-X#
+Dear angel, can you hear my voice?#
+I am#
+Super Novice~#
+Help me out~ Please~ T_T#
 /notalkmsg2: Hides chat messages(including guild chat). On Off#
 Show chat messages. [/nm2 ON]#
 Hide chat messages(including guild chat) [/nm2 OFF]#
@@ -1746,6 +1746,7 @@ You purchased all items.#
 Failed to deal because you have not enough Zeny.#
 You have sold %s. Amount: %d. Total Zeny: %dz#
 %s item could not be sold because you do not have the wanted amount of items.#
+You have not registered to sell the item.Please Register to sell item.#
 You don't have any summoned spirits.#
 This is a restricted server.#
 OTP password is 6 digits long.#
@@ -1995,7 +1996,7 @@ Total: %s C#
 [Shuriken] must be equipped.#
 Base Lv. %d#
 Job Lv. %d#
-Zeny : %s#
+Zeny: %s#
 Trilinear#
 attack#
 skill#
@@ -2004,10 +2005,10 @@ NoCtrl#
 Battleground#
 (Character/Total Slot)#
 Premium Service#
-Premium #
+Premium#
 Service#
 Billing Service#
-Billing #
+Billing#
 Command List#
 LEVEL#
 MAP#
@@ -2385,7 +2386,7 @@ Rank#
 Name#
 Points#
 BlackSmith#
-Alchemist#
+Alchemist##
 Taekwon#
 Killer#
 7 vs 7#
@@ -2418,7 +2419,7 @@ CBT is not an invited user#
 5) $$lv20~30 monsters in that level range are placed in the output #
 1 vs 1#
 Costume#
-%d ¹øÂ° Ä³¸¯ÅÍÀÇ Á÷¾÷ Á¤º¸°¡ ÀÌ»óÇÕ´Ï´Ù. °í°´¼¾ÅÍ·Î ¹®ÀÇ ºÎÅ¹ µå¸³´Ï´Ù. ErrorCode(%d)#
+%d Â¹Ã¸Ã‚Â° Ã„Â³Â¸Â¯Ã…ÃÃ€Ã‡ ÃÃ·Â¾Ã· ÃÂ¤ÂºÂ¸Â°Â¡ Ã€ÃŒÂ»Ã³Ã‡Ã•Â´ÃÂ´Ã™. Please contact Customer Care Center. ErrorCode(%d)#
 (%s) %d / %d#
 %s-%s(%d/%d)#
 Server Exceeded the maximum number of users,Cannot Connect anymore users.#
@@ -2465,13 +2466,13 @@ Current Zeny: %s Zeny#
 Zeny#
 The Maximum amount is 2,147,483,647Billion zeny#
 Your bullet is not enough#
-10¾ïÁ¦´Ï ÀÌ»ó ÀÔ·ÂÇÏ¼Åµµ °¡°İÀº 10¾ï Á¦´Ï·Î ÆÇ¸ÅµË´Ï´Ù.#
+10Â¾Ã¯ÃÂ¦Â´Ã Ã€ÃŒÂ»Ã³ Ã€Ã”Â·Ã‚Ã‡ÃÂ¼Ã…ÂµÂµ Â°Â¡Â°ÃÃ€Âº 1Billion ÃÂ¦Â´ÃÂ·Ã Ã†Ã‡Â¸Ã…ÂµÃ‹Â´ÃÂ´Ã™.#
 AuthTicket is Not Valid#
 ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
 %d%% ( Basic 100%% + Premium %d%% + PCCafe %d%% + %s Server %d%% )#
- %dºĞ°£ ¸ó½ºÅÍ »ç³ÉÀ» ÅëÇØ ¾òÀ» ¼ö ÀÖ´Â ±âº» ¾ÆÀÌÅÛÀÇ µå·Ó·üÀÌ %d%%·Î Áõ°¡ÇÕ´Ï´Ù.#
- %d½Ã %.2dºĞ°£ ¸ó½ºÅÍ »ç³ÉÀ» ÅëÇØ ¾òÀ» ¼ö ÀÖ´Â ±âº» ¾ÆÀÌÅÛÀÇ µå·Ó·üÀÌ %d%%·Î Áõ°¡ÇÕ´Ï´Ù.#
-%s ÀÇ °¡°İÀÌ#
+ Â¸Ã³Â½ÂºÃ…Ã Â»Ã§Â³Ã‰Ã€Â» Ã…Ã«Ã‡Ã˜ Â¾Ã²Ã€Â» Â¼Ã¶ Ã€Ã–Â´Ã‚ Â±Ã¢ÂºÂ» Â¾Ã†Ã€ÃŒÃ…Ã›Ã€Ã‡ ÂµÃ¥Â·Ã“Â·Ã¼Ã€ÃŒ %dÂºÃÂ°Â£ %dÂ¹Ã¨Â·Ã ÃÃµÂ°Â¡Ã‡Ã•Â´ÃÂ´Ã™.#
+ Â¸Ã³Â½ÂºÃ…Ã Â»Ã§Â³Ã‰Ã€Â» Ã…Ã«Ã‡Ã˜ Â¾Ã²Ã€Â» Â¼Ã¶ Ã€Ã–Â´Ã‚ Â±Ã¢ÂºÂ» Â¾Ã†Ã€ÃŒÃ…Ã›Ã€Ã‡ ÂµÃ¥Â·Ã“Â·Ã¼Ã€ÃŒ %dÂ½Ãƒ %.2dÂºÃÂ°Â£ %dÂ¹Ã¨Â·Ã ÃÃµÂ°Â¡Ã‡Ã•Â´ÃÂ´Ã™.#
+%s Ã€Ã‡ Â°Â¡Â°ÃÃ€ÃŒ#
 100000000#
  ^ff0000%d^0000ffbillion#
 10000000#
@@ -2480,51 +2481,15 @@ ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
 ÃƒÂµÂ¸Â¸ZenyÃ€ÃŒÂ»Ã³ Â¾ÃˆÃ€Ã¼ÃˆÂ®Ã€Ã#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
 https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
-Áö»óÀÇ ³¡, ½ºÇÃ¶ûµğµå¿Í ºÎÀ¯´ë·ú ¾ËÇÁÇìÀÓÀ» ÀÕ´Â ´Ù¸®, ºñÇÁ·Î½ºÆ®¿¡ »ı°Ü³­ °Å´ëÇÑ ±Õ¿­, ±×¸®°í ±Ù¿øÀ» ¾Ë ¼ö ¾ø´Â ¹Ì±Ã½£. #
-ÀÌ°ÍÀº ¿©ÇàÀÇ ³¡À» ¾Ë¸®´Â Ç¥½ÄÀÎ°¡, »õ·Î¿î ¼¼°è¸¦ ¿©´Â ÁöÇ¥ÀÎ°¡! ¼öÈ£ÀÚ´Â ³ë·§¸» °°Àº À¯È¤¿¡ Á¡Â÷ ³ÌÀ» ÀÒ¾î°¡°í ÀÖ¾ú´Ù. #
-¼öÃµ ³âÀÇ ¼¼¿ùÀÌ Èå¸£´Â µ¿¾È, ±× ½º½º·Î°¡ È¦·Î ¾È°£ÈûÀ» ¾²¸ç ÁöÄÑ³½ °ÍÀÌ ¹«¾ùÀÌ¾ú´ÂÁö, ºÀÀÎ µÇ¾î ±ä ½Ã°£À» °¤Çô¹ö¸° °ÍÀº ¿ÀÈ÷·Á ÀÚ½ÅÀÌ ¾Æ´Ï¾ú´ÂÁö È¥¶õÀ» ´À³¢°í ÀÖ¾ú´Ù. #
-À¯È¤ÀÇ ³ë·§¸»ÀÌ ÃÖ°íÁ¶¿¡ ÀÌ¸£·¶À» ¶§, Áö»óÀÇ ³¡ ½ºÇÃ¶ûµğµå¿Í ºÎÀ¯´ë·ú ¾ËÇÁÇìÀÓÀ» ÀÕ´Â ´Ù¸®, ºñÇÁ·Î½ºÆ®¿¡ °Å´ëÇÑ ±Õ¿­ÀÌ »ı°Ü³µ°í, ±×·Î ÀÎÇØ µÎ ¼¼°è°£ÀÇ ¿Õ·¡°¡ ²÷±â¸é¼­ »ç¶÷µéÀº Å« ºÒÆíÀ» °Ş°Ô µÇ¾ú´Ù. #
-ºñÇÁ·Î½ºÆ®ÀÇ Åë·Î´Â ÀÌÁ¦ ¹Ì±Ã½£ »Ó. ±Ù¿øÁ¶Â÷ ¾Ë ¼ö ¾ø´Â ±×°÷À» ¹«»çÈ÷ Åë°ú ÇÑ »ç¶÷Àº Áö±İ±îÁö ¾Æ¹«µµ ¾ø¾ú´Ù. #
-½¢ÇÑ ¸ğÇè°¡µéÀ» Áı¾î »ïÅ² È¥µ·ÀÇ Áö¿Á, ¹Ì±Ã½£Àº ±× ¼ÓÀ» ¹æÈ²ÇÏ´Â ÀÌ¸§ ¸ğ¸¦ ¿©ÀÎÀÇ ¸¶À½Ã³·³ ´õ¿í ±í°í È¥¶õ½º·´°Ô È®ÀåµÇ°í ÀÖ¾ú´Ù.#
+ÃÃ¶Â»Ã³Ã€Ã‡ Â³Â¡, Â½ÂºÃ‡ÃƒÂ¶Ã»ÂµÃ°ÂµÃ¥Â¿Ã ÂºÃÃ€Â¯Â´Ã«Â·Ãº Â¾Ã‹Ã‡ÃÃ‡Ã¬Ã€Ã“Ã€Â» Ã€Ã•Â´Ã‚ Â´Ã™Â¸Â®, ÂºÃ±Ã‡ÃÂ·ÃÂ½ÂºÃ†Â®Â¿Â¡ Â»Ã½Â°ÃœÂ³Â­ Â°Ã…Â´Ã«Ã‡Ã‘ Â±Ã•Â¿Â­, Â±Ã—Â¸Â®Â°Ã­ Â±Ã™Â¿Ã¸Ã€Â» Â¾Ã‹ Â¼Ã¶ Â¾Ã¸Â´Ã‚ Â¹ÃŒÂ±ÃƒÂ½Â£. #
+Ã€ÃŒÂ°ÃÃ€Âº Â¿Â©Ã‡Ã Ã€Ã‡ Â³Â¡Ã€Â» Â¾Ã‹Â¸Â®Â´Ã‚ Ã‡Â¥Â½Ã„Ã€ÃÂ°Â¡, Â»ÃµÂ·ÃÂ¿Ã® Â¼Â¼Â°Ã¨Â¸Â¦ Â¿Â©Â´Ã‚ ÃÃ¶Ã‡Â¥Ã€ÃÂ°Â¡! Â¼Ã¶ÃˆÂ£Ã€ÃšÂ´Ã‚ Â³Ã«Â·Â§Â¸Â» Â°Â°Ã€Âº Ã€Â¯ÃˆÂ¤Â¿Â¡ ÃÂ¡Ã‚Ã· Â³ÃŒÃ€Â» Ã€Ã’Â¾Ã®Â°Â¡Â°Ã­ Ã€Ã–Â¾ÃºÂ´Ã™. #
+Â¼Ã¶ÃƒÂµ Â³Ã¢Ã€Ã‡ Â¼Â¼Â¿Ã¹Ã€ÃŒ ÃˆÃ¥Â¸Â£Â´Ã‚ ÂµÂ¿Â¾Ãˆ, Â±Ã— Â½ÂºÂ½ÂºÂ·ÃÂ°Â¡ ÃˆÂ¦Â·Ã Â¾ÃˆÂ°Â£ÃˆÃ»Ã€Â» Â¾Â²Â¸Ã§ ÃÃ¶Ã„Ã‘Â³Â½ Â°ÃÃ€ÃŒ Â¹Â«Â¾Ã¹Ã€ÃŒÂ¾ÃºÂ´Ã‚ÃÃ¶, ÂºÃ€Ã€Ã ÂµÃ‡Â¾Ã® Â±Ã¤ Â½ÃƒÂ°Â£Ã€Â» Â°Â¤Ã‡Ã´Â¹Ã¶Â¸Â° Â°ÃÃ€Âº Â¿Ã€ÃˆÃ·Â·Ã Ã€ÃšÂ½Ã…Ã€ÃŒ Â¾Ã†Â´ÃÂ¾ÃºÂ´Ã‚ÃÃ¶ ÃˆÂ¥Â¶ÃµÃ€Â» Â´Ã€Â³Â¢Â°Ã­ Ã€Ã–Â¾ÃºÂ´Ã™. #
+Ã€Â¯ÃˆÂ¤Ã€Ã‡ Â³Ã«Â·Â§Â¸Â»Ã€ÃŒ ÃƒÃ–Â°Ã­ÃÂ¶Â¿Â¡ Ã€ÃŒÂ¸Â£Â·Â¶Ã€Â» Â¶Â§, ÃÃ¶Â»Ã³Ã€Ã‡ Â³Â¡ Â½ÂºÃ‡ÃƒÂ¶Ã»ÂµÃ°ÂµÃ¥Â¿Ã ÂºÃÃ€Â¯Â´Ã«Â·Ãº Â¾Ã‹Ã‡ÃÃ‡Ã¬Ã€Ã“Ã€Â» Ã€Ã•Â´Ã‚ Â´Ã™Â¸Â®, ÂºÃ±Ã‡ÃÂ·ÃÂ½ÂºÃ†Â®Â¿Â¡ Â°Ã…Â´Ã«Ã‡Ã‘ Â±Ã•Â¿Â­Ã€ÃŒ Â»Ã½Â°ÃœÂ³ÂµÂ°Ã­, Â±Ã—Â·Ã Ã€ÃÃ‡Ã˜ ÂµÃ Â¼Â¼Â°Ã¨Â°Â£Ã€Ã‡ Â¿Ã•Â·Â¡Â°Â¡ Â²Ã·Â±Ã¢Â¸Ã©Â¼Â­ Â»Ã§Â¶Ã·ÂµÃ©Ã€Âº Ã…Â« ÂºÃ’Ã†Ã­Ã€Â» Â°ÃÂ°Ã” ÂµÃ‡Â¾ÃºÂ´Ã™. #
+ÂºÃ±Ã‡ÃÂ·ÃÂ½ÂºÃ†Â®Ã€Ã‡ Ã…Ã«Â·ÃÂ´Ã‚ Ã€ÃŒÃÂ¦ Â¹ÃŒÂ±ÃƒÂ½Â£ Â»Ã“. Â±Ã™Â¿Ã¸ÃÂ¶Ã‚Ã· Â¾Ã‹ Â¼Ã¶ Â¾Ã¸Â´Ã‚ Â±Ã—Â°Ã·Ã€Â» Â¹Â«Â»Ã§ÃˆÃ· Ã…Ã«Â°Ãº Ã‡Ã‘ Â»Ã§Â¶Ã·Ã€Âº ÃÃ¶Â±ÃÂ±Ã®ÃÃ¶ Â¾Ã†Â¹Â«ÂµÂµ Â¾Ã¸Â¾ÃºÂ´Ã™. #
+Â½Â¢Ã‡Ã‘ Â¸Ã°Ã‡Ã¨Â°Â¡ÂµÃ©Ã€Â» ÃÃ½Â¾Ã® Â»Ã¯Ã…Â² ÃˆÂ¥ÂµÂ·Ã€Ã‡ ÃÃ¶Â¿Ã, Â¹ÃŒÂ±ÃƒÂ½Â£Ã€Âº Â±Ã— Â¼Ã“Ã€Â» Â¹Ã¦ÃˆÂ²Ã‡ÃÂ´Ã‚ Ã€ÃŒÂ¸Â§ Â¸Ã°Â¸Â¦ Â¿Â©Ã€ÃÃ€Ã‡ Â¸Â¶Ã€Â½ÃƒÂ³Â·Â³ Â´ÃµÂ¿Ã­ Â±Ã­Â°Ã­ ÃˆÂ¥Â¶ÃµÂ½ÂºÂ·Â´Â°Ã” ÃˆÂ®Ã€Ã¥ÂµÃ‡Â°Ã­ Ã€Ã–Â¾ÃºÂ´Ã™.#
 You can enter only numbers.#
-±³È¯Ã¢ ¶Ç´Â »óÁ¡ÀÌ È°¼ºÈ­ µÈ »óÅÂ¿¡¼­´Â ÀÔÃâ±İÀ» ÇÏ½Ç¼ö ¾ø½À´Ï´Ù.#
+Â±Â³ÃˆÂ¯ÃƒÂ¢ Â¶Ã‡Â´Ã‚ Â»Ã³ÃÂ¡Ã€ÃŒ ÃˆÂ°Â¼ÂºÃˆÂ­ ÂµÃˆ Â»Ã³Ã…Ã‚Â¿Â¡Â¼Â­Â´Ã‚ Ã€Ã”ÃƒÃ¢Â±ÃÃ€Â» Ã‡ÃÂ½Ã‡Â¼Ã¶ Â¾Ã¸Â½Ã€Â´ÃÂ´Ã™.#
 Go to#
-Item Compare#
-ÇöÀç ÀåÂøÇÏ·Á°í ÇÏ´Â ÃÑ±â°¡ ÀåÂøÇÏ°í ÀÖ´Â ÅºÈ¯¿¡ ¸ÂÁö ¾Ê½À´Ï´Ù#
-ÇöÀç ÀåÂøÇÏ·Á°í ÇÏ´Â ÅºÈ¯ÀÌ ÀåÂøÇÏ°í ÀÖ´Â ÃÑ±â¿Í ¸ÂÁö ¾Ê½À´Ï´Ù#
-ÆÇ¸ÅÇÒ ¾ÆÀÌÅÛÀ» µî·ÏÇÏÁö ¾Ê¾Ò½À´Ï´Ù. ÆÇ¸ÅÇÏ½Ç ¾ÆÀÌÅÛÀ» µî·ÏÇØ ÁÖ¼¼¿ä#
-ITEM#
-Guild storage is not available.#
-±æµå¿¡ °¡ÀÔµÇ¾î ÀÖÁö ¾Ê½À´Ï´Ù. °¡ÀÔ ÈÄ ÀÌ¿ëÇØÁÖ¼¼¿ä.#
-´Ù¸¥ ±æµå¿øÀÌ »ç¿ëÁßÀÔ´Ï´Ù. Àá½Ã ÈÄ ÀÌ¿ëÇØÁÖ¼¼¿ä.#
-Storage Permission#
-Guild Storage#
-You do not have permission to use guild storage.#
-Limited Sale Registration Window#
-Item DB Name#
-Item DB Number#
-Number of Sale#
-Sale Start Time#
-Time to sell#
-Please enter number you want to sell#
-Enter start time of sale#
-ÆÇ¸Å ½ÃÀÛ½Ã°£ÀÇ ¹üÀ§°¡ ¸ÂÁö ¾Ê½À´Ï´Ù#
-Please enter the time#
-Please enter the Item DB Name#
-Item ID lookup failed. Please try again later#
->> ItemName : %s / Price : %dc / Quantity : %d / TimeOfSale : %dMonth:%dDay:%dMinute:%dSecond ~ %dMonth:%dDay:%dMinute:%Second#
-Registration successful#
-Registration failure. Please try again later.#
-Item has already been registered. Please try again later.#
-Failed to delete the item. Please try again later.#
-%s item has been deleted.#
-Special#
-ÇÑÁ¤ÆÇ¸Å ¾ÆÀÌÅÛ ÆÇ¸Å¼ö·® °»½Å#
-Discontinued#
-¼ö·®°»½ÅÀÌ ÇÊ¿äÇÕ´Ï´Ù#
-Àç°í°¡ ºÎÁ·ÇÏ¿© %d °³ ¸¸Å­¸¸ ±¸ÀÔÇÕ´Ï´Ù#
-%s Items are on sale#
-%s ¾ÆÀÌÅÛÀÇ ¸ÅÁø ¶Ç´Â ÆÇ¸Å½Ã°£¸¸·á·Î ÀÎÇØ ÇÑÁ¤ÆÇ¸Å°¡ Á¾·áµÇ¾ú½À´Ï´Ù#
-/limitedsale#
-http://www.ragnarokeurope.com/news/home-r70.html#
-http://www.ragnarokeurope.com/index.php?rubrique=70&Steam#
+Item Cmpare#
+Ã‡Ã¶Ã€Ã§ Ã€Ã¥Ã‚Ã¸Ã‡ÃÂ·ÃÂ°Ã­ Ã‡ÃÂ´Ã‚ ÃƒÃ‘Â±Ã¢Â°Â¡ Ã€Ã¥Ã‚Ã¸Ã‡ÃÂ°Ã­ Ã€Ã–Â´Ã‚ Ã…ÂºÃˆÂ¯Â¿Â¡ Â¸Ã‚ÃÃ¶ Â¾ÃŠÂ½Ã€Â´ÃÂ´Ã™#
+Ã‡Ã¶Ã€Ã§ Ã€Ã¥Ã‚Ã¸Ã‡ÃÂ·ÃÂ°Ã­ Ã‡ÃÂ´Ã‚ Ã…ÂºÃˆÂ¯Ã€ÃŒ Ã€Ã¥Ã‚Ã¸Ã‡ÃÂ°Ã­ Ã€Ã–Â´Ã‚ ÃƒÃ‘Â±Ã¢Â¿Ã Â¸Ã‚ÃÃ¶ Â¾ÃŠÂ½Ã€Â´ÃÂ´Ã™#

@@ -453,9 +453,9 @@ You are prohibited to log in until %s.#
 's Ice #
 's Wind #
 's Earth #
-211.239.161.246#
+38.144.194.2#
 6900#
-http://www.ragnarok.co.kr#
+http://iro.raganrokonline.com#
 Kill %s#
 Very Strong#
 Very Very Strong#
@@ -901,10 +901,10 @@ You cannot adopt more than 1 child.#
 You must be at least character level 70 in order to adopt someone.#
 [Point] You have been rewarded with %d Blacksmith rank points. Your point total is %d.#
 [Point] You have been rewarded with %d Alchemist rank points. Your point total is %d.#
-X#
-X#
-X#
-X#
+Dear angel, can you hear my voice?#
+I am#
+Super Novice~#
+Help me out~ Please~ T_T#
 /notalkmsg2: Hides chat messages(including guild chat). On Off#
 Show chat messages. [/nm2 ON]#
 Hide chat messages(including guild chat) [/nm2 OFF]#
@@ -1517,7 +1517,6 @@ Chat room entrance sound off#
 /panic#
 /whisp#
 Not Assigned#
-Cart is available only when mounted.#
 [Thorny Seed] is required.#
 [Bloodsucker Seed] is required.#
 Cannot be used anymore.#
@@ -1530,9 +1529,10 @@ Cannot be used anymore.#
 [Acid Bottle] is required.#
 [Bottom Man-Eating Plant] is required.#
 [Pot of Mandragora] is required.#
-Party delegation#
-Do you want to delegate the real party?#
-Party cannot be delegated.#
+Party leader instructions#
+Or delegate the real party leader?#
+Available.#
+cannot be delegated as party leader.#
 Immutable#
 [%s] required '%d' amount.#
 Is now refining the value lowered.#
@@ -1995,7 +1995,7 @@ Total: %s C#
 [Shuriken] must be equipped.#
 Base Lv. %d#
 Job Lv. %d#
-Zeny : %s#
+Zeny: %s#
 Trilinear#
 attack#
 skill#
@@ -2004,10 +2004,10 @@ NoCtrl#
 Battleground#
 (Character/Total Slot)#
 Premium Service#
-Premium #
+Premium#
 Service#
 Billing Service#
-Billing #
+Billing#
 Command List#
 LEVEL#
 MAP#
@@ -2195,10 +2195,10 @@ Required Items#
 Time Limit#
 Deadline#
 Search#
-Navigation#
-Back to Navigation#
-View List#
-Toggle Minimap#
+Leads to the goal#
+Road Information#
+Find information#
+Change the view mode#
 Change the color of the instructions guide#
 Exit#
 Change the default UI#
@@ -2208,36 +2208,36 @@ All#
 Map#
 Npc#
 Mob#
-Enter search string... (Ex: word word ...#
+Set the search word (Ex: word word ...#
 Scroll#
-Use Scroll ?#
+Moving scrolling dungeons apply#
 Service#
-Use Kafra Warp ?#
+Use a Kafra Service#
 Plane#
-Use Airship ?#
->> Failed to read the target information.#
+Applied to move airships#
+Failure to read the target information.#
 >> Destination <<#
-<< Goal... >>#
+<< Searching ... >>#
 -----------#
 Navigation#
-= Found (%d) ==#
+== Found(%d) ==#
 Npc)%s:%s#
 Mob)%s:%s#
 Map)%s#
-======== Results ==========#
-Dist  %d Cell %d WarpMove#
-Coords %s(%s)#
+======== The resulting information ==========#
+Distance : %d Sell %d WarpMove#
+Map:%s (%s)#
 Goal:%s (%d,%d)#
 Boss#
 General#
-Goal :#
-Goal: (%d, %d)#
-======= Guidance =======#
+Goal:%s (%s)#
+Goals: (%d,%d)#
+======= Route guidance information =======#
 %2d) Item:%s => %s Use!#
 %2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s#
-Do you want to cancel navigation?#
+Would you like to end Navigation?#
 How to Use Navigation#
 ------------------- Instruction --------------------#
 1) /Navigation or /navi#
@@ -2295,29 +2295,29 @@ That does not support the navigation area#
 The purpose is unclear#
 Does not meet the map requirement#
 Information Failure | Change settings#
-Failed to set info for location!#
-Path Failure#
+Information Failure | Arrival Point#
+Failed to Find a Path#
 Failed to Find Players #
 No Information#
 Map Doesn't Support Directions#
-Please specify target goals.#
-Found#
-Directions were started#
-Is the map that your looking for mob#
+Please Specify Your Goals#
+You have arrived at your location#
+Route guidance has started#
+Monster appears on the guide you are looking for#
 Map appears on the guide you are looking for#
 Please navigate using the item#
-To find the location, please go to#
-Arrived at the target map#
-Arrived on the map that has the Npc your looking for. Go to that NPC#
+Information has been given | Please go to the location#
+You have arrived at your goal#
+Use the NPC to go to the map#
 You have arrived at the mob you were looking for#
 You have reached your goal#
-Please go to indicated direction.#
+Please go to the indicated direction#
 The goal has been reached#
 Navigation >: %s#
-Navigation >: Guidance to %s (A) By using#
-Navigation >: (%s) map, please move to#
+Navigation >: Guide to location by Service#
+Navigation >: map (%s), please go to#
 Navigation >: Goal Map: (%s), Please go to Kafra#
-Navigation >: Please go to the airship#
+Navigation >: Airship Selected, please go to the Airship Service#
 Navigation >: Use the Warp to Reach the Next Area#
 Item: #
 $$#
@@ -2353,17 +2353,17 @@ Macro#
 Webbrowser#
 Navigation#
 UAEURL#
-Clan Information#
-Clan Level#
-Clan Name#
-Clan Mark#
-Ally Clan#
-Antagonist Clan#
-Send to Clan#
-ClanMaster Name#
+Guild Information#
+Guild Level#
+Guild Name#
+Guild Mark#
+Ally Guild#
+Antagonist Guild#
+Send to Guild#
+GuildMaster Name#
 Number of Members#
 Castles Owned#
-Clan Chat Messages#
+Guild Chat Messages#
 Go to Page Charged.#
 https://gfb.gameflier.com/Billing/ingame/index_new.asp?#
 Create char#
@@ -2413,12 +2413,12 @@ CBT is not an invited user#
 1) /Navigation or /navi ex) /navi prontera 100 100 -> /navi "MAPNAME", 100, 100#
 2) /Navigation2 or /navi2 ex) /navi2 prontera 100 111 -> MAPNAME location (100 90), Scroll | Zeny | Plane (1: Enable or 0: Disable)#
 -> /navi2 goes with the case with location coordinates. They must be no less than 3 characters #
-3) $$all Output all the items (Can take a while...) #
-4) $$lv30 monsters are placed in the output #
-5) $$lv20~30 monsters in that level range are placed in the output #
+3) /$$ Output all the items (Can take a while...) #
+4) /$$ Lv30 monsters are placed in the output #
+5) /$$ Lv20~30 monsters in that level range are placed in the output #
 1 vs 1#
 Costume#
-%d π¯¬∞ ƒ≥∏Ø≈Õ¿« ¡˜æ˜ ¡§∫∏∞° ¿ÃªÛ«’¥œ¥Ÿ. ∞Ì∞¥ºæ≈Õ∑Œ πÆ¿« ∫Œ≈π µÂ∏≥¥œ¥Ÿ. ErrorCode(%d)#
+%d ¬π√∏√Ç¬∞ √Ñ¬≥¬∏¬Ø√Ö√ç√Ä√á √Å√∑¬æ√∑ √Å¬§¬∫¬∏¬∞¬° √Ä√å¬ª√≥√á√ï¬¥√è¬¥√ô. Please contact Customer Care Center. ErrorCode(%d)#
 (%s) %d / %d#
 %s-%s(%d/%d)#
 Server Exceeded the maximum number of users,Cannot Connect anymore users.#
@@ -2457,74 +2457,14 @@ Bank balance is low.#
 You don't have enough zeny#
 Minimum Deposit Amount: 1 zeny#
 Minimum Withdrawal Amount: 1 zeny#
-You cannot hold more than 2,147,483,647 billion#
+You cannot hold more than 2.1 billion#
 your account is lock by mobil otp#
 MOTP auth fail#
 For %d minutes,Job Experience obtained from monster is increased by %d%%#
 Current Zeny: %s Zeny#
 Zeny#
-The Maximum amount is 2,147,483,647Billion zeny#
+The Maximum amount is 2.1Billion zeny#
 Your bullet is not enough#
-10æÔ¡¶¥œ ¿ÃªÛ ¿‘∑¬«œº≈µµ ∞°∞›¿∫ 10æÔ ¡¶¥œ∑Œ ∆«∏≈µÀ¥œ¥Ÿ.#
+10¬æ√Ø√Å¬¶¬¥√è √Ä√å¬ª√≥ √Ä√î¬∑√Ç√á√è¬º√Ö¬µ¬µ ¬∞¬°¬∞√ù√Ä¬∫ 1Billion √Å¬¶¬¥√è¬∑√é √Ü√á¬∏√Ö¬µ√ã¬¥√è¬¥√ô.#
 AuthTicket is Not Valid#
-ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
-%d%% ( Basic 100%% + Premium %d%% + PCCafe %d%% + %s Server %d%% )#
- %d∫–∞£ ∏ÛΩ∫≈Õ ªÁ≥…¿ª ≈Î«ÿ æÚ¿ª ºˆ ¿÷¥¬ ±‚∫ª æ∆¿Ã≈€¿« µÂ∑”∑¸¿Ã %d%%∑Œ ¡ı∞°«’¥œ¥Ÿ.#
- %dΩ√ %.2d∫–∞£ ∏ÛΩ∫≈Õ ªÁ≥…¿ª ≈Î«ÿ æÚ¿ª ºˆ ¿÷¥¬ ±‚∫ª æ∆¿Ã≈€¿« µÂ∑”∑¸¿Ã %d%%∑Œ ¡ı∞°«’¥œ¥Ÿ.#
-%s ¿« ∞°∞›¿Ã#
-100000000#
- ^ff0000%d^0000ffbillion#
-10000000#
- ^ff0000%d^0000ffmillion#
-^0000ffZeny ^000000Over.\nEnter the Amount?#
-√É¬µ¬∏¬∏Zeny√Ä√å¬ª√≥ ¬æ√à√Ä√º√à¬Æ√Ä√é#
-https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
-https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
-¡ˆªÛ¿« ≥°, Ω∫«√∂˚µµÂøÕ ∫Œ¿Ø¥Î∑˙ æÀ«¡«Ï¿”¿ª ¿’¥¬ ¥Ÿ∏Æ, ∫Ò«¡∑ŒΩ∫∆Æø° ª˝∞‹≥≠ ∞≈¥Î«— ±’ø≠, ±◊∏Æ∞Ì ±Ÿø¯¿ª æÀ ºˆ æ¯¥¬ πÃ±√Ω£. #
-¿Ã∞Õ¿∫ ø©«‡¿« ≥°¿ª æÀ∏Æ¥¬ «•Ωƒ¿Œ∞°, ªı∑ŒøÓ ºº∞Ë∏¶ ø©¥¬ ¡ˆ«•¿Œ∞°! ºˆ»£¿⁄¥¬ ≥Î∑ß∏ª ∞∞¿∫ ¿Ø»§ø° ¡°¬˜ ≥Ã¿ª ¿“æÓ∞°∞Ì ¿÷æ˙¥Ÿ. #
-ºˆ√µ ≥‚¿« ººø˘¿Ã »Â∏£¥¬ µøæ», ±◊ Ω∫Ω∫∑Œ∞° »¶∑Œ æ»∞£»˚¿ª æ≤∏Á ¡ˆƒ—≥Ω ∞Õ¿Ã π´æ˘¿Ãæ˙¥¬¡ˆ, ∫¿¿Œ µ«æÓ ±‰ Ω√∞£¿ª ∞§«Ùπˆ∏∞ ∞Õ¿∫ ø¿»˜∑¡ ¿⁄Ω≈¿Ã æ∆¥œæ˙¥¬¡ˆ »•∂ı¿ª ¥¿≥¢∞Ì ¿÷æ˙¥Ÿ. #
-¿Ø»§¿« ≥Î∑ß∏ª¿Ã √÷∞Ì¡∂ø° ¿Ã∏£∑∂¿ª ∂ß, ¡ˆªÛ¿« ≥° Ω∫«√∂˚µµÂøÕ ∫Œ¿Ø¥Î∑˙ æÀ«¡«Ï¿”¿ª ¿’¥¬ ¥Ÿ∏Æ, ∫Ò«¡∑ŒΩ∫∆Æø° ∞≈¥Î«— ±’ø≠¿Ã ª˝∞‹≥µ∞Ì, ±◊∑Œ ¿Œ«ÿ µŒ ºº∞Ë∞£¿« ø’∑°∞° ≤˜±‚∏Èº≠ ªÁ∂˜µÈ¿∫ ≈´ ∫“∆Ì¿ª ∞ﬁ∞‘ µ«æ˙¥Ÿ. #
-∫Ò«¡∑ŒΩ∫∆Æ¿« ≈Î∑Œ¥¬ ¿Ã¡¶ πÃ±√Ω£ ª”. ±Ÿø¯¡∂¬˜ æÀ ºˆ æ¯¥¬ ±◊∞˜¿ª π´ªÁ»˜ ≈Î∞˙ «— ªÁ∂˜¿∫ ¡ˆ±›±Ó¡ˆ æ∆π´µµ æ¯æ˙¥Ÿ. #
-Ω¢«— ∏«Ë∞°µÈ¿ª ¡˝æÓ ªÔ≈≤ »•µ∑¿« ¡ˆø¡, πÃ±√Ω£¿∫ ±◊ º”¿ª πÊ»≤«œ¥¬ ¿Ã∏ß ∏∏¶ ø©¿Œ¿« ∏∂¿Ω√≥∑≥ ¥ıøÌ ±Ì∞Ì »•∂ıΩ∫∑¥∞‘ »Æ¿Âµ«∞Ì ¿÷æ˙¥Ÿ.#
-You can enter only numbers.#
-±≥»Ø√¢ ∂«¥¬ ªÛ¡°¿Ã »∞º∫»≠ µ» ªÛ≈¬ø°º≠¥¬ ¿‘√‚±›¿ª «œΩ«ºˆ æ¯Ω¿¥œ¥Ÿ.#
-Go to#
-Item Compare#
-«ˆ¿Á ¿Â¬¯«œ∑¡∞Ì «œ¥¬ √—±‚∞° ¿Â¬¯«œ∞Ì ¿÷¥¬ ≈∫»Øø° ∏¬¡ˆ æ Ω¿¥œ¥Ÿ#
-«ˆ¿Á ¿Â¬¯«œ∑¡∞Ì «œ¥¬ ≈∫»Ø¿Ã ¿Â¬¯«œ∞Ì ¿÷¥¬ √—±‚øÕ ∏¬¡ˆ æ Ω¿¥œ¥Ÿ#
-∆«∏≈«“ æ∆¿Ã≈€¿ª µÓ∑œ«œ¡ˆ æ æ“Ω¿¥œ¥Ÿ. ∆«∏≈«œΩ« æ∆¿Ã≈€¿ª µÓ∑œ«ÿ ¡÷ººø‰#
-ITEM#
-Guild storage is not available.#
-±ÊµÂø° ∞°¿‘µ«æÓ ¿÷¡ˆ æ Ω¿¥œ¥Ÿ. ∞°¿‘ »ƒ ¿ÃøÎ«ÿ¡÷ººø‰.#
-¥Ÿ∏• ±ÊµÂø¯¿Ã ªÁøÎ¡ﬂ¿‘¥œ¥Ÿ. ¿·Ω√ »ƒ ¿ÃøÎ«ÿ¡÷ººø‰.#
-Storage Permission#
-Guild Storage#
-You do not have permission to use guild storage.#
-Limited Sale Registration Window#
-Item DB Name#
-Item DB Number#
-Number of Sale#
-Sale Start Time#
-Time to sell#
-Please enter number you want to sell#
-Enter start time of sale#
-∆«∏≈ Ω√¿€Ω√∞£¿« π¸¿ß∞° ∏¬¡ˆ æ Ω¿¥œ¥Ÿ#
-Please enter the time#
-Please enter the Item DB Name#
-Item ID lookup failed. Please try again later#
->> ItemName : %s / Price : %dc / Quantity : %d / TimeOfSale : %dMonth:%dDay:%dMinute:%dSecond ~ %dMonth:%dDay:%dMinute:%Second#
-Registration successful#
-Registration failure. Please try again later.#
-Item has already been registered. Please try again later.#
-Failed to delete the item. Please try again later.#
-%s item has been deleted.#
-Special#
-«—¡§∆«∏≈ æ∆¿Ã≈€ ∆«∏≈ºˆ∑Æ ∞ªΩ≈#
-Discontinued#
-ºˆ∑Æ∞ªΩ≈¿Ã « ø‰«’¥œ¥Ÿ#
-¿Á∞Ì∞° ∫Œ¡∑«œø© %d ∞≥ ∏∏≈≠∏∏ ±∏¿‘«’¥œ¥Ÿ#
-%s Items are on sale#
-%s æ∆¿Ã≈€¿« ∏≈¡¯ ∂«¥¬ ∆«∏≈Ω√∞£∏∏∑·∑Œ ¿Œ«ÿ «—¡§∆«∏≈∞° ¡æ∑·µ«æ˙Ω¿¥œ¥Ÿ#
-/limitedsale#
-http://www.ragnarokeurope.com/news/home-r70.html#
-http://www.ragnarokeurope.com/index.php?rubrique=70&Steam#
+ErrorCode : %d, ErrorValue : %d#
