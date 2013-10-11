@@ -453,9 +453,9 @@ You are prohibited to log in until %s.#
 's Ice #
 's Wind #
 's Earth #
-38.144.194.2#
+211.239.161.246#
 6900#
-http://iro.raganrokonline.com#
+http://www.ragnarok.co.kr#
 Kill %s#
 Very Strong#
 Very Very Strong#
@@ -1517,6 +1517,7 @@ Chat room entrance sound off#
 /panic#
 /whisp#
 Not Assigned#
+Cart is available only when mounted.#
 [Thorny Seed] is required.#
 [Bloodsucker Seed] is required.#
 Cannot be used anymore.#
@@ -1529,10 +1530,9 @@ Cannot be used anymore.#
 [Acid Bottle] is required.#
 [Bottom Man-Eating Plant] is required.#
 [Pot of Mandragora] is required.#
-Party leader instructions#
-Or delegate the real party leader?#
-Available.#
-cannot be delegated as party leader.#
+Party delegation#
+Do you want to delegate the real party?#
+Party cannot be delegated.#
 Immutable#
 [%s] required '%d' amount.#
 Is now refining the value lowered.#
@@ -1746,6 +1746,7 @@ You purchased all items.#
 Failed to deal because you have not enough Zeny.#
 You have sold %s. Amount: %d. Total Zeny: %dz#
 %s item could not be sold because you do not have the wanted amount of items.#
+You have not registered to sell the item.Please Register to sell item.#
 You don't have any summoned spirits.#
 This is a restricted server.#
 OTP password is 6 digits long.#
@@ -2195,10 +2196,10 @@ Required Items#
 Time Limit#
 Deadline#
 Search#
-Leads to the goal#
-Road Information#
-Find information#
-Change the view mode#
+Navigation#
+Back to Navigation#
+View List#
+Toggle Minimap#
 Change the color of the instructions guide#
 Exit#
 Change the default UI#
@@ -2208,36 +2209,36 @@ All#
 Map#
 Npc#
 Mob#
-Set the search word (Ex: word word ...#
+Enter search string... (Ex: word word ...#
 Scroll#
-Moving scrolling dungeons apply#
+Use Scroll ?#
 Service#
-Use a Kafra Service#
+Use Kafra Warp ?#
 Plane#
-Applied to move airships#
-Failure to read the target information.#
+Use Airship ?#
+>> Failed to read the target information.#
 >> Destination <<#
-<< Searching ... >>#
+<< Goal... >>#
 -----------#
 Navigation#
-== Found(%d) ==#
+= Found (%d) ==#
 Npc)%s:%s#
 Mob)%s:%s#
 Map)%s#
-======== The resulting information ==========#
-Distance : %d Sell %d WarpMove#
-Map:%s (%s)#
+======== Results ==========#
+Dist  %d Cell %d WarpMove#
+Coords %s(%s)#
 Goal:%s (%d,%d)#
 Boss#
 General#
-Goal:%s (%s)#
-Goals: (%d,%d)#
-======= Route guidance information =======#
+Goal :#
+Goal: (%d, %d)#
+======= Guidance =======#
 %2d) Item:%s => %s Use!#
 %2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s#
-Would you like to end Navigation?#
+Do you want to cancel navigation?#
 How to Use Navigation#
 ------------------- Instruction --------------------#
 1) /Navigation or /navi#
@@ -2295,29 +2296,29 @@ That does not support the navigation area#
 The purpose is unclear#
 Does not meet the map requirement#
 Information Failure | Change settings#
-Information Failure | Arrival Point#
-Failed to Find a Path#
+Failed to set info for location!#
+Path Failure#
 Failed to Find Players #
 No Information#
 Map Doesn't Support Directions#
-Please Specify Your Goals#
-You have arrived at your location#
-Route guidance has started#
-Monster appears on the guide you are looking for#
+Please specify target goals.#
+Found#
+Directions were started#
+Is the map that your looking for mob#
 Map appears on the guide you are looking for#
 Please navigate using the item#
-Information has been given | Please go to the location#
-You have arrived at your goal#
-Use the NPC to go to the map#
+To find the location, please go to#
+Arrived at the target map#
+Arrived on the map that has the Npc your looking for. Go to that NPC#
 You have arrived at the mob you were looking for#
 You have reached your goal#
-Please go to the indicated direction#
+Please go to indicated direction.#
 The goal has been reached#
 Navigation >: %s#
-Navigation >: Guide to location by Service#
-Navigation >: map (%s), please go to#
+Navigation >: Guidance to %s (A) By using#
+Navigation >: (%s) map, please move to#
 Navigation >: Goal Map: (%s), Please go to Kafra#
-Navigation >: Airship Selected, please go to the Airship Service#
+Navigation >: Please go to the airship#
 Navigation >: Use the Warp to Reach the Next Area#
 Item: #
 $$#
@@ -2353,17 +2354,17 @@ Macro#
 Webbrowser#
 Navigation#
 UAEURL#
-Guild Information#
-Guild Level#
-Guild Name#
-Guild Mark#
-Ally Guild#
-Antagonist Guild#
-Send to Guild#
-GuildMaster Name#
+Clan Information#
+Clan Level#
+Clan Name#
+Clan Mark#
+Ally Clan#
+Antagonist Clan#
+Send to Clan#
+ClanMaster Name#
 Number of Members#
 Castles Owned#
-Guild Chat Messages#
+Clan Chat Messages#
 Go to Page Charged.#
 https://gfb.gameflier.com/Billing/ingame/index_new.asp?#
 Create char#
@@ -2385,7 +2386,7 @@ Rank#
 Name#
 Points#
 BlackSmith#
-Alchemist#
+GetHalter#
 Taekwon#
 Killer#
 7 vs 7#
@@ -2413,9 +2414,9 @@ CBT is not an invited user#
 1) /Navigation or /navi ex) /navi prontera 100 100 -> /navi "MAPNAME", 100, 100#
 2) /Navigation2 or /navi2 ex) /navi2 prontera 100 111 -> MAPNAME location (100 90), Scroll | Zeny | Plane (1: Enable or 0: Disable)#
 -> /navi2 goes with the case with location coordinates. They must be no less than 3 characters #
-3) /$$ Output all the items (Can take a while...) #
-4) /$$ Lv30 monsters are placed in the output #
-5) /$$ Lv20~30 monsters in that level range are placed in the output #
+3) $$all Output all the items (Can take a while...) #
+4) $$lv30 monsters are placed in the output #
+5) $$lv20~30 monsters in that level range are placed in the output #
 1 vs 1#
 Costume#
 %d ¹øÂ° Ä³¸¯ÅÍÀÇ Á÷¾÷ Á¤º¸°¡ ÀÌ»óÇÕ´Ï´Ù. Please contact Customer Care Center. ErrorCode(%d)#
@@ -2457,14 +2458,38 @@ Bank balance is low.#
 You don't have enough zeny#
 Minimum Deposit Amount: 1 zeny#
 Minimum Withdrawal Amount: 1 zeny#
-You cannot hold more than 2.1 billion#
+You cannot hold more than 2,147,483,647 billion#
 your account is lock by mobil otp#
 MOTP auth fail#
 For %d minutes,Job Experience obtained from monster is increased by %d%%#
 Current Zeny: %s Zeny#
 Zeny#
-The Maximum amount is 2.1Billion zeny#
+The Maximum amount is 2,147,483,647Billion zeny#
 Your bullet is not enough#
 10¾ïÁ¦´Ï ÀÌ»ó ÀÔ·ÂÇÏ¼Åµµ °¡°ÝÀº 1Billion Á¦´Ï·Î ÆÇ¸ÅµË´Ï´Ù.#
 AuthTicket is Not Valid#
-ErrorCode : %d, ErrorValue : %d#
+ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
+%d%% ( Basic 100%% + Premium %d%% + PCCafe %d%% + %s Server %d%% )#
+ ¸ó½ºÅÍ »ç³ÉÀ» ÅëÇØ ¾òÀ» ¼ö ÀÖ´Â ±âº» ¾ÆÀÌÅÛÀÇ µå·Ó·üÀÌ %dºÐ°£ %d¹è·Î Áõ°¡ÇÕ´Ï´Ù.#
+ ¸ó½ºÅÍ »ç³ÉÀ» ÅëÇØ ¾òÀ» ¼ö ÀÖ´Â ±âº» ¾ÆÀÌÅÛÀÇ µå·Ó·üÀÌ %d½Ã %.2dºÐ°£ %d¹è·Î Áõ°¡ÇÕ´Ï´Ù.#
+%s ÀÇ °¡°ÝÀÌ#
+100000000#
+ ^ff0000%d^0000ffbillion#
+10000000#
+ ^ff0000%d^0000ffmillion#
+^0000ffZeny ^000000Over.\nEnter the Amount?#
+Ãµ¸¸ZenyÀÌ»ó ¾ÈÀüÈ®ÀÎ#
+https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
+https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
+Áö»óÀÇ ³¡, ½ºÇÃ¶ûµðµå¿Í ºÎÀ¯´ë·ú ¾ËÇÁÇìÀÓÀ» ÀÕ´Â ´Ù¸®, ºñÇÁ·Î½ºÆ®¿¡ »ý°Ü³­ °Å´ëÇÑ ±Õ¿­, ±×¸®°í ±Ù¿øÀ» ¾Ë ¼ö ¾ø´Â ¹Ì±Ã½£. #
+ÀÌ°ÍÀº ¿©ÇàÀÇ ³¡À» ¾Ë¸®´Â Ç¥½ÄÀÎ°¡, »õ·Î¿î ¼¼°è¸¦ ¿©´Â ÁöÇ¥ÀÎ°¡! ¼öÈ£ÀÚ´Â ³ë·§¸» °°Àº À¯È¤¿¡ Á¡Â÷ ³ÌÀ» ÀÒ¾î°¡°í ÀÖ¾ú´Ù. #
+¼öÃµ ³âÀÇ ¼¼¿ùÀÌ Èå¸£´Â µ¿¾È, ±× ½º½º·Î°¡ È¦·Î ¾È°£ÈûÀ» ¾²¸ç ÁöÄÑ³½ °ÍÀÌ ¹«¾ùÀÌ¾ú´ÂÁö, ºÀÀÎ µÇ¾î ±ä ½Ã°£À» °¤Çô¹ö¸° °ÍÀº ¿ÀÈ÷·Á ÀÚ½ÅÀÌ ¾Æ´Ï¾ú´ÂÁö È¥¶õÀ» ´À³¢°í ÀÖ¾ú´Ù. #
+À¯È¤ÀÇ ³ë·§¸»ÀÌ ÃÖ°íÁ¶¿¡ ÀÌ¸£·¶À» ¶§, Áö»óÀÇ ³¡ ½ºÇÃ¶ûµðµå¿Í ºÎÀ¯´ë·ú ¾ËÇÁÇìÀÓÀ» ÀÕ´Â ´Ù¸®, ºñÇÁ·Î½ºÆ®¿¡ °Å´ëÇÑ ±Õ¿­ÀÌ »ý°Ü³µ°í, ±×·Î ÀÎÇØ µÎ ¼¼°è°£ÀÇ ¿Õ·¡°¡ ²÷±â¸é¼­ »ç¶÷µéÀº Å« ºÒÆíÀ» °Þ°Ô µÇ¾ú´Ù. #
+ºñÇÁ·Î½ºÆ®ÀÇ Åë·Î´Â ÀÌÁ¦ ¹Ì±Ã½£ »Ó. ±Ù¿øÁ¶Â÷ ¾Ë ¼ö ¾ø´Â ±×°÷À» ¹«»çÈ÷ Åë°ú ÇÑ »ç¶÷Àº Áö±Ý±îÁö ¾Æ¹«µµ ¾ø¾ú´Ù. #
+½¢ÇÑ ¸ðÇè°¡µéÀ» Áý¾î »ïÅ² È¥µ·ÀÇ Áö¿Á, ¹Ì±Ã½£Àº ±× ¼ÓÀ» ¹æÈ²ÇÏ´Â ÀÌ¸§ ¸ð¸¦ ¿©ÀÎÀÇ ¸¶À½Ã³·³ ´õ¿í ±í°í È¥¶õ½º·´°Ô È®ÀåµÇ°í ÀÖ¾ú´Ù.#
+You can enter only numbers.#
+±³È¯Ã¢ ¶Ç´Â »óÁ¡ÀÌ È°¼ºÈ­ µÈ »óÅÂ¿¡¼­´Â ÀÔÃâ±ÝÀ» ÇÏ½Ç¼ö ¾ø½À´Ï´Ù.#
+Go to#
+Item Cmpare#
+ÇöÀç ÀåÂøÇÏ·Á°í ÇÏ´Â ÃÑ±â°¡ ÀåÂøÇÏ°í ÀÖ´Â ÅºÈ¯¿¡ ¸ÂÁö ¾Ê½À´Ï´Ù#
+ÇöÀç ÀåÂøÇÏ·Á°í ÇÏ´Â ÅºÈ¯ÀÌ ÀåÂøÇÏ°í ÀÖ´Â ÃÑ±â¿Í ¸ÂÁö ¾Ê½À´Ï´Ù#
