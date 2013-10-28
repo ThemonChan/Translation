@@ -1611,8 +1611,8 @@ You dropped %s (%d).#
 [%s] Quest - defeated [%s] progress (%d/%d)#
 The Quest %s has been removed.#
 [%s] has #
-You Acquired '%d' Experience Points#
-You Acquired '%d' Job Experience Points#
+You acquired '%d' Experience Points#
+You acquired '%d' Job Experience Points#
  gained.#
  has lost.#
 From [%s], '%d' coins were stolen.#
@@ -1624,8 +1624,8 @@ Quest Info Message Display#
 Battlefield Message Display#
 [%s] is #
 casting [%s].#
-Activate lock function.#
-Deactivate lock function.#
+Activate lock function#
+Deactivate lock function#
 [%s] has won [%s] from '%s'.#
 Swordman#
 Magician#
