@@ -2013,7 +2013,7 @@ LEVEL#
 MAP#
 JOB#
 Not Available#
-[Guardian Angel of Protection] is not available if manrepil#
+[Protection of Guardian Angel] You can't use it when you reach the highest level.#
 Do you really want to move?#
 Failed to move Char slot.#
 Character name is invalid.#
