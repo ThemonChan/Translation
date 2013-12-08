@@ -96,7 +96,7 @@ Please select a Deal Type.#
 Invalid Command#
 Leave party#
 Expel from party#
-Send Messages#
+Send Message#
 1:1 Chat#
 Information#
 Party Setup#
@@ -359,7 +359,7 @@ Are you sure that you want to leave?#
 Register as a Friend#
 Open 1:1 Chat between Friends#
 Open 1:1 Chat#
-Open 1:1 Chat not between Friends#
+Open 1:1 Chat between Strangers#
 Alarm when you recieve a 1:1 Chat#
 Are you sure that you want to expel?#
 %s has withdrawn from the guild.#
@@ -382,7 +382,7 @@ Offer Accepted#
 Your Guild is Full.#
 Send (%s) a Guild invitation#
 You haven't learned enough skills for aligning.#
-Alignning completed.#
+Aligning completed.#
 You already spent your point for today.#
 Hasn't been a month yet since you aligned this person.#
 Remember, Spamming isn't nice.#
@@ -1060,7 +1060,7 @@ Sale Status#
 Purchase Status#
 Item#
 Name#
-Current Bid / Max Bid#
+Current Bid / Buyout#
 Seller#
 Buyer#
 End Time#
@@ -1391,7 +1391,7 @@ Simple Item Shop#
 Han Coin: %d Han Coin#
 RoK Point: %d RoK Point#
 Free Cash: %d Cash#
-An user of this server cannot connect to free server#
+A user of this server cannot connect to free server#
 Your password has expired. Please log in again#
 3rd#
 This skill can't be used on that target.#
@@ -1490,9 +1490,9 @@ Unable to specify the key assigned.#
 Duplicated with ['%s']. Do you still want to change?#
 Initialization is stored in the shortcut key settings. Do you want to initialized?#
 Skill Bar#
-Window Interface#
+Interface#
 Macros#
-Windows Shortcut Key Setting#
+Shortcut Settings#
 BGM#
 Effect#
 Skin#
