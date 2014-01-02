@@ -1,6 +1,6 @@
 EP_141Quest_List = {
 					{
-						name = [[EP 14.1 Quests]],
+						name =[[EP 14.1 Mora Village]],
 						imagefile = [[ep_test_sample.bmp]],
 						list = {
 									{
@@ -47,19 +47,19 @@ EP_141Quest_List = {
 													questID = 1116,
 												},
 												{
-													name =[[Lope and Euridi - Promise of eternity.]],
+													name =[[Lope and Euridi - Promise of eternity, Ring of broken.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 1117,
 												},
 												{
-													name =[[Knights of the Neighborhood.]],
+													name =[[Knights of the Neighborhood - Curiosity for the clue.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 1118,
 												},
 											}
 									},
 									{
-										name  =	[[The Creature..]],
+										name =[[Mora village Sauna research]],
 										list = {
 												{
 													name =[[Bring me Research Tools]],
@@ -107,7 +107,7 @@ EP_141Quest_List = {
 													questID = 5023,
 												},
 												{
-													name =[[Eastern basin survey#]],
+													name =[[Eastern basin survey]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5024,
 												},
@@ -134,7 +134,7 @@ EP_141Quest_List = {
 											}
 									},
 									{
-										name  =	[[Theore's Report]],
+										name =[[Theore's Report]],
 										list = {
 												{
 													name =[[Theore's Report]],
@@ -162,27 +162,27 @@ EP_141Quest_List = {
 													questID = 11186,
 												},
 												{
-													name =[[Returning the fairy pouch]],
+													name =[[A small pouch]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11187,
 												},
 												{
-													name =[[The fairy pouch's owner]],
+													name =[[A small pouch]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11188,
 												},
 												{
-													name =[[Bifrost Supply Route]],
+													name =[[Bifrost]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11189,
 												},
 												{
-													name =[[Bifrost Supply Route]],
+													name =[[Bifrost]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11190,
 												},
 												{
-													name =[[Small Pouch]],
+													name =[[A small pouch]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11194,
 												},
@@ -197,7 +197,7 @@ EP_141Quest_List = {
 													questID = 11196,
 												},
 												{
-													name =[[Small Pouch]],
+													name =[[A small pouch]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11200,
 												},
@@ -227,17 +227,17 @@ EP_141Quest_List = {
 													questID = 11203,
 												},
 												{
-													name =[[Mora Village...]],
+													name =[[To the Mora Village...]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11192,
 												},
 												{
-													name =[[Mora Village...]],
+													name =[[To the Mora Village...]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11198,
 												},
 												{
-													name =[[Mora Village...]],
+													name =[[To the Mora Village...]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11204,
 												},
@@ -274,7 +274,7 @@ EP_141Quest_List = {
 											}
 									},
 									{
-										name  =	[[Wandering Protector]],
+										name =[[The wandering Guardian]],
 										list = {
 												{
 													name =[[Explore the Foggy Forest]],
@@ -282,19 +282,19 @@ EP_141Quest_List = {
 													questID = 7211,
 												},
 												{
-													name =[[Finding Loki]],
+													name =[[What Loki looking for]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 7212,
 												},
 												{
-													name =[[Wandering Protector]],
+													name =[[The wandering Guardian]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 7213,
 												},
 											}
 									},
 									{
-										name  =	[[Cheshire]],
+										name =[[The new days of Cheshire]],
 										list = {
 												{
 													name =[[The new days of Cheshire]],
@@ -317,14 +317,14 @@ EP_141Quest_List = {
 													questID = 7210,
 												},
 												{
-													name =[[Forget the box]],
+													name =[[Wow, seriously.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 7209,
 												},
 											}
 									},
 									{
-										name  =	[[Hunting]],
+										name =[[5 Hunting daily quests]],
 										list = {
 												{
 													name =[[Fruit-Carrying Insects]],
@@ -354,7 +354,7 @@ EP_141Quest_List = {
 											}
 									},
 									{
-										name  =	[[Materials]],
+										name =[[5 collecting daily quests]],
 										list = {
 												{
 													name =[[Material for the Preservative]],
@@ -384,7 +384,7 @@ EP_141Quest_List = {
 											}
 									},
 									{
-										name  =	[[Commodities Dealer]],
+										name =[[5 Collecting daily quests 2]],
 										list = {
 												{
 													name =[[The Latest Trend in Talismans]],
@@ -414,7 +414,7 @@ EP_141Quest_List = {
 											}
 									},
 									{
-										name  =	[[Missing Guys]],
+										name =[[10 collecting remains]],
 										list = {
 												{
 													name =[[Information on missing person Tazar]],
