@@ -240,10 +240,10 @@ Basic Information#
 The skill cannot be used with this weapon.#
 Buying %s has been failed. Out of Stock. Current Stock %d.#
 You've been disconnected due to a time gap between you and the server.#
-Please equip arrows first.#
+Please equip the proper ammunition first.#
 You can't attack or use skills because you've exceeded the Weight Limit.#
 You can't use skills because you've exceeded the Weight Limit.#
-Arrow has been equipped.#
+Ammunation has been equipped.#
 Red Gemstone required.#
 Blue Gemstone required.#
 Strength#
@@ -1517,7 +1517,7 @@ Chat room entrance sound off#
 /panic#
 /whisp#
 Not Assigned#
-Cart is available only when mounted.#
+Only available when cart is mounted.#
 [Thorny Seed] is required.#
 [Bloodsucker Seed] is required.#
 Cannot be used anymore.#
@@ -1947,7 +1947,7 @@ Failed purchase of runes, items exceed the maximum number that can be held.#
 Exceeded the number of individual items, purchase failed.#
 Purchase failed due to an unknown error.#
 Please try again later.#
-Kunayi item is only available in one state to mount.#
+Kunai must be equipped to use this skill..#
 Please enter the value of the minimum level to be recruited.#
 Jonda agency receipt of the item to the NPC is not possible. Gaining possession of the free space of the window.#
 This skill is only available in the siege.#
