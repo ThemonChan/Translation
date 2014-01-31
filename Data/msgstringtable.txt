@@ -1816,7 +1816,7 @@ You can purchase up to 10 items.#
 Some items could not be purchased.#
 Enter your birthday (e.g: 20101126)#
 Now Logging Out.#
-A database error has occured.#
+A database error has occurred.#
 Please leave your guild first in order to remove your character.#
 Please leave your party first in order to remove your character.#
 You cannot delete this character because the delete time has not expired yet.#
@@ -2481,12 +2481,12 @@ The price of %s#
 Safety check more than 10million Zeny#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
 https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
-The end of the earth, Alf H. Splendide is a bridge between the continents and the rich, huge cracks emerging in Bifrost, and you do not know the source of the labyrinth forest#
+A giant crevice appeared in Bifrost, the bridge between Splendide, the end of the world and the floating continent of Alfheim, and you do not know the source of the labyrinth forest.#
 This is a marker indicating the end of the trip, a new world is opening indicators! Guardian, such as the lyrics to the temptation was gradually losing the soul.#
-While flowing thousands of years, struggling alone with himself writes that what the jikyeonaen, sealed trapped a long time it was not from a rather confused himself was feeling. #
-Lyrics of temptation when the peak is reached, the end of the earth Alf H. Splendide is a bridge between the continent and the rich, huge cracks in Bifrost woke born, thereby breaking the traffic between the two worlds as was put to inconvenience people. #
-Now, as the forest labyrinth passage of Bifrost. Even there, the completion of the source is unknown until now there was no one who has passed. #
-Swallowed countless adventurers to put a hell of confusion, wandering in the forest labyrinth of nowhere, like the heart of a woman was being extend deeper confusion. #
+For thousands of years, a mysterious melody has mesmerized the guardian. After a millennia of slumber, the guardian became confused about what he had been protecting all these years, and began to suspect that he might be the one who has been sealed and hidden away.#
+When the melody reached its peak, a giant crevice appeared in Bifrost, the bridge between Splendide, the end of the world and the floating continent of Alfheim. As a result, the two worlds were cut off from each other, causing a big problem for the people.#
+Now, the only way to get to Bifrost is through the Labyrinth Forest. Nobody knows how the forest came to exist, and nobody has ever come out of it alive...#
+Swallowed countless adventurers to put a hell of confusion, wandering in the forest labyrinth of nowhere, like the heart of a woman was being extend deeper confusion.#
 You can enter only numbers.#
 Exchange or store window is active and can not register the withdrawal.#
 Go to#
