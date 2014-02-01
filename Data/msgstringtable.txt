@@ -243,7 +243,7 @@ You've been disconnected due to a time gap between you and the server.#
 Please equip the proper ammunition first.#
 You can't attack or use skills because you've exceeded the Weight Limit.#
 You can't use skills because you've exceeded the Weight Limit.#
-Ammunation has been equipped.#
+Ammunition has been equipped.#
 Red Gemstone required.#
 Blue Gemstone required.#
 Strength#
