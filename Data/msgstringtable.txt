@@ -1313,8 +1313,8 @@ Incorrect or nonexistent ID.#
 Do you really want to purchase these items? You will spend %d Regular Cash Points and %d Free Cash Points.#
 %d hour(s) has passed.#
 %d hour(s) %d minute(s) has passed.#
-Please stop playing the game, and take a break. Exp and other features will be reduced to 50%.#
-Please stop playing the game since you'll need to rest. Exp and other features will be fixed to 0%.#
+Please stop playing the game, and take a break. Exp and other features will be reduced to 50%%.#
+Please stop playing the game since you'll need to rest. Exp and other features will be fixed to 0%%.#
 Quest List#
 RO Shop#
 Memorial Dungeon, '%s' is booked.#
@@ -1921,11 +1921,11 @@ Next attack time: #
 When died#
 When invited to a party#
 Pickup Item#
-Over 85% Weight#
+Over 85%% Weight#
 Any work in progress (NPC dialog, manufacturing ...) quit and try again.#
-Monster Job hunting experience that you can get through the doubling of %d is %.2 f minutes.#
+Monster Job hunting experience that you can get through the doubling of %d is %.2f minutes.#
 SaveData_ExMacro %d#
-Settings for [%s]are stored in.#
+Settings for [%s] are stored in.#
 Security level#
 The current character is a party or join the guild can not be deleted.#
 Objects can be used only near the wall.#
@@ -2335,7 +2335,7 @@ Card Book#
 %d%% [ Basic 100%% + %sServer %d%% ]#
 This is PK region. Minors,Please leave immediately.#
 Fatigue#
-Health and gaming revenue is 100%.#
+Health and gaming revenue is 100%%.#
 Fatigue because it is now a guest of the gaming revenue is down 50 percent.Hope for the proper health#
 Now because it is a non-health to the health of the guests want to offline games.Â  If you still are online gaming revenue because the damage to the health of the game falls to 0% again after 5 hours will be restored offline.#
 Online since %d minutes#
