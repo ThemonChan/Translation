@@ -382,7 +382,7 @@ Offer Accepted#
 Your Guild is Full.#
 Send (%s) a Guild invitation#
 You haven't learned enough skills for aligning.#
-Aligning completed.#
+Alignning completed.#
 You already spent your point for today.#
 Hasn't been a month yet since you aligned this person.#
 Remember, Spamming isn't nice.#
@@ -1391,7 +1391,7 @@ Simple Item Shop#
 Han Coin: %d Han Coin#
 RoK Point: %d RoK Point#
 Free Cash: %d Cash#
-A user of this server cannot connect to free server#
+An user of this server cannot connect to free server#
 Your password has expired. Please log in again#
 3rd#
 This skill can't be used on that target.#

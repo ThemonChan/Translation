@@ -96,7 +96,7 @@ Please select a Deal Type.#
 Invalid Command#
 Leave party#
 Expel from party#
-Send Messages#
+Send Message#
 1:1 Chat#
 Information#
 Party Setup#
@@ -240,10 +240,10 @@ Basic Information#
 The skill cannot be used with this weapon.#
 Buying %s has been failed. Out of Stock. Current Stock %d.#
 You've been disconnected due to a time gap between you and the server.#
-Please equip arrows first.#
+Please equip the proper ammunition first.#
 You can't attack or use skills because you've exceeded the Weight Limit.#
 You can't use skills because you've exceeded the Weight Limit.#
-Arrow has been equipped.#
+Ammunition has been equipped.#
 Red Gemstone required.#
 Blue Gemstone required.#
 Strength#
@@ -359,7 +359,7 @@ Are you sure that you want to leave?#
 Register as a Friend#
 Open 1:1 Chat between Friends#
 Open 1:1 Chat#
-Open 1:1 Chat not between Friends#
+Open 1:1 Chat between Strangers#
 Alarm when you recieve a 1:1 Chat#
 Are you sure that you want to expel?#
 %s has withdrawn from the guild.#
@@ -1060,7 +1060,7 @@ Sale Status#
 Purchase Status#
 Item#
 Name#
-Current Bid / Max Bid#
+Current Bid / Buyout#
 Seller#
 Buyer#
 End Time#
@@ -1313,8 +1313,8 @@ Incorrect or nonexistent ID.#
 Do you really want to purchase these items? You will spend %d Regular Cash Points and %d Free Cash Points.#
 %d hour(s) has passed.#
 %d hour(s) %d minute(s) has passed.#
-Please stop playing the game, and take a break. Exp and other features will be reduced to 50%.#
-Please stop playing the game since you'll need to rest. Exp and other features will be fixed to 0%.#
+Please stop playing the game, and take a break. Exp and other features will be reduced to 50%%.#
+Please stop playing the game since you'll need to rest. Exp and other features will be fixed to 0%%.#
 Quest List#
 RO Shop#
 Memorial Dungeon, '%s' is booked.#
@@ -1490,9 +1490,9 @@ Unable to specify the key assigned.#
 Duplicated with ['%s']. Do you still want to change?#
 Initialization is stored in the shortcut key settings. Do you want to initialized?#
 Skill Bar#
-Window Interface#
+Interface#
 Macros#
-Windows Shortcut Key Setting#
+Shortcut Settings#
 BGM#
 Effect#
 Skin#
@@ -1517,7 +1517,7 @@ Chat room entrance sound off#
 /panic#
 /whisp#
 Not Assigned#
-Cart is available only when mounted.#
+Only available when cart is mounted.#
 [Thorny Seed] is required.#
 [Bloodsucker Seed] is required.#
 Cannot be used anymore.#
@@ -1816,7 +1816,7 @@ You can purchase up to 10 items.#
 Some items could not be purchased.#
 Enter your birthday (e.g: 20101126)#
 Now Logging Out.#
-A database error has occured.#
+A database error has occurred.#
 Please leave your guild first in order to remove your character.#
 Please leave your party first in order to remove your character.#
 You cannot delete this character because the delete time has not expired yet.#
@@ -1859,7 +1859,8 @@ Total#
 Free Cash : %s C#
 CashPoints : %s C#
 You cannot summon a monster in this area.#
-exceeded total free cash#
+Exceeded total free cash#
+Content has been saved in [SaveData_ExMacro%d]#
 %d seconds left until you can use#
 Content has been saved in [SaveData_ExMacro%d]#
 ~ [Windows] must be equipped with.#
@@ -1921,11 +1922,11 @@ Next attack time: #
 When died#
 When invited to a party#
 Pickup Item#
-Over 85% Weight#
+Over 85%% Weight#
 Any work in progress (NPC dialog, manufacturing ...) quit and try again.#
-Monster Job hunting experience that you can get through the doubling of %d is %.2 f minutes.#
+Monster Job hunting experience that you can get through the doubling of %d is %.2f minutes.#
 SaveData_ExMacro %d#
-Settings for [%s]are stored in.#
+Settings for [%s] are stored in.#
 Security level#
 The current character is a party or join the guild can not be deleted.#
 Objects can be used only near the wall.#
@@ -1947,7 +1948,7 @@ Failed purchase of runes, items exceed the maximum number that can be held.#
 Exceeded the number of individual items, purchase failed.#
 Purchase failed due to an unknown error.#
 Please try again later.#
-Kunayi item is only available in one state to mount.#
+Kunai must be equipped to use this skill..#
 Please enter the value of the minimum level to be recruited.#
 Jonda agency receipt of the item to the NPC is not possible. Gaining possession of the free space of the window.#
 This skill is only available in the siege.#
@@ -2049,9 +2050,9 @@ Input your party ad.#
 Only party leader can register party ad.#
 You have already accepted this ad.#
 For#
-E#
-P#
-Drop Lock: On/Off#
+Eqp#
+Fav#
+ Drop Lock: On/Off#
 Party Alarm#
 Create Party#
 Leave Party#
@@ -2335,7 +2336,7 @@ Card Book#
 %d%% [ Basic 100%% + %sServer %d%% ]#
 This is PK region. Minors,Please leave immediately.#
 Fatigue#
-Health and gaming revenue is 100%.#
+Health and gaming revenue is 100%%.#
 Fatigue because it is now a guest of the gaming revenue is down 50 percent.Hope for the proper health#
 Now because it is a non-health to the health of the guests want to offline games.  If you still are online gaming revenue because the damage to the health of the game falls to 0% again after 5 hours will be restored offline.#
 Online since %d minutes#
@@ -2481,12 +2482,12 @@ The price of %s#
 Safety check more than 10million Zeny#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
 https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
-The end of the earth, Alf H. Splendide is a bridge between the continents and the rich, huge cracks emerging in Bifrost, and you do not know the source of the labyrinth forest#
+A giant crevice appeared in Bifrost, the bridge between Splendide, the end of the world and the floating continent of Alfheim, and you do not know the source of the labyrinth forest.#
 This is a marker indicating the end of the trip, a new world is opening indicators! Guardian, such as the lyrics to the temptation was gradually losing the soul.#
-While flowing thousands of years, struggling alone with himself writes that what the jikyeonaen, sealed trapped a long time it was not from a rather confused himself was feeling. #
-Lyrics of temptation when the peak is reached, the end of the earth Alf H. Splendide is a bridge between the continent and the rich, huge cracks in Bifrost woke born, thereby breaking the traffic between the two worlds as was put to inconvenience people. #
-Now, as the forest labyrinth passage of Bifrost. Even there, the completion of the source is unknown until now there was no one who has passed. #
-Swallowed countless adventurers to put a hell of confusion, wandering in the forest labyrinth of nowhere, like the heart of a woman was being extend deeper confusion. #
+For thousands of years, a mysterious melody has mesmerized the guardian. After a millennia of slumber, the guardian became confused about what he had been protecting all these years, and began to suspect that he might be the one who has been sealed and hidden away.#
+When the melody reached its peak, a giant crevice appeared in Bifrost, the bridge between Splendide, the end of the world and the floating continent of Alfheim. As a result, the two worlds were cut off from each other, causing a big problem for the people.#
+Now, the only way to get to Bifrost is through the Labyrinth Forest. Nobody knows how the forest came to exist, and nobody has ever come out of it alive...#
+Swallowed countless adventurers to put a hell of confusion, wandering in the forest labyrinth of nowhere, like the heart of a woman was being extend deeper confusion.#
 You can enter only numbers.#
 Exchange or store window is active and can not register the withdrawal.#
 Go to#

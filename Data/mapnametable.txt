@@ -652,7 +652,7 @@ moc_fild19.rsw#Sograt Desert#
 pay_fild01.rsw#Payon Forest#
 pay_fild02.rsw#Payon Forest#
 pay_fild03.rsw#Payon Forest#
-pay_fild04.rsw#Sograt Desert#
+pay_fild04.rsw#Payon Forest#
 pay_fild05.rsw#Payon Forest#
 pay_fild06.rsw#Payon Forest#
 pay_fild07.rsw#Payon Forest#

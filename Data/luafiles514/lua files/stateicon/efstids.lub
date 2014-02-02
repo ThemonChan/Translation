@@ -772,6 +772,8 @@ EFST_IDs = {
   EFST_CHUSEOK_THURSDAY = 788,
   EFST_CHUSEOK_FRIDAY = 789,
   EFST_CHUSEOK_WEEKEND = 790,
+  EFST_GUILD_STORAGE = 810,
+  EFST_JUMPINGCLAN = 815,
   __newindex = function()
     error("unknown state")
   end

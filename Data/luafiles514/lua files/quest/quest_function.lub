@@ -41,14 +41,14 @@ end
 
 
 function queryEpisode(tabid,episodeId)
-        if( tabid == 3 ) then
+        if( tabid == 4 ) then
 		if(__LOCAL_QuestList[episodeId] == nil) then return nil,nil,nil,nil end
 
 		return __LOCAL_QuestList[episodeId].id,
 				__LOCAL_QuestList[episodeId].name,
 				__LOCAL_QuestList[episodeId].imagefile,
 				getChapterIterator(episodeId,__LOCAL_QuestList)
-        elseif( tabid == 2 ) then
+        elseif( tabid == 3 ) then
 		if(__EP_QuestList[episodeId] == nil) then return nil,nil,nil,nil end
 
 		return __EP_QuestList[episodeId].id,
@@ -60,7 +60,7 @@ function queryEpisode(tabid,episodeId)
 end
 
 function queryChapter(tabid,episodeId,chapterId)
-	if( tabid == 3 ) then
+	if( tabid == 4 ) then
 		if(__LOCAL_QuestList[episodeId] == nil) then return nil,nil,nil,nil end
 		if(__LOCAL_QuestList[episodeId][chapterId] == nil) then return nil,nil,nil,nil end
 
@@ -68,7 +68,7 @@ function queryChapter(tabid,episodeId,chapterId)
 				__LOCAL_QuestList[episodeId][chapterId].id,
 				__LOCAL_QuestList[episodeId][chapterId].name,
 				getQuestIterator(episodeId,chapterId,__LOCAL_QuestList)
-	elseif( tabid == 2 ) then
+	elseif( tabid == 3 ) then
 		if(__EP_QuestList[episodeId] == nil) then return nil,nil,nil,nil end
 		if(__EP_QuestList[episodeId][chapterId] == nil) then return nil,nil,nil,nil end
 
@@ -80,7 +80,7 @@ function queryChapter(tabid,episodeId,chapterId)
 end
 
 function queryQuest(tabid,episodeId,chapterId,questId)
-	if( tabid == 3 ) then
+	if( tabid == 4 ) then
 		if(__LOCAL_QuestList[episodeId] == nil) then return nil,nil,nil,nil,nil,nil end
 		if(__LOCAL_QuestList[episodeId][chapterId] == nil) then return nil,nil,nil,nil,nil,nil end
 		if(__LOCAL_QuestList[episodeId][chapterId][questId] == nil) then return nil,nil,nil,nil,nil,nil end
@@ -91,7 +91,7 @@ function queryQuest(tabid,episodeId,chapterId,questId)
 				__LOCAL_QuestList[episodeId][chapterId][questId].name,
 				__LOCAL_QuestList[episodeId][chapterId][questId].scrfilename,
 				__LOCAL_QuestList[episodeId][chapterId][questId].questID 
-	elseif( tabid == 2 ) then
+	elseif( tabid == 3 ) then
 		if(__EP_QuestList[episodeId] == nil) then return nil,nil,nil,nil,nil,nil end
 		if(__EP_QuestList[episodeId][chapterId] == nil) then return nil,nil,nil,nil,nil,nil end
 		if(__EP_QuestList[episodeId][chapterId][questId] == nil) then return nil,nil,nil,nil,nil,nil end
@@ -156,7 +156,7 @@ function queryQuestID(tableName , questID)
 	
 	returnTable = QuestTable[tableName]
 
-	if(returnTable[questID] == nil) then return nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil end
+	if(returnTable[questID] == nil) then return nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil end
 
 	return  returnTable[questID].NPCFromName,
 		returnTable[questID].NPCFromMap,
@@ -171,8 +171,11 @@ function queryQuestID(tableName , questID)
 		returnTable[questID].Item,
 		returnTable[questID].PrizeItem,
 		returnTable[questID].Title,
+		returnTable[questID].QuickInfo,
 		returnTable[questID].Info,
-		returnTable[questID].Hunt,
+		returnTable[questID].Hunt1,
+		returnTable[questID].Hunt2,
+		returnTable[questID].Hunt3,
 		returnTable[questID].Time,
 		returnTable[questID].Lv
 end
@@ -180,7 +183,6 @@ end
 -- 항목 퀘스트 파일이 추가 될때마다 이곳에 추가 시켜 준다. 
 makeLocalQuestList(LOCAL_MalayaQuest_List)
 makeLocalQuestList(LOCAL_DewataQuest_List)
-makeLocalQuestList(LOCAL_BeginTuTorialQuest_list)
 makeEPQuestList(EP_141Quest_List)
 
 
@@ -188,6 +190,5 @@ makeEPQuestList(EP_141Quest_List)
 QuestTable.malayaQuest = malayaQuest_List
 QuestTable.epsoid141Quest = epsoid141Quest_List
 QuestTable.DewataQuest = DewataQuest_List
-QuestTable.BeginTutorialQuest = BeginTutorialQuest_List
 
 -- 끝

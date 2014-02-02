@@ -66,6 +66,28 @@ function ReadEvilsPawInfoz(tablename)
     end
   end
 end
+function ReadAnimatedEmitterInfoz(tablename)
+  local t = _G[tablename]
+  if t ~= nil then
+    for k, v in pairs(t) do
+      SetAnimatedEmitterInfo(k, MSG_SET_MAXPARTICLE, v.maxcount[1])
+      SetAnimatedEmitterInfo(k, MSG_SET_SPAWNDIR1, v.dir1[1], v.dir1[2], v.dir1[3])
+      SetAnimatedEmitterInfo(k, MSG_SET_SPAWNDIR2, v.dir2[1], v.dir2[2], v.dir2[3])
+      SetAnimatedEmitterInfo(k, MSG_SET_GRAVITY, v.gravity[1], v.gravity[2], v.gravity[3])
+      SetAnimatedEmitterInfo(k, MSG_SET_EMITRADIUS, v.radius[1], v.radius[2], v.radius[3])
+      SetAnimatedEmitterInfo(k, MSG_SET_COLOR, v.color[1], v.color[2], v.color[3], v.color[4])
+      SetAnimatedEmitterInfo(k, MSG_SET_EMITRATE, v.rate[1], v.rate[2], v.rate[3])
+      SetAnimatedEmitterInfo(k, MSG_SET_SIZE, v.size[1], v.size[2], v.size[3])
+      SetAnimatedEmitterInfo(k, MSG_SET_LIFETIME, v.life[1], v.life[2], v.life[3])
+      SetAnimatedEmitterInfo(k, MSG_SET_TEXTURE, v.texture)
+      SetAnimatedEmitterInfo(k, MSG_SET_SPEED, v.speed[1])
+      SetAnimatedEmitterInfo(k, MSG_SET_SRCMODE, v.srcmode[1])
+      SetAnimatedEmitterInfo(k, MSG_SET_DESTMODE, v.destmode[1])
+      SetAnimatedEmitterInfo(k, MSG_SET_ZENABLE, v.zenable[1])
+      SetAnimatedEmitterInfo(k, MSG_SET_INIT)
+    end
+  end
+end
 function ReadEmitterInfoz_ver_1_0(tablename)
   local t = _G[tablename]
   local version = _G[tablename .. "_version"]

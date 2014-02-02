@@ -1146,6 +1146,12 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Mouton_Life] = "_무통라이프",
   [ACCESSORY_IDs.ACCESSORY_Snow_Rabbit_Knit_Hat] = "_눈토끼니트모자",
   [ACCESSORY_IDs.ACCESSORY_Galanthus_Guard] = "_가란사스가드",
-  [ACCESSORY_IDs.ACCESSORY_Horse_King] = "_마왕"
+  [ACCESSORY_IDs.ACCESSORY_Horse_King] = "_마왕",
+  [ACCESSORY_IDs.ACCESSORY_Riot_Chip] = "_폭주하는칩",
+  [ACCESSORY_IDs.ACCESSORY_Mouse_Hat1] = "_생쥐모자1",
+  [ACCESSORY_IDs.ACCESSORY_Mouse_Hat2] = "_생쥐모자2",
+  [ACCESSORY_IDs.ACCESSORY_Mouse_Hat3] = "_생쥐모자3",
+  [ACCESSORY_IDs.ACCESSORY_Mouse_Hat4] = "_생쥐모자4",
+  [ACCESSORY_IDs.ACCESSORY_Mouse_Hat5] = "_생쥐모자5"
 }
 

@@ -60,7 +60,12 @@ PetIllustNameTable = {
   [jobtbl.JT_XMAS_LUNATIC] = "Æê_Å©¸®½º¸¶½º_´«Åä³¢.bmp",
   [jobtbl.JT_TIKBALANG] = "Æê_Æ½¹ö··.bmp",
   [jobtbl.JT_MARIN] = "Æê_¸¶¸°.bmp",
-  [jobtbl.JT_DOMOVOI] = "Æê_µµ¸ðºÛÀÌ.bmp"
+  [jobtbl.JT_DOMOVOI] = "Æê_µµ¸ðºÛÀÌ.bmp",
+  [jobtbl.JT_ELEPHANT] = "pet_elephant.bmp",
+  [jobtbl.JT_GORILLA] = "pet_gorilla.bmp",
+  [jobtbl.JT_LION] = "pet_lion.bmp",
+  [jobtbl.JT_RHINO] = "pet_rhino.bmp",
+  [jobtbl.JT_BLUE_UNICORN] = "Æê_BLUE_UNICORN.bmp"
 }
 PetIllustNameTable_Eng = {
   [jobtbl.JT_BAPHOMET_] = "PET_BAPHOMET.bmp",
@@ -125,7 +130,12 @@ PetIllustNameTable_Eng = {
   [jobtbl.JT_TIKBALANG] = "PET_TIKBALANG.bmp",
   [jobtbl.JT_MARIN] = "PET_MARIN.bmp",
   [jobtbl.JT_DOMOVOI] = "PET_DOMOVOI.bmp",
-  [jobtbl.JT_LITTLE_PORING] = "PET_LITTLE_PORING.bmp"
+  [jobtbl.JT_LITTLE_PORING] = "PET_LITTLE_PORING.bmp",
+  [jobtbl.JT_ELEPHANT] = "pet_elephant.bmp",
+  [jobtbl.JT_GORILLA] = "pet_gorilla.bmp",
+  [jobtbl.JT_LION] = "pet_lion.bmp",
+  [jobtbl.JT_RHINO] = "pet_rhino.bmp",
+  [jobtbl.JT_BLUE_UNICORN] = "PET_BLUE_UNICORN.bmp"
 }
 PetAccIDs = {
   ACC_FIRST = 10000,

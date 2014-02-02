@@ -1,8 +1,28 @@
-COLOR_TITLE_BUFF = { 155, 202, 155 }
-COLOR_TITLE_DEBUFF = { 250, 100, 100 }
-COLOR_TITLE_TOGGLE = { 190, 190, 250 }
-COLOR_SYSTEM = { 255, 255, 0 }
-COLOR_TIME = { 255, 176, 98 }
+COLOR_TITLE_BUFF = {
+  155,
+  202,
+  155
+}
+COLOR_TITLE_DEBUFF = {
+  250,
+  100,
+  100
+}
+COLOR_TITLE_TOGGLE = {
+  190,
+  190,
+  250
+}
+COLOR_SYSTEM = {
+  255,
+  255,
+  0
+}
+COLOR_TIME = {
+  255,
+  176,
+  98
+}
 StateIconList = {}
 StateIconList[EFST_IDs.EFST_OVERTHRUSTMAX] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
@@ -2934,5 +2954,12 @@ StateIconList[EFST_IDs.EFST_CHUSEOK_WEEKEND] = {
 		{"%s", COLOR_TIME}, 
 		{"무속성 몬스터 추가 데미지."}, 
 		{"무속성 내성 증가."}
-	}
+	},
+StateIconList[EFST_IDs.EFST_JUMPINGCLAN] = {
+  descript = {
+    {"점핑 클랜", COLOR_TITLE_BUFF},
+    {
+      "All State + 1."
+    }
+  }
 }
