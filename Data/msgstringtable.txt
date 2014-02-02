@@ -155,7 +155,7 @@ You got %s (%d).#
 [Alt] + [=]: Fix the interval error between letters.#
 [F10]: To toggle Chat Window size; [Alt] + [F10]: Toggle Chat Window On or Off#
 How to Whisper: Enter a Character's Name on the left side of chat window and type your message on the right side. The Tab key helps you move between these boxes.#
-/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/a¢æ|.,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
+/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
 How to Speak to Party: Add % in front of every message.(Example: \%Hello\)#
 You haven't learned enough Basic Skills to Trade.#
 You haven't learned enough Basic Skills to use Emotion icons.#
@@ -1751,7 +1751,6 @@ You don't have any summoned spirits.#
 This is a restricted server.#
 OTP password is 6 digits long.#
 OTP information is unavailable. Please contact your administrator.#
-OTP authentication failed.#
 Party ad has been added.#
 Recruit party members#
 Roles#
@@ -2337,7 +2336,7 @@ This is PK region. Minors,Please leave immediately.#
 Fatigue#
 Health and gaming revenue is 100%%.#
 Fatigue because it is now a guest of the gaming revenue is down 50 percent.Hope for the proper health#
-Now because it is a non-health to the health of the guests want to offline games.A? If you still are online gaming revenue because the damage to the health of the game falls to 0% again after 5 hours will be restored offline.#
+Now because it is a non-health to the health of the guests want to offline games. If you still are online gaming revenue because the damage to the health of the game falls to 0% again after 5 hours will be restored offline.#
 Online since %d minutes#
 Online Time: %d#
 Online since %d hours and %d minutes#
@@ -2534,7 +2533,7 @@ You do not have enough items.#
 Name of the character that cannot be invited.#
 You cannot invite the character to the guild.#
 Item already Sold,Purchase Failed..#
-CoAc A¡×A¢®¢¯¢®¨ù¡© ¢¯oCA Aa¨ùO¢¬| ¡¾a¨úi CO ¨ùo ¨ú©ª¨öA¢¥I¢¥U.#
+Ã‡Ã¶Ã€Ã§ Ã€Â§Ã„Â¡Â¿Â¡Â¼Â­ Â¿Ã¶Ã‡Ã Ã€Ã¥Â¼Ã’Â¸Â¦ Â±Ã¢Â¾Ã¯ Ã‡Ã’ Â¼Ã¶ Â¾Ã¸Â½Ã€Â´ÃÂ´Ã™.#
 Cannot purchase item, You exceeded the weight.#
 No.#
 Item#
@@ -2557,9 +2556,9 @@ Gatling Gun should be equipped with bullets.#
 Shotguns should be equipped with bullets.#
 Rifle should be equipped with bullets.#
 Pair of Revolver should be equipped with bullets.#
-¨ù¨¬¨ùO¨ù¨¬ ¨¬i¢¬¢¥A¡í AaA©ªC¨ª¨ú©¬ CO¢¥I¢¥U#
+Â¼ÂºÂ¼Ã“Â¼Âº ÂºÃ­Â¸Â´Ã€Â» Ã€Ã¥Ã‚Ã¸Ã‡Ã˜Â¾ÃŸ Ã‡Ã•Â´ÃÂ´Ã™#
 Item Sell History#
 Item Purchase History#
 Grenade Launcher should be equipped with bullets.#
-[E¡À¨¡¢ç©öe¡¤©÷],[¢¬A¥ìa¢¥I¨ö¨¬ A¥ì¨ö¨ö¡¤?],[CA¡¤¢®¨¡¨ù©øN ¨úEAI] cannot overlap the effect.#
+[ÃˆÃ·Ã†Â®Â¹Ã¨Â·Â²],[Â¸Ã…ÂµÃ¥Â´ÃÂ½Âº Ã„ÂµÂ½Â½Â·Â¯],[Ã‡ÃƒÂ·Â¡Ã†Â¼Â³Ã‘ Â¾Ã‹Ã…Ã] Ã€Ã‡ ÃˆÂ¿Â°ÃºÂµÃ©Ã€Âº ÃÃŸÃƒÂ¸Ã‡ÃÂ¿Â© Â»Ã§Â¿Ã«Ã‡Ã’ Â¼Ã¶ Â¾Ã¸Â½Ã€Â´ÃÂ´Ã™.#
 Cannot use skill in this map.#
