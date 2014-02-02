@@ -155,7 +155,7 @@ You got %s (%d).#
 [Alt] + [=]: Fix the interval error between letters.#
 [F10]: To toggle Chat Window size; [Alt] + [F10]: Toggle Chat Window On or Off#
 How to Whisper: Enter a Character's Name on the left side of chat window and type your message on the right side. The Tab key helps you move between these boxes.#
-/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/Ã¢â‚¬Â¦.,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
+/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/a¢æ|.,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
 How to Speak to Party: Add % in front of every message.(Example: \%Hello\)#
 You haven't learned enough Basic Skills to Trade.#
 You haven't learned enough Basic Skills to use Emotion icons.#
@@ -1917,11 +1917,11 @@ BUFF#
 AUTO EQUIPED#
 1st. ATTACK#
 ATTACK#
-Next attack time: #
+Next attack time : #
 When died#
 When invited to a party#
 Pickup Item#
-Over 85%% Weight#
+Over 85% Weight#
 Any work in progress (NPC dialog, manufacturing ...) quit and try again.#
 Monster Job hunting experience that you can get through the doubling of %d is %.2f minutes.#
 SaveData_ExMacro %d#
@@ -1955,17 +1955,17 @@ This skill is available only to the player.#
 Forbidden to wear the state can not be worn.#
 Current location of the shop and chat room creation is disabled.#
 Elapsed time: %d:%d:%d / %d:%d:%d#
-Speed: X 1/4#
-Speed: X 1/2#
-Speed: X 1  #
-Speed: X 2  #
-Speed: X 4  #
-Speed: X 8  #
-Speed: X 16 #
-Speed: Unknown#
-Service Info: %s#
-Character Name: %s#
-Map Name: %s#
+Speed : X 1/4 #
+Speed : X 1/2 #
+Speed : X 1   #
+Speed : X 2   #
+Speed : X 4   #
+Speed : X 8   #
+Speed : X 16  #
+Speed : Unknown#
+Service Info : %s#
+Character Name : %s#
+Map Name : %s#
 Record Time: %d-%01d-%01d %d: %02d: %02d#
 Play Time: %02d: %02d: %02d#
 No Replay File.#
@@ -2247,9 +2247,9 @@ ex) /navi prontera 100 100 -> /navi "MAPNAME", 100, 100#
 ex) /navi2 prontera 100 111#
 -> MAPNAME location (100 90), Scroll | Zeny | Plane (1: Enable or 0: Disable)#
 -> /navi2 goes with the case with location coordinates. They must be no less than 3 characters #
-3) /$$ Output all the items (Can take a while...) #
-4) /$$ Lv30 monsters are placed in the output #
-5) /$$ Lv20~30 monsters in that level range are placed in the output #
+3) $$all Output all the items (Can take a while...) #
+4) $$lv30 monsters are placed in the output #
+5) $$lv20~30 monsters in that level range are placed in the output #
 -------------------  Description  --------------------#
 1) One can search for monsters, npcs, maps, or all at once#
 2) You can press the search button to get results. It will out put the results depending on what rule you choose#
@@ -2337,7 +2337,7 @@ This is PK region. Minors,Please leave immediately.#
 Fatigue#
 Health and gaming revenue is 100%%.#
 Fatigue because it is now a guest of the gaming revenue is down 50 percent.Hope for the proper health#
-Now because it is a non-health to the health of the guests want to offline games.Ã‚Â  If you still are online gaming revenue because the damage to the health of the game falls to 0% again after 5 hours will be restored offline.#
+Now because it is a non-health to the health of the guests want to offline games.A? If you still are online gaming revenue because the damage to the health of the game falls to 0% again after 5 hours will be restored offline.#
 Online since %d minutes#
 Online Time: %d#
 Online since %d hours and %d minutes#
@@ -2529,3 +2529,37 @@ The %d is out of stock or to buy as much as#
 /limitedsale#
 http://www.ragnarokeurope.com/news/home-r70.html#
 http://www.ragnarokeurope.com/index.php?rubrique=70&Steam#
+Item purchase successful#
+You do not have enough items.#
+Name of the character that cannot be invited.#
+You cannot invite the character to the guild.#
+Item already Sold,Purchase Failed..#
+CoAc A¡×A¢®¢¯¢®¨ù¡© ¢¯oCA Aa¨ùO¢¬| ¡¾a¨úi CO ¨ùo ¨ú©ª¨öA¢¥I¢¥U.#
+Cannot purchase item, You exceeded the weight.#
+No.#
+Item#
+Number#
+Name#
+Time#
+Input/Output#
+Log does not exist.#
+Entire#
+Insert Symbol#
+Remaining Time#
+Guild Storage Logs#
+100 entries are displayed.#
+Guild Storage is open only for 2 minutes, and will close automatically.#
+Incorrect GameSamba ID. Please Try Again.#
+%s [%dOption] : %d Quantity#
+Requires a Coin.#
+%d Coins are required.#
+Gatling Gun should be equipped with bullets.#
+Shotguns should be equipped with bullets.#
+Rifle should be equipped with bullets.#
+Pair of Revolver should be equipped with bullets.#
+¨ù¨¬¨ùO¨ù¨¬ ¨¬i¢¬¢¥A¡í AaA©ªC¨ª¨ú©¬ CO¢¥I¢¥U#
+Item Sell History#
+Item Purchase History#
+Grenade Launcher should be equipped with bullets.#
+[E¡À¨¡¢ç©öe¡¤©÷],[¢¬A¥ìa¢¥I¨ö¨¬ A¥ì¨ö¨ö¡¤?],[CA¡¤¢®¨¡¨ù©øN ¨úEAI] cannot overlap the effect.#
+Cannot use skill in this map.#
