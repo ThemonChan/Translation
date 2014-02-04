@@ -1860,7 +1860,6 @@ Free Cash : %s C#
 CashPoints : %s C#
 You cannot summon a monster in this area.#
 Exceeded total free cash#
-Content has been saved in [SaveData_ExMacro%d]#
 %d seconds left until you can use#
 Content has been saved in [SaveData_ExMacro%d]#
 ~ [Windows] must be equipped with.#
