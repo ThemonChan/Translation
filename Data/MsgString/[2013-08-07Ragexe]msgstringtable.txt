@@ -1936,7 +1936,7 @@ Experience value: #
 Drop rate: #
 Death Penalty: #
 %d%% (PCroom %d%% + TPLUS %d%% + Premium %d%% + %s Server %d%%)#
-Amount SP of party members to cast the chorus skill is low.#
+Amount of party members to cast the skill Chorus SP is low.#
 Relative character that has possession of the items can not trade because amount is exceeded..#
 Relative character that has possession of the item amount which exceeds makes it impossible to trade.#
 Amounts are exceeded the possession of the item is not available for purchase.#
