@@ -1536,7 +1536,7 @@ cannot be delegated as party leader.#
 Immutable#
 [%s] required '%d' amount.#
 Is now refining the value lowered.#
-need to put on [%s] in order to use.#
+Need to put on [%s] in order to use.#
 Battle field entrance setting#
 Battlefield - [%s] you sign up?#
 Admission application complete.#
@@ -1557,10 +1557,10 @@ Has already been applied.#
 Registration has been cancelled because of the excessive waiting time.#
 Unregistered because admission requirements are not matching.#
 Was unregistered and error.#
-[%s] is the skills of collaboration.#
-Integration of skills is a particular skill.#
-%d requires a total mind bullets#
-Bullet is required.#
+The skill need [%s].#
+The skill need a particular skill.#
+Requires %d mind bullets#
+Mind Bullet is required.#
 Cannot create rune stone more than the maximum amount.#
 Not able to receive battle field list. Please check and try again#
 Level is not high enough to enter#
